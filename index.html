@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="aside">
+        <div class="menu">
+            <a href="https://www.youtube.com/watch?v=tutorial-id" class="tutorial-link"
+                onclick="openPopup(event, 'https://www.youtube.com/embed/hcnZxEN-jlI?si=G2KUPkmSOrUllpjx')">Ver tutorial
+                de uso</a>
+            <div class="register">
+                <a href="https://huggingface.co/join"
+                    onclick="openSmallWindow(event, 'https://huggingface.co/join'); return false;">Registro Hugging</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="infobot">
+        <div class="bot-section">
+            <h1>⭐INFOBOT</h1>
+            <div class="bot-content">
+                <img src="img/infobot.jpg" alt="INFOBOT" class="bot-image" />
+                <div class="bot-description">
+                    <p class="description">
+                        Este bot te permitirá buscar información sobre inscripciones, fechas importantes, trabajos
+                        integradores y documentación final. Además, te brindará ayuda con orientación y tutoría.
+                    </p>
+                    <div class="links">
+
+                        <a href="https://hf.co/chat/assistant/66a498d5c5335feb6d2af2e8" class="link-iniciar"
+                            onclick="openPopup(event, 'https://hf.co/chat/assistant/66a498d5c5335feb6d2af2e8')">Iniciar</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="lunabot">
+        <div class="bot-section">
+            <h1>💎LUNABOT</h1>
+            <div class="bot-content">
+                <img src="img/robot boti.jpg" alt="BOTI" class="bot-image" />
+                <div class="bot-description">
+                    <p class="description">
+                        Este bot te ayudará a corregir tus respuestas en actividades y trabajos, además de asistirte en
+                        el estudio durante todo el bachillerato. También puede hacer resúmenes de los temas que estás
+                        estudiando.
+                    </p>
+                    <!--<div class="links">
+                        <a href="https://www.youtube.com/watch?v=tutorial-id" class="popup-link"
+                            onclick="openPopup(event, 'video/tutorigin_lunabot.mp4')">Tutorial de uso</a> -->
+                    <a href="#" class="link-usuario" onclick="openUserPopup(event)">Usuario</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+    <!-- Popup para usuario y contraseña -->
+    <div id="user-popup" class="popup">
+        <div class="popup-content">
+            <span class="close" onclick="closeUserPopup()">&times;</span>
+            <form id="login-form" onsubmit="handleLogin(event)">
+                <label for="username">Usuario:</label>
+                <input type="text" id="username" name="username" required>
+                <label for="password">Contraseña:</label>
+                <input type="password" id="password" name="password" required>
+                <button type="submit">Iniciar</button>
+            </form>
+            <p id="error-message" style="color: red; display: none;">Usuario o contraseña incorrectos.</p>
+            <!-- contenido de suscripcion -->
+            <p class="color-sub"><span class="color-price">$4.999</span> al mes. Con <span class="#">💎LUNABOT</span>,
+                obtendrás acceso a funciones exclusivas y soporte prioritario.<a class="clickaqui-color"
+                    href="https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=2c9380849082b3f60190a54c66a40b04"
+                    target="_blank"> Haz clic aquí
+                    para suscribirte</a><span class="cancela">, cancela cuando quieras.</p>
+        </div>
+    </div>
+
+    <div class="footer">
+        <a id="terminos" href="html/terminos.html" class="popup-link"
+        onclick="openPopup(event, 'html/terminos.html')">Terminos y condiciones</a>
+
+        <p class="createb">Create by:&nbsp;<span class="createb-af">afullsolutions</span></p>
+    </div>
+
+    <!-- Popup general -->
+    <div id="popup" class="popup">
+        <div class="popup-content">
+            <span class="close" onclick="closePopup()">&times;</span>
+            <iframe id="popup-iframe" src="" frameborder="0" allowfullscreen style="width: 100%; height: 80vh;"></iframe>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="scripts.js"></script>
+</body>
+
+</html>

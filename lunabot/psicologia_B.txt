@@ -1,0 +1,4074 @@
+
+. 2 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+Ministra de Educación e Innovación
+
+Soledad Acuña
+
+Subsecretaria de Coordinación Pedagógica y Equidad Educativa
+
+Andrea Fernanda Bruzos Bouchet
+
+Subsecretario de Carrera Docente y Formación Técnica Profesional
+
+Jorge Javier Tarulla
+
+Subsecretario de Gestión Económico Financiera y Administración de Recursos
+
+Sebastián Tomaghelli
+
+Subsecretario de Planeamiento e Innovación Educativa
+
+Diego Meiriño
+
+Directora General de Educación de Gestión Estatal
+
+Carola Martínez
+
+Directora de Educación del Adulto y el Adolescente
+
+Sandra Jaquelina Cichero
+
+. 3 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+Primera impresión septiembre - 2018
+
+
+. 4 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+Adultos 2000
+
+Guía de Estudios
+Psicología B
+
+Coordinadora:
+
+Halina Stasiejko
+
+Docentes:
+Azzato,  Karina Alejandra
+Glaz, Claudia Veronica
+Miramontes, Marcela Fabiana
+
+Outeda, José Luis
+Tedesco, Mónica
+Zicker, Claudia Alicia
+
+. 5 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+Índice
+
+Fundamentación de la asignatura              8
+
+Finalidades                                          8
+
+Objetivos                                            9
+
+Introducción                                         10
+
+¿Qué tipo de ciencia es la Psicología?                         11
+
+UNIDAD 1: Inicios de la Psicología científica:
+
+la escuela creada por W. Wundt               12
+
+1.1. Conformación de la Psicología como ciencia                    12
+
+1.2. Criterios científicos de fines del siglo XIX y su impacto en la constitución
+
+de la Psicología como ciencia.                                12
+
+1.3. Objeto y Método de la Primera Escuela Científica de Psicología          15
+
+1.4. Diferencias entre la Primera Escuela de Psicología Científica y los estudios filosóficos 18
+
+1.5. Varias respuestas para la pregunta «qué estudia y cómo estudia» la Psicología
+
+Científica                                            21
+
+UNIDAD 2: El estudio de la conducta           23
+
+1. Introducción                                        23
+
+2.1. Aportes del Conductismo                                23
+
+2.2. Formulaciones centrales del Conductismo                      26
+
+a) J. Watson y el «condicionamiento clásico» de la conducta           26
+
+b) B. F. Skinner y el «condicionamiento operante» de la conducta         31
+
+2.3. Aportes de la Psicología argentina: el estudio de la conducta humana
+
+según E. Pichón Rivière y J. Bleger.                             36
+
+UNIDAD 3: La Psicología de la Gestalt           41
+
+1. Introducción                                        41
+
+3.1. Un enfoque estructural en Psicología: cuestionamiento al «elementalismo
+
+asociacionista»                                         41
+
+3.2. Definición de objeto y método de estudio. El concepto de campo         45
+
+3.3. Aportes al estudio de la percepción. Principios y leyes que permiten organizar
+
+aquello que se percibe.                                    50
+
+
+. 6 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+UNIDAD 4: El Psicoanálisis y el estudio de los
+
+procesos inconscientes                    55
+
+1. Introducción                                        55
+
+4.1. El inconsciente como objeto de estudio y los métodos para su estudio       55
+
+4.2. Los dos modelos del aparato psíquico                         60
+
+a) Primera formulación del aparato psíquico (1912-1915),
+
+sus conceptos relacionados                               60
+
+b) Segunda formulación de aparato psíquico (1923 en adelante),
+
+sus conceptos relacionados                               65
+
+4.3. La sexualidad humana                                  68
+
+4.4. ¿Cómo definir «Psicoanálisis»?                            71
+
+. 7 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+Fundamentación de la asignatura
+
+El programa de la asignatura, en sus dos niveles, presenta las relaciones entre las escuelas
+de sicología más reconocidas y creadas desde fines del siglo XIX hasta la actualidad con sus
+principales aportes. Es decir, desde el momento en que empezó a identificarse como una
+ciencia hasta nuestros días.
+
+En el curso de su historia como ciencia emergieron diversas escuelas derivadas de diferentes
+tradiciones y contextos académicos que aportaron a la conformación de la identidad de la
+disciplina.
+
+El recorrido que se realizará busca poner en evidencia la trama de preguntas y problemas
+de la Psicología sin caer en una simple secuencia cronológica. En esta dirección se pone
+el acento en el cruce de críticas, oposiciones, continuidades y discontinuidades entre las
+psicologías seleccionadas.
+
+La diversidad que se instaló desde la creación de la primera escuela está en relación con
+los fundamentos epistemológicos que cada Psicología aceptó o, por el contrario, criticó y
+modificó. Al no existir un solo enfoque epistemológico o una única versión acerca de cómo
+hacer ciencia y construir conocimiento científico, en diferentes contextos se adoptaron diferentes
+fundamentaciones y se desarrollaron distintas formas de investigación. La existencia de distintas
+posiciones se materializó en la elección de diferentes métodos de estudio y objetos de estudio
+que se adecuaban a tales métodos.
+
+Una visión crítica de los fundamentos epistemológicos, objetos y métodos de estudio
+permitirá entender oposiciones, continuidades, así como revisar la idea que identifica a la
+Psicología como una ciencia homogénea y sin fracturas.
+
+Finalidades
+
+•  Acercar al estudiante a la comprensión del campo actual de la Psicología, partiendo de
+su constitución como disciplina científica.
+
+• Promover la apropiación de conceptos que le permitan analizar la diversidad de escuelas
+a partir de la identificación del objeto y método de estudio adoptado por cada una de
+ellas.
+
+• Favorecer la comprensión de conceptos específicos de cada escuela de Psicología.
+
+•  Proveer un marco interpretativo y explicativo que posibilite la distinción entre los saberes
+psicológicos de orden popular acerca de algunas temáticas y el conocimiento científico,
+muchas veces opuesto a las concepciones cotidianas.
+
+
+. 8 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+Objetivos
+
+• Comprender las diferencias, respecto de la definición del objeto y el método de estudio,
+entre la psicología científica creada por W. Wundt y las reflexiones no científicas o
+precientíficas enmarcadas en la Filosofía.
+
+• Identificar y comprender la influencia del Positivismo en la formación de las primeras
+escuelas científicas de psicología: escuela creada por W. Wundt y Conductismo americano.
+
+•  Identificar y comprender los conceptos aportados por los estudiosos de la conducta:
+Conductismo americano (Watson y Skinner) y J. Bleger en la psicología argentina.
+
+•  Identificar y comprender el enfoque «estructural o de totalidad» aportado por la psicología
+de la Gestalt, en oposición al «enfoque elementalista y asociacionista», aceptado por W.
+Wundt y los conductistas americanos.
+
+•  Comprender los conceptos de totalidad y campo regulado por principios y leyes, así
+como su aplicación en el estudio de la percepción.
+
+•  Comprender el surgimiento del Psicoanálisis y la delimitación del objeto y métodos de
+estudio, alejados de la experimentación y del Positivismo.
+
+•  Identificar las explicaciones válidas acerca de los conceptos de: inconsciente, represión
+y otros mecanismos de defensa, sexualidad y modelos de aparato psíquico aportados
+por el Psicoanálisis.
+
+. 9 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+Introducción
+
+Una cuestión muy difundida en nuestro país es la de considerar que el/la profesional de la
+psicología se vincula exclusivamente con la atención de pacientes y la orientación psicológica.
+El consultorio, el hospital o la clínica suelen ubicarse como lugares privilegiados del trabajo
+profesional. Es una idea muy difundida, pero parcial.
+
+Muchos psicólogos/as se dedican a la atención clínica, pero otros trabajan en áreas diferentes,
+tales como la educativa, los estudios de mercado y la publicidad, las relaciones laborales, por
+mencionar algunas posibles. Asimismo, algunos se dedican a investigar y a profundizar los
+conocimientos que corresponden a diferentes áreas de interés de la Psicología.
+
+La investigación es la que permite crear nuevos conocimientos y discutir con otros sobre
+algún punto común aunque desde una perspectiva diferente y novedosa. Es un trabajo avalado
+por instituciones y organismos nacionales e internacionales que reconocen y promueven esta
+labor en todas las disciplinas.
+
+Cuando se investiga, se comienza con una pregunta y, ajustándose a un método de estudio
+reconocido como científico, se llega a respuestas provisorias que deben darse a conocer
+públicamente. Los conocimientos producidos en todas las disciplinas científicas son el
+resultado de investigaciones. La Psicología es un ejemplo más.
+
+En el curso de esta asignatura iremos comprendiendo que no existe «LA» Psicología sino
+diferentes escuelas y posiciones que definen qué se debe estudiar y cómo debe hacerse un
+estudio psicológico de carácter científico.
+
+Cuando se presenten los aportes de las diferentes escuelas iremos definiendo y explicando:
+
+•  El modo en que investigó cada escuela.
+
+• El objeto y método de estudio que cada una definió.
+
+•  Los resultados de algunas investigaciones.
+
+•  Las características del momento histórico en el que emergió cada escuela.
+
+Objeto y método de estudio serán dos ejes posibles que permitirán diferenciar y a la vez
+comparar los aportes de las diferentes escuelas en Psicología.
+
+a.- ¿Qué es lo que una disciplina científica recorta como problema de interés?
+
+¿Qué busca conocer? ¿De qué preocupaciones parte? ¿Desde qué postura y con qué
+pregunta recorta el problema a investigar?
+
+Respondiendo a preguntas de este estilo, se puede comprender la definición del objeto de
+estudio sostenido por cada escuela psicológica.
+
+b.- ¿Cómo se va a estudiar el problema recortado, aquello que es objeto de interés?
+
+¿Mediante qué recursos y metodologías es posible acceder al conocimiento buscado?
+
+¿Cuáles son sus bases epistemológicas?
+
+Contestando estos interrogantes se puede delimitar el método de estudio utilizado por
+una escuela psicológica.
+
+
+. 10 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+
+¿Qué tipo de ciencia es la Psicología?
+
+PSICOLOGÍA • B
+
+La Psicología ¿se trata de una ciencia natural, pariente de la Física, la Química o la Biología?,
+o ¿una ciencia humana y social en estrecha vinculación con Antropología o Sociología, entre
+otras?
+
+Encontramos diferentes respuestas, variados desacuerdos, distintas discusiones y planteos
+tras analizar su desarrollo histórico temprano. Algunos la han ubicado entre las ciencias
+naturales y otros, entre las ciencias sociales.
+
+¿A qué se ha debido la diversidad de planteamientos acerca de qué tipo de ciencia es la
+Psicología?
+
+A que no encontramos un solo modo para definir en qué consiste y qué características
+debe cumplir un conocimiento para ser considerado científico.
+
+. 11 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+UNIDAD 1: Inicios de la Psicología científica: la escuela
+creada por W. Wundt
+
+1.1. Conformación de la Psicología como ciencia
+
+La Psicología o el interés por el estudio de «cuestiones psicológicas» tiene una larga
+trayectoria. En un primer momento ese tipo de estudios formó parte del campo de la Filosofía.
+Desde sus comienzos griegos, aproximadamente en el siglo VI a. C, la Filosofía se preocupó
+por desarrollar un conocimiento racional del mundo. De tal conocimiento no quedó excluido
+el hombre como un elemento más entre los existentes en ese mundo.
+
+La etapa de la historia del conocimiento psicológico que comenzó en Grecia y se extendió
+hasta el siglo XIX, se denomina Psicología Filosófica o Precientífica.
+
+Durante ese extenso período los estudios de temas psicológicos formaban parte de
+la Filosofía y, por este motivo, la historia del pensamiento psicológico se confunde con el
+desarrollo del pensamiento filosófico.
+
+A lo largo de un complejo proceso histórico y social que se inició hace aproximadamente
+500 años, se fueron estableciendo diferencias entre distintas formas de conocimiento: mágico,
+religioso, cotidiano, filosófico y científico, ubicándose paulatinamente al saber científico como
+el  de mayor prestigio y poder en relación con los otros modos de conocer.
+
+A partir del siglo XVII el conocimiento científico comenzó a constituir una forma de
+conocimiento objetivo, verdadero y basado en realidades observables. Las diferentes
+disciplinas científicas se iban alejando de la pura argumentación y reflexión, de la subjetividad
+y la imprecisión, de los mitos y las creencias. Con el reconocimiento y expansión del método
+experimental, la unión entre filosofía y ciencia comienza a debilitarse y se van produciendo
+quiebres.
+
+Se fueron consolidando diferentes ciencias, algunas más rápidamente que otras. Las primeras
+que se arraigaron fueron las «naturales», entre otras, Física, Astronomía, Química y Biología.
+Recopilaban hechos, formulaban leyes para comprenderlos, ofrecían explicaciones, intentaban
+verificar experimentalmente sus supuestos aplicando técnicas a los datos recolectados en la
+realidad que estaban estudiando.
+
+Hasta fines del siglo XIX los estudios sobre temas psicológicos eran parte de los estudios
+filosóficos. Los filósofos estudiaban el Alma mediante el uso de variados procedimientos
+de carácter reflexivo y en base a algún argumento preponderante. Hasta 1879 los estudios
+psicológicos tuvieron forma precientífica, año en que surgió la psicología científica y
+experimental, cuyas afirmaciones se basaron en datos empíricos y observables. En ese año
+con la fundación del primer laboratorio experimental para el estudio de temas psicológicos,
+queda atrás la etapa precientífica de la Psicología.
+
+1.2. Criterios científicos de fines del siglo XIX y su impacto en la constitución de la
+Psicología como ciencia
+
+La indicación para toda disciplina científica era la observación neutral de los hechos y el uso
+del experimento junto con la formulación de leyes explicativas universales que permitiesen
+predecir los fenómenos. Las leyes generales explicaban el funcionamiento del mundo y con
+ello la posibilidad de predecir sucesos, «progresar» y afianzar el poder de las ciencias.
+
+Se reconocía y aceptaba un único modo de hacer ciencia, el modo en que lo realizaban las
+
+. 12 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+ciencias naturales. Hacia fines del siglo XIX la observación y el uso del experimento seguía las
+indicaciones del Positivismo, creado por August Comte (1798-1857).
+
+Positivismo es el nombre de la postura filosófica que igualó el conocimiento verdadero con
+el conocimiento científico. Como corriente de pensamiento afirmó que todo conocimiento
+científico debía basarse en evidencias empíricas, en hechos observables y que la observación
+debía ser realizada por un investigador entrenado en esa tarea para así garantizar objetividad
+y rigurosidad, evitando todo tipo de contaminación subjetiva. Al demostrar que alcanzaba
+estas condiciones, la Psicología obtuvo su reconocimiento como disciplina científica hacia fines
+del siglo XIX, en aulas y laboratorios experimentales ubicados en una universidad alemana.
+
+Características del positivismo
+
+August Comte (1798-1857) fue el fundador de la Sociología moderna y del Positivismo.
+Se ubicó de manera muy crítica frente al saber dogmático de la Iglesia y afirmó que todo
+conocimiento debía basarse en evidencias empíricas, en hechos observables.
+
+Su concepción sobre el conocimiento no aceptó otra realidad que la de los hechos y no
+investigó otra cosa que las relaciones entre los hechos. Tal requisito debía ser común a todo
+tipo de conocimiento científico, por lo cual, las disciplinas sociales debían asemejarse en sus
+planteos y en sus métodos al de las ciencias naturales para poder ser consideradas científicas
+y objetivas.
+
+Según Comte, el desarrollo y avance en la sociedad humana depende en última instancia
+del desarrollo científico, por lo que la historia de la ciencia es el núcleo de la historia general
+de la especie humana.
+
+En base tales criterios describe el desarrollo del pensamiento humano dividiéndolo en tres
+estados:
+
+Algunas afirmaciones que caracterizan al Positivismo:
+
+•  La realidad se manifiesta en los fenómenos, por lo tanto, debe rechazarse la existencia
+de una esencia oculta, más allá de los hechos observables. La realidad consiste en lo que
+está al alcance de los sentidos y la ciencia solo debe abordar los hechos sistemáticamente
+descubiertos y rigurosamente establecidos.
+
+• Debe rechazarse todo conocimiento metafísico.
+
+•  Las ciencias naturales y las humanas comparten principios lógicos y metodológicos
+comunes.
+
+• La ciencia trata de hechos y no de valores. Los juicios de valor y los enunciados normativos
+carecen de sentido científico.
+
+A fines del siglo XIX, si bien se mantenían las ideas filosóficas que definían al ser humano
+como un ser racional dotado de conciencia, también se aceptaban los importantísimos
+avances de las ciencias experimentales recientemente consolidadas, tales como la Fisiología
+o  la Óptica, como parte de la Física.
+
+En la comunidad científica alemana, quienes tenían formación filosófica también
+practicaban y enseñaban cómo hacer experimentos en Fisiología y Física. Famosos
+fisiólogos de ese momento realizaban experimentos investigando las características de
+las capacidades sensoriales humanas (visión, audición, tacto, olfato, gusto). El clima de
+investigación era muy próspero y los descubrimientos producidos, muy importantes. Para
+ser identificado como investigador científico era indispensable utilizar la experimentación.
+
+. 13 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+El experimento se ubicó como método riguroso porque permitía medir ycontrolar las variables
+que se utilizaban, como por ejemplo tiempo de presentación de un estímulo, cantidad de veces
+en que se lo presentaba y de qué modo. En un experimento se pueden manipular y modificar
+esas variables para medir los efectos de las modificaciones realizadas. El experimento es
+observable, riguroso, controlado y permite corroborar relaciones entre hechos observables,
+tal como indicaba la epistemología positivista.
+
+Aquellos interesados en el estudio objetivo de hechos psicológicos buscaron aplicar métodos
+experimentales con el propósito de ubicar a la Psicología como una ciencia reconocida,
+distanciada de los estudios filosóficos.
+
+Cumpliendo con estas condiciones fue creado el primer laboratorio de psicología
+experimental en el año 1879 a cargo de Wilheim Wundt. Esta creación marcó el inicio de la
+psicología científica.
+
+http://www.biografiasyvidas.com/biografia/w/wundt.htm
+
+WILHEIM WUNDT (1832-1920)
+
+Investigador alemán que creó la Primera Escuela de Psicología Científica adaptando la
+medición y la experimentación científica de la época al estudio de hechos psicológicos.
+
+Para cumplir con los requisitos de las ciencias físico-naturales, la Psicología debió definir
+un objeto de estudio y un método, esto quedó establecido a partir de W. Wundt del
+siguiente modo:
+
+Objeto de la Psicología: La CONCIENCIA entendida como la experiencia interna del
+sujeto que se puede describir durante el experimento en el que se le presentan diversos
+estímulos. Se miden los estímulos presentados y las reacciones de los sujetos acompañados
+del informe verbal de la experiencia que tienen los sujetos.
+
+Método de la Psicología: EXPERIMENTACIÓN CON USO DE INTROSPECCIÓN, que
+permitía el acceso inmediato a la experiencia consciente del sujeto durante el experimento.
+
+Recordemos que el «objeto» de estudio se refiere a aquello que el investigador busca
+conocer y el «método», la forma en que se recolectan los datos empíricos que dan sustento
+a  las explicaciones y descripciones producidas por el científico.
+
+
+. 14 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+Actividad 1
+
+Colocar una cruz en las afirmaciones que se correspondan con las exigencias del Positivismo
+para los estudios científicos
+
+V   F
+
+Más importantes que los hechos, resultan ser los juicios del investigador.
+Solo deben estudiarse hechos observables y relaciones entre los mismos.
+Todas las ciencias deben ajustarse a los mismos principios metodológicos.
+Es indispensable la búsqueda de las causas abstractas de los fenómenos.
+
+1.3 Objeto y Método de la Primera Escuela Científica de Psicología
+
+W. Wundt en su laboratorio, junto a sus discípulos.
+
+http://estudiarpsico.blogspot.com.ar/2005_03_01_archive.html
+
+Wilhem Wundt creó un pequeño laboratorio con el propósito de estudiar, mediante la
+experimentación, la experiencia consciente. Usó sofisticados aparatos de medición y se
+dedicó al estudio de los elementos que componían la experiencia consciente, entre los
+que ubicó a las sensaciones.
+
+Los libros de Historia de la Psicología mencionan a W. Wundt como el creador de la
+Primera Escuela de Psicología Científica. Una psicología que, al adoptar los métodos
+experimentales, ya no podría ser considerada una rama de la Filosofía.
+
+. 15 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+MUSEO de la PSICOLOGÍA EXPERIMENTAL en ARGENTINA
+
+«DR. HORACIO G. PIÑERO», ubicado en la Facultad de Psicología de la Universidad
+de Buenos Aires
+
+En la siguiente dirección:
+http://www.psi.uba.ar/museo.php?var=extension/museo/catalogo/index.php podrá
+encontrarse                             con el catálogo on-line del museo ubicado en la Facultad de 
+Psicología
+de    la Universidad de Buenos Aires.
+
+Hallará fotos de los instrumentos de medición utilizados en laboratorios que llegaron a
+crearse en Argentina, de los aparatos que generaban los estímulos que se le presentaban
+a los sujetos, de las formas de registro de las respuestas de los sujetos, entre otros.
+
+Muchos de tales aparatos se rescataron de un sótano olvidado en el que se los había
+apilado.
+
+¿Cómo estudiar la experiencia consciente utilizando un método científico, posible de
+ser replicado en diferentes laboratorios?
+
+La experiencia consciente no se confundía con una reacción fisiológica-corporal causada
+por la aplicación de un estímulo auditivo, luminoso o un objeto pesado que se debía sostener,
+sino que era aquello que un sujeto que participa en un experimento podía verbalizar
+cuando registraba inmediatamente la propia reacción fisiológica-corporal producida por la
+estimulación que se le había presentado.
+
+W. Wundt afirmó que la experiencia consciente podía ser informada por un sujeto en la
+situación controlada de un experimento. Lo que la Psicología científica podía estudiar, identificar
+y caracterizar era la experiencia consciente que se hacía presente durante la situación
+experimental. El registro y verbalización surgían durante un experimento rigurosamente
+diseñado y aplicado. La persona que actuaba como sujeto experimental podía acceder a su
+propia conciencia durante el experimento, informar acerca de su composición y describir sus
+elementos más simples: las sensaciones, las imágenes y los estados afectivos.
+
+Apenas fue dado a conocer, el uso de la introspección durante el experimento fue
+sospechado como «no confiable» por parte de algunos científicos y epistemólogos de la
+época. Consideraban que no cumplía completamente con el requisito de objetividad de los
+métodos utilizados en las ciencias naturales. Sin embargo, el creador de la Primera Escuela de
+Psicología Científica aclaró las dudas que recaían sobre su aporte metodológico explicando
+cómo debía realizarse el experimento y cómo debía incluirse la introspección controlada por
+el investigador a fin de cumplir con lo requerido por la epistemología positivista.
+
+Una de las exigencias metodológicas que debía cumplirse consistía en garantizar la
+independencia entre el observador y lo observado, certificar una distancia entre el sujeto que
+estudiaba y el objeto a estudiar. ¿Cómo podían cumplirse estos requisitos en los estudios
+experimentales en Psicología?
+
+Wundt entrenó a sus alumnos investigadores para que fueran observadores de su propia
+experiencia consciente en las circunstancias controladas del laboratorio, para que pudieran
+informar inmediatamente su suceder interno durante el experimento como si estuvieran
+observando un hecho externo.
+
+Afirmó que las descripciones de la propia experiencia consciente, producidas a partir de
+la aplicación de algún estímulo durante el experimento, podían ser tan objetivas y fiables
+como las descripciones realizadas a partir de la observación de un hecho externo, tales
+
+. 16 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+como la descripción de una reacción en un tubo de ensayo, de una muestra biológica en un
+microscopio o de lo observado mediante un telescopio.
+
+El objeto de estudio fue la experiencia consciente o Conciencia. La misma fue definida
+como un «mosaico o conglomerado» de elementos unidos entre sí mediante nexos asociativos.
+La meta científica consistió en buscar los elementos más simples de la experiencia consciente
+para luego asociarlos o reunirlos y así acceder a la experiencia consciente completa.
+
+Debido a la definición de conciencia como suma de partes, la primera psicología científica
+también se denominó elementalista y asociacionista, ya que W. Wundt admitió que tras
+asociar o sumar los elementos simples informados por los sujetos en los experimentos, se
+podía acceder al conocimiento de la experiencia consciente en su totalidad.
+
+La sensación fue identificada como uno de los elementos más simples de la experiencia
+consciente y podía describirse durante la introspección experimental.
+
+Cualquier sensación tiene cualidades o características particulares (salado, verde, caliente,
+duro, brillante, etc.); intensidades (débil, profundo, suave, etc.) y duraciones (cantidad de
+segundos) que se pueden informar.
+
+Como ejemplo, tomemos por caso imaginario que el estímulo presentado fuese un helado
+de vainilla y frutilla. El observador entrenado, haciendo introspección de su propia experiencia
+consciente mientras entraba en contacto con el estímulo, podría relatar el siguiente informe
+introspectivo:
+
+Blando, dulce, frío, aroma de vainilla y frutilla, color
+rosa y amarillo, carácter suave, estable e intenso para
+la experiencia consciente.
+
+La experiencia consciente podía descomponerse en
+sensaciones que podían describirse.
+
+El objeto de estudio de la Primera Escuela de Psicología Científica fue el análisis de los
+elementos que componen la experiencia consciente y la explicación acerca de cómo
+tales elementos, cuando se asocian, forman contenidos conscientes más complejos, tales
+como pensamientos, recuerdos o percepciones.
+
+Wundt se transformó en maestro de muchos discípulos que reprodujeron los experimentos
+aprendidos en diferentes laboratorios del mundo. Todos buscaban comprobar que la
+experiencia consciente interna se componía por pequeños elementos sensoriales, estados
+afectivos e imágenes. La introspección experimental, copiando los métodos experimentales
+y de observación de otras ciencias, pasó a formar parte de los métodos científicos.
+
+Anticipándonos a temas que vamos a desarrollar más adelante, podemos decir que los
+avances de W. Wundt fueron rápidamente criticados. Tanto la elección del objeto de estudio
+como el método de estudio que creó y utilizó llegaron a criticarse drásticamente.
+
+Actividad 2
+
+Respecto del Objeto de Estudio aceptado por W. Wundt, determine la verdad o falsedad
+de las siguientes afirmaciones:
+
+. 17 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+La experiencia consciente...
+
+V   F
+
+coincide con la experiencia reflexiva del pensar filosófico.
+
+puede observarse y describirse durante los experimentos del laboratorio.
+coincide con la del sentir cotidiano de nuestros pensamientos.
+
+está compuesta por diversas sensaciones.
+
+Actividad 3
+
+Respecto del Método de Estudio aceptado por W. Wundt, determine la verdad o falsedad
+de las siguientes afirmaciones:
+
+El método de estudio...
+
+V   F
+
+buscaba cumplir con las demandas del Positivismo a las ciencias de la época.
+evitaba el uso del laboratorio por tratarse de situaciones artificiales.
+
+incluía la utilización de complejos aparatos de medición.
+destacaba el uso exclusivo de la observación del objeto de estudio.
+
+1.4. Diferencias entre la Primera Escuela de Psicología Científica y los estudios filosóficos
+
+a) Diferencias en la cuestión del método.
+
+Un reconocido filósofo francés, René Descartes (1596-1650), sostenía el famoso principio:
+
+«Pienso, luego existo». Este principio contiene en sí mismo una idea acerca de cómo conocer.
+Conocemos a partir de la propia reflexión racional sobre temas diversos.
+
+Por otra parte, veamos en el siguiente texto algunas razones que ligan el nombre de W. Wundt
+
+al nacimiento de la Psicología Científica:
+
+«Wundt (1832-1920) desempeñó un papel decisivo en la constitución de la psicología
+experimental, anexándole la fisiología y la anatomía. Su meta fue elaborar una psicología
+admitiendo solamente hechos yrecurriendo, en la medida de lo posible, a la experimentación
+y a la medición. El laboratorio que creó en 1879, en Leipzig, provisto del instrumental que
+podía permitirle la ciencia de su tiempo, fue muy frecuentado por estudiantes de diversos
+países, que lo imitaron una vez que volvieron a sus patrias respectivas.»
+
+MUELLER, F.L. (1965).
+
+Historia de la Psicología. De la Antigüedad hasta nuestros días. Buenos Aires: Paidós.
+
+¿En qué se diferencian los métodos del filósofo francés de los del científico alemán?
+
+El método con el cual se estudian los fenómenos psicológicos es diferente en cada caso: con
+Descartes aún nos hallamos en el terreno del conocimiento filosófico donde el propio filósofo
+reflexiona y busca respuesta dentro de sí mismo; en el otro caso, estamos en presencia de un
+psicólogo que trabaja en un laboratorio en el que observa y mide los fenómenos psicológicos.
+
+. 18 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+Por tanto, los métodos, las formas de conocer, son distintas: mientras la filosofía utiliza la
+
+autorreflexión, la ciencia utiliza como método la experimentación.
+
+El filósofo se piensa a sí mismo; en cambio el psicólogo científico registra los datos sobre
+el estado de la experiencia consciente informados por otro hombre que, bajo su dirección,
+participa en determinadas pruebas.
+
+En el primer caso el método es subjetivo, esto significa que no hay distancia entre quien
+estudia y el objeto estudiado. En el segundo caso el método es objetivo, es decir, no coinciden
+el objeto estudiado con aquella persona que lo estudia.
+
+b) Diferencias en la definición del objeto de estudio.
+
+Otra diferencia entre el conocimiento de la Psicología Filosófica y la Psicología Científica
+está basada en el objeto de estudio que propone cada una de ellas. Para mostrar esa diferencia
+le presentamos dos textos que ponen de manifiesto el objeto de la Psicología Precientífica y
+el de la Psicología Científica respectivamente.
+
+«...digo que el ánimo y el alma están estrechamente unidos entre sí y forman una sola
+naturaleza, pero que hay como una cabeza que domina en el cuerpo entero, (...), al que
+nosotros llamamos ánimo o mente. El cual ha fijado su asiento en la mitad del pecho.»
+
+Lucrecio (1969) De la naturaleza de las cosas.
+
+Editorial Espasa Calpe, Madrid.
+
+«Una sensación aislada, fuera de toda conexión con otras sensaciones (...), no podría
+hacerse más conocida (...) a la conciencia (...). Todo contenido consciente que posea
+atributos sensibles de cualquier tipo (...) debe ser reconocido al mismo tiempo como un
+contenido psíquico...»
+
+Wundt Wilhelm, Lecture on Human and Animal.
+
+Traducción Daniel del Cueto, ficha n° 2473-Facultad de Psicología (UBA), sin fecha.
+
+De la lectura de las citas se desprende una diferencia fundamental entre los objetos
+
+propuestos en cada uno de los períodos históricos de la Psicología:
+
+• En el caso de la época filosófica, el alma.
+
+• En el correspondiente a la época científica, la conciencia.
+
+En el caso de la cita de Lucrecio, se menciona el alma (objeto de estudio de la Psicología
+Precientífica) que es un concepto poco preciso, con múltiples significados.
+
+El concepto de alma no resultaba apto para ser analizado con los métodos experimentales
+que la nueva psicología debía adoptar para convertirse en una ciencia.
+
+Las ciencias fisicoquímicas marcaban cuál era el modelo que la joven psicología debía
+imitar si quería convertirse en ciencia. El alma como objeto de estudio no permitía aplicar el
+método experimental. Para ello era necesario definir un nuevo objeto para la Psicología.
+
+La definición de la conciencia o experiencia consciente, planteada por el célebre psicólogo
+alemán, permitía la aplicación del método experimental. De acuerdo con los requisitos exigidos
+a la ciencia en ese contexto, la conciencia así definida poseía rigurosidad científica.
+
+A partir de lo que acabamos de señalar es posible concluir que la definición del objeto
+de la primera Psicología Científica estaba íntimamente ligada a la cuestión del método. La
+
+. 19 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+Psicología Científica debía hacer uso del método experimental y era necesario definir un
+objeto que favoreciera su aplicación.
+
+c) Diferenciación entre científicos y filósofos.
+
+La experimentación estuvo ausente en el período filosófico de la Psicología. Justamente
+su utilización en los laboratorios de psicología marcó el cambio entre un conocimiento
+especulativo y otro científico, de mayor objetividad y precisión.
+
+Entre los conceptos que resultan significativos para establecer la diferencia entre un
+conocimiento filosófico y otro científico encontramos el de experimentación: la utilización
+de un laboratorio que responde al objetivo de desarrollar o generar ciertos fenómenos
+psicológicos, controlarlos, medirlos y explicarlos. De ese modo, el conocimiento obtenido
+difiere del conseguido a través de la autoobservación o autorreflexión del filósofo.
+
+El método utilizado por Wundt, que suele denominarse sintéticamente como introspección
+experimental, consistía en la aplicación de un estímulo en situación de laboratorio y en
+la medición de las reacciones del individuo experimental acompañado del informe de los
+contenidos de la experiencia consciente que se le suscitaban al sujeto durante la prueba.
+
+Respecto del objeto de estudio, como ya se señaló, para W. Wundt fue la conciencia o
+experiencia consciente entendida como un conjunto de elementos asociados. Por eso se
+denomina elementalismo asociacionista a su postura.
+
+El denominado «elementalismo asociacionista» había demostrado interés por el estudio de
+las sensaciones, o sea aquellos procesos psicofisiológicos desencadenados por la acción de
+un estímulo sobre cualquiera de nuestros órganos sensoriales (visiones, audiciones, sabores,
+olores, texturas). El estímulo, al actuar sobre los órganos sensoriales, desencadena una serie
+de fenómenos excitatorios que son registrados en la experiencia consciente, conformando
+su contenido. Las sensaciones fueron consideradas como uno de los elementos simples que
+componían la experiencia consciente junto con las imágenes y los estados afectivos.
+
+En el período en que surge la Psicología Científica, la diferencia fundamental existente entre
+un enfoque filosófico y otro científico se basaba fundamentalmente en las posibilidades que
+brindaba el método experimental. El laboratorio psicológico constituyó el espacio privilegiado
+para desarrollar ese conocimiento científico: allí podían medirse y analizarse con mayor exactitud
+los fenómenos de la conciencia.
+
+Actividad 4
+
+Ingrese a la siguiente dirección
+
+http: https://www.youtube.com/watch?v=L8ZSHAZ5XoI
+
+El video le permitirá acercarse
+y comprender los temas
+presentados en toda la unidad
+temática de manera sintética y
+dinámica.
+
+
+. 20 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+Actividad 5
+
+Respecto de la diferenciación entre filósofos y científicos en los estudios de temas
+psicológicos: complete los espacios en blanco del siguiente párrafo, ubicando en el
+espacio que corresponda el siguiente listado de expresiones:
+
+• conciencia
+
+• alma
+
+• experimentación
+
+• autorreflexión
+
+•  no hay distancia entre el sujeto que estudia y su objeto de estudio
+
+•  sí hay distancia entre el sujeto que estudia y su objeto de estudio
+
+Mientras los filósofos utilizan la   para llegar a sus conclusiones, los
+
+científicos de todas las disciplinas existentes a fines del siglo XIX utilizan la      
+
+     como forma básica para llegar a resultados basados en datos de la realidad
+observable.
+
+En el caso de los métodos filosóficos, se considera que son subjetivos porque     
+
+                                 , mientras que los métodos científicos se considera
+que son objetivos porque                      
+
+Al separarse de la Filosofía, la Psicología científica abandona el estudio del            
+como objeto de estudio y comienza con el estudio científico de la           
+
+1.5. Varias respuestas para la pregunta «qué estudia y cómo estudia» la Psicología
+Científica
+
+¿Una o varias psicologías?
+
+El emprendimiento de W. Wundt promovió un fenómeno particular en el campo de la
+psicología científica: la creación de nuevas propuestas de estudio que reclamaron diferentes
+objetos y métodos de estudio.
+
+Anticipándonos a temas que serán desarrollados en otras unidades, acercamos un cuadro
+de doble entrada donde se mencionan los objetos, métodos de estudio y epistemologías
+aceptadas por escuelas de psicología que convivían a principios del siglo XX en diferentes
+contextos.
+
+Cada escuela sustentó una propuesta diferente para la identidad de la Psicología Científica.
+
+. 21 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+ESCUELAS DE PSICOLOGÍA CIENTÍFICA
+CREADAS HASTA LA SEGUNDA DÉCADA DEL SIGLO XX
+
+
+Nombre de
+la Escuela
+Lugar
+
+Primera Escuela
+Científica creada
+por W. Wundt
+
+Alemania, 1879
+
+Conductismo
+americano
+
+J. Watson
+
+EE.UU., 1913
+
+Psicología de la
+
+Gestalt
+
+Alemania, 1912
+
+Psicoanálisis
+
+S. Freud
+
+Austria,
+1895/1900
+
+
+Objeto
+de estudio
+
+Conciencia
+(entendida
+como  asociación
+de elementos
+simples)
+
+Conducta
+(definida como
+comportamiento
+observable)
+
+Conciencia
+(entendida
+como totalidad
+organizada)
+
+Inconsciente
+(definido
+como existente
+psíquico
+
+que se da
+a conocer
+
+indirectamente)
+
+
+Método
+de estudio
+
+Experimentación.
+
+Uso de
+introspección
+durante la
+experimentación
+
+Experimentación.
+
+Uso de la
+observación
+experimental
+
+Experimentación
+con observación de
+fenómenos fuera
+del laboratorio
+
+Métodos
+clínicos:
+asociación
+libre con
+interpretación
+
+
+Posición
+epistemológica
+
+Positivista
+
+Positivista
+
+Crítica al
+Positivismo
+
+Crítica al
+Positivismo
+
+
+. 22 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+
+UNIDAD 2: El estudio de la conducta
+
+PSICOLOGÍA • B
+
+Introducción
+
+Como se señaló al concluir la Unidad 1, una vez constituida en ciencia, la Psicología no logró
+la unificación de sus conocimientos. Fueron surgiendo diferentes Psicologías en discusión con
+el primer emprendimiento realizado en Alemania a cargo de W. Wundt.
+
+Cada una de las nuevas escuelas definió un objeto de estudio diferente y realizó cambios
+en el método de estudio, seleccionando aquel que consideraron más adecuado para encarar
+la investigación.
+
+La conducta fue uno de los nuevos objetos y su estudio presentó ciertas particularidades
+que hacen del Conductismo una de las escuelas más importantes en la historia de la Psicología.
+
+El objetivo de esta Unidad es comprender cómo la conducta llegó a ser un objeto de
+estudio científico y el modo en que el concepto de conducta sufrió modificaciones.
+
+2.1. Aportes del Conductismo
+
+La Psicología como «ciencia natural» dedicada al estudio del comportamiento.
+Ruptura con el estudio de la conciencia.
+
+A comienzos del siglo XX, mientras los investigadores de las universidades alemanas se
+debatían entre estudiar la experiencia consciente definida como una suma de elementos
+independientes entre sí o como una totalidad dinámica, cruzando el océano Atlántico emergía
+una nueva Escuela de Psicología que levantaba fuerte críticas hacia las otras. Nos encontramos
+con la revolución iniciada en EE.UU. por el Conductismo en base a los planteos del famoso
+psicólogo John Watson.
+
+Para el Conductismo:
+
+• La experiencia consciente y cualquier proceso inobservable no podía considerarse
+como un objeto de estudio científicamente válido.
+
+• Solo los comportamientos, las conductas observables, posibles de medirse y cuantificarse,
+admitían un estudio objetivo y científico.
+
+• Para obtener el reconocimiento de ciencia, la Psicología debía dedicarse a la observación
+directa de su objeto de estudio durante la experimentación, tal como se llevaba a cabo
+en las ciencias naturales.
+
+• La Psicología debía ser una ciencia natural, tal como la Física o la Química.
+
+Los argumentos de J. Watson se dirigieron a derrumbar la tarea científica iniciada por W.
+Wundt y desarrollada por muchos de sus continuadores. Las críticas fueron dirigidas tanto
+hacia la definición del objeto como del método de estudio aceptados por la escuela alemana.
+Según el Conductismo, la conciencia y sus elementos no podían observarse y la introspección
+durante el experimento no poseía validez científica.
+
+Watson propuso a la conducta como objeto de estudio porque la misma podía observarse
+y se adecuaba perfectamente al método científico requerido por el Positivismo. Contrariamente,
+la experiencia consciente, al ser «inobservable» no podía ser estudiada por una psicología
+
+. 23 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+considerada realmente científica. Más tarde, Watson profundizó la crítica hacia el estudio de la
+conciencia señalando que la misma ni siquiera tiene existencia.
+
+Para el momento del desarrollo histórico de las ciencias (fines del siglo XIX y primeras
+décadas del siglo XX) dominaba la mirada «positivista sobre el quehacer científico». Tanto
+
+J. Watson como W. Wundt aceptaron los preceptos del Positivismo, sin embargo cada uno
+aportó diferentes interpretaciones metodológicas.
+
+Recordemos nuevamente los aportes del Positivismo
+
+Puede ampliar y hallar más información en alguna enciclopedia, diccionario o a través
+de algún buscador en la red:
+
+August Comte (1798-1857) fue el fundador de la Sociología moderna y del Positivismo.
+Se ubicó de manera muy crítica frente al saber dogmático de la Iglesia y afirmó que todo
+conocimiento debía basarse en evidencias empíricas, en hechos observables.
+
+Su concepción sobre el conocimiento no aceptó otra realidad que la de los hechos y
+no investigó otra cosa que las relaciones entre los hechos.Tal requisito debía ser común a
+todo tipo de conocimiento científico, por lo cual, las disciplinas sociales deben asemejarse
+en sus planteos y en sus métodos al de las ciencias naturales para poder ser consideradas
+científicas y objetivas.
+
+Según Comte, el desarrollo y avance en la sociedad humana depende en última instancia
+del desarrollo científico, por lo que, la historia de la ciencia es el núcleo de la historia
+general de la especie humana.
+
+Comte utiliza el término Positivismo para denominar su propia teoría.
+Algunas afirmaciones que caracterizan al Positivismo:
+
+•  La realidad se manifiesta en los fenómenos, por lo tanto, debe rechazarse la existencia
+
+de una esencia oculta, más allá de los hechos observables. La realidad consiste en
+lo que está al alcance de los sentidos y la ciencia solo debe abordar los hechos
+sistemáticamente descubiertos y rigurosamente establecidos.
+
+•  Rechazo a todo conocimiento metafísico.
+
+•  Las ciencias naturales y las humanas comparten principios lógicos y metodológicos
+comunes.
+
+•  La ciencia trata de hechos y no de valores. Los juicios de valor y los enunciados
+normativos carecen de sentido científico.
+
+Es importante considerar que entre la propuesta de W. Wundt y la de J. Watson pasaron más
+de 30 años. Durante ese lapso, el emprendimiento de W. Wundt fue revisado y sometido a críticas.
+
+El saber científico es un producto histórico y cultural continuamente examinado, sometido
+a discusiones, desacuerdos y tensiones. En la medida en que un saber producido es revisado,
+sufre ajustes y modificaciones que posibilitan el surgimiento de nuevas preguntas y la
+búsqueda de nuevos datos. Este camino llevó a la definición de nuevos objetos de estudio y
+metodologías que se consideraron más apropiadas para el estudio.
+
+El análisis crítico realizado por J. Watson hacia el método utilizado por Wundt destacó
+que el mismo estaba «teñido de componentes subjetivos». La introspección durante el
+experimento de Wundt aceptaba como válido el informe verbal acerca de los contenidos
+de la conciencia por parte del sujeto experimental, mientras era guiado por el investigador.
+Desde la perspectiva de Watson, tal procedimiento era inaceptable por incluir un «excesivo
+
+. 24 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+subjetivismo» durante el experimento. Para cumplir plenamente con el requisito de objetividad,
+los fenómenos estudiados debían desarrollarse sin ningún tipo de contaminación subjetiva.
+
+Es interesante tener en cuenta que el Conductismo se impuso en EE.UU., un joven país
+que, en comparación con las naciones europeas, atravesaba una gran expansión política
+y económica. Sus universidades no tenían el respaldo de una gran trayectoria filosófica ni
+discutían con renombrados filósofos de la época tal como sucedía en Alemania. Más bien se
+volcaron al apoyo de emprendimientos que podían ofrecer respuestas rápidas para enfrentar
+problemas de orden práctico vinculados con la selección de trabajadores para las grandes
+fábricas, de ingresantes a las instituciones escolares, de soldados que podrían participar en
+acciones bélicas.
+
+En este contexto histórico, Watson aportaría al estudio, control y predicción de la conducta
+de cualquier individuo. Control porque podría explicar y predicción porque podría manipular
+y modificar la conducta de los individuos, basado en investigaciones de carácter científico.
+
+¿Para qué estudiar la experiencia consciente inobservable cuando se busca explicar el
+comportamiento y sus cambios observables?
+
+
+Los objetos físicos
+del mundo producen
+variados...
+
+ESTÍMULOS
+
+(luces, sonidos,
+movimientos, temperaturas,
+entre otros) que...
+
+SON OBSERVABLES
+
+DETERMINAN
+
+Lo que hacen los
+seres vivos, sus
+conductos son...
+
+RESPUESTAS
+
+(observables, medibles,
+cuantificables a partir
+
+de estímulos observables)
+
+Las respuestas de un organismo cambian según los estímulos que se apliquen.
+
+Para los conductistas somos como máquinas destinadas a reaccionar a partir de la
+aplicación de estímulos. J. Watson investigó y presentó numerosas pruebas que indicaban
+que las personas podemos ser moldeadas y determinadas por los estímulos del ambiente.
+Desde la perspectiva del Conductismo, los seres humanos, como cualquier otro animal,
+reaccionamos por igual a condiciones del ambiente. Por este posicionamiento, la propuesta
+de esta escuela de Psicología se define como «medioambientalista» extrema: los estímulos
+del ambiente determinan todo tipo de conductas.
+
+En muy pocos años el esquema básico de la «propuesta conductista» triunfó en EE.UU.
+consolidándose como la escuela académica dominante. El pensamiento de W. Wundt y sus
+discípulos quedó relegado y los aportes de la Psicología de la Gestalt (escuela que será
+analizada en la unidad III), aunque ingresó a EE.UU., no encontró cabida en ese mundo
+intelectual.
+
+La posición conductista inicial y sus reformulaciones dominaron en EE.UU. por el lapso de 40
+años, tiempo en el que su modelo de ciencia psicológica se expandió por el resto del mundo.
+
+. 25 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+Actividad 1
+
+Determine, entre las siguientes opciones, aquellas que mencionan los aportes del
+Conductismo a la ciencia psicológica. Marque con una cruz las afirmaciones que vaya
+seleccionando:
+
+Para ser científica, la psicología debía verificar sus ideas en base a la observación
+concreta y objetiva de hechos externos.
+
+La ciencia psicológica debía continuar con el modelo de investigación propuesto por
+
+W. Wundt hacia fines del siglo XIX en Alemania.
+
+Con la creación del Conductismo, Watson calificó el uso de la introspección experimental
+como método «no científico».
+
+J. Watson le criticó a W. Wundt tanto el objeto como el método de estudio que había
+propuesto para la Psicología.
+
+J. Watson definió a la conducta observable como «respuesta a partir de la aplicación
+de estímulos». Ambos, estímulos y respuestas, son observables y pueden ser
+manipulados/modificados.
+
+2.2. Formulaciones centrales del Conductismo
+
+a) J. Watson y el «condicionamiento clásico» de la conducta.
+
+El fundador del conductismo, John Watson (1878-1938), sostuvo
+el carácter científico del estudio de la conducta definiéndola como
+
+«comportamiento directamente observable».
+
+Atendiendo a las indicaciones del Positivismo, J. Watson profundizó
+en las indicaciones acerca de la «observabilidad» de los fenómenos
+estudiados:
+
+«¿Qué es lo que podemos observar? Podemos observar la conducta. Lo que el
+organismo hace (...) La regla que el conductista jamás pierde de vista es: ¿puedo describir
+la conducta que veo en términos de estímulo y respuesta? Entendemos por estímulo
+cualquier objeto externo o cualquier cambio en los tejidos mismos debidos a la condición
+fisiológica del organismo (...) Entendemos por respuesta todo lo que el organismo hace...»
+
+Watson J. B. (1985) ¿Qué es el conductismo?
+
+Editorial Paidós, Buenos Aires.
+
+
+. 26 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+El párrafo anterior remite a la definición del objeto de estudio del Conductismo.
+
+Todas las conductas, hasta las más complejas, podían reducirse a sus componentes más
+sencillos: los estímulos del entorno que las causaban y las respuestas fisiológicas, como
+efectos de los estímulos. En la mayor parte de sus escritos, Watson describe la conducta
+en términos de asociación inmediata entre estímulo y respuesta.
+
+Supuestos centrales de la Escuela conductista creada por J. Watson:
+
+• La conciencia no puede ser estudiada científicamente.
+
+• Ningún proceso psíquico puede determinar ni causar una conducta observable.
+
+• Se puede verificar que toda conducta es una respuesta causada por un estímulo
+proveniente del medio ambiente.
+
+• Estímulo y respuesta pueden observarse y medirse.
+
+• Toda conducta compleja puede ser analizada en sus componentes más simples.
+
+• A todo estímulo le sigue una respuesta y toda respuesta es producida por un estímulo.
+Entre ambos (estímulos y respuestas) hay una relación causal. El estímulo causa una
+respuesta y cualquier respuesta siempre es causada por un estímulo.
+
+Toda conducta, hasta la más compleja, se puede reducir a su menor expresión: movimiento
+muscular y secreción glandular desencadenado a partir de la aplicación de un estímulo del
+medio ambiente.
+
+Examinemos conductas sencillas, posibles de analizarse, observarse y medirse:
+
+• Una luz brillante causa el cierre de párpados y lagrimeo. Si se manipulan diferentes
+intensidades de luz se provocan diferentes reacciones glandulares y corporales.
+
+• Un sonido fuerte causa movimientos musculares de distanciamiento de la fuente de
+sonido, palpitaciones, sudoración, respuestas de huida al estímulo aplicado.
+
+•  El olor de comida causa salivación y movimientos de acercamiento al lugar donde procede
+el olor.
+
+Objetivos de la escuela conductista:
+
+• Predecir las respuestas de un organismo cuando se conoce el estímulo que las causa.
+
+• Inferir el estímulo que produjo la respuesta que se está observando.
+
+• Explicar el aprendizaje de una nueva respuesta, desconocida para un individuo.
+
+Respecto  de  la  explicación  del  aprendizaje  de  conductas,  J.
+Watson aceptó los aportes de un fisiólogo ruso Iván Pavlov (1849-
+1936) quien recibió en 1904 un Premio Nobel en medicina por sus
+estudios sobre la Fisiología de la digestión, específicamente, por el
+análisis  de  las  secreciones reflejas de  las  glándulas  salivales,
+gástricas e intestinales durante la alimentación y digestión.
+
+. 27 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+Pavlov, ubicado como una eminencia en la investigación de una acreditada ciencia natural,
+había creado un procedimiento experimental, denominado «condicionamiento clásico»,
+también denominado respondiente, que permitía demostrar que las respuestas fisiológicas
+(salivación) dependían y variaban asociadas con la aplicación de estímulos externos (que se
+podían medir y controlar).
+
+Salivar es una respuesta no aprendida que se produce a partir de un estímulo naturalmente
+asociado: la comida.
+
+Sin embargo, si la presentación del estímulo comestible se acompaña de otros estímulos,
+tales como sonidos, colores, luces, y se controla el tiempo y cantidad de estímulo que se
+aplica junto con la comida, se logra como resultado que: ante la sola presentación de la luz,
+color y/o sonido, se produzca la salivación.
+
+Gráfico explicativo del procedimiento experimental del «condicionamiento clásico»
+de respuestas
+
+ANTES DEL CONDICIONAMIENTO
+
+COMIDA           Respuesta       SALIVACIÓN
+Estímulo                        Respuesta
+
+Incondicionada (EI)                 Incondicionada (RI)
+
+CAMPANA         Respuesta       NO HAY SALIVACIÓN
+
+Estímulo                       Respuesta No
+
+Neutral                        Condicionada
+
+DURANTE EL CONDICIONAMIENTO
+
+CAMPANA + COMIDA    Respuesta      SALIVACIÓN
+
+Estímulo                       Respuesta
+
+Incondicionado (EI)                 Incondicionada (RI)
+
+DESPUÉS DEL CONDICIONAMIENTO
+
+CAMPANA          Respuesta       SALIVACIÓN
+Estímulo                        Respuesta
+
+Condicionado (EC)                 Condicionada (RC)
+
+En el experimento, Pavlov se dio cuenta de que al ponerle la comida al perro este salivaba.
+Luego, cada vez que le acercaba la comida, hacía sonar una campana, de modo que, cuando
+el perro la escuchaba, asociaba ese sonido con la comida y salivaba. Así, el perro estaba dando
+una respuesta (en este caso, la salivación) a un estímulo que al inicio del condicionamiento era
+neutro (la campana). Luego de varias presentaciones de los dos estímulos a la vez, solo se
+producía el sonido de la campana sin presentar la comida. Como resultado, el perro producía
+saliva tras el sonido de la campana. Este tipo de condicionamiento, es el responsable del
+
+«aprendizaje» de un nuevo tipo de respuesta. Para el caso expuesto en el gráfico: salivar
+frente al sonido de una campana.
+
+
+. 28 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+Un toque de humor en el tema del «condicionamiento pavloviano.
+
+http://tispavlov.blogspot.com.ar/2011/11/condicionamiento-clasico.html
+
+Los procedimientos experimentales denominados «condicionamiento clásico» permitieron
+demostrar que los animales aprendían a reaccionar a nuevos estímulos. Este aporte fue muy
+elogiado y valioso para una psicología que aspiraba a ubicarse como una «ciencia natural».
+
+Puede ingresar al siguiente enlace para ampliar e ilustrar el tema que se está
+presentando: https://www.youtube.com/watch?v=Pb3opXRVE2k
+
+En sus investigaciones, todos los conductistas que cumplían con las
+indicaciones científicas de J. Watson experimentaron indistintamente con gatos,
+ratas, palomas o seres humanos, aplicando programas de «condicionamiento
+clásico» y afirmando que, en todos los casos, era posible determinar «qué
+estímulo producía qué respuesta». Se trató de un esquema muy simple pero
+muy eficaz a la hora de manipular conductas y explicar sus causas.
+
+Si observa la filmación de los experimentos llevados a
+cabo por Watson y su ayudante en la siguiente dirección:
+https://www.youtube.com/watch?v=CfOkdfz1EtQ, verá
+el proceso de condicionamiento de un bebé llamado
+Albert.
+
+Albert aprende una nueva conducta, a responder con
+miedo y con movimientos de huida ante la presentación
+de estímulos que se le imponen y que tienen pelo.
+
+Al inicio del experimento, tales estímulos son neutros
+y no producen respuesta alguna, pero al ser asociados con otros estímulos (sonidos
+fuertes) producen la huida y las reacciones corporales características del miedo. El bebé
+fue condicionado para tener respuestas de miedo.
+
+Hasta el día de hoy, este tipo de experimentos es absolutamente reprobado y criticado.
+El maltrato y el sufrimiento producido durante un experimento es una grave falta ética,
+y más cuando se trata de un bebé que no tiene posibilidades de defenderse.
+
+. 29 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+En el caso de conductas más complejas, tales como pensar, hablar, trabajar, estudiar, también
+fueron explicadas por Watson apelando al condicionamiento, al aprendizaje por asociación
+entre estímulos y las respuestas. «Hablar» se entendió como una conducta observable de
+producción de sonidos debido al aprendizaje de movimientos de la laringe y «pensar» como
+una conducta de habla, con movimientos de la laringe, pero sin el acompañamiento de sonidos.
+
+Con el paso de los años y de investigaciones dedicadas al tema, se fueron ampliando las
+técnicas de condicionamiento, esto es, diferentes modos planificados para producir, controlar
+y explicar aprendizajes de conductas observables. Uno de tales aportes fue desarrollado por
+
+B.F. Skinner, que será presentado en el siguiente apartado.
+
+Leproponemos mirar el video https://www.youtube.com/watch?v=ZCf85AVqXbE
+para acercarse a los datos biográficos de J. Watson; a su recorrido científico y
+a la construcción de una «Psicología Conductista».
+
+Actividad 2
+
+Tras mirar el video sobre el condicionamiento del bebé Albert, intente determinar la verdad
+o falsedad de las siguientes afirmaciones, según den cuenta de la Psicología desarrollada
+por J. Watson:
+
+V   F
+
+Solo las experiencias en la vida, la educación y el ambiente determinan las
+conductas del ser humano.
+
+Los experimentos con el pequeño Albert permitieron demostrar que no se
+producen aprendizajes de conductas tras la aplicación de estímulos.
+
+Los seres humanos no estamos determinados por el ambiente sino por los
+factores genéticos/heredados.
+
+Los experimentos con el pequeño Albert permitieron demostrar que las
+conductas humanas pueden moldearse, manipularse.
+
+Actividad 3
+
+Teniendo en cuenta los supuestos aceptados por el Conductismo de Watson, ubique en los
+espacios en blanco en el texto cada una de las palabras y expresiones del siguiente listado:
+
+• estímulos
+
+• respuestas
+
+• conductismo
+
+• observación experimental
+
+• introspección experimental
+
+• conciencia.
+
+• conducta observable
+
+J. Watson fue un prestigioso investigador en psicología que en su época fundó una nueva
+escuela denominada          
+
+Como «objeto de estudio», tal psicología aceptó a la                , entendida
+
+como una asociación entre   y              .
+
+
+. 30 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+Como método de estudio, de acuerdo con las indicaciones del Positivismo, Watson hizo
+uso de la                .
+
+Fue un crítico del estudio de la   y del uso de método de la
+
+                    , utilizados por W. Wundt y otros psicólogos de su tiempo.
+
+b) B. F. Skinner y el «condicionamiento operante» de la conducta.
+
+No todas las conductas aprendidas podían explicarse mediante el condicionamiento
+clásico, desarrollado por J. Watson. En muchos casos no resultaba claro cuál era el estímulo
+que causaba una determinada respuesta, sin embargo, la conducta se producía y se había
+dado un aprendizaje.
+
+En este punto, Burrhus F. Skinner (1904-1990), investigador conductista que trabajó en
+varias universidades de EE.UU., aportó otro procedimiento para producir el aprendizaje de
+conductas: el «condicionamiento operante».
+
+A partir de los aportes de B. Skinner, entonces pueden diferenciarse dos tipos de
+condicionamiento:
+
+• condicionamiento clásico o respondiente explicado por I. Pavlov y utilizado por J. Watson
+
+• condicionamiento operante, estudiado y desarrollado por B. Skinner.
+
+¿En qué consiste el «condicionamiento operante»?
+
+B. Skinner se centró en el estudio de las «respuestas»
+efectivamente realizadas por los individuos, en aquello que
+hacía concretamente un individuo. Específicamente se concentró
+en el efecto de las respuestas con el propósito de controlar y
+manipular la realización de las conductas. Es importante recordar
+que ningún conductista estableció diferencias entre las conductas
+humanas y las de cualquier otro animal, ya que toda conducta
+puede ser manipulada y modificada por igual.
+
+En la foto ubicamos a B. F. Skinner controlando las respuestas
+que realiza un animal dentro de una caja problema. El animalito
+se mueve y Skinner va reforzando-premiando algunas conductas
+con el objetivo de que el animal las aprenda. Está llevando a cabo
+un condicionamiento operante en un sofisticado laboratorio
+de la época.
+
+Todo organismo se mueve en su ambiente buscando adaptarse y, mientras lo hace, encuentra
+resultados tras sus movimientos, consecuencias que pueden ser positivas o negativas.
+
+Ejemplos de conductas concretas de diferentes organismos: una paloma (organismos con
+los que trabajó B. Skinner) se mueve buscando alimento; un profesor da su clase y espera
+ser claro y aceptado; un alumno después de estudiar hace su examen y espera aprobar; un
+cocinero presenta el menú y espera tener éxito entre los comensales. El efecto alcanzado tras
+la realización de una respuesta concreta actúa como un reforzador.
+
+. 31 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+¿En qué consiste un reforzador?
+
+Es cualquier evento relacionado con la conducta realizada que incide en la probabilidad
+de que la misma vuelva a realizarse. Implica un aprendizaje para responder tal como se lo
+ha hecho.
+
+Volvamos a nuestros ejemplos, si la paloma va hacia la izquierda y se le presenta comida,
+reitera esa conducta y continúa yendo hacia la izquierda; si el profesor recibe sonrisas y
+preguntas de parte de sus alumnos, reitera su modo de dar la clase; si al alumno le va bien en
+el examen, se presenta a otros exámenes y continúa estudiando tal como lo viene haciendo;
+si el cocinero recibe alabanzas, continua ofreciendo el mismo menú. En todos los casos
+ejemplificados, las conductas realizadas encontraron reforzadores positivos, consecuencias
+positivas, por lo que tenderán a reiterarse tal cual en el futuro. Esto significa que hubo
+aprendizaje: «se reitera la conducta tal como se la aprendió».
+
+Algunos reforzadores positivos se apoyan en requerimientos orgánicos: alimento, agua,
+descanso. Otros, son aprendidos, tales como los premios, las medallas, el dinero. Finalmente,
+otros son generalizados, tales como recibir afecto, aprobación, atención.
+
+Skinner identificó reforzadores negativos, que también colaboran en la consolidación
+de una respuesta concreta pero que están dirigidos a reducir o eliminar aquello que incide
+negativamente en la realización. En todos los casos, un reforzador negativo quita aquello
+que funciona como un obstáculo para concretar efectivamente una conducta.
+
+En el caso de los ejemplos que presentamos: el profesor revisa su clase evitando aquello
+que supone que puede ser desagradable para sus alumnos; el alumno estudia más para evitar
+desaprobar; el cocinero busca opiniones sobre su menú antes de presentarlo a los comensales;
+la paloma se dirige hacia la izquierda para encontrar la comida mientras el investigador retira
+los obstáculos que le impiden a la paloma avanzar en esa dirección.
+
+En síntesis, los reforzadores negativos están dirigidos a anular aquello que dificultaría la
+realización de la conducta y, por lo tanto, posibilitar el encuentro con el reforzador positivo.
+
+Pero no todo es tan sencillo como en los ejemplos presentados. Los organismos reciben
+a la vez reforzadores negativos y positivos, y en la mayoría de los casos los reforzadores
+no se pueden controlar. Sin embargo, a través de programas de condicionamiento operante
+se pueden manipular los reforzadores que se entregan a los individuos con el propósito de
+obtener las respuestas buscadas.
+
+PARA SABER MÁS....
+
+Centrémonos en algún ejemplo cotidiano para profundizar la comprensión del tema del
+reforzamiento.
+
+Skinner diseñó varios tipos de programas, aplicando diferentes tipos de reforzamientos.
+En un caso reforzó conductas teniendo en cuenta el «tiempo transcurrido» y en otro caso
+teniendo en cuenta la «cantidad de conductas» llevadas a cabo.
+
+El dueño de una fábrica de carteras busca mejorar la producción aplicando programas
+de reforzamiento a sus empleados. Un reforzador positivo, eficaz en el caso del trabajo
+remunerado, consiste en la entrega de remuneraciones y premios.
+
+Si el dueño de la fábrica aplicara programas de reforzamiento manipulando el «tiempo
+transcurrido» puede:
+
+a.- Reforzar el comportamiento de los empleados después de un determinado tiempo
+fijo, no después de un determinado número de carteras fabricadas. El empleado recibe su
+paga al final de cada mes. La paga obtenida funciona como reforzador.
+
+
+. 32 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+b.- Reforzar la producción de carteras de los empleados en tiempos variables, pero en
+torno a un cierto promedio de tiempo. El empleado, luego de 2 meses de trabajo, recibe un
+premio extra; la siguiente, a los 4 meses; la siguiente, a los 3 meses. Es decir, el empleador
+refuerza positivamente la conducta de sus empleados con un intervalo temporal que no
+es fijo ni preestablecido como en el caso anterior.
+
+Por otra parte, si el dueño aplicara programas de reforzamiento teniendo en cuenta la
+
+«cantidad de respuestas» (cantidad de carteras fabricadas), puede:
+
+a.- Reforzar la producción de los empleados, entregando una remuneración extra luego de
+una cantidad fija de carteras terminadas. Cada 10 carteras, por tomar una cantidad cualquiera.
+
+b.- Reforzar el comportamiento de los empleados, entregando un premio extra luego de
+cantidades variables de carteras terminadas, pero en torno a algún promedio. Una vez
+cada 15; la siguiente a las 23; la siguiente vez a las 18 terminadas.
+
+Resulta interesante considerar el posible resultado del empleador tras la aplicación
+de cada tipo de programa de reforzamiento.
+
+Se supone que la producción de carteras habrá sido mayor cuando el premio extra se
+entregó de acuerdo con la cantidad variable de carteras terminadas y no de acuerdo a
+una cantidad fija.
+
+También se puede suponer que habrá sido mayor la producción cuando reforzó ofreciendo
+premios a los empleados de acuerdo a un tiempo variable y no de acuerdo con un tiempo fijo.
+
+En situaciones experimentales, los programas variables superan a los fijos ya que dan
+tasas de respuesta más altas; y el programa que refuerza positivamente una cantidad
+variable de comportamientos emitidos es superior al del intervalo de tiempo variable.
+
+Todos los programas de reforzamiento resultan más sencillos de aplicar en situaciones
+experimentales porque en la vida diaria los reforzamientos se entremezclan. Para que
+resulten exitosos en la vida diaria, los programas deben diseñarse y aplicarse de manera
+rigurosa y controlada.
+
+Complejos y largos programas de condicionamiento operante han sido diseñados para
+lograr modificaciones de conductas concretas y acotadas, por ejemplo abandonar alguna
+adicción; superar el miedo a tomar un tren, viajar en avión, subir en ascensores; y han resultado
+exitosos en el adiestramiento de animales para la realización de diversas tareas: de perros
+para ayudar cotidianamente a personas discapacitadas y de diversos animales que participan
+en variados espectáculos realizando piruetas muy complicadas. En todos estos casos pueden
+usarse programas de reforzamiento, es decir, programas de condicionamiento operante para
+lograr cambios en la conducta sin apelar a la experiencia psíquica del organismo.
+
+Le recomendamos ver los siguientes fragmentos de videos. En ellos, el mismo
+Skinner explica su posición respecto de la definición de conducta y de cómo
+realizar sus experimentos:
+
+https://www.youtube.com/watch?v=CRTt37OaM3g   https://www.youtube.com/watch?v=RjtZdtjUU8Y
+
+. 33 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+Analicemos en un ejemplo las ideas aportadas por Skinner. En la vida diaria, muchas veces
+sin una clara intención de hacerlo, reforzamos conductas que desearíamos eliminar:
+
+El nene le dice al papá. ¿me ayudás a ponerme la campera?
+
+El padre no responde y sigue mirando el partido por TV.
+El nene repite: Papá, quiero que me ayudes.
+
+El padre le responde apenas ...sí, sí, un momentito .....
+
+El nene grita: ¡Papaaaaaaaaa, ayudame con la campera!!
+
+El padre le dice: ¿Cuántas veces te dije que no grites?!!... vení que te ayudo....
+
+• El comportamiento del niño (pedir las cosas gritando) se va consolidando, aprendiendo,
+porque actúa un reforzador positivo: El papá finalmente atiende al niño después de pedir
+a los gritos.
+
+• El comportamiento del padre (atender al niño luego de escuchar sus gritos) puede
+consolidarse y aprenderse debido a la actuación de un reforzador negativo: si atiende al
+nene que grita, este deja de gritar y puede seguir viendo al TV.
+
+Por otra parte, además de reforzadores (positivos y negativos) encontramos los castigos,
+
+que también se clasifican en positivos o negativos.
+
+Los castigos proporcionan una consecuencia desagradable o el retiro de algo agradable
+por haber realizado una conducta. Se aplican con el propósito de eliminar o disminuir la
+ocurrencia de una conducta.
+
+El condicionamiento operante es un procedimiento que permite controlar una conducta,
+aquello que hace un organismo en un determinado ambiente a través de la aplicación de
+reforzadores y castigos positivos y negativos.
+
+En el siguiente cuadro presentamos esquemáticamente los refuerzos y castigos que se
+tendrían en cuenta en un programa de condicionamiento operante:
+
+
+Para
+aumentar
+una
+conducta
+
+Para
+aumentar
+una
+conducta
+
+Para
+disminuir
+una
+conducta
+
+Para
+disminuir
+una
+conducta
+
+. 34 .
+
+Refuerzo
+positivo
+
+Refuerzo
+negativo
+
+Castigo
+positivo
+
+Castigo
+negativo
+
+Se ofrece una
+consecuencia
+positiva que facilita
+la realización de una
+conducta.
+
+Se quita aquello
+que obstaculiza la
+realización de una
+conducta.
+
+Se ofrece una
+consecuencia negativa
+tras   la realización de
+una conducta.
+
+Se quita una
+consecuencia positiva
+tras   la realización de
+una conducta.
+
+Un niño hace algo que consideremos
+bueno, y para que lo mantenga, le damos
+algún premio: un regalo, tener más recreo.
+
+Un niño hace algo que consideremos bueno,
+y para que lo mantenga, lo premiamos
+evitando algo que no le gusta: retiramos lo
+que  le disgusta de lo que va comer.
+
+Un niño hace algo que consideremos malo,
+y para que no lo haga más, le damos más
+deberes, le pedimos que haga algo que no
+le gusta.
+
+Un niño hace algo que consideramos malo,
+y para que no lo haga más le quitamos
+algo que le gusta: recreos, dulces.
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+Skinner en su laboratorio con las palomas.
+
+http://www.lasalle.es/santanderapuntes/filo_1/conductismo/skinner.htm
+
+Reflexiones críticas acerca de los aportes del Conductismo
+
+Es cierto que los premios y castigos existen y nos afectan, pero sostener que controlan
+nuestra conducta es una idea muy reprochable.
+
+Los aportes del Conductismo americano han sido muy criticados y las críticas más lúcidas
+se refieren a la forma en que abordaron el estudio de la conducta humana, como algo muy
+mecánico sin tener en cuenta al propio individuo ni a su subjetividad. Las personas fueron
+ubicadas en un papel pasivo, determinado por el ambiente, falto de libertad, de posibilidad
+de elección y de decisión.
+
+Adoptaron una apariencia de «cientificidad»: control en los experimentos, mediciones,
+cuantificación de resultados, pero en definitiva, lograron adiestrar con cierto éxito a algunos
+animales -¡las famosas y sacrificadas palomas!-.
+
+Utilizaron ciegamente los métodos de las ciencias naturales sin considerar las diferencias
+cualitativas entre los fenómenos físicos y los humanos y, al limitarse al estudio de lo medible,
+borraron una cuestión central: el sujeto humano actúa en un contexto histórico junto con
+otros seres humanos. Además, explicaron el aprendizaje real de conductas utilizando modelos
+artificiales y solo probados en laboratorios.
+
+Sintéticamente, concibieron al ser humano desde una postura antihumanista ya que
+menospreciaron los méritos de muchas personas altruistas, generosas, valientes, creadoras,
+liberadoras, al reducir la conducta a grupos de actos simples que podían condicionarse
+mediante diferentes técnicas.
+
+Por último, los saberes aportados por los conductistas no constituyen «herramientas críticas
+ni de liberación» para el ser humano, por el contrario, forman parte de aquellos «instrumentos
+opresivos y represivos» que justifican el «control de la conducta humana».
+
+Actividad 4
+
+Teniendo en cuenta los diferentes tipos de condicionamiento:
+
+a) el clásico / respondiente a estímulos y
+
+b) el operante, estudiado por Skinner
+
+Determine en cada afirmación de qué tipo de condicionamiento se trata, ubicando la letra
+
+a o b en el espacio en blanco, según sea el caso
+
+a.- Aplicar varias veces un estímulo nuevo y no vinculado con una respuesta hasta lograr que
+el individuo aprenda a responder frente al nuevo estímulo.           
+
+. 35 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+b.- Entregar un premio como reforzador positivo a continuación de la respuesta que acaba
+de realizar un individuo.           
+
+c.- Castigar positiva o negativamente la realización de una respuesta para que el individuo no
+la vuelva a hacer.          
+
+d.- Identificar el estimulo que produce una respuesta aprendida con el propósito de excluirlo
+y, así, eliminar la respuesta.          
+
+Actividad 5
+
+Respecto de la definición de reforzadores y castigos, de acuerdo con los aportes de Skinner
+sobre el condicionamiento operante, marque con una cruz la única definición correcta de
+cada concepto:
+
+
+Un reforzador ....
+
+se administra antes de que el
+individuo realice una conducta y
+con el propósito de que le preste
+atención.
+
+se aplica tras la emisión de la
+respuesta que se busca que el
+individuo aprenda.
+
+Se incluye en el momento en que
+se aplica el estímulo que se busca
+asociar con la respuesta.
+
+Un castigo...
+
+se aplica para que el individuo
+discrimine cuál es la conducta
+esperada.
+
+se utiliza para aumentar la realización
+de una conducta.
+
+se usa cuando se busca disminuir la
+ocurrencia de una conducta realizada.
+
+2.3. Aportes de la Psicología argentina: el estudio de la conducta humana según E.
+Pichón Rivière y J. Bleger
+
+Como mencionamos, se produjeron diferentes objeciones a las Psicologías Conductistas
+americanas debido a sus limitaciones en los planteos, a la artificialidad de los métodos de
+estudio que utilizaron y a la ausencia de explicaciones sólidas referidas a conductas humanas
+complejas, tales como hablar, pensar, creer, imaginar, de carácter central en el mundo
+humano. La pobreza explicativa se debió en gran parte a la aceptación de los lineamientos
+del Positivismo como único modo de llevar a cabo las investigaciones científicas.
+
+Sin embargo, el modo conductista de definir a la conducta sufrió profundas redefiniciones.
+Un ejemplo de ello son las contribuciones del psicólogo argentino José Bleger (1922-1972)
+basado en los aportes de E. Pichón Rivière.
+
+J. Bleger se dedicó exclusivamente al estudio de la conducta humana, entendiendo que la
+misma siempre es llevada a cabo por una persona concreta, en condiciones concretas y en un
+momento histórico dado. Una conducta solo tiene existencia en una situación.
+
+Para entender la conducta de cualquier persona, tenemos que prestar atención a sus
+motivaciones, deseos, creencias, dudas y contradicciones, pero también resulta indispensable
+conocer su forma de vida junto con otros seres humanos, su participación en vida de su
+comunidad y en los modos de producción económica de su tiempo. En este sentido, siempre
+interesa la situación concreta en la que vive, «el medio ambiente humano e históricamente
+situado». Tal medio no se reduce ni se equipara con el «ambiente físico que impacta con sus
+estímulos sobre un ser pasivo», destacado por los conductistas americanos.
+
+. 36 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+Una conducta es un proceso cambiante, sometido a tensiones y conflictos, y es inseparable
+de la personalidad que la realiza y del contexto social e histórico en el que ocurre. No puede
+ser estudiada como una cosa o sustancia, ni existe conducta que pueda ser considerada
+universal o abstracta (fuera de todo tiempo y lugar), sino ubicada en situaciones particulares.
+
+José Bleger (1922-1972)
+
+Desarrolló sus estudios sobre la conducta humana en base a las
+ideas de Enrique Pichón Rivière (1907-1977)
+
+Desde sus aportes, se comprende que la conducta humana ...
+
+• reúne todas las expresiones del ser humano y no solo las observables. Incluye e integra
+todo tipo de operaciones –motrices, verbales, fisiológicas y psíquicas– realizadas
+por una persona mientras se propone alcanzar aquello que lo motiva y realizar sus
+posibilidades. El conjunto de operaciones se despliega en forma simultánea al hacerse
+toda conducta.
+
+•  es una unidad, aunque dispone de una triple manifestación que se expresa en tres áreas
+coexistentes: mente, cuerpo y mundo externo. Toda conducta se da al mismo tiempo
+en las tres áreas mencionadas, aunque alguna predomine o se ubique en conflicto con
+las otras. La caracterización de cada área se desarrollará más adelante.
+
+• siempre se trata de una conducta realizada por un ser humano en situación. ¿Qué
+significa en situación? Que la persona en su totalidad articula todas sus expresiones
+(físicas, fisiológicas, psíquicas) en sus circunstancias, es decir, en estrecha relación con
+el contexto histórico-social y ambiental en que vive.
+
+Las personas relatan su manera de conducirse en un momento particular de su vida, lo que
+sienten, piensan y dicen junto con otros, en un momento social y compartido.
+
+Ejemplificamos:
+
+• «Cuando fui al primer encuentro después de tanto tiempo sentía ansiedad, tenía como
+un nudo en el estómago. Llegó y me saludó con un abrazo. ‘Te veo muy bien’, le dije,
+sintiendo mucha alegría.»
+
+• «Salí de mi casa para ir a dar el examen. Sentía mucha ansiedad, imaginaba cómo podía
+ser. Cuando llegué, la mente se me puso en blanco y me quería ir. Pero me puse a
+conversar y se me pasó.»
+
+Muchas escuelas de Psicología consideraron al individuo como un ser aislado, que podía
+ser estudiado fuera de todo contexto, en un laboratorio alejado de la vida común, de sus
+actividades sociales y culturales. Hoy entendemos que al estudiar cualquier conducta humana
+debemos hacerlo en función de su relación con el contexto en el que ocurre, con el conjunto
+de condiciones reales e integrales que configuran una situación en la que ocurre.
+
+Como afirmaba Bleger: los seres humanos que estudia la Psicología, sea en forma individual
+o grupal, deben serlo siempre en función y en relación estrecha con el contexto real de todos
+los factores concretos que configuran la situación. No es lo mismo referirse al hombre de la
+era industrial que al de la esclavitud, y no es lo mismo en la era industrial un período de crisis
+y desocupación que otro de prosperidad. Tampoco son idénticas las situaciones de distintas
+
+. 37 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+épocas de la vida del mismo individuo ni las de sus distintas actividades, incluso en el curso del
+mismo día, no es totalmente el mismo ser humano ni son las mismas condiciones exteriores.
+
+Podríamos decir que el enfoque desarrollado por Bleger se centra en el estudio de la
+conducta como un proceso dinámico, en otras palabras, como conducta en movimiento, a
+través de sus cambios y motivaciones.
+
+Respecto de la motivación de la conducta, la misma hace referencia a aquello que la
+causa o determina, pero esta idea no es tan sencilla como la utilizada en las explicaciones
+conductistas, ya que aquello que motiva a la conducta no es un estímulo externo a ella sino
+que forma parte de la misma conducta. Y, aunque algunas motivaciones parecen estímulos
+que surgen del mundo externo (premios, trabajos, ocupaciones) el ser humano las hace
+propias, las desea y las significa desde su interior.
+
+Las áreas de la conducta
+
+La conducta se manifiesta de distintas formas, se expresa en las llamadas «áreas de la conducta».
+Tales áreas suelen representarse como tres círculos concéntricos en estrecha relación.
+
+área 1: mente
+
+área 2: cuerpo
+
+área 3: mundo
+externo
+
+Un primer círculo (Mente), rodeado por un segundo círculo (Cuerpo) que se rodea por un
+tercer círculo (Mundo externo). La representación de las áreas como círculos concéntricos fue
+graficada por Enrique Pichón Rivière, uno de los más importantes psicoanalistas argentinos.
+
+Veamos un ejemplo de aplicación de la idea de las áreas de conducta al análisis de una
+situación concreta:
+
+La lectura que usted está realizando es una conducta que se expresa en el área de la
+mente, pues mientras lee está pensando en el significado de lo leído. Pero también se
+expresa en el área del cuerpo, pues usted adopta una cierta actitud corporal mientras lee:
+está quieto, sostiene el texto impreso, fija la vista sobre el texto impreso o sobre la pantalla
+de la computadora si no lo tiene impreso. Por último, su lectura implica también una
+actitud respecto del mundo externo, ya que mientras lee suspende momentáneamente
+su relación con lo que lo rodea.
+
+Todas las operaciones que se expresan en las diferentes áreas se entienden en relación
+con las metas (estudiar y recibirse) y las posibilidades (dudas, compatibilización del estudio
+con otras tareas y ocupaciones).
+
+Un error común ha sido el de considerar que la Psicología solo debe ocuparse del estudio de
+conductas «psíquicas/mentales» (área 1), la Biología de las «corporales» (área 2) y la Sociología
+de las «sociales» (área 3). Pero para Bleger, las tres áreas y sus relaciones deben tenerse en
+
+. 38 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+cuenta durante el estudio de la Psicología de la conducta, aunque existan disciplinas que
+profundicen en el estudio de algún área en particular.
+
+Las tres áreas están siempre presentes, coexisten en todo tipo de conducta. Se manifiestan
+a la vez, aunque cada una lo hace de un modo particular.
+
+• Estornudo, pienso que me resfrié y cierro la ventana.
+
+• Mientras viajo, no importa si estoy parada o sentada, pienso en lo que voy a hacer cuando
+llegue a destino.
+
+• Pienso en el examen mientras voy en camino y me pongo ansioso.
+Entre las áreas puede darse coincidencia y también contradicción.
+
+La coincidencia se produce cuando las manifestaciones en las diferentes áreas son
+equivalentes.
+
+• Diviso a mi pareja que llega, corro a recibirla y la saludo efusivamente.
+
+•  Escucho un ruido sospechoso, comienzo a temblar y trato de avisar a mi vecino.
+
+•  Me siento triste, no participo de la conversación con los demás y me aparto de la reunión.
+
+Respecto de la contradicción, se produce cuando la conducta se manifiesta en forma
+
+opuesta en diferentes áreas:
+
+• Tenía muchas ganas de ir pero di muchas vueltas y llegué tarde.
+
+• El día que recibiría su diploma tan deseado amaneció con altísima fiebre.
+
+• Desea estudiar pero no consigue concentración ya que tiene problemas que lo preocupan
+significativamente.
+
+Asimismo, puede darse el predominio de expresión de alguna de las áreas por sobre las otras
+en algún tipo de conducta:
+
+del área 1: imaginar, pensar, creer, repasar mentalmente lo que estudié...
+
+del área 2: comer, poner un clavo, agitarse, caminar...
+
+del área 3: concurrir a una cita, dar un examen, responder un mensaje...
+
+Cuando el predominio de un área se mantiene en la mayoría de las conductas, esto puede
+caracterizar o definir la personalidad de un individuo. Un deportista probablemente se
+manifieste más corrientemente con conductas corporales; un intelectual a través del área
+mente y una persona muy sociable en el área mundo externo.
+
+Actividad 6
+
+Determine, entre las siguientes opciones, aquellas que se refieren a los aportes de J. Bleger
+al estudio de la conducta. Marque con una cruz las afirmaciones que vaya seleccionando:
+
+El estudio de la conducta debe basarse exclusivamente en la observación concreta
+y objetiva de hechos externos.
+
+La conducta humana no puede entenderse comparándola con las de otros animales.
+
+La conducta humana no se modifica, se conserva invariable a través de los tiempos.
+
+La conducta humana reúne diferentes tipos de operaciones que se expresan en diferentes áreas.
+
+Las áreas de manifestación de las conductas están siempre presentes y entre ellas pueden darse
+coincidencias o contradicciones.
+
+. 39 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+Actividad 7
+
+Identifique en los siguientes ejemplos de conductas cuál es el área de expresión que se
+manifiesta predominantemente: 1 (mente) - 2 (cuerpo) - 3 (mundo externo).
+
+Ubique, según corresponda, el número 1, 2 o 3 en cada casillero.
+
+
+Conducta
+
+Jugar a las cartas con los amigos para pasar un momento divertido.
+Caminar y asistir a la clase de yoga regularmente.
+
+Practicar una escala musical en un instrumento para hacerlo
+automáticamente.
+
+Planear la disposición de los muebles en una habitación.
+Releer las poesías favoritas.
+
+Sacar a pasear al perro y llevar a los chicos a la plaza del barrio.
+
+Área predominante
+
+
+. 40 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+UNIDAD 3: La Psicología de la Gestalt
+
+Introducción
+
+Durante la primera década del siglo XX el escenario de la Psicología se había tornado muy
+complejo. Existían debates y controversias entre universidades y espacios dedicados a la
+investigación, situados en diferentes zonas del mundo.
+
+W. Wundt y J. Watson, en distintos continentes, expresaban dos miradas diferentes
+y proponían dos psicologías irreconciliables: mientras una se dedicaba al estudio de los
+contenidos de la conciencia, la otra negaba la posibilidad de estudiar científicamente algo
+que no fuera estrictamente controlable y se enfocaba en el estudio de la conducta, entendida
+como comportamiento observable. Cada escuela adoptó diferentes métodos de estudio, sin
+embargo, ambas acordaron en la importancia del uso de la experimentación en laboratorios
+y se ajustaron a definiciones elementalistas y asociacionistas de sus diferentes objetos de
+estudio. Mientras Wundt estudiaba los contenidos elementales de la conciencia, Watson
+planteaba el estudio de la asociación entre estímulos y respuestas, dos elementos mínimos
+que componen cualquier conducta observable.
+
+Al mismo tiempo que en el continente americano surgía el Conductismo, en Alemania, el
+psicólogo Max Wertheimer publicaba un libro titulado Estudios experimentales sobre la
+visión de los movimientos, en el que comenzaba a desarrollar los postulados fundamentales
+de una nueva escuela, que sería conocida como Psicología de la Gestalt. No existe una
+traducción exacta al castellano del término alemán «Gestalt», se lo suele traducir como forma,
+también como totalidad.
+
+3.1. Un enfoque estructural en Psicología: cuestionamiento al «elementalismo
+asociacionista»
+
+M. Wertheimer y sus compañeros, K. Koffka y W. Köhler, eran alumnos del profesor W.
+Wundt pero, en algún momento, comenzaron a ver limitaciones en el enfoque de su maestro.
+Estudiar contenidos elementales de la experiencia consciente, aislar y analizar los elementos
+mínimos que la componen, solo conducía al alejamiento de la experiencia real e inmediata del
+fenómeno psicológico que emerge en el encuentro con el mundo.
+
+La Psicología de la Gestalt abordó el estudio de los fenómenos de conciencia de una
+manera diferente, considerándolos desde una mirada dinámica y de totalidad, opuesta al
+elementalismo asociacionista aceptado por las Psicologías creadas por Wundt y por Watson.
+Tomaron distancia de los criterios científicos impuestos por el Positivismo, cuestión que
+les permitió arribar a otra definición del objeto de estudio y a variar los procedimientos
+metodológicos.
+
+De acuerdo con los requisitos positivistas, las ciencias de la época debían descomponer
+aquello que estudiaban en sus unidades más simples para luego reunirlas apelando a las
+leyes de la asociación y así describir el conjunto. Sin embargo, la Gestalt descubrió que los
+elementos de cualquier fenómeno estudiado no son entidades separadas entre sí que luego
+se juntan asociativamente. Por el contrario, los elementos están integrados en totalidades
+organizadas que los contienen. Primero se capta la totalidad y luego, a través de un análisis,
+se alcanzan a reconocer los elementos particulares que están incluidos en la totalidad.
+
+. 41 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+El interés por la totalidad tiene un precursor en Charles von Ehrenfels, quien planteó la
+importancia de ciertas «cualidades de la forma» en un trabajo que dio a conocer en el año
+1890. En él describió diversas experiencias realizadas en el área musical. Cuando ubicaba a
+nueve personas en un orden determinado y les hacía repetir determinadas notas musicales,
+entre todas formaban una melodía. Si las cambiaba de lugar haciéndoles repetir la misma
+nota (repetir la misma nota musical pero en orden diferente) se formaba una nueva melodía,
+pero si solo les hacía cambiar el tono de la nota sin modificar el orden original, se podía
+reconocer la melodía primitiva porque la organización o «Gestalt» no había variado.
+
+El trabajo de von Ehrenfels destacaba que la totalidad no es una simple suma de
+partes, pero sus ideas no tuvieron grandes repercusiones en su momento.
+
+Max Wertheimer (1880-1943) fue un psicólogo de origen checo,
+dedicado al estudio de la música en su juventud. En 1990 inició la
+carrera de leyes en Praga, pero al año siguiente pasó a estudiar
+psicología en Berlín. Su inquieto espíritu le llevó a preguntarse
+mientras viajaba en tren ¿cómo llegamos a ver movimiento a
+partir de imágenes de objetos inmóviles? El movimiento no
+se produce físicamente, sin embargo, lo percibimos. ¿Cómo
+explicar este fenómeno?
+
+http://www.alef.mx/vernota.php?/65573/LITERATURA/Max-Wertheimer,-
+fundador-de-la-teoria-Gestalt-de-sicologia-y-de-la-psicologia-de-la-estructura.
+
+En 1912, tras casi dos décadas de los trabajos de von Ehrenfels, Wertheimer publica un libro
+llamado Estudios experimentales sobre la visión de los movimientos, hecho que representa
+el nacimiento de la teoría de la Gestalt como tal.
+
+Otros destacados representantes de esta escuela fueron, como ya mencionamos, Wolfgang
+Köhler y Kurt Koffka.
+
+Wolfgang Köhler (1887-1967) fue gran portavoz de las ideas
+de la Gestalt. Trabajó en una estación experimental en Tenerife
+observando chimpancés y sus modos de resolución de problemas.
+
+Encontró resoluciones inteligentes en estos animales, a través de
+lo que denominó «insight» o comprensión repentina y espontánea
+de la solución de un problema a consecuencia de la reorganización
+de su configuración o gestalt.
+
+Kurt Koffka (1886-1941) intentó desarrollar una teoría general
+de la conducta humana enmarcada en el concepto de campo
+psicológico o ambiente de la conducta.
+
+El campo psicológico articula al individuo y a su ambiente y la
+interacción dentro del campo es la que otorga contenido a la
+conducta.
+
+
+. 42 .
+
+http://thinktwicei.blogspot.com.ar/2013_07_01_archive.html
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+Los tres propusieron una nueva Psicología enfocada hacia el estudio de totalidades,
+entendiendo que las mismas no podían reducirse a la simple suma de partes.
+
+Cualquier totalidad excede la simple suma de las partes que la componen porque, como
+tal, dispone de una organización que no puede encontrarse cuando se analizan sus partes
+por separado. Debido a este enfoque, el lema que caracterizó a la Psicología de la Gestalt fue:
+
+El todo es más que la suma de las partes que lo componen.
+
+La totalidad (Gestalt) aporta significado y organización a los fragmentos que la componen.
+
+Nunca equivale a la simple identificación o recopilación de sus componentes.
+
+Examinemos algunos ejemplos:
+
+Un segundo de proyección de una película cinematográfica se compone de 24
+fotografías, pero no es igual ver una a una la serie sucesiva de 24 fotografías que apreciar
+un segundo de proyección del filme.
+
+La proyección del filme posee una dinámica (un movimiento) que está ausente cuando
+solo miramos la serie de fotografías. Precisamente, esa dinámica que adquieren las
+fotografías, aportada por el movimiento del proyector cinematográfico, permite afirmar
+que el producto filmado no es una simple sumatoria de los elementos. La proyección
+del film nos coloca ante una «totalidad» que no puede reducirse a la adición de sus
+elementos constitutivos.
+
+Los anuncios publicitarios y las marquesinas de los cines parecen desplazarse, sin
+embargo los movimientos no existen físicamente. Los percibimos como efecto de la
+relación entre las partes y no por mirar la sucesión de imágenes que componen el anuncio.
+
+La situación total y la relación dinámica entre las partes en juego desempeñan un
+papel decisivo en la determinación de aquello que se percibe.
+
+La explicación de lo que acontece en los dos ejemplos es simple y contundente: el movimiento
+que se percibe en los dos casos es real por derecho propio y no puede reducirse a una suma de
+sensaciones ni a la presentación de estímulos independientes. Todo intento de análisis de estas
+experiencias «a la manera elementalista y asociacionista», destruiría la realidad del fenómeno.
+
+¿Qué percibimos cuando observamos esta figura?
+
+¿Se trata de un pato o de un conejo?
+
+
+No hay percepción «falsa ni verdadera».
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 43 .
+
+
+En cada caso dependerá de la totalidad que organicemos en nuestra experiencia perceptiva
+consciente. Tal organización no depende de la reflexión ni de la voluntad, la realizamos
+espontáneamente, de modo automático.
+
+
+Si ubicamos el foco
+aquí, es probable
+que organicemos la
+figura de un pato o
+un pájaro con pico,
+ojos, cabeza.
+
+Si ubicamos el foco
+e la mirada en este
+punto, es probable
+que veamos un
+conejo. Su trompa,
+
+ojos, orejas para atrás
+y cabeza.
+
+Con los mismos «elementos» pueden organizarse «dos totalidades» con dos significados
+diferentes. En las dos ocasiones, lo inmediato es organizar una totalidad. Funcionamos
+espontáneamente, componiendo totalidades en la dinámica actual de la experiencia
+consciente.   Si no conociéramos las figuras de patos, gaviotas y conejos, igualmente podríamos
+organizar una «estructura o totalidad». Podríamos decir «no sé qué figura es, nunca vi algo
+igual», sin dejar de referirnos a la totalidad percibida. Es poco probable describir la figura
+como mil trazos curvos (por poner una cifra) de diferentes tonos grises, con espacios en
+blanco entre alguno de ellos. Sería una descripción artificial, posible solo a través de un
+análisis posterior a la percepción de la totalidad o Gestalt.
+
+Observemos otra «ilusión óptica» para profundizar la comprensión de conceptos tales
+como: totalidad o estructura, campo y dinámica, centrales para los psicólogos de la Gestalt.
+
+«A»
+
+Al mirar la figura es poco probable ver algo diferente que una espiral. Esa percepción suele
+ser la más común. Sin embargo, la figura se forma por una serie de círculos concéntricos. Ud.
+puede verificarlo: si parte del punto marcado con la letra «A» y sigue la línea, verá que es real,
+que se trata de círculos.
+
+¿Por qué vemos una espiral? Porque configuramos una totalidad o estructura articulando
+en el campo actual de nuestra experiencia consciente la relación entre los círculos, el fondo de
+líneas que se cruzan y nuestra mirada. Todos los componentes de la figura, en su interacción
+dinámica y disposición, permiten que veamos una espiral. Solo tras el análisis de los detalles,
+
+. 44 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+se puede constatar que se trata de círculos concéntricos. La totalidad que se organiza
+(percepción de la espiral) difiere de la suma de las partes en juego (los círculos concéntricos
+sobre un fondo de líneas curvas).
+
+Al percibir no copiamos los estímulos del mundo «punto por punto» o «parte por parte»,
+no operamos con la fidelidad mecánica de una cámara fotográfica que puede registrar todo
+imparcialmente. Si así fuera, hubiéramos visto los círculos concéntricos sobre un fondo de
+líneas curvas.
+
+Actividad 1
+
+a) Determine la verdad o falsedad de las siguientes afirmaciones según den cuenta de
+un enfoque estructural o gestáltico para la Psicología. Marque con una cruz el casillero
+correspondiente:
+
+V   F
+
+La comprensión de una totalidad puede conseguirse analizando cada parte
+que la compone.
+
+Los elementos de una totalidad cobran su valor de acuerdo a la totalidad en
+la que estén incluidos.
+
+El enfoque de la Gestalt es una continuación del enfoque aceptado por W. Wundt.
+
+Una ilusión óptica no es un error perceptivo sino la totalidad que se configura
+en el momento de percibir lo que se nos presenta.
+
+b) Seleccione por lo menos dos fenómenos que, de modo semejante al ejemplo del filme,
+respondan a la afirmación «el todo es más que la suma de sus partes». Justifique su elección.
+
+3.2 Definición de objeto y método de estudio. El concepto de campo
+
+• Objeto de estudio
+
+En su definición del objeto de estudio, como fue señalado con anterioridad, los psicólogos de
+la Gestalt abandonaron el enfoque elementalista-asociacionista, vinculado con el Positivismo,
+y se dedicaron al estudio de la experiencia consciente definida como una totalidad que
+jamás puede reducirse a la suma de los elementos que la componen.
+
+Una totalidad, recordemos, es una organización en la que sus componentes se captan de una
+sola vez, de manera inmediata, en el campo actual de la conciencia y no un agregado mecánico
+o suma de elementos. Es la característica de todo fenómeno psicológico (una percepción,
+un pensamiento, un recuerdo, la resolución de un problema), en la que la organización es la
+que otorga significado a cada parte y no a la inversa. Por este motivo es que «el todo es más
+que la suma de las partes».
+
+Las sensaciones son solo elementos y, como tales, pueden cobrar distinto significado según
+dónde estén incluidas. Un sabor, un aroma, una textura o un color adquieren sentido según la
+totalidad en la que pertenecen. A modo de ejemplo, el ruido producido por los pasos de una
+persona al caminar cobran diferente significado según se trate de una escena en una calle al
+mediodía o en un callejón solitario en el medio de la noche.
+
+• Método de estudio
+
+La Psicología de la Gestalt se ubicó en una posición crítica al Positivismo. Su orientación
+fue fenomenológica, centrada en la descripción de la experiencia tal y como se presenta.
+
+. 45 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+Si bien utilizaron la experimentación, en muchas oportunidades recolectaron descripciones
+de la experiencia aportadas por personas fuera de la situación de laboratorio. Los gestaltistas
+realizaron observaciones de fenómenos, apartándose del uso exclusivo de los sofisticados
+aparatos de medición que en la época eran utilizados tanto por Wundt como por Watson
+
+-investigadores que seguían respetando las indicaciones del Positivismo en sus métodos y
+definiciones del objeto de estudio-.
+
+• Concepto de «campo»:
+
+La idea de campo se vincula con otros conceptos utilizados por los psicólogos gestálticos:
+proceso unitario, interacción entre partes, relaciones dinámicas (en oposición a relaciones
+fijas o mecánicas) entre los componentes de una totalidad.
+
+Explicar qué se entiende por campo puede ser sencillo y complicado a la vez. Una percepción,
+un recuerdo, un pensamiento, la solución de un problema, son organizaciones globales que
+se alcanzan en el «campo actual de la conciencia». Son el resultado del equilibrio entre las
+partes que configuran el presente de la experiencia consciente.
+
+Los psicólogos de la Gestalt no investigaron cómo se originan las organizaciones ni cuáles
+son sus destinos a través del tiempo, solo sistematizaron las leyes que actúan y permiten
+organizar la experiencia como una totalidad organizada.
+
+Al mirar la foto del gato ¿Qué podemos describir inmediatamente?
+
+¿El gato, sube o baja la escalera?
+
+https://www.clarin.com/sociedad/polemica-gato-sube-baja-escaleras_0_SJWeMhFvml.html
+
+En el cuadro del pintor mexicano Octavio Ocampo, ¿se distingue
+una flor o una boca? Lo que se perciba dependerá de la totalidad que
+cada uno organice en el campo actual de la experiencia consciente
+y, como la dinámica del campo se modifica permanentemente,
+pueden alternarse las figuras que se perciben.
+
+
+. 46 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+Para descubrir las dos figuras femeninas:
+
+¿Una joven o una anciana?
+
+Pueden configurarse las dos imágenes en base a los mismos elementos presentes en el
+campo. El hecho de ver una de las dos figuras y no la otra, o de alternarlas, probablemente
+tenga que ver con la experiencia pasada y los conocimientos y expectativas que cada uno
+dispone, sin embargo, los psicólogos de la Gestalt no se interesaron en explicar el origen de la
+totalidad configurada sino investigar la capacidad de organización de una totalidad, siempre
+la mejor posible y en el momento actual.
+
+Al construir la teoría de campo, elaboraron reglas para entender cómo interactúan los
+componentes para conformar una totalidad. Tales reglas constituyen los principios y leyes
+que explican la organización y la dinámica de cualquier actividad psicológica, no solo de
+la perceptiva. Sin embargo, para ilustrar tales principios y leyes, en el próximo apartado se
+presentarán ejemplos del área de la percepción visual.
+
+Actividad 2
+
+Respecto de los supuestos aceptados por la Psicología de la Gestalt, ubique en el lugar
+apropiado del párrafo cada una de las expresiones claves del siguiente listado.
+
+• ESTRUCTURAL o DE TOTALIDAD (A)
+
+• DINÁMICA (B)
+
+•  W. WUNDT (C)
+
+• EXPERIENCIA PSICOLÓGICA CONSCIENTE (D)
+
+• POSITIVISTA (E)
+
+Los psicólogos de la Gestalt aceptaron un enfoque              , separándose del
+enfoque elementalista y asociacionista aceptado por           .
+
+Aceptaron como objeto de estudio a la              .
+
+Dejaron de ajustarse a los preceptos de la epistemología              .
+
+Respecto de la idea de «campo», la misma indica la importancia de la relación       
+o interacción entre las partes que forman una totalidad.
+
+. 47 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+El Surrealismo fue un movimiento artístico y literario que surgió en Francia a partir
+del Dadaísmo, en la década del veinte del siglo pasado. Como producto del Dadaísmo,
+el surrealismo tomó como base ciertos presupuestos: rebelión contra las convenciones
+literarias y artísticas, así como la burla hacia el artista burgués y sus producciones. La
+propuesta del surrealismo fue buscar y representar una creación y una realidad imaginaria
+e irracional, que va más allá de cualquier realidad física.
+
+(desdeQuien.net: http://www.quien.net/salvador-dali.php#ixzz36v9WmeaR)
+
+Salvador Dalí (1904-1989) ha sido uno de los máximos exponentes del Surrealismo.
+
+Analicemos algunas de las obras de Salvador Dalí para ilustrar el concepto de totalidad
+o estructura caracterizada por su propia dinámica, significado y organización.
+
+«Mercado de esclavos con aparición del busto invisible de Voltaire», 1940.
+
+http://www.taringa.net/posts/imagenes/12965183/Salvador-Dali-Pinturas-sorprendentes.htm
+
+
+. 48 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+l
+
+Detalle del «busto invisible».
+
+El busto se ubica como un elemento de la totalidad, en interacción con otros. Depende
+de la zona del cuadro en el que se dirija la mirada, es posible configurar totalidades con
+diferentes significados.
+
+«El rostro de Mae West», de 1935.
+
+http://www.taringa.net/posts/arte/13301246/Salvador-Dali-un-artista-que-sera-recordado-por-siempre.h
+tml
+
+«Rostro paranoico», 1935.
+
+http://arrinconarte-elrincondelarte.blogspot.com.ar/2013/05/veo-lo-que-quiero-ver-dali-y-el-metodo.h
+tml
+
+. 49 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+Actividad 3
+
+Redacte un texto en el que pueda explicar por qué en estas obras, S. Dalí parece ilustrar
+el lema que identificó a la Psicología de la Gestalt: «La totalidad no se reduce a una suma de
+partes, es mucho más».
+
+3.3. Aportes al estudio de la percepción. Principios y leyes que permiten organizar aquello
+que se percibe
+
+Mientras W. Wundt ubicó a las sensaciones como los componentes más simples e indivisibles
+en la percepción, para la Gestalt esto no fue así ya que en la percepción intervienen otros
+factores que hacen que deba ser estudiada como una totalidad con su particular organización.
+
+Mientras la sensación está relacionada con el estímulo que la desencadena (luces, sonidos,
+olores) y con el sentido involucrado (oído, sistema visual, papilas gustativas), la percepción es
+llevada a cabo por un sujeto en relación con su entorno.
+
+El concepto de sensación fue disminuyendo su importancia debido a su relación casi
+exclusiva con la fisiología de los órganos de los sentidos y la Psicología de la Gestalt se centró
+en el estudio de la percepción.
+
+La Gestalt definió la percepción como una tendencia hacia la organización de aquello que
+se percibe. De ningún modo se entiende como una actividad pasiva dedicada a solo a copiar
+el mundo, tal como lo sostenían otras teorías.
+
+La percepción es la organización de una totalidad a partir del encuentro con los
+estímulos del mundo, existentes en un momento determinado.
+
+Nunca puede reducirse a suma de sensaciones aisladas.
+
+Al percibir, de manera espontánea organizamos totalidades o gestalt.
+
+«El hecho de que no sean las propiedades de cada uno de los estímulos dados sino sus
+interrelaciones (...) las decisivas en la formación de unidades, sugiere inmediatamente la
+idea de que es un intercambio dinámico en el campo el que decide qué llega a ser una
+unidad y qué resulta excluido de ella.»
+
+Köhler, W., Psicología de la forma.
+
+Editorial Argonauta, Buenos Aires, 1948.
+
+La cita anterior muestra un fenómeno muy curioso y abre una serie de interrogantes:
+
+• ¿De qué modo los estímulos presentes en el «campo actual de la experiencia consciente»
+se agrupan formando una unidad o totalidad?
+
+•  ¿Cómo se organiza esa totalidad, reordenando y seleccionando algunos estímulos,
+excluyéndose otros?
+
+Por ejemplo, cuando estamos mirando un programa de televisión centramos nuestra mirada
+en la pantalla, nos focalizamos en ella. La totalidad que percibimos corresponde al interjuego
+de estímulos visuales y auditivos que ofrece la televisión y el resto de los estímulos presentes
+en el ambiente (objetos, personas, luces, sonidos) quedan en un segundo plano.
+
+. 50 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+Justamente, esa especial relación entre los estímulos presentes es lo que conforma el
+
+campo perceptivo.
+
+Ese campo perceptivo está formado por el objeto percibido y el sujeto y, según los psicólogos
+de la Gestalt, la percepción que tiene lugar en ese campo, es decir en esa relación entre el objeto
+percibido y el sujeto, es una totalidad organizada según ciertos principios y leyes.
+
+Principios y leyes de organización del campo perceptivo:
+
+Según lo formulado por los psicólogos gestaltistas, cualquier totalidad está organizada por
+un grupo de leyes y esas leyes se rigen, a su vez, por dos principios generales que actúan en
+todo momento y en toda percepción.¹
+
+• Principio de organización, según el cual toda percepción debe ser entendida como
+una totalidad. Esta otorga sentido a los elementos y no a la inversa. El valor de cada elemento
+del campo perceptivo depende de la totalidad en la que se encuentra incluido.
+
+• Principio de la buena forma o de pregnancia, según el cual la forma organizada es
+siempre la mejor posible y la más simple, acorde con los factores que coexisten en el campo
+perceptivo en un momento determinado.
+
+• Análisis de una figura sencilla en base a los dos principios:
+
+Podríamos describir la imagen de dos modos diferentes: en un caso, decir que se trata de
+una superficie negra con un círculo blanco o, por el contrario, afirmar que es un círculo blanco
+sobre una superficie negra. En ambos casos se cumplirían los dos principios gestaltistas.
+
+Según el primero de ellos «la percepción es una totalidad»: tanto en el caso de la percepción
+para la cual el centro es el círculo blanco (sobre la superficie negra) como en el caso de
+la organización inversa. En ambas configuraciones los dos elementos están en interacción
+y se necesitan mutuamente. La organización de la percepción siempre depende de la
+interrelación entre los elementos que entran en juego.
+
+Si aplicamos el segundo principio, que dice que «la forma de organización de la percepción
+es siempre la mejor posible», es necesario señalar que tanto una como la otra relación entre
+los elementos (centro/fondo) es la mejor en ese momento para el sujeto que percibe porque
+depende de su posición y relación con el campo perceptivo.
+
+Basados en los dos «principios», la Psicología de la Gestalt derivó una serie de leyes de
+organización del campo
+
+1. Ley de la Proximidad:
+
+Los elementos iguales, cercanos en el espacio (o en el tiempo), son percibidos como un
+conjunto y tienden a ser agrupados perceptualmente. Organizamos los conjuntos debido a
+que están facilitados por la proximidad de las partes en juego.
+
+¹ Los principios y leyes se ejemplifican en base a la percepción visual ya que es las más sencilla 
+y directa de
+compartir por este medio. Sin embargo, tales principios y leyes son válidos para experiencias 
+organizadas a través
+
+de cualquier modalidad: auditiva (ej.: la musical), táctil (objetos que tocamos sin verlos), 
+gustativas (degustación
+de una comida), entre otras posibles.
+
+. 51 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+Un grupo de velas.         Un ratón realizado con trozos de quesos.
+
+http://www.icesi.edu.co/blogs_estudiantes/andrea_emicesi2/2012/05/10/la-psicologia-de-gestalt/
+
+2. Ley de la Semejanza o Identidad:
+
+Los elementos semejantes en tamaño, peso, color o forma, presentes en el campo, tienden
+a ser percibidos como un conjunto.
+
+ejemplo 1                ejemplo 2
+
+http://alumnos.unir.net/mariaionescu/2012/12/09/las-leyes-de-la-gestalt/
+
+No mezclamos todas las manzanas, vemos líneas de manzanas enteras y otras, partidas.
+Tampoco mezclamos las huellas de la figura 1. Aplicando la ley de semejanza, vemos dos tipos
+de pisadas.
+
+3. Ley de Figura-Fondo:
+
+Siempre que se percibe una figura (u objeto) se la destaca de un fondo. Esta es una ley
+fundamental. Por lo general percibimos una figura principal y un fondo que contrasta con la
+primera. Cuando no hay una clara diferencia entre la figura y el fondo la percepción puede
+volverse equívoca.
+
+
+. 52 .
+
+http://cursoteoriadelaimagen.blogspot.com.ar/2013/09/41-teoria-de-la-gestalt.html
+http://xgfk11asc.files.wordpress.com/2011/09/principio-figura-fondo2.jpg
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+¿Caballos o cascadas en la ladera de una montaña?
+
+http://thinktwicei.blogspot.com.ar/2013_07_01_archive.html
+
+En toda imagen percibida ubicamos un foco o «figura» desde la que se organiza la totalidad,
+y un «fondo» que acompaña aquello que se ha focalizado.
+
+4. Ley de Cierre:
+
+Existe una tendencia a completar (cerrar) aquellas figuras incompletas para darles un
+significado más preciso.
+
+Aunque no están completas, las siguientes figuras tienden a completarse para entender
+de qué se trata: una masa dulce dibujada con líneas discontinuas o el personaje de Mafalda,
+incompleta ya que no está dibujado su rostro ni su cuerpo.
+
+Una masita.          Mafalda.
+
+http://alumnos.unir.net/facundoandrespuppo/?attachment_id=21; http://xgfk12rla.wordpress.com/about/
+
+5. Ley de la Buena Curva, Destino Común o Continuidad:
+
+Los elementos que tienen una orientación común tienden a ser percibidos como totalidades.
+Líneas hechas con las piezas de ajedrez o círculo realizado con fichas de dominó, en lugar de
+piezas de ajedrez o grupo de fichas de dominó.
+
+http://anaeloisa.wordpress.com/2008/12/08/tema-1-percibir-mirar-ver-poder-contar-no-tener-miedo/
+
+La actuación de los principios y leyes permite la organización de la percepción y del
+conocimiento del mundo que nos rodea.
+
+. 53 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+Actividad 4
+
+a.- Le proponemos mirar el video en el enlace:
+
+https://www.youtube.com/watch?v=XWQrIzVni4Y
+
+Es un video de realización reciente y no de la época en que surgió la Psicología de la Gestalt.
+Hacemos esta aclaración para que tenga en cuenta que, aunque se mencione el compromiso
+del cerebro humano en la organización de la percepción, se continúan aceptando los aportes
+de la psicología de la Gestalt.
+
+Luego de mirar el video sugerido, haga un listado de las ideas que consideró más interesantes.
+b.- Determine qué ley predomina en cada una de las figuras incluidas dentro del recuadro:
+A: Destino Común o Continuidad.
+
+B: Cierre.
+
+C: Semejanza o Identidad.
+
+1.              2.
+
+
+3.              4.
+
+1.             
+
+2.       
+
+3.       
+
+4.       
+
+c.- Actividad de escritura: Organice un breve párrafo explicando ¿qué principios y leyes
+considera Ud. que utilizó S. Dalí en la siguiente pintura?
+
+
+. 54 .
+
+«Galatea de las esferas» (1952) - Salvador Dalí.
+
+http://cuadrosmuybonitos.blogspot.com.ar/2013/08/pinturas-surrealistas-dali.html
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+UNIDAD 4: El Psicoanálisis y el estudio de los
+procesos inconscientes
+
+Introducción
+
+Muy frecuentemente en la vida cotidiana utilizamos el término inconsciente para referirnos
+a cierto tipo de conductas. Por ejemplo, cuando una persona lleva adelante una acción que
+
+«no tuvo la intención de realizar» suele decirse que «lo hizo inconscientemente». ¿Pero cuál
+es el significado científico que posee el término inconsciente?
+
+En el contexto de la Psicología científica este término se corresponde con un concepto
+perteneciente a una teoría creada hacia fines del siglo XIX por un médico austríaco llamado
+Sigmund Freud. Fue él quien investigó por primera vez ciertas acciones aparentemente
+involuntarias y a las que difícilmente se les puede encontrar sentido.
+
+Sus investigaciones lo llevaron al descubrimiento de que esas no son acciones sin sentido, sino
+que, por el contrario, es necesario buscar su significado en una instancia psíquica desconocida
+para el propio individuo, involucrada directamente con ese extraño comportamiento. Esa
+instancia psicológica, respecto de la cual no somos conscientes, consecuentemente fue
+llamada por Freud inconsciente.
+
+El inconsciente se constituyó en el objeto de estudio propuesto por la teoría Psicoanalítica
+creada y desarrollada por Sigmund Freud.
+
+En esta unidad nos aproximamos al estudio de los procesos inconscientes a través del
+desarrollo de algunos conceptos y temas básicos de dicha teoría.
+
+Sigmun Freud (1856-1939) como fundador del Psicoanálisis, dio
+a conocer sus ideas a través de una extensa y reconocida obra.
+
+De formación médica, poco a poco se alejó de los vínculos con
+esa ciencia cuando comenzó la exploración de los fenómenos
+psíquicos.
+
+En el contexto de su época, las enfermedades conocidas
+como "neurosis" -enfermedad de los nervios- desafiaban
+los conocimientos médicos. ¿Se trataba de una enfermedad
+del sistema nervioso, de una debilidad psíquica heredada?
+
+A partir de diferentes observaciones y estudios realizados
+en compañía de reconocidos médicos. S. Freud llegó a formular un concepto central
+para la escuela psicoanalítica: el concepto de inconsciente.
+
+4.1. El inconsciente como objeto de estudio y los métodos para su estudio
+
+Sigmund Freud produjo un cambio muy importante en el campo de la Psicología Científica
+cuando propuso un nuevo objeto y nuevos métodos de estudio, diferenciados de aquellos
+creados por W. Wundt en el marco de la Primera Psicología Científica experimental.
+
+El lugar que ocupaba la conciencia como objeto de estudio en la Psicología experimental
+creada por W. Wundt, fue ocupado por el inconsciente y la introspección experimental
+
+-método utilizado por Wundt-, fue reemplazada por otros métodos que S. Freud fue creando
+sucesivamente en el transcurso de sus investigaciones psicoanalíticas, hasta llegar al que
+finalmente adoptó: asociación libre e interpretación.
+
+. 55 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+¿Cómo llega Sigmund Freud al descubrimiento del inconsciente?
+
+Freud fue un médico neurólogo que llegó al descubrimiento del inconsciente intentando
+resolver los síntomas que presentaban algunos pacientes con una dolencia que en aquella
+época se denominó histeria. En su expresión, un ataque histérico se asemejaba a uno epiléptico,
+pero no se le encontraba el compromiso neurológico.
+
+Las personas sufrían signos muy curiosos, ya que una vez que se recuperaban de los
+ataques histéricos no recordaban nada de aquello que había ocurrido durante el período de
+la enfermedad; y a la inversa, durante el período que duraba el ataque no podían establecer
+relación alguna con lo que le ocurría en la vida normal. La conciencia de la vida normal «no
+sabía nada» acerca de la conciencia propia del momento del ataque histérico, en tanto que la
+conciencia del ataque histérico ignoraba todo acerca de la conciencia propia de la vida normal.
+
+Cuando todavía no se había pensado en la existencia de un psiquismo inconsciente, el
+fenómeno histérico se entendía en relación con la actuación de una «doble conciencia». Con
+tal hipótesis, los médicos de la época se dirigían a encontrar el modo de integrar la conciencia
+dividida como único modo de curación de la histeria.
+
+Freud encaró la búsqueda de otra explicación acerca del origen de esa conciencia dividida
+o escindida y de otros métodos de tratamiento a fin de integrar lo desintegrado y reunir las
+dos conciencias.
+
+En el siguiente fragmento de un diálogo de Freud con una de sus pacientes se
+pone en evidencia el intento de «integrar lo desintegrado»:
+
+—Señorita Katharina: si usted pudiera recordar lo que entonces pasó dentro de
+usted, cómo le entró el primer ataque, qué le pasó entonces por la cabeza, quedaría
+sana.
+
+—Ah, ¡si pudiera! Pero estuve tan aterrorizada que lo he olvidado todo.
+
+Freud S., en Obras Completas, Volumen 2.
+Amorrortu editores, Buenos Aires, 1993.
+
+Freud pide a su paciente que recuerde, suponiendo que de ese modo ella
+
+«quedaría curada de los ataques que se manifestaban en forma de ahogos». Ante el
+pedido, la paciente le responde que por más esfuerzo que ella haga no le es posible
+recordar lo que originó el ataque.
+
+Ante la pregunta del porqué se ha producido este olvido, la paciente ensaya una
+explicación: «Estuve tan aterrorizada que lo he olvidado todo».
+
+En el curso de sus investigaciones, Freud llega a la formulación de la idea de inconsciente,
+definiéndolo como un aspecto fundamental de la actividad psíquica, como el cimiento de
+nuestro psiquismo.
+
+Los fenómenos psíquicos inconscientes que tienen existencia por fuera de la conciencia y
+que ejercen un poderoso efecto sobre ella conformaron el objeto de estudio del Psicoanálisis.
+
+Es indispensable tener en cuenta que aquello desconocido para el sujeto consciente no
+tiene, desde la perspectiva de Freud, ninguna localización anatómica. Sin lugar a dudas, el
+sistema inconsciente tiene carácter psíquico y no somático.
+
+Estas y otras afirmaciones lo condujeron a enfrentamientos con la concepción médica acerca
+de la enfermedad, ya que, aquellos padecimientos que escapaban a la comprensión médica
+no referían a enfermedades de los nervios o «neurosis» sino a trastornos «psiconeuróticos»,
+es decir a enfermedades de carácter psíquico. Sigmund Freud, al dedicarse al problema de
+la enfermedad, el sufrimiento y la curación psíquica, se enfrentó con la práctica médica de la
+época y no con la Psicología experimental y sus investigadores.
+
+. 56 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+Es necesario aclarar que si bien Freud descubre el inconsciente investigando en una
+población de pacientes que sufre perturbaciones psíquicas, con posterioridad hizo extensivo
+el concepto a los individuos sanos, comunes y corrientes considerando así que se trata de un
+sistema propio de todo psiquismo. Actualmente, la división entre consciente e inconsciente
+ya no se considera un fenómeno privativo de la enfermedad sino una característica humana.
+
+Nuestros procesos y contenidos psíquicos inconscientes pueden producir diferentes
+efectos, es decir, pueden darse a conocer mediante manifestaciones que muchas veces
+resultan molestas -ideas absurdas, angustias inexplicables, inhibiciones, conductas que no
+controlamos- o extrañas para nuestra conciencia (por ejemplo, lo que soñamos). Tras el análisis
+de  estos efectos o manifestaciones, Freud afirma que el sistema Inconsciente determina
+el funcionamiento de la vida psíquica consciente sin confundirse con ella. Un sueño, una
+equivocación que abre a otros sentidos, un chiste, una laguna que se nos produce mientras
+estamos hablando y por supuesto un síntoma neurótico, son manifestaciones y productos de
+un trabajo inconsciente y tienen un sentido psíquico aportado desde el sistema inconsciente.
+
+A partir del tratamiento de sus pacientes, Freud estableció que las dificultades que estos
+tenían para recordar algunos acontecimientos o sentimientos conflictivos se debían a la
+actuación de un mecanismo al que llamó represión. Conflictos que habían sido reprimidos y
+parecían olvidados, volvían a aparecer en la conciencia en forma disfrazada e irreconocible y
+ocasionando distintos malestares psicológicos.
+
+Asimismo, S. Freud comprobó que las dolencias estaban en relación con circunstancias de
+carácter sexual, que habían sido significadas durante la infancia como reprobables por parte
+del sujeto. Los contenidos reprimidos de carácter sexual no tenían lugar en la conciencia por
+efectos de la represión.
+
+SÍNTESIS DE LAS CARACTERÍSTICAS QUE DEFINEN AL INCONSCIENTE, UBICADO
+COMO OBJETO DE ESTUDIO DEL PSICOANÁLISIS:
+
+• Tiene existencia psíquica y no somática.
+
+• Su modo de darse a conocer a la conciencia es indirecto, a través de efectos muchas
+veces molestos e incomprensibles para la vida psíquica consciente (sueños, actos fallidos,
+síntomas psíquicos, entre otros).
+
+• Está reprimido, separado o escindido de la vida consciente.
+
+• Aquello que está reprimido es de carácter sexual.
+
+Desarrollo del método de estudio. ¿Cómo encontrar el inconsciente?
+
+Freud llevó a cabo un largo y complejo proceso de búsqueda de un método adecuado
+para el estudio del inconsciente.
+
+La hipnosis y la catarsis fueron los primeros métodos utilizados por Freud durante el período
+en que en los tratamientos buscaba integrar lo desintegrado, unir la supuesta «conciencia
+escindida o dividida» para alcanzar la recuperación de aquello que parecía haberse olvidado.
+
+En su búsqueda resultaron de mucha importancia dos viajes realizados a Francia para
+estudiar con médicos que utilizaban la hipnosis en la cura de la histeria.
+
+El primero de esos viajes fue a París en el año 1884, donde estudió con Jean-Martin
+Charcot en un hospital muy famoso llamado La Salpetrière. Charcot hallaba semejanzas
+entre el sonambulismo histérico y el trance hipnótico. Entre otras cosas, ambos estados eran
+igualmente influenciables, lo que demostraba cierta predisposición para la enfermedad. En
+función de estas hipótesis, Charcot hipnotizaba a sus pacientes, y bajo hipnosis les hacía
+reproducir los síntomas propios de los ataques histéricos.
+
+. 57 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+Dos años más tarde visitó una ciudad de provincia: Nancy. Allí, dos médicos -Liebault y
+Bernheim- también aplicaban la hipnosis con el objetivo de curar a las enfermas de histeria.
+Pero hacían un uso diferente de la técnica hipnótica en comparación con Charcot; trabajaban
+con lo que denominaban sugestión poshipnótica. ¿En qué consistía? Mientras un individuo
+se hallaba hipnotizado se le daba una orden y cuando despertaba, la cumplía; inclusive si se
+le insistía, el individuo recordaba que la orden se la había dado quien lo había hipnotizado. En
+relación con estas observaciones, Freud pensó que si bajo hipnosis el enfermo podía recordar
+un suceso que lo había marcado y excedido, entonces una vez despierto se le podía pedir
+que recordara lo anterior y de ese modo acceder a aquello olvidado y en apariencia difícil de
+recobrar por la memoria.
+
+A su regreso a Viena, Freud trabajó con estas modalidades de la hipnosis. Durante el
+trance hipnótico Freud intentaba que sus pacientes recordaran los pensamientos escindidos /
+apartados de la conciencia normal, tanto del momento del ataque histérico como de sucesos
+anteriores, ligados con las causas de la enfermedad. En este contexto recordar era sinónimo
+de integrar lo escindido.
+
+Pero Freud se vio obligado a abandonar la hipnosis como método porque no todos los
+individuos eran igualmente sugestionables ni se dejaban hipnotizar.
+
+Un episodio muy singular viene a prestarle ayuda en la elección de un nuevo método de
+análisis del inconsciente. Freud fue invitado por un médico llamado J. Breuer a tratar a una
+paciente que presentaba un cuadro clínico de histeria, conocida como «Ana O» (su nombre
+verdadero fue Berta Pappenheim). Si bien Breuer en un primer momento aplicó la hipnosis,
+en verdad su paciente recordaba cuando podía hablar sobre su enfermedad. Ocurría
+que cuando hablaba de los sucesos que relacionaba con los inicios de la enfermedad, esos
+recuerdos eran acompañados por emociones y sentimientos. De ese modo, el recuerdo le
+permitía una descarga emotiva que aminoraba sus síntomas. A este método que consiste en
+la descarga a través de la palabra se lo denominó catarsis.
+
+Poco a poco Freud fue tomando distancia de la técnica utilizada por su colega, creando lo
+que sería el MÉTODO DEFINITIVO DEL PSICOANÁLISIS: la asociación libre, acompañada
+de la interpretación del material asociado por parte del psicoanalista.
+
+La aplicación de tal método debía cumplir con los siguientes requisitos:
+
+1. La asociación libre.
+
+2. La atención flotante por parte del psicoanalista.
+
+3. La interpretación del psicoanalista.
+
+1. Por un lado: la «asociación libre» invita al paciente a relatar todo lo que piensa y siente
+sin aplicar censura o selección alguna y aunque juzgue anticipadamente que sus ideas o
+sentimientos son poco interesantes o inapropiados, con la convicción que el libre discurrir
+del habla favorece que el Inconsciente produzca sus efectos sobre el discurso del paciente.
+
+2. Por otro, el psicoanalista, también se atiene a una regla fundamental, denominada
+
+«atención flotante»; es decir, se dedica a escuchar el relato del paciente sin un objetivo
+particular, tal que pueda atender aquellas pistas producidas por la emergencia indirecta de
+contenidos inconscientes: ambigüedades, dobles sentidos, equivocaciones.
+
+3. También, forma parte del método psicoanalítico la «interpretación» que el psicoanalista
+hace sobre el material producido por el paciente en la situación del tratamiento con el fin de
+resignificar los contenidos reprimidos que se manifiestan indirectamente. Es decir, hacer que
+el paciente reconozca y dé un nuevo significado de aquí en más a sus dolencias inconscientes.
+
+. 58 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+En definitiva, la aplicación del método psicoanalítico en su conjunto –asociación libre,
+atención flotante e interpretación- permitirá al paciente «hacer consciente aquellos
+contenidos inconscientes y reprimidos», devolver a la conciencia aquello que fue desalojado
+por efecto de la represión y que estuvo pugnando por salir, haciendo sufrir al paciente con
+sus efectos disfrazados.
+
+Actividad 1
+
+Le sugerimos mire los siguientes videos:
+
+En la dirección:
+
+https://www.youtube.com/watch?v=H1zwdSQDApI&feature=youtu.be
+
+En este sencillo y ameno video puede encontrarse una reseña de los temas
+trabajados en la unidad.
+
+Se presentan los aportes teóricos y metodológicos más revolucionarios, aquellos
+que impactaron en la cultura del siglo XIX, cuando Sigmund Freud presentó otro
+modo para entender los malestares y logros del ser humano.
+
+En la dirección:
+
+https://www.youtube.com/watch?v=GlBwF5VHVVA
+
+Podrá acceder a datos biográficos, fotografías y una filmación con grabación de
+su voz.
+
+(En la traducción, el relator utiliza términos que no son usuales en nuestro medio.
+Para referirse al psiquismo, utiliza el término mente, los actos fallidos se mencionan
+como errores freudianos; utiliza el término «instinto» e «impulso» en lugar del
+aceptado: «pulsión». Insiste en llamarle psiquiatra en lugar de psicoanalista. Es
+solo una cuestión de traducción, que es de origen estadounidense).
+
+En la dirección:
+
+https://www.youtube.com/watch?v=PDE6jZ6q7xM
+
+Varios psicoanalistas argentinos aportan comentarios y explicaciones que
+profundizan en los temas trabajados en la unidad.
+
+Actividad 2
+
+En cada caso, determine la única opción correcta marcándola con una cruz.
+
+1.- El inconsciente se caracteriza por...
+
+⚪ ser somático y posible de ser modificado a través de estudios experimentales.
+
+⚪ no tener localización anatómica y estar separado de la vida psíquica consciente.
+
+⚪ darse a conocer de manera directa a la conciencia, prestando mayor atención.
+
+. 59 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+2.- Respecto del método de estudio de los procesos inconscientes...
+
+⚪ el uso de la hipnosis fue la mejor opción metodológica ya que era aceptada por otros
+médicos prestigiosos de la época.
+
+⚪ Freud adaptó el uso de los métodos experimentales de la época.
+
+⚪ finalmente, Freud consideró como método a la asociación libre acompañado de la
+
+interpretación.
+
+Actividad 3
+
+Le recomendamos ver la película:
+
+Freud, Pasión secreta.
+
+Producida por John Huston, en 1962.
+
+La ubica en el enlace:
+
+https://vimeo.com/167585309
+
+En la misma se relatan cinco años (a partir de 1885)
+de la vida de Sigmund Freud, tiempo en que gestaba
+la teoría psicoanalítica
+
+4.2. Los dos modelos del aparato psíquico
+
+a. - Primera formulación del aparato psíquico (1912-1915), sus conceptos relacionados.
+
+Freud se pregunta dónde ubicar al sistema Inconsciente y progresivamente fue descubriendo
+que en verdad este no tiene ninguna localización corporal, sino que es una instancia de orden
+psíquico que solo tiene existencia psíquica.
+
+En virtud de sus investigaciones, Freud formuló un primer modelo de funcionamiento y
+constitución del psiquismo humano, un esquema que explica la disposición u organización
+psíquica interna. Este modelo es conocido como PRIMERA TÓPICA y se representó del
+siguiente modo:
+
+CONSCIENTE / PRECONSCIENTE - INCONSCIENTE
+
+Consciente se denomina al contenido actual de la conciencia. Por ejemplo, lo que en este
+momento se encuentra leyendo, lo expuesto en esta página constituye una idea actual.
+Ahora bien, usted puede dejar de leer la página y recordar qué fue lo que desayunó hoy por
+la mañana. De ese modo usted actualiza ideas que no forman parte de la Conciencia pero
+que existen en «estado latente» fuera de la conciencia y con posibilidades de acceder a ella
+(actualizarse). Estas ideas en «estado latente», que pueden ser actualizadas con un pequeño
+esfuerzo, Freud las denominó ideas preconscientes.
+
+La Conciencia, como lugar psíquico, nos hace relacionarnos en forma directa con la realidad
+a través de todo lo que percibimos. Las representaciones conscientes son todo los que
+registramos, ya sea lo que sucede afuera nuestro (lo que vemos, escuchamos, hacemos, etc.)
+como lo que pasa dentro (lo que recordamos, sentimos, lo que buscamos o dudamos, etc.).
+Podemos, asimismo, conocer los contenidos conscientes de manera reflexiva.
+
+El Preconsciente está formado por aquellos sentimientos, pensamientos, fantasías, etc.
+que no están presentes en la conciencia, pero que pueden hacerse presentes en cualquier
+
+. 60 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+momento. No hay que vencer una gran resistencia para que se hagan conscientes. Cuando
+decimos de algo: «Lo tengo en la punta de la lengua», casi siempre estamos haciendo referencia
+
+-sin saberlo- a algo que está representado en nuestro preconsciente.
+
+La Consciencia y el Preconsciente funcionan de acuerdo con las mismas leyes.
+
+El Inconsciente: como ya hemos mencionado, es parte del aparato psíquico y la conciencia
+no sabe nada de él ya que está compuesto de ideas reprimidas.
+
+A través del estudio y tratamiento de sus pacientes, Freud descubre que la imposibilidad
+de recordar algunas ideas no se debía a su falta de fuerza o importancia. Muy por el contrario,
+se trataba de ideas muy significativas para la persona, pero que habían sido apartadas de la
+conciencia por efecto de un mecanismo de defensa fundamental: la represión.
+
+Cuando nos referimos a la REPRESIÓN, no debemos confundir el mecanismo que se encarga
+del desalojo de ideas de la conciencia por resultar conflictivas con los contenidos psíquicos
+que sufren el desalojo. El mecanismo actúa y produce el desalojo de material psíquico que,
+a consecuencia de tal desalojo se convierten en contenido reprimido. Las ideas que fueron
+reprimidas pasan a funcionar bajo el dominio del Inconsciente.
+
+Cuando S. Freud consideró que el Inconsciente está constituido por pensamientos y
+representaciones reprimidas, es necesario tener en cuenta una idea central para la teoría: el
+psiquismo relaciona diferentes componentes que se distinguen entre sí, se oponen y existen
+en conflicto. Cada componente está regido y organizado por diferentes leyes² y, aunque
+se diferencian y enfrentan, ambos conviven en una única totalidad en funcionamiento: la
+personalidad. La existencia de fuerzas de oposición y la falta de síntesis psíquica son
+características centrales psiquismo humano.
+
+ESQUEMA DE LA PRIMERA TÓPICA DEL APARATO PSÍQUICO
+
+
+INCONSCIENTE
+
+(legalidad primaria)
+
+PRECONSCIENTE
+
+(legalidad secundaria)
+
+CONSCIENTE
+
+(legalidad secundaria)
+
+Mundo
+externo
+
+
+Barrera de la represión
+que funda la división
+entre los dos sistemas.
+PRIMERA CENSURA
+
+SEGUNDA CENSURA
+
+1.- SISTEMA CONSCIENTE-PRECONSCIENTE (aunque se distinguen, conforman un único
+sistema que se rige por las mismas leyes)
+
+2.- SISTEMA INCONSCIENTE (que se rige por sus propias leyes)
+
+Los dos sistemas psíquicos conforman el primer modelo de «aparato psíquico» o «Primera
+tópica». Los espacios psíquicos pueden diferenciarse ya que cada sistema se rige por su
+propia legalidad.
+
+Presentamos un cuadro en el que se ubican las dos legalidades psíquicas que regulan los
+dos funcionamientos psíquicos:
+
+
+² Las leyes que organizan a cada sistema del psiquismo se desarrollan en el siguiente apartado.
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 61 .
+
+
+
+LEGALIDAD DEL SISTEMA
+INCONSCIENTE
+
+(legalidad primaria)
+
+LEGALIDAD DEL SISTEMA
+PRECONSCIENTE/CONSCIENTE
+
+(legalidad secundaria)
+
+
+Atemporalidad: los contenidos
+inconscientes no se ven afectados por el
+paso  del tiempo.
+
+Falta de contradicción: coexisten ideas
+opuestas sin generar conflicto. No se
+busca la síntesis ni la articulación o
+coherencia entre las ideas.
+
+Principio de placer: predominio de la
+realidad psíquica por sobre la realidad
+material. Búsqueda de cumplimiento de
+los deseos que producen placer.
+
+Proceso primario: las ideas inconscientes
+pueden desplazarse, combinarse y
+cambiar sus valores libremente, sin
+generar conflictos ni contradicciones.
+
+Rige el orden temporal estricto:
+se delimita claramente el pasado, el
+presente y el futuro.
+
+Existe el principio de contradicción:
+Se busca la coherencia, la síntesis y la
+armonía.
+
+Principio de realidad: Predominio de la
+realidad objetiva y compartida por sobre
+la realidad psíquica. Se acompaña con la
+capacidad de espera y postergación.
+
+Proceso secundario: se reduce al mínimo
+los desplazamientos y cambios de valor
+en una idea. Se busca y se mantiene el
+ajuste de las ideas con la lógica de la
+identidad y la no contradicción.
+
+Represión y otros mecanismos de defensa
+
+En un psiquismo como el que acabamos de presentar, compuesto por sistemas que difieren
+entre sí, con diferentes legalidades, se hace necesario plantear la existencia de «mecanismos»
+dedicados a establecer algún equilibrio entre las fuerzas en conflicto. Uno de tales mecanismos
+es   la represión.
+
+Freud denominó represión al mecanismo que:
+
+• conforma yconserva la división del psiquismo, manteniendo separados el funcionamiento
+del consciente/preconsciente y del inconsciente y
+
+• desaloja las ideas displacenteras o conflictivas para la conciencia, que así pasan a formar
+parte de la vida psíquica inconsciente.
+
+Las operaciones de desalojo que lleva a cabo la represión son fundamentales y necesarias
+para la armonía de la vida psíquica. Intentan mantener el mejor equilibrio posible entre los
+diferentes sistemas psíquicos y, muchas veces, esta tarea se realiza en colaboración con otros
+mecanismos protectores denominados genéricamente mecanismos de defensa, tales como:
+negación, regresión, proyección, racionalización, por mencionar solo algunos.
+
+Auxiliando a la represión en sus tareas de regulación, se encuentran otros mecanismos
+de defensa. Entre otros, ubicamos la negación, la regresión, la proyección, la racionalización,
+la sublimación, la transformación en lo contrario.
+
+Detallamos algunas:
+
+Negación: Es la tendencia a negar sentimientos, pensamientos y acciones propias, por
+evaluarlas como desagradables y angustiantes.
+
+
+. 62 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+Regresión: Por alguna circunstancia desagradable se vuelve a sentir, pensar o comportarse
+como en situaciones anteriores que han resultado agradables.
+
+Proyección: se atribuyen a otros aquellos sentimientos, impulsos y pensamientos propios
+que resultan inaceptables para la persona porque generan angustia.
+
+Racionalización: Se encuentran falsas «razones» para ocultar el desagrado, frustración la
+angustia frente a una situación.
+
+Lo característico es que cuando se aplica cualquier mecanismo de defensa no nos
+damos cuenta de ello.
+
+Originalmente, una idea es expulsada o reprimida de la Conciencia debido a su carácter
+conflictivo y con el fin de mantener el equilibrio psicológico de todo el aparato psíquico. Una
+vez reprimidas, las ideas continúan su existencia en el sistema Inconsciente, no se olvidan ni se
+desgastan, permanecen en estado latente y reprimido, en el Inconsciente. Allí, van cobrando
+fuerza al establecer relaciones con otras ideas reprimidas, a fin de retornar a la Consciencia
+con la potencia adquirida.
+
+Una condición para retornar a la Consciencia es atravesar un proceso de modificación
+para no ser reconocidas y evitar ser nuevamente reprimidas. Es decir, las ideas previamente
+reprimidas pueden volver a la Conciencia solo si cumplen con el requisito de encubrirse para
+no  ser reconocidas.
+
+Además del mecanismo de la represión, disponemos de otro que le es complementario, su
+contracara, que actúa luego de producido el proceso de desalojo. Se denomina mecanismo
+de resistencia, dedicado a vigilar e impedir el retorno de las ideas que fueron reprimidas.
+
+Sin embargo, a pesar de su constante labor de vigilancia, algunas veces la resistencia es
+burlada y ciertas ideas logran retornar a la Conciencia debido a que se han modificado con
+éxito y a que no se reconoce su procedencia.
+
+Si las ideas reprimidas no volvieran disfrazadas y modificadas, a través de alguna formación
+del inconsciente, el material reprimido existiría en el Inconsciente, absolutamente desconocido
+para la vida psíquica consciente. Si no es a través de alguna formación del inconsciente, no
+puede conocerse nada de la vida psíquica inconsciente.
+
+El retorno a la Conciencia de las ideas reprimidas
+
+Las ideas reprimidas, como ya se mencionó, vuelven a la Conciencia después de sufrir
+transformaciones y tras asociarse con otras ideas reprimidas. Cuando retornan, lo hacen
+modificadas y disfrazadas recibiendo el nombre de formaciones del inconsciente. Entre las
+formaciones más conocidas encontramos a los sueños, los chistes, los actos fallidos, los
+olvidos y, en el caso de la psicopatología, los síntomas.
+
+Son manifestaciones que cobran mucha importancia durante el tratamiento psicoanalítico.
+En el libre discurrir de las ideas asociadas -asociación libre-, acompañadas por la atención
+flotante del psicoanalista, es posible realizar una interpretación de tales formaciones y así
+acceder a sus significaciones, desconocidas para la conciencia.
+
+Las formaciones del inconsciente proporcionan pistas indirectas sobre los contenidos
+desconocidos para la conciencia.
+
+No pueden comprenderse fácilmente porque su real significado aparece deformado
+como consecuencia del trabajo que los formó y que se hizo de acuerdo con las leyes que
+rigen el sistema inconsciente (procesos primarios: condensaciones y desplazamientos).
+
+. 63 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+Es así que, si bien el inconsciente se hace conocer a través de los sueños, olvidos, chistes
+o síntomas, no es fácil comprender sus sentidos. Tampoco es necesario desentrañarlos,
+excepto en aquellos casos que expresan conflictos emocionales capaces de perturbarnos
+en algún sentido.
+
+Los sueños
+
+El tema de los sueños ha sido de interés para la humanidad. En todos los tiempos
+se han elaborado fantasías y teorías de lo más variadas sobre los sueños. Hay sueños
+bíblicos, cabalísticos y encontramos obras literarias que se refieren a ellos. Todos tenemos
+experiencia permanente del soñar. Algunas personas recuerdan mejor sus sueños y otros
+afirman no recordarlos nunca. Para algunas personas los sueños son placenteros mientras
+que para otras, suelen estar cargados de angustia.
+
+Para Freud los sueños son el elemento más apropiado para llegar al conocimiento del
+inconsciente, les llamó vía regia para el conocimiento del inconsciente.
+
+En su obra La interpretación de los sueños, publicación fechada en 1900, demuestra
+cómo, de acuerdo con su teoría, los sueños son realización de deseos. ¿Cómo se explica
+entonces que muchas veces soñamos cosas tan desagradables?
+
+Eso se debe a que los deseos que se realizan en los sueños son deseos inconscientes, y
+estos no siempre son coincidentes con lo que deseamos en forma consciente. Esos deseos
+aparecen disfrazados en lo que soñamos y no es sencillo conocerlos ni analizarlos.
+
+En el sueño se distingue entre un contenido manifiesto que es el relato de lo que
+soñamos, y un contenido latente que se refiere al real significado que tiene ese sueño y
+que puede conocerse a través del psicoanálisis.
+
+Los actos fallidos
+
+Los actos fallidos son otra de las manifestaciones del inconsciente. Son aquellos olvidos
+de nombres o palabras, equivocaciones al leer, escribir o hacer algo, sustituciones y
+errores que cometemos en la vida diaria y que se deben a causas desconocidas. Surgen
+involuntariamente y producen cierta incomodidad o sorpresa para el sujeto de la conciencia.
+
+Son una expresión normal de la vida de cualquier persona. A veces ocasionan situaciones
+risueñas, otras desagradables.
+
+Muchas veces cometemos «actos fallidos» en los cuales nos es relativamente fácil
+reconocer el deseo inconsciente que estamos expresando a través de ellos.
+
+Los síntomas neuróticos
+
+Al igual que los sueños y los actos fallidos, se trata de otra de las manifestaciones del
+inconsciente. A diferencia de los anteriores, considerados normales y que ocurren en forma
+permanente, los síntomas neuróticos indican algún grado de sufrimiento psíquico.
+
+Todo síntoma es siempre señal de algo. En el caso de los síntomas neuróticos la señal
+está indicando algún desajuste psíquico entre un deseo inconsciente y la imposibilidad de
+satisfacerlo.
+
+Estos deseos inconscientes son los que aparecen disimulados a través de los síntomas.
+En general los síntomas neuróticos son percibidos como molestos en mayor o menor
+grado por quien los padece. La mayoría de las personas portamos algún tipo de síntoma
+neurótico y esto no es sinónimo de enfermedad mental ni de desequilibrio. Durante el
+tratamiento psicoanalítico es posible desentrañar el origen de esos síntomas y, de algún
+modo, superarlos y resignificarlos.
+
+. 64 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+b.- Segunda formulación de aparato psíquico (1923 en adelante), sus conceptos
+relacionados.
+
+Freud consideró que el primer modelo de aparato psíquico le permitía dar cuenta de
+una importante serie de fenómenos psicológicos, sin embargo, no resultaba adecuado para
+explicar otros. Entonces decidió desarrollar un SEGUNDO MODELO del funcionamiento
+psicológico, conocido también como SEGUNDA TÓPICA.
+
+La formulación de este segundo modelo no invalida al primero sino que lo completa
+y aumenta su capacidad para explicar el conjunto de fenómenos propios de nuestra vida
+psíquica.
+
+Dijimos, al referirnos al primer modelo, que «dando rodeos, las ideas reprimidas retornan a
+la conciencia». ¿De qué modo retornan? A través de las formaciones del inconsciente (sueños,
+síntomas, actos fallidos) que revelan el retorno de lo reprimido pero transformado. Ahora
+bien, cabe una pregunta: ¿cómo comienza la represión? ¿qué parte del aparato psíquico se
+hace cargo de reprimir e implementar los diferentes mecanismos de defensa?
+
+Siguiendo el primer modelo, tendríamos que decir que el proceso se inicia en alguna parte
+de la conciencia. Pero si fuese así, seríamos conscientes de que estamos reprimiendo y eso no
+es lo que observa Freud. La represión, como cualquier otro mecanismo de defensa, no se lleva
+a cabo con conciencia, no es un proceso voluntario ni lo podemos recordar. Para explicar este
+fenómeno -entre otros- Freud debe construir otro modelo del funcionamiento psicológico.
+Este segundo modelo permite explicar mejor el origen de la represión.
+
+Veamos en qué consiste el segundo modelo del aparato psíquico o segunda tópica:
+
+Yo
+Súper-yo
+
+Ello
+
+Definiremos cada una de las instancias a fin de comprender esta nueva formulación.
+
+¿Qué es el Yo?
+
+Es un pronombre que designa a la propia persona que habla y lo utiliza una persona para
+referirse a sí mismo. En el contexto de la Psicología, «Yo» se utiliza para designar al hombre
+en tanto consciente de sí mismo.
+
+En el marco de la primera tópica, Freud utilizaba «Yo» como sinónimo de consciente. Pero
+luego fue precisando este concepto, fue variando su significado. En la formulación de la
+segunda tópica el Yo posee una parte inconsciente.
+
+En la formulación de la segunda tópica, el Yo pone en contacto el mundo externo del
+individuo con su mundo interno y funciona como la parte ejecutiva del psiquismo. Se
+encarga, por ejemplo, de regular el pasaje a la conciencia de los deseos inconscientes y de
+impedir que lo reprimido regrese y genere un conflicto. Dispone de partes inconscientes que
+se encargan de llamar a la actuación del mecanismo de la represión, de la resistencia y de
+los otros mecanismos de defensa auxiliares.
+
+Además de intentar controlar los impetuosos deseos reprimidos, el yo también cumple con
+otras funciones muy importantes tales como percibir, pensar, resolver problemas, establecer
+relaciones con los otros.
+
+. 65 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+¿Qué es el Súper-yo?
+
+El Súper-yo es la instancia psíquica que vela por el cumplimiento de las reglas morales y
+éticas de la cultura. Se encarga de regular dos aspectos: 1) lo que no debe hacerse y 2) lo
+que sí debe hacerse para ser mejor. Al primero se lo llama «conciencia moral» y al segundo,
+
+«ideal del yo».
+
+La Conciencia moral regula la capacidad para la autoevaluación y la crítica. Juzga de modo
+negativo aquellas acciones o ideas que están prohibidas, cumpliendo así funciones de juez y
+censura hacia lo que ejecuta el Yo.
+
+Podría decirse que durante los primeros años de la vida de un niño quienes ejercen el papel de
+jueces y censores son los padres o quienes los representen. Sin embargo, luego de los primeros
+años del niño, esa regulación proveniente del exterior (prohibiciones y permisos) se interioriza
+y es el propio niño quien comienza a juzgar y valorar sus propias conductas. Precisamente, con
+esa transformación, comienza a constituirse la conciencia moral del Súper-yo.
+
+El niño primero orienta su conducta según lo indicado por los adultos, quienes marcan lo
+permitido y lo prohibido: «¡Qué bien lo que hizo el nene, ya sabe comer solito!» o bien: «¡Eso
+quema, no se toca!», surgiendo posteriormente representaciones internas de lo que es o no
+correcto, de las normas sociales y valores de la sociedad en la que vive.
+
+El Ideal del Yo, por su parte, se refiere a las valoraciones positivas inculcadas por los padres
+y que van conformando una autoimagen ideal que indica qué tipo de acciones y pensamientos
+son aprobados y recompensados. Una especie de modelo impuesto por los deseos de los
+padres que queda interiorizado, obligando al Yo a seguir permanentemente sus indicaciones.
+En este componente del Súper-yo se ven reflejadas las aspiraciones que los padres tuvieron
+para con su hijo en forma de exigencias a cumplir en la vida adulta.
+
+Por último, del mismo modo que el Yo, el Súper-yo dispone de aspectos conscientes e
+inconscientes.
+
+¿Qué es el Ello?
+
+En el Ello se alojan los deseos que siempre buscan cumplimiento o satisfacción. Es
+todo inconsciente y por definición siempre es inaccesible a la conciencia. Siempre será
+desconocido y solo puede darse a conocer de modo indirecto al implicarse en las formaciones
+del inconsciente.
+
+La principal función del Ello es el logro del placer y la evitación del dolor o displacer. El Ello
+obedece al principio del placer y se rige por los procesos primarios.
+
+Freud consideró que el aparato psíquico del bebé recién nacido es todo Ello, es todo deseo
+que urge por ser satisfecho. Sus deseos de alimentación, calor, arrullo, placer, amor requieren
+inmediata satisfacción, pero poco a poco va tolerando la espera, reconociendo diferencias y
+situaciones. Este proceso da cuenta del surgimiento del Yo que tiene en cuenta paulatinamente
+las características del mundo exterior. A medida que va creciendo, la experiencia se complejiza
+y aprende que hay cosas que puede hacer y otras que no. En ese momento comienza a
+formarse el Súper-yo.
+
+La relación entre las tres instancias no es sencilla. Si bien el Yo enfrenta la realidad y parece
+tener dominio de las situaciones, muchas veces es invadido por la fuerza del Ello y recibe
+las críticas del Súper-yo. El equilibrio entre las tres instancias está sometida a tensiones y
+conflictos entre diferentes fuerzas.
+
+
+. 66 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+
+CONSCIENTE
+PRECONSCIENTE
+
+INCONSCIENTE
+
+YO    SÚPER-YO
+
+ELLO
+
+segunda censura
+
+primera censura
+
+El funcionamiento del aparato psíquico como conjunto:
+
+El funcionamiento de la organización o estructura psíquica se denomina dinámica que
+requiere para funcionar requiere de energía psíquica. Todas las actividades del psiquismo:
+percibir, razonar, soñar, imaginar, recordar, necesitan de energía psíquica. La cantidad de
+energía psíquica es limitada y se distribuye entre el ello, el yo y el superyó. Cuando una de las
+instancias utiliza mucha cantidad de energía, las otras instancias se debilitan.
+
+Actividad 4
+
+a) Determine la verdad o falsedad de las siguientes afirmaciones:
+
+V   F
+
+La primera tópica está compuesta por el Inconsciente, el Preconsciente y la
+Conciencia.
+
+La segunda tópica se compone por la conciencia, el mundo externo y el Ello.
+
+El principio de placer y los procesos primarios son característicos de la conciencia.
+
+La represión es un mecanismo de defensa del aparato psíquico que regula el
+equilibrio del psiquismo al desalojar de la Conciencia las ideas perturbadoras.
+
+b) Seleccione la única opción correcta:
+
+El primer modelo de aparato psíquico propuesto por Freud:
+
+⚪ Explica las relaciones entre el psiquismo, el cuerpo y la realidad externa.
+
+⚪ Ubica diferentes lugares psíquicos (Consciente, Preconsciente e Inconsciente),
+
+caracterizados por diferentes funcionamientos.
+
+⚪ Está compuesto por el Yo, el Súper-yo y el Ello.
+
+⚪ Es suplantado completamente por un segundo modelo.
+
+. 67 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+4.3. La sexualidad humana
+
+Para comprender qué contenidos psíquicos son los que pueden sufrir las consecuencias
+de las operaciones del mecanismo de represión, resulta indispensable tener en cuenta el
+concepto de sexualidad en el marco de la teoría psicoanalítica.
+
+A diferencia de la idea común y corriente o de la concepción médica dominante en la
+época de Freud, sexualidad no coincide con genitalidad; en realidad la incluye pero a su
+vez, la excede.
+
+Cuando Freud se refiere a la sexualidad no lo hace desde el punto de vista biológico
+sino desde el punto de vista psíquico / psicológico.
+
+Psíquicamente, la sexualidad humana no está predefinida por la herencia o como se sostenía
+en ese momento, por los instintos, a semejanza de lo que sí sucede en todas las otras especies
+animales. En el ser humano, la sexualidad se va conformando desde la más tierna infancia,
+sufre cambios y complejizaciones durante la historia infantil, adquiriendo una singularidad
+en cada individuo. No se inicia con la pubertad sino en el momento del nacimiento, cuando
+se producen las primeras vivencias placenteras que se van inscribiendo y alojando en el
+psiquismo. Sexualidad es sinónimo de placer.
+
+Las experiencias placenteras se conservan sin deterioro a lo largo de toda la vida, desde
+la más tierna infancia. Se representan en el sistema inconsciente involucrando sensaciones
+corporales vividas y sentidas en el encuentro con otro, quien acompañó la producción de
+tales marcas. El proceso es absolutamente necesario, indispensable para nuestra constitución
+como personas. Si no llegara a existir la figura cuidadora que toca, mece, cuida y ama al niño,
+este no llega a organizar la vida psíquica. En este sentido, la sexualidad de la que habla el
+Psicoanálisis es vital y constitutiva de la persona.
+
+El registro de las primeras experiencias de satisfacción inaugura el orden puramente
+psíquico, el de los deseos que son considerados por el Psicoanálisis como el verdadero motor
+que alimenta el funcionamiento psíquico.
+
+De modo simplificado, los deseos se conforman desde la más tierna infancia y en el encuentro
+con los otros, vitales en el tiempo de la crianza. Una vez conformados, son como una brújula
+que guía la búsqueda de aquellos rasgos de placeres ya conocidos por el psiquismo. En esto
+consiste la sexualidad desarrollada por la teoría psicoanalítica, mucho más que lo meramente
+genital. Es placer vital que organiza emociones, sentimientos y pensamientos.
+
+En la realidad externa el reencuentro «tal cual» con aquello que nos produjo placer es
+imposible, sin embargo, bajo la realidad psíquica inconsciente, los deseos no se dan por
+vencidos y nos impulsan a la búsqueda.
+
+• Diferencia básica entre sexualidad humana y animal: concepto de «pulsión»:
+
+Los otros animales están guiados por los «instintos», mientras que el ser humano está
+determinado por la «pulsión sexual».
+
+A diferencia del instinto, la pulsión no posee un objeto predeterminado (igual para todos
+los miembros de una especie) sino que se trata de un objeto singular que cambia de un
+individuo a otro. Qué y quién produce placer es muy variable entre las personas. Depende de
+su historia y la formación de los deseos.
+
+Veamos las diferencias que el mismo Freud establece entre su concepto de sexualidad y las
+ideas populares al respecto vigentes en su época:
+
+. 68 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+«La opinión popular tiene representaciones bien precisas acerca de la naturaleza
+y las propiedades de esta pulsión sexual. Faltaría en la infancia, advendría en la época
+de la pubertad y en conexión con el proceso de maduración que sobreviene en ella se
+exteriorizaría en las manifestaciones de atracción irrefrenable que un sexo ejerce sobre
+el otro y su meta sería la unión sexual o, al menos, las acciones que apuntan en esta
+dirección. Pero tenemos pleno fundamento para discernir en esas indicaciones un reflejo
+o copia muy infiel de la realidad, y si las miramos más de cerca, las vemos plagadas de
+errores, imprecisiones y conclusiones apresuradas.»
+
+Freud Sigmund, Tres ensayos de una teoría sexual,
+
+en Obras Completas, Volumen 7,
+Amorrortu Editores, Buenos Aires, 1995.
+
+En la cita, Freud señala los errores que sostiene el saber popular respecto de las
+características claves de la sexualidad humana. Suele sostenerse que está ausente en la
+infancia, que se despierta recién en la pubertad y que su finalidad es la cópula sexual con una
+pareja del otro sexo.
+
+Por el contrario, Freud fundamentó que desde el momento de su nacimiento el bebé humano
+dispone de conductas sexuales, que la pubertad no marca la irrupción de la sexualidad sino
+un pasaje importante a una sexualidad cuyo placer es genital, y respecto del tercero, sostiene
+que no siempre el fin sexual es genital ni con el otro sexo.
+
+Por tanto, es necesario subrayar que Sexualidad humana:
+
+• No es sinónimo de genitalidad.
+
+• Es mucho más amplia que la genitalidad ya que incluye todas las experiencias placenteras.
+
+• Se define en relación con el placer, siendo el placer genital es uno de los posibles.
+
+Así definida, la sexualidad está presente desde el primer momento de la vida de un individuo,
+y tendrá un desarrollo a lo largo de la vida, y en particular en los primeros años.
+
+Freud denomina «desarrollo psicosexual» al proceso de construcción de la sexualidad. Tal
+desarrollo atraviesa varios momentos o etapas. Para comprender ese desarrollo se deben
+relacionar dos conceptos: libido y zona erógena.
+
+Libido es la expresión de la pulsión sexual, es la energía de la pulsión sexual que tiende
+siempre hacia el logro de placer, hacia la satisfacción. En la terminología psicoanalítica,
+
+«libidinizar algo» se utiliza como sinónimo de «amar algo», ya sea referido a otra persona, un
+objeto, una actividad que se emprende, etc.
+
+En cuanto a las zonas erógenas, son aquellas zonas corporales que se fueron constituyendo
+en fuentes de excitación sexual durante los primeros tramos de la vida, hasta llegar a la
+sexualidad adulta donde encuentran cierta síntesis. Coinciden con zonas del cuerpo que se
+vinculan con experiencias placenteras.
+
+• Desarrollo psicosexual
+
+Freud ha caracterizado un «desarrollo psicosexual» teniendo en cuenta la organización
+de la sexualidad infantil alrededor de alguna zona erógena que produce placer. Si bien una
+zona erógena puede coincidir con una zona corporal, lo más importante es que tal zona se
+envuelva con experiencias productoras de placer psíquico.
+
+. 69 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+Veamos las características de las sucesivas etapas de la evolución psicosexual:
+
+
+ETAPA o
+FASE
+
+ORAL
+
+EDAD
+APROXIMADA
+
+Nacimiento hasta
+los 18 meses
+
+CARACTERÍSTICAS
+
+La zona erógena es la boca. El placer fundamental
+se relaciona con el chupeteo.
+
+
+ANAL
+
+FÁLICA
+
+Entre los 18 meses
+y los 3 años
+
+Entre los 3
+y los 5 años
+
+La zona erógena es el ano. Hay una actividad intestinal
+que causa alivio y placer en su faz expulsiva. Se vincula
+con la retención y la expulsión, el dominio
+
+y la dominación.
+
+La zona erógena son los genitales. Los mismos son
+centros de interés pero aún no pueden ponerse al
+servicio de ningún acto.
+
+
+PERIODO DE
+LATENCIA
+
+GENITAL
+
+2º infancia y hasta
+la adolescencia
+
+Adolescencia
+en adelante
+
+Las pulsiones sexuales y agresivas quedan como
+
+«dormidas», hay un aquietamiento temporario.
+
+Durante la pubertad surgen transformaciones
+madurativas a partir de las que se acentúa la atracción
+sexual. La zona erógena predominante es la genital.
+
+Las primeras pulsiones aparecen apoyadas sobre las vivencias de placer vinculadas con la
+recepción del alimento. Pero, muy pronto ese placer se independiza del acto de alimentación
+y el chupeteo se vuelve placentero en sí mismo, constituyéndose la primera zona erógena:
+labios y boca. Esta misma operatoria se reitera en relación con las funciones excretorias.
+
+La sexualidad del niño no está al servicio de la reproducción sino a la misma práctica
+de las pulsiones parciales (oral, anal y fálica) que buscan ganar placer en el propio cuerpo.
+Todos esos placeres pulsionales / sexuales se van organizando en fases que tienen un orden
+sucesivo, pero a la vez se superponen y coexisten durante el desarrollo.
+
+Luego de la etapa fálica, en la que el niño generalmente construye «teorías sexuales» sobre
+la diferencia anatómica de los sexos y sobre el origen de los niños, comienza un período
+caracterizado por la declinación del interés sexual. Se inicia una etapa de «latencia» en la que
+los pensamientos y sucesos ligados a la sexualidad caen bajo una «amnesia infantil»: el niño
+no los recuerda. Este hecho se relaciona con la acción de la represión que origina y consolida
+la división el aparato psíquico, acompañada con el surgimiento de sus instancias: Yo, Ello y
+Súper-yo básicas del psiquismo humano.
+
+Con la pubertad se inicia la fase genital en la que se va produciendo la subordinación de
+las pulsiones parciales (oral, anal y fálica) a la primacía de los genitales, posibilitando la unión
+sexual y la reproducción. Sin embargo, los modos de satisfacción infantil no se pierden. Freud
+afirmó que el ser humano nunca renuncia a un placer que ha conocido, se lo puede subordinar
+y relacionar con otros, pero nunca perderlo. Las vivencias de placer forman parte de nuestra
+historia y estarán presentes toda la vida.
+
+Actividad 5
+
+Construya un texto definiendo y articulando los siguientes conceptos: instinto, pulsión,
+placer, genitalidad, zonas erógenas y fases del desarrollo psicosexual, a fin de explicar la
+idea de sexualidad propuesta por S. Freud.
+
+. 70 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+Actividad 6
+
+Complete los espacios en blanco del párrafo, teniendo en cuenta las siguientes palabras
+claves: genitalidad, libido, zona erógena, fases del desarrollo psicosexual.
+
+La sexualidad humana no coincide con la noción de           , aunque la incluye
+y a la vez la excede.
+
+La sexualidad se construye a lo largo de una serie de                      
+que, llegada la pubertad, se subordinan a la primacía genital.
+
+Cada fase organiza el placer alrededor de una                    en la que se concentra
+la energía de la pulsión sexual, denominada           
+
+4.4. ¿Cómo definir «Psicoanálisis»?
+
+Psicoanálisis como teoría psicológica, como estrategia psicoterapéutica
+y como método de investigación.
+
+Hemos presentado algunas ideas fundamentales de la teoría psicoanalítica, pero no hemos
+definido al Psicoanálisis en sí. El mismo Freud, en el transcurso de su obra llegó a definir al
+Psicoanálisis de diferentes modos, que ahora vamos a reunir:
+
+a. Un método de investigación de los procesos psicológicos que resultaban inaccesibles
+mediante otros métodos. Un método que se alejó del modelo experimental aceptado por
+las ciencias de la época. En otras palabras, el dispositivo terapéutico se desvinculó del
+laboratorio experimental y sus instrumentos de medición. El consultorio dedicado a la
+atención de personas y el uso de la palabra oral se constituyó en campo del análisis.
+
+b. Una forma de tratamiento, de búsqueda de curación para los sufrimientos de
+carácter psíquico.
+
+La forma de tratamiento se separó del modelo médico ya que el Psicoanálisis ubicó el
+saber y la verdad de la dolencia en el mismo paciente, quien desde sus palabras puede
+dar cuenta de aquello que lo aqueja.
+
+c. Una serie de concepciones sobre lo psicológico que conforman un cuerpo de
+conocimientos específicos. Una producción teórica lograda a partir de la investigación
+rigurosa de diversos tratamientos del sufrimiento psicológico.
+
+En sus orígenes, Sigmund Freud tuvo una intencionalidad exclusivamente terapéutica ya que
+se proponía crear un nuevo método que fuese eficaz para el tratamiento de las enfermedades
+neuróticas. Sin embargo, sus investigaciones y desarrollos teóricos llevaron al Psicoanálisis
+mucho más allá de la meta inicial: desplegar nuevas bases para concebir la vida psíquica. El
+recorrido de esta unidad se dedicó a la presentación y caracterización de los conceptos que
+fundaron la teoría psicoanalítica, entre otros: Inconsciente, Represión, Sexualidad, Modelos
+del funcionamiento del aparato psíquico.
+
+Freud cuestionó los postulados del Positivismo de su época.
+
+La observación de los procesos psíquicos no era posible, ya que no emergen a través
+de datos medibles. Las cualidades del psiquismo humano no se dejan conocer mediante
+métodos de laboratorio ni se dejan predecir. Solo se dejan oír en el tratamiento psicoanalítico,
+
+. 71 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+en el intercambio de palabras entre el paciente y el psicoanalista. Contrario a los principios
+científicos de la época, Freud se dirige a escuchar lo que los otros científicos no tienen en
+cuenta: el sujeto y las singulares formaciones que da a conocer a través de palabras.
+
+Sostuvo la existencia de pensamientos inconscientes, bases de la vida psíquica consciente.
+El concepto de «inconsciente» fue muy criticado, fundamentalmente porque destituyó la
+ilusión de control consciente de todos nuestros actos.
+
+Con sus formulaciones, Freud rompió un presupuesto de la época: que toda la vida
+psíquica es consciente.
+
+Actividad 7
+
+Determine la verdad o falsedad de cada enunciado, según dé cuenta de las características
+del Psicoanálisis. Marque con una cruz el casillero que corresponda:
+
+El psicoanálisis es considerado...                           V    F
+
+Un aporte al estudio de los procesos psicológicos inconsciente y su
+determinación sobre el funcionamiento de la conciencia.
+
+Una forma de tratamiento de dolencias psíquicas que pueden medirse y
+predecirse.
+
+Un desarrollo de la Psicología que se inició a partir de las discusiones con la Gestalt
+y el Conductismo.
+
+Una concepción sobre lo psíquico, un modo de investigación y, a la vez, una
+forma de tratamiento del sufrimiento del ser humano.
+
+Una contribución a la comprensión del desarrollo de la sexualidad humana.
+
+Una ruptura con los supuestos de las psicologías que estudiaban la vida
+psicológica consciente.
+
+http://think.mk/2014/06/25/test-na-sigmund-frojd-koi-vi-se-prioritetite-vo-zhivotot/
+
+
+. 72 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+. 73 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+
+. 74 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+PSICOLOGÍA • B
+
+. 75 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+

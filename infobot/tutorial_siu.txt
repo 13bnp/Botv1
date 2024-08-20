@@ -1,0 +1,627 @@
+ADULTOS 2000
+
+SISTEMA SIU GUARANÍ - MÓDULO AUTOGESTIÓN
+TUTORIAL PARA ESTUDIANTES
+
+Cómo Actualizar los datos personales y modificar el correo electrónico
+
+En el siguiente TUTORIAL  haremos un recorrido por el MODULO SIU-Guaraní
+AUTOGESTIÓN del Programa Adultos 2000 dónde te explicaremos cómo Actualizar
+tus datos personales, cambiar la contraseña y modificar el correo electrónico.
+
+En otros tutoriales, que se encuentran en el campus, podrás ver cómo visualizar tu
+plan, las materias aprobadas, obtener certificados, inscribirte a materias y exámenes.
+
+1. Ingresa a SIU AUTOGESTIÓN
+
+● Link: https://guarani-autogestionadultos.bue.edu.ar/g3w3/
+
+● Completa tu usuario y clave.
+
+2. Para visualizar TUS DATOS DE CONTACTO
+
+Hacer clic sobre tu nombre en la esquina superior y se abrirá un desplegable con las
+siguientes opciones
+
+CONFIGURACIÓN: para cambiar correo de contacto y la contraseña
+CERRAR SESIÓN: para salir del sistema
+
+Si haces clic en CONFIRGURACION podes cambiar tu correo de contacto y la
+contraseña.
+
+1
+
+
+Chequea que tu correo electrónico es el que utilizas habitualmente y que sea correcto,
+ya que a dicho correo te llegaran los mails.
+
+Es importante que si cambias algún dato hagas clic en GUARDAR.
+
+3. Para visualizar y modificar tus datos personales
+
+Ir a MENÚ PRINCIPAL - PESTAÑA TRÁMITES
+
+Al hacer clic en la pestaña TRÁMITES se abrirá un desplegable con las opciones:
+MIS DATOS PERSONALES
+
+SOLICITAR DE CONSTANCIAS Y CERTIFICADOS
+
+Seleccionar MIS DATOS PERSONALES:
+
+2
+
+
+Al hacer clic sobre la opción MIS DATOS PERSONALES la pantalla se actualizará a
+un formulario de datos que debe estar completo y actualizado con tu información.
+
+Podes cambiarlo cada vez que sea necesario.
+
+Los datos que contienen el símbolo (*) – un asterisco entre paréntesis – son
+OBLIGATORIOS  Y DEBEN ESTAR COMPLETOS. En caso de no estar completos
+verás resaltado en rojo la pestaña que tenga datos obligatorios incompletos.
+
+Podes actualizar los datos de todas las pestañas que se encuentran en el menú de la
+izquierda: datos Personales, domicilio, datos de contacto, estudios, financiamiento,
+Datos Laborales, Tecnología, Deportes, Idiomas, Datos de Salud… etc.
+
+Si completas datos o actualizás datos NO OLVIDES HACER CLIC EN EL BOTÓN
+CONFIRMAR para guardar los datos.
+
+Si por alguna razón, no terminas de cargar todos los datos faltantes y no te permite
+CONFIRMAR datos, podes GUARDAR los datos que completaste, y en otro ingreso
+terminar de cargar los datos faltantes y CONFIRMAR.
+
+3
+
+
+ADULTOS 2000
+
+SISTEMA SIU GUARANÍ - MÓDULO AUTOGESTIÓN
+TUTORIAL PARA ESTUDIANTES
+
+INSCRIPCIÓN A MESAS DE EXÁMENES
+
+En el siguiente tutorial te explicaremos cómo inscribirte a las mesas de examen cuándo
+el período de inscripción este abierto de acuerdo al cronograma de Adultos 2000.
+
+1. Ingresa a SIU AUTOGESTIÓN
+
+•  Ingresa a SIU GUARANÍ Autogestión donde encontrarás tus datos.
+
+•  Link: https://guarani-autogestionadultos.bue.edu.ar/g3w3/
+
+•  Usuario: número de identificación
+
+•  Clave:
+
+El Módulo Autogestión está destinado al acceso de estudiantes Para poder acceder, les
+recomendamos ver el instructivo de Acceso al Sistema.
+
+2. Una vez realizado el ingreso, en el Home podrán ver la siguiente información:
+
+3. Deben ingresar a la segunda pestaña llamada INSCRIPCION A EXAMENES.
+
+Les recordamos que únicamente se visualizarán las materias en los periodos vigentes
+de inscripción a Exámenes. Si aún no es la fecha indicada, no verán ninguna materia
+disponible.
+
+En el período de inscripción a mesas de aquí podrán visualizar el total de las MATERIAS.
+Teniendo en cuenta las materias que cursaron en el trimestre seleccionan la que
+corresponda.
+
+1
+
+
+4. Para inscribirse a rendir una actividad, primero deberán seleccionar la Materia
+que quieren rendir del listado que se encuentra en la barra izquierda de la
+pantalla.
+
+La Materia que pueden rendir corresponde con las materias cursadas en el
+trimestre vigente.
+
+Por ejemplo: En caso de buscar una materia en particular, pueden utilizar el buscador
+que se encuentra ubicado al inicio de la lista y escribir el nombre “Matemática”.
+
+Tengan en cuenta que cada Materia ofrece varias mesas con diferentes horarios para
+que puedan elegir. Por lo tanto es importante que lean el día y el horario asignado que
+van a seleccionar.
+
+2
+
+
+5. Luego de encontrar la mesa de la materia deseada, deberán presionar el botón
+INSCRIBIRSE.
+
+Les aparecerá la confirmación en la parte superior.
+
+Pueden visualizar el comprobante haciendo clic en “Mostrar comprobante”, e imprimirlo
+y/o enviarlo por mail a sus casillas.
+
+3
+
+
+Esta acción la deben realizar con cada Materia que han cursado en el trimestre vigente
+y que deseen inscribirse para dar examen.
+
+IMPORTANTE:
+
+En el caso de equivocarse o desear cambiar su selección, podrán darse de baja de la
+mesa de examen de dicha actividad desde el botón DAR DE BAJA.
+
+Únicamente podrán darse de baja e inscribirse nuevamente en el sistema mientras esté
+vigente el período de inscripción a exámenes.
+
+En el caso que se quieran dar de baja a una Mesa de Examen que se inscribieron
+realizan los siguientes pasos:
+
+El botón de DAR DE BAJA se encuentra en la esquina inferior derecha de todas las
+materias a rendir examen en las que se hayan Inscripto.
+
+4
+
+
+Les aparecerá el cartel de confirmación y podrán ver el comprobante. Les volverá a
+aparecer el botón para volver a inscribirse.
+
+DÓNDE VER MIS INCRIPCIONES A MESAS DE EXÁMENES
+
+Para consultar sus inscripciones deberán ir a la pestaña REPORTES / MIS
+INSCRIPCIONES, donde visualizarán la/s mesa/s de exámenes de cada actividad/es
+registrada/s.
+
+5
+
+
+Desde esta opción también podrán descargar el comprobante, presionando GENERAR.
+
+El comprobante que se visualiza es el siguiente:
+
+6
+
+
+ADULTOS 2000
+
+SISTEMA SIU GUARANÍ - MÓDULO AUTOGESTIÓN
+TUTORIAL PARA ESTUDIANTES
+
+Cómo ver los mensajes de SIU
+
+En el siguiente TUTORIAL  haremos un recorrido por el MODULO SIU-Guaraní
+AUTOGESTIÓN del Programa Adultos 2000 dónde te explicaremos cómo visualizar
+los mensajes de SIU.
+
+En otros tutoriales, que se encuentran en el campus, podrás ver cómo actualizar tus
+datos personales, visualizar tu plan, las materias aprobadas, obtener certificados,
+inscribirte a materias y exámenes.
+
+1. Ingresa a SIU AUTOGESTIÓN
+
+● Link: https://guarani-autogestionadultos.bue.edu.ar/g3w3/
+
+● Completa tu usuario y clave.
+
+2. TUS MENSAJES
+
+Junto a tu nombre, verás el dibujo de un sobre con un número que indica la cantidad
+de mensajes recibidos. Hacé clic para ingresar a visualizar los mensajes.
+
+1
+
+
+ADULTOS 2000
+
+SISTEMA SIU GUARANÍ - MÓDULO AUTOGESTIÓN
+TUTORIAL PARA ESTUDIANTES
+
+Cómo visualizar el plan de estudios, materias aprobadas y materias que restan
+cursar
+
+En el siguiente TUTORIAL  haremos un recorrido por el MODULO SIU-Guaraní
+AUTOGESTIÓN del Programa Adultos 2000 dónde te explicaremos:
+
+1. Dónde ver la organización de tu plan de estudio (propuesta).
+
+2. Dónde ver las calificaciones de las materias aprobadas (cursada o por
+equivalencia)
+
+3. Dónde ver las materias que te restan cursar y el avance en tu plan de estudios.
+
+4. Dónde ver tu promedio y porcentaje de avance en la carrera.
+
+En otros tutoriales, que se encuentran en el campus, podrás ver cómo actualizar tus
+datos personales, ver los mensajes de SIU, visualizar tu plan, las materias aprobadas,
+obtener certificados, inscribirte a materias y exámenes.
+
+Ingresa a SIU AUTOGESTIÓN
+
+•  Link: https://guarani-autogestionadultos.bue.edu.ar/g3w3/
+
+•  Completa tu usuario y clave.
+
+1. Dónde ver la organización de tu plan de estudio (propuesta)
+
+En el campo PROPUESTA vas a ver el nombre del plan de estudio (propuesta) que
+estás cursando.
+
+Importante: en el caso que comenzaste a cursar antes del 2014/2015 con el plan de
+estudios anterior en la sección propuesta se va a abrir un desplegable con 2 opciones
+
+•  Plan Bachiller (plan anterior)
+
+•  Plan Bachiller con orientación en Ciencias Sociales y Humanidades (plan actual)
+
+ Para  conocer  cómo  se  organiza  tu  plan  de  estudios             
+
+1
+
+
+1.1. Ir a PESTAÑA REPORTES: Haciendo clic en la pestaña REPORTES se abrirá
+un desplegable con diferentes opciones, como verás en la siguiente imagen.
+
+1.2. Hace Clic en PLAN DE ESTUDIOS:
+
+En este apartado podrás ver todas las materias que necesitas tener aprobadas para
+finalizar tus estudios secundarios en Adultos 2000.
+
+También vas a ver las notas de las materias que vas aprobando a lo largo de la cursada
+y las correlatividades necesarias para poder cursar otras materias.
+
+1.3. Para visualizar el plan en detalle, hace clic en el botón EXPANDIR marcado en
+
+ROJO en la imagen.
+
+1.4. También podés descargar la información en formato Excel o PDF, haciendo clic
+en la opción destacada en AZUL en la imagen.
+
+2
+
+
+2. Dónde ver que materias aprobaste (cursadas en Adultos 2000 o que se
+otorgaron equivalencia)
+
+2.1. Ir a PESTAÑA REPORTES
+
+Haciendo clic en la pestaña REPORTES  se abrirá un desplegable con diferentes
+opciones, como verás en la siguiente imagen:
+
+2.2. Hace clic en HISTORIA ACADÉMICA  para ver  las materias cursadas
+aprobadas/desaprobadas, las materias otorgadas por equivalencia (en SIU
+actividad es sinónimo de materia)
+
+2.3. Selecciona con un tilde en la columna filtro la información que quieras ver, o
+también podés seleccionar alguna de las consultas habituales en la imagen.
+
+2.4. En el caso que quieras verificar qué materias aprobaste porque se otorgó
+equivalencia tilda en “Equivalencias aprobadas”
+
+2.5. En el caso que tildes la opción TODOS los filtros, podrás ver el registro de toda
+tu recorrido en el programa.
+
+3
+
+
+2.6. También podes descargar la información en formato Excel o PDF, haciendo clic
+en la opción destacada en AZUL en la imagen.
+
+3. Dónde ver las correlatividades de cada materia
+
+Esta información te permite conocer si cumplís los requisitos para anotarte en las
+siguientes materias.
+
+3.1. Hace Clic en Reporte - PLAN DE ESTUDIOS:
+
+4
+
+
+3.2. Clic en el botón EXPANDIR marcado en ROJO en la imagen.
+
+3.3. Clic en VER, en la columna “Correlativas”, marcado con NARANJA en la
+imagen.
+
+3.4. Al hacer Clic se abrirá el detalle de correlatividades de la materia.
+
+3.5. Podes hacer clic en VERIFICAR (recuadro ROJO de la imagen) para saber si
+estas en condiciones de cursar esa materia.
+
+Al hacer clic en verificar, el sistema despliega un aviso de tu situación: que confirma si
+podés cursar la materia o no
+
+5
+
+
+Si no podes cursar la materia porque es requisito tener aprobada una anterior verás un
+cartel que te indica:
+
+4. Dónde ver tu promedio y porcentaje de avance en la carrera:
+
+4.1. Ir a PESTAÑA REPORTES
+
+Haciendo clic en la pestaña REPORTES  se abrirá un desplegable con diferentes
+opciones, como verás en la siguiente imagen:
+
+4.2. Hacer clic en Promedio y porcentaje de avance en la carrera.
+
+En esta pantalla podrás visualizar tu información de promedios y porcentajes de la
+carrera.
+
+6
+
+
+ADULTOS 2000
+
+SISTEMA SIU GUARANÍ - MÓDULO AUTOGESTIÓN
+TUTORIAL PARA ESTUDIANTES
+
+Cómo descargar las constancias
+
+En el siguiente TUTORIAL  haremos un recorrido por el MODULO SIU-Guaraní
+AUTOGESTIÓN del Programa Adultos 2000 dónde te explicaremos cómo descargar
+los certificados.
+
+Como estudiantes pueden descargar las siguientes Constancias y Certificados en SIU/
+Autogestión, validados mediante código QR:
+
+-  Constancia de ALUMNO REGULAR
+
+-  Constancia de EXAMEN
+
+Pasos a seguir
+
+1. Ingresa a SIU AUTOGESTIÓN
+
+● Link: https://guarani-autogestionadultos.bue.edu.ar/g3w3/
+
+●  Completa tu usuario y clave.
+
+2. Hace Clic en Trámites
+
+1
+
+
+3. Clic en Solicitar trámites y certificados
+
+4. Clic en Nueva solicitud
+
+5. Seleccionar la constancia de Estudiante regular o constancia de examen (esta
+constancia puede descargarse cuando la nota esté cargada en SIU, 24/48 hs.
+luego del turno de examen)
+
+6. Indicar 1 en cantidad de copias
+
+7. Clic en Guardar
+
+8. Se visualizará una pantalla con la constancia en PDF. Hacer clic en el ícono para
+descargar
+
+2
+
+
+En caso de solicitar constancia de EXAMEN, debe completar los siguientes campos:
+
+Año académico: el año en curso (ej.: 2023)
+
+Turno de examen: el período de exámenes que corresponde a la constancia a solicitar
+(ej.: Agosto/ Septiembre 2023).
+
+Actividades
+
+Luego, apretamos buscar.
+
+Inmediatamente aparecerán los exámenes rendidos (cuya nota ya está cargada en SIU)
+en el desplegable que sigue como se muestra en la imagen:
+
+Al guardar, se genera el PDF para que puedan descargar, imprimir y enviar.
+
+3
+
+
+El resto de las constancias deberán solicitarlas por los canales habituales al Programa
+de Adultos 2000:
+
+Constancias a solicitar con documentación PROVISORIA:
+
+•  Vacante/ inscripción
+
+•  Alumno/a regular con firma de las autoridades
+
+•  Constancias requeridas por establecimientos de seguridad social (FOTE, PROGRESAR,
+Terminalidad educativa).
+
+Constancias a solicitar con documentación DEFINITIVA:
+
+•  Materias aprobadas
+
+•  Materias adeudadas
+
+•  Título en trámite
+
+•  Constancia de pase
+
+4
+
+
+/educacionBA                      buenosaires.gob.ar/educacion
+
+Terminá la secundaria
+
+Adultos 2000
+
+Inscripción a materias
+
+Sistema SIU Guaraní Autogestión
+
+La inscripción a materias está abierta en los momentos del año que se indican
+en el cronograma académico de Adultos 2000.
+
+Si es la primera vez que te inscribís a materias, al finalizar el proceso vas a
+recibir un correo electrónico con los datos para ingresar al campus.
+
+Una vez realizada la inscripción a la materia te va a figurar en tu espacio
+personal del campus virtual.
+
+Ingreso a SIU Guaraní autogestión
+
+Ingresá a la plataforma SIU Guaraní Autogestión con tus datos:
+
+• Link para acceder a la plataforma:
+
+https://guarani-autogestionadultos.bue.edu.ar/g3w3/
+
+• Usuario: número de identificación
+
+• Contraseña: si ingresás por primera vez tu contraseña es tu número
+de identificación.
+
+Una vez que hayas ingresado vas a ver la siguiente información.
+
+
+/educacionBA                      buenosaires.gob.ar/educacion
+
+Importante
+
+• Revisá que en el cuadro superior derecho figure: Propuesta Bachiller
+con orientación en Ciencias Sociales y Humanidades.
+
+• Si es la la primera vez que ingresás a SIU Autogestión, tenés que
+acceder en la sección «Trámites» y actualizar todos tus datos
+personales y censales.
+
+Después de completarlos hacé clic en «Guardar», y al finalizar la
+totalidad de la carga y/o actualización de datos, hacé clic en
+
+«Confirmar».
+
+Es importante actualizar tus datos en el primer ingreso, ya que sino
+el sistema te pedirá actualizarlos antes de cada acción que quieras
+realizar en la plataforma.
+
+En rojo vas a ver los datos obligatorios que faltan completar.
+
+
+/educacionBA                      buenosaires.gob.ar/educacion
+
+Inscripción a materias
+
+Para comenzar hacé clic en la pestaña «Inscripción a materias». Ahí podrás
+visualizar todas las materias a las que podés inscribirte. En este listado solo
+aparecerán las materias que aún no hayas aprobado.
+
+Importante
+
+• Recordá que el plan de estudios tiene materias correlativas, es decir
+que es necesario cursarlas y aprobarlas en un orden determinado.
+
+• Si recién ingresaste al programa, solo podrás anotarte en la primera
+materia obligatoria: «Orientación y tutoría».
+
+Para inscribirte en una materia, primero tenés que seleccionarla en el listado
+que se encuentra en la barra izquierda de la pantalla. En caso de buscar una
+materia en particular, podés utilizar el buscador que se encuentra ubicado al
+inicio de la lista en el recuadro naranja de la imagen.
+
+
+/educacionBA                      buenosaires.gob.ar/educacion
+
+Importante
+
+En cada materia pueden figurar varias comisiones. Seleccioná cualquier
+número. Todos/as los/as estudiantes formarán parte del mismo grupo.
+
+Después de hacer clic en la materia deseada, tenés que presionar el botón
+
+«Inscribirse». Posteriormente aparecerán dos mensajes:
+
+1. La confirmación de inscripción aceptada con el número de trámite
+correspondiente. Esto indica la finalización exitosa del proceso de
+inscripción.
+
+
+/educacionBA                      buenosaires.gob.ar/educacion
+
+2. En la opción «Mostrar comprobante» podés imprimirlo en formato
+PDF en tu computadora, o enviarlo por correo electrónico a la
+casilla registrada en tu sesión. Para enviarlo por correo seleccioná la
+opción indicada en la la siguiente imagen:
+
+Si tenés dudas sobre el campus virtual y la plataforma SIU autogestión, podés
+consultar más tutoriales en:
+
+https://campusadultos2000.bue.edu.ar/course/view.php?id=47
+
+
+/educacionBA                      buenosaires.gob.ar/educacion
+
+Terminá la secundaria
+
+Adultos 2000
+
+¿Cómo ingresar a SIU autogestión?
+
+Estudiantes inscriptos en Adultos 2000 en años
+anteriores a 2023
+
+A partir de 2023 Adultos 2000 implementa el sistema SIU Guaraní. Por eso, si te
+inscribiste en Adultos 2000 en el 2022 o en años anteriores tenés que seguir estos
+pasos obligatoriamente para ingresar al sistema y contar con toda tu información.
+
+Primer ingreso
+
+Enlace de acceso:
+
+https://guarani-autogestionadultos.bue.edu.ar/g3w3/
+
+Al ingresar por primera vez, deberás hacer clic en la opción OLVIDASTE TU
+CONTRASEÑA O SOS UN USUARIO NUEVO.
+
+Se cargará una nueva página, donde deberás completar los datos requeridos y
+presionar «Continuar».
+
+
+/educacionBA                      buenosaires.gob.ar/educacion
+
+El sistema te enviará un mail a la casilla de correo registrada para que puedas
+generar una contraseña.
+
+Importante
+
+El navegador puede bloquear el primer ingreso, al no permitir ventanas
+emergentes, la solución:
+
+•  Google Chrome: Hacer clic en la X roja, donde aparecerá el menú de
+pop-ups donde deben seleccionar «PERMITIR SIEMPRE VENTANA
+EMERGENTE».
+
+1.
+
+2.
+
+3.
+
+
+/educacionBA                      buenosaires.gob.ar/educacion
+
+Mozilla Firefox: Hacer clic en «Opciones» y seleccionar «Permitir
+ventanas emergentes».
+
+Luego de generar la nueva contraseña, deberás volver a la página de Acceso
+para ingresar al sistema.
+
+Usuario = DNI / DNT / CI / PASAPORTE (Según Identificación Registrada)
+
+Clave = CONTRASEÑA GENERADA
+
+Al presionar «INGRESAR», cargará la página principal del Módulo Autogestión
+del SIU-Guaraní.
+
+
+/educacionBA                      buenosaires.gob.ar/educacion
+
+Perfil Estudiante: donde podrás ver la/s propuesta/s a las que te encontrá
+inscripto/a y las operaciones que te permite realizar el perfil (inscripciones a
+cursada, inscripciones a exámenes, consultas sobre reportes, trámites, etc.).
+
+MESA DE AYUDA:
+
+Ante cualquier problemática y/o inconveniente de tipo TÉCNICO, podés
+contactarte con nuestra Mesa de ayuda
+

@@ -1,0 +1,4649 @@
+Más
+
+ESCUELA
+
+Guía de estudio        Educación Adultos 2000
+
+Educación           A
+
+TECNOLÓGICA
+
+*Material de distribución gratuita
+
+Terminá la secundaria
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+Jefe de Gobierno
+
+Horacio Rodríguez Larreta
+
+Ministra de Educación
+
+María Soledad Acuña
+
+Jefe de Gabinete
+
+Luis Bullrich
+
+Subsecretaria de Coordinación Pedagógica y Equidad Educativa
+
+María Lucía Feced Abal
+
+Subsecretario de Tecnología Educativa y Sustentabilidad
+
+Santiago Andrés
+
+Subsecretario de Carrera Docente
+
+Manuel Vidal
+
+Subsecretario de Gestión Económico Financiera y Administración de Recursos
+
+Sebastián Tomaghelli
+
+Subsecretaria de la Agencia de Aprendizaje a lo Largo de La Vida
+
+Eugenia Cortona
+
+Director General de Planeamiento Educativo
+
+Javier Simón
+
+Director General de Educación de Gestión Estatal
+
+Fabián Capponi
+
+Directora de Educación del Adulto y Adolescente
+
+Sandra Jaquelina Cichero
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+Adultos 2000
+
+Guía de Estudios
+Educación
+
+Tecnológica A
+
+Coordinador:
+
+Lic. Emiliano A. Abadi
+
+
+Tercera edición marzo 2020
+
+Equipo Docente:
+Prof. Natalia Lippai
+Prof. Rodrigo Monti
+Prof. Carolina Tamame
+Prof. Marcelo Velisone
+
+
+. 4 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 5 .
+
+
+Índice
+
+EDUCACIÓN TECNOLÓGICA • A
+
+Presentación de la materia                   8
+
+Introducción                                         8
+
+Objetivos                                           10
+
+Hoja de ruta                                         11
+
+Requisitos de aprobación                                 11
+
+UNIDAD 1: Procesos y tecnologías de producción    12
+
+1. ¿Qué sabemos sobre los procesos de producción?               17
+
+2. De los insumos a los productos                           22
+
+3. Las operaciones en los procesos                          23
+
+4. Técnicas de transformación de materiales                    24
+
+5. La energía en los procesos de producción                     26
+
+5.1. El proceso de producción (transformación) de energía              28
+
+6. Los procesos y la información                            29
+
+7. La información como insumo de un proceso                   29
+
+Actividad de autoevaluación                                31
+
+Unidad 2: Procesos y tecnologías de control automático 31
+
+1. ¿Qué es el control automático?                           33
+
+2. ¿Qué tipos de sistemas automáticos existen?                  39
+
+3. ¿Qué impactos tiene la automatización? El caso de los robots         44
+
+Actividad de autoevaluación                                46
+
+Unidad 3: Procesos y tecnologías de las
+telecomunicaciones                   47
+
+1. Los primeros sistemas de telecomunicaciones                 48
+
+1.1. La necesidad de retransmitir                             49
+
+2. De la telegrafía a la telefonía                             53
+
+3. Las comunicaciones digitales                            57
+
+4. Los medios de transmisión                              60
+
+5. Las telecomunicaciones como sistemas                     63
+
+Actividad de autoevaluación                                64
+
+Unidad 4: El proceso de creación de tecnologías.
+
+El proceso de diseño.                      65
+
+1. El diseño como creación de lo artificial                      67
+
+2. El proceso de resolución de problemas de diseño                73
+
+3. El diseño a través de la historia                           74
+
+4. Obsolescencia programada                             77
+
+Actividad de autoevaluación                                78
+
+Bibliografía de referencia                   81
+
+Documentos curriculares específicos de referencia                  81
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+
+
+. 6 .
+
+02-08-2024
+
+. 7 .
+
+
+Presentación de la materia
+
+La Educación Tecnológica aborda un conjunto de conceptos que trascienden a las
+particularidades de cada tipo de tecnología y que perduran a pesar de los cambios
+tecnológicos. Entre las nociones y los conceptos generales se encuentran las operaciones
+de transformación, almacenamiento y transporte sobre flujos de materiales, de energía y de
+información. Se analiza el modo en que estas operaciones se crean o se modifican, la manera
+en que se controlan, los medios técnicos que se emplean y el modo en que se relacionan
+y organizan formando procesos. En el transcurso de esta materia profundizaremos sobre
+los siguientes ejes temáticos:
+
+•  Procesos y tecnologías de producción.
+
+•  Procesos y tecnologías de control automático.
+
+•  Procesos y tecnologías de las telecomunicaciones.
+
+•  Procesos de creación de tecnologías: el proceso de diseño.
+
+Si bien cada una de estas temáticas posee un cuerpo de conocimientos específicos que
+la caracteriza, el enfoque propuesto para el área crea las condiciones para reconocer que
+el conjunto de los procesos y las tecnologías puede ser considerado como un sistema,
+más que como una agrupación de elementos independientes. Les propondremos un
+estudio que priorice la experimentación, la resolución de problemas y la reflexión; que
+les permita poner en juego capacidades de anticipación, diagramación, representación y
+modelización, combinando lógicas algorítmicas y estrategias heurísticas que favorecen el
+desarrollo del pensamiento técnico. La Educación Tecnológica cumple un lugar equivalente
+al de las otras áreas del conocimiento pertenecientes a la Formación General, ofreciendo
+marcos conceptuales e interpretativos que permitan comprender a la tecnología desde
+una perspectiva cultural. Esto se logra gracias a que, más que estudiar los procesos y las
+tecnologías, el área centra su atención en las relaciones entre las tecnologías y los seres
+humanos que las crean, las producen y las utilizan. Se propone así, contribuir a que asuman
+miradas amplias y desprejuiciadas sobre la tecnología, desarrollando el pensamiento crítico
+y reconociendo el modo en que las condiciones del medio técnico, social y económico
+influyen sobre la creación de tecnologías y, a la vez, son depositarios de sus efectos. La
+Educación Tecnológica puede entenderse como un área socio-técnica, porque si bien su
+objeto de estudio son los artefactos y artificios creados por el hombre, centra su atención
+en la relación entre estas creaciones y las personas como parte de un medio, un contexto,
+un lugar, una época, una cultura. En cada uno de los cuatro bloques temáticos en que se
+agrupan los contenidos de Educación Tecnológica se incluye a la Informática y a las TIC.
+En particular, se incluyen contenidos específicos del campo informático relacionados con
+la resolución de problemas, creando algoritmos y codificando a través de lenguajes de
+programación; la puesta en práctica de estrategias para la modelización, el procesamiento
+y la comunicación de información mediante herramientas informáticas; el conocimiento de
+las características de los sistemas, procesos y recursos informáticos; la integración de los
+sistemas informáticos a las telecomunicaciones (Internet), a los procesos de producción
+
+EDUCACIÓN TECNOLÓGICA • A
+
+de la cual el ser humano modifica intencionalmente el medio en relación a sus propósitos
+y necesidades. Es por ello que se considera que la tecnología data desde los primeros
+homínidos, quienes al transformar el entorno natural en el que transcurría su vida cotidiana
+fueron creando la artificialidad a la que llamamos cultura.
+
+El siguiente video te permitirá profundizar en la acción
+humana trasformando su entorno.
+https://www.youtube.com/watch?v=QhldyD-kmlE
+
+Analizaremos la técnica como una actividad social que surge desde los inicios de la
+historia, donde el ser humano ha ido modificando su ambiente, creando cultura para
+satisfacer sus deseos y necesidades. El «quehacer técnico» requiere ser analizado desde
+el contexto donde surge, considerando las normas y los valores de la sociedad que lo
+produce. En nuestros estudios haremos hincapié, no solo en las características de los
+productos tecnológicos que se crean, sino también en los procesos de elaboración, diseño
+y producción en un momento y lugar determinado. Nos centraremos en las tecnologías
+contemporáneas, incluyendo una mirada en perspectiva que permita reconocer los
+cambios y continuidades a través del tiempo, identificando en las «tecnologías de hoy»,
+rastros de las «tecnologías de ayer».
+
+
+y a las tecnologías de control automático (Robótica); el análisis de las nuevas formas de
+producir, publicar y compartir información en la sociedad del conocimiento.
+
+http://lh3.googleusercontent.com/-WYlZduPwTYs/
+U2avb3jlIyI/AAAAAAAACFM/3sdSUQ1b2Nk/s640/
+blogger-image-1444810429.jpg
+
+https://st3.idealista.com/news/archivos/2015-09/
+acropolis_01.jpg?sv=6UlgXxf6
+
+
+Introducción
+
+A lo largo de esta asignatura nos aproximaremos a la comprensión de la tecnología.
+Para ello comenzaremos por reconocer a la tecnología como la acción humana a través
+
+En la imagen de la izquierda observamos una recreación de las técnicas utilizadas para
+la edificación del Partenón (447-432 a.C.). La imagen de la derecha nos muestra el mismo
+monumento intervenido por modernas técnicas de restauración.
+
+
+. 8 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 9 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+Objetivos
+
+• Identificar las características principales de la lógica del pensamiento técnico,
+reconociendo el modo en que se aplica para la resolución de problemas de análisis
+y diseño.
+
+• Resolver problemas de planificación, organización y representación de procesos de
+producción, tomando decisiones sobre las operaciones, el modo de secuenciarlas
+en el tiempo, distribuirlas en el espacio y asignarles recursos técnicos y humanos,
+aplicando estrategias y técnicas informáticas para representar, modelizar y simular
+situaciones y escenarios diferentes.
+
+• Reconocer cambios y continuidades en los procesos de producción, identificando
+diferencias y similitudes en los niveles de tecnificación, los roles de las personas, las
+operaciones, las tecnologías y las formas de organización, en función de las escalas
+y contextos de producción.
+
+• Comprender el modo en que influyen los aspectos contextuales (económicos, sociales,
+culturales, políticos) de cada época y lugar sobre las cuestiones específicamente
+técnicas de los procesos de producción, reconociendo los conocimientos y las redes
+de tecnologías que confluyen y configuran los diferentes modos de producción.
+
+• Desarrollar miradas comprensivas del medio técnico, reconociendo cambios y
+continuidades entre procesos y tecnologías diferentes.
+
+• Desarrollar el pensamiento crítico sobre las interrelaciones entre la tecnología, la
+sociedad, el ambiente y las personas.
+
+•  Identificar procesos y sistemas automáticos, reconociendo el tipo de variable que se
+controla, diferenciando operaciones de sensado, control y actuación y representando
+el modo en que circula la información a través de ellas.
+
+• Diferenciar los aspectos que caracterizan a los sistemas de control automático por
+tiempo y por sensores, comprendiendo las diferencias, ventajas y desventajas de los
+sistemas de control a lazo abierto y a lazo cerrado.
+
+• Aplicar estrategias y técnicas de programación para resolver problemas de
+automatización mediante sensores, controladores y actuadores, comprendiendo los
+principios básicos de la robótica y sus aplicaciones.
+
+• Conocer las características de las primeras innovaciones tecnológicas desarrolladas
+para transmitir información a distancia, reconociendo cambios y continuidades en
+las estrategias y las tecnologías desarrolladas para cumplir funciones tales como la
+emisión, la recepción, la codificación, la transmisión y la retransmisión, entre otras.
+
+• Identificar los aspectos que se conservan y los cambios que se producen al pasar de
+los sistemas telegráficos a los sistemas telefónicos, comprendiendo las diferencias
+entre las señales discretas y las continuas e identificando el rol de las tecnologías
+que permiten transformar señales sonoras en eléctricas y viceversa.
+
+• Analizar comparativamente diferentes sistemas de telecomunicaciones (simples y
+complejos, «de ayer y de hoy»), identificando el tipo de comunicación que permiten,
+en función de sus estructuras: unidireccional, bidireccional, difusión, punto a punto,
+entre otras.
+
+• Reconocer los procesos de cambio técnico que dan origen al diseño y la creación
+de herramientas y a su progresiva complejización, mediante el surgimiento de los
+sistemas mecánicos de transformación de movimientos, y la incorporación de los
+motores, tendiente a delegar la fuerza humana en los artefactos.
+
+• Analizar el surgimiento y desarrollo de sistemas y procesos automáticos, reconociendo
+la presencia de procesos de diseño orientados a delegar funciones humanas de
+
+• Comprender las razones que dieron origen a los métodos formales de diseño, a partir
+del nacimiento de la industrialización, analizando su evolución y caracterizando las
+tendencias actuales en diseño, propias de la sociedad del conocimiento.
+
+• Desarrollar capacidades para diseñar artefactos, procesos, programas, sistemas y
+ambientes (virtuales o reales), identificando y analizando problemas, generando,
+evaluando y seleccionando alternativas y planificando y desarrollando soluciones.
+
+• Conocer y aplicar herramientas informáticas para buscar información, organizarla,
+modelizarla y compartirla durante la resolución de problemas de diseño, valorando
+la importancia de documentar los procesos de trabajo y los resultados obtenidos.
+
+• Aplicar estrategias y técnicas de programación para resolver problemas de diseño
+mediante sensores, controladores y actuadores, comprendiendo los principios
+básicos de la robótica y sus aplicaciones.
+
+Hoja de ruta
+
+La asignatura está organizada en cuatro unidades.
+
+En la primera unidad, denominada Procesos y tecnologías de producción, se trabaja
+el concepto de operaciones, insumos y flujos, y las relaciones entre ellas, el modo en que
+se elabora artesanalmente un producto y su posterior tecnificación industrial. Se analiza
+comparativamente diferentes procesos de producción, reconociendo aspectos comunes
+entre ellos.
+
+La segunda unidad se orienta al conocimiento de los Procesos y tecnologías de
+automatización presentes tanto en contextos productivos como cotidianos. Se analiza una
+variedad de ejemplos, y se brindan los conocimientos necesarios para comprender la «trama
+oculta» dentro de los sistemas de funcionamiento autónomo.
+
+La tercera unidad, centrada en los Procesos y las tecnologías de las telecomunicaciones,
+propone un recorrido del desarrollo tecnológico que abarca desde las más primitivas técnicas
+empleadas para transmitir mensajes a distancia, hasta la moderna red de redes: Internet.
+
+Finalmente, en la cuarta y última unidad se cierra el recorrido mediante la unidad denominada
+El proceso de creación de tecnologías: el proceso de diseño. El contenido de esta unidad,
+incluye ideas nodales en relación con la tecnología, que pueden reconocerse y relacionarse
+con los contenidos abordados en las tres unidades anteriores.
+
+Al finalizar cada una de las unidades se incluye una actividad de autoevaluación que permite
+reconocer cuales son las ideas centrales de la unidad y verificar si han sido comprendidas.
+
+Se incluyen dos trabajos prácticos que son de carácter obligatorio. El primero al finalizar la
+unidad 2 y el segundo al finalizar la unidad 4.
+
+Todas las unidades se encuentran actualmente disponibles de modo de permitir organizar
+de manera autónoma los tiempos y modalidades de estudio. El material también puede
+descargarse para leerlo sin conectividad o bien imprimirlo.
+
+Requisitos de aprobación
+
+Para aprobar la asignatura es necesario:
+
+•  Aprobar los dos trabajos prácticos integradores.
+
+• Rendir y aprobar un examen presencial.
+
+
+. 10 .
+
+percepción, toma de decisiones y actuación sobre el entorno.
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 11 .
+
+
+UNIDAD 1: Procesos y tecnologías de producción
+
+Introducción
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+Propósitos
+
+• Promover en los alumnos la curiosidad y el interés por hacerse preguntas y anticipar
+respuestas en relación con los procesos y los productos tecnológicos, brindando
+estrategias que les permitan comprenderlos y relacionarlos.
+
+•  Presentar información, situaciones y ejemplos que permitan a los alumnos reconocer
+la diversidad, el cambio y la continuidad que caracteriza a los procesos y productos
+tecnológicos, en función de los diferentes contextos y culturas.
+
+• Brindar herramientas conceptuales y estrategias procedimentales que permitan
+a los alumnos, a partir de la comprensión de determinados procesos y productos
+tecnológicos, construir generalizaciones y categorizaciones que les permitan
+trascender los casos particulares y arribar a nociones generales aplicables a diferentes
+procesos y tecnologías
+
+• Desarrollar miradas críticas y reflexivas que permitan reconocer cómo la práctica
+tecnológica condiciona, y a la vez depende, de factores económicos, políticos, sociales
+y culturales, con consecuencias tanto beneficiosas como de riesgo socioambiental.
+
+Objetivos específicos
+
+• Desarrollar capacidades para identificar, analizar y resolver problemas que involucren
+operaciones sobre materiales, energía o información, proponiendo y seleccionando
+alternativas, planificando soluciones mediante estrategias y lógicas algorítmicas y
+heurísticas y evaluando los resultados obtenidos.
+
+• Aplicar estrategias y técnicas de análisis basadas en el uso de las analogías y el
+
+Como vimos en la introducción a la materia, Educación Tecnológica se propone comprender
+la técnica como un fenómeno cultural, producto de las sucesivas transformaciones que los
+sujetos realizan al mundo que los rodea, con el objetivo de modificar determinadas situaciones
+en otras más apropiadas a sus fines. En este sentido, el estudio de la técnica es tomado como
+unidad de análisis. Es fundamental tener conciencia de que la actividad técnica no es neutral
+ni  es una entidad independiente de los sujetos que las crean o reproducen; así la tecnología
+forma parte de una compleja red que entrama aspectos sociales, políticos, éticos, económicos,
+entre otros. Implica acciones humanas determinadas por unos procedimientos que se apoyan
+o se valen de ciertos medios y un conjunto de saberes relacionados, tanto con las formas de
+hacer como con el uso y control de los instrumentos mediadores. Cada acción técnica, por
+más elemental que parezca, implica siempre una interrelación entre estos tres componentes.
+El siguiente cuadro permite comprender lo definido anteriormente.
+
+CONOCIMIENTOS
+
+TÉCNICAS
+
+
+pensamiento funcional, orientadas a identificar operaciones y tecnologías comunes
+en productos y procesos tecnológicos diferentes.
+
+• Desarrollar capacidades orientadas a identificar la diversidad, la continuidad y
+
+MEDIOS TÉCNICOS
+
+PROCEDIMIENTOS
+
+
+el cambio en los productos y los procesos tecnológicos, reconociendo el rol que
+cumplen los aspectos contextuales (época, lugar, cultura, medio técnico, entre otros)
+para promover o limitar las innovaciones.
+
+• Analizar comparativamente procesos tecnológicos «de ayer y de hoy», reconociendo
+cambios en las organizaciones, los contextos productivos, la vida cotidiana y las
+subjetividades, en función de las progresivas tecnificaciones caracterizadas por las
+delegaciones de tareas humanas a los artefactos y de sustituciones o integraciones
+entre tecnologías.
+
+Contenidos troncales
+
+•  Los procesos como secuencias de operaciones. Procesos sobre insumos materiales:
+operaciones, flujos y productos. El rol de la energía en los procesos. El rol de la
+información en los procesos. La información como insumo y como producto. Los
+servicios como procesos. Los procesos sobre la energía.
+
+•  La organización de los procesos de producción. Tipos de organización de procesos
+de producción. Planificación y organización de procesos de producción.
+
+• El desarrollo de las TIC y su impacto sobre los cambios en la producción. Sistemas,
+procesos y recursos informáticos. Modelización, procesamiento y comunicación de
+la información.
+
+•  Cambios y continuidades en los procesos de producción. Análisis comparativo entre
+diferentes escalas y contextos de producción. La producción y su contexto.
+
+Medios técnicos: el propio cuerpo, las herramientas, los instrumentos de control, las
+máquinas y los insumos.
+
+Procedimientos: plan de acciones que realizan las personas con el uso de los medios
+técnicos para modificar un estado inicial de las cosas.
+
+Conocimientos: conjunto de saberes y habilidades relacionados con una técnica
+determinada, que pueden ser adquiridos por la propia experiencia y transmitidos a otros.
+
+Reflexión. Observen el siguiente proceso técnico de trabajo y reconozcan los
+componentes de la técnica:
+
+CONOCIMIENTOS
+
+
+. 12 .
+
+Ministerio de Educación del Gobierno de la PCRiudOaCd dEeDBIuMenIEosNATirOesS
+02-08-2024
+
+SISTEMAS TÉCNICOS
+
+. 13 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+Sistemas técnicos
+
+Partimos de considerar como producto tecnológico a toda artificialidad producida por el
+ser humano, realizando para ello procesos, con el uso de ciertas técnicas (conocimientos,
+procedimientos y medios técnicos) en un tiempo y lugar dado; por ejemplo, los procesos de
+agricultura, construcción de viviendas, recursos comunicativos, productos manufacturados y
+artesanales, etc.
+
+Los campos tecnológicos están conformados por distintos sistemas técnicos, que incluyen
+mecanismos, artefactos, metodologías y acciones cuya función es transformar un insumo para
+
+Reflexión. Seleccionen un sistema productivo que te resulte interesante y
+determinen a qué sistema técnico pertenece, en función de las relaciones
+arriba mencionadas.
+
+¿Qué es tecnología?
+
+Estamos hablando entonces de que la tecnología es un campo de estudio
+ordenar los conceptos para comprender los fenómenos que forman parte
+
+que intenta
+de «la vida
+
+
+obtener determinados productos o servicios. Un sistema técnico interactúa con la sociedad
+de tres maneras distintas:
+
+1. Sistema persona-producto: existe una estrecha relación entre la persona y los cambios
+que experimenta el material. La persona conoce la totalidad del proceso, los secretos del
+oficio y a veces llega a construir o modificar herramientas según la necesidad de la tarea
+que realiza. Este sistema incluye al propio cuerpo como soporte de la tarea.
+
+2. Sistema persona-máquina: con el avance de las técnicas, el ser humano ha ido mejorando
+las herramientas, incorporando mecanismos cada vez más complejos. Con la incorporación
+del motor, la herramienta pasa a considerarse máquina, porque la fuerza que antes
+realizaba la persona se delega en el artefacto. Un motor cumple la función de aprovechar
+una fuente de energía para transformarla en energía mecánica. Así, se constituye un nuevo
+sistema llamado persona - máquina, donde los medios técnicos se modifican y por ellos
+también se modifican los conocimientos y procedimientos. Este sistema se caracteriza por
+una división de tareas, donde la complejidad artefactual requiere una especialización del
+operario que controla la máquina.
+
+3. Sistema máquina-producto: en este sistema podemos observar una nueva delegación de
+
+inventada» (Ortega y Gasset); aquellos que le permitieron al hombre trascender de la realidad
+natural, crear posibilidades nuevas, producir objetos que no hay en la naturaleza; y esto se
+debe al desarrollo de su capacidad técnica, en virtud de la cual, es capaz de desarrollar
+procedimientos, transmitir conocimientos técnicos y actuar conforme a ciertos propósitos
+para transformar el medio en el que habita. Esto último nos permite reflexionar también sobre
+el carácter contextual de la técnica. Comprender un proceso tecnológico implica considerar
+la época y el lugar en el que se desarrolla.
+
+
+las operaciones de control por medio de la inclusión de una secuencia de instrucciones,
+de manera que la máquina ejecuta el programa previamente cargado en ella. La máquina
+automáticamente realiza y controla las operaciones del proceso técnico, por lo que la
+persona ya no efectúa un control directo de los materiales, ni sobre el tiempo de cada
+operación, sino que se limita a la supervisión del proceso, el mantenimiento y diseño del
+programa. La característica de este sistema es el cambio en los saberes; por un lado, la
+necesidad de nuevos perfiles profesionales y por otro, la descalificación laboral.
+
+Mediante la automatización se busca el incremento de la producción y el abaratamiento
+de los costos de la misma.
+
+https://pixabay.com/es/arizona- h t tp s : // p x h e r e . c o m / e s / 
+https://pixabay.com/es/vivienda-
+ruinas-india-vivienda-2438860/   photo/687378            pila-crannog-palafitos-142318/
+
+
+SISTEMAS TÉCNICOS
+
+PERSONA-PRODUCTO1        PERSONA-MÁQUINA2        MÁQUINA-PRODUCTO3
+
+http://www.secretosparacontar.
+org/Lectores/Contenidosytemas/
+Diferentestiposdeviviendas.          
+aspx?CurrentCatId=133
+
+https: //c ommons.wikimedia. 
+org/wiki/File:Caba%C3%B1a_
+s u b t e r r % C 3 % A 1 n e a _
+e n _ l a _ r e g i % C 3 % B 3 n _ 
+de_B%C3%BA%C3%B0ahraun,_
+Vesturland,_Islandia,_2014-08-14,_
+DD_046.JPG
+
+https://commons.wikimedia.org/
+wiki/File:Hotel-sididriss.jpg
+
+
+¹       
+https://www.google.com.ar/search?q=artesanos&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjnyuL7j
+dXOAhUEvJAKHRVLAd4Q_AUICCgB&biw=1366&bih=623#imgrc=-J1N02WQ31UOiM%3A
+
+²      
+https://www.google.com.ar/search?espv=2&biw=1366&bih=623&tbm=isch&sa=1&q=personas+trabajando+en+
+torneria+mecanica&oq=personas+trabajando+en+torneria+mecanica&gs_l=img.3...70575.76076.0.77401.0.0.0
+.0.0.
+0.0.0..0.0....0...1c.1.64.img..0.0.0.laOx_yCPFmw#imgrc=fHYELys1yGyaAM%3A
+
+³ 
+https://www.google.com.ar/search?q=robots+en+la+industria&espv=2&source=lnms&tbm=isch&sa=X&ved=0ah
+
+La técnica es dinámica, cambia constantemente; a partir de nuestras intervenciones
+creamos, innovamos y modificamos el mundo que nos rodea. Estos cambios no surgen
+en  el vacío; son el resultado de complejos procesos que implican, en primer lugar, la
+transmisión de lo ya creado y se apoyan en pequeñas innovaciones, sucesivos cambios
+que van dando lugar a nuevos productos y procesos. La siguiente imagen da un ejemplo
+fehaciente de lo planteado.
+
+UKEwiRi7nJltXOAhWCl5AKHaVCDBYQ_AUICCgB&biw=1366&bih=623#imgrc=WnRDs3s2RMAinMistne8rioMd%e3EAducación
+ del Gobierno de la Ciudad de Buenos Aires
+
+
+. 14 .
+
+02-08-2024
+
+. 15 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+Pluma               Plumafuente               Birome
+
+1. ¿Qué sabemos sobre los procesos de producción?
+
+
+Eran la forma más corriente de
+escritura.
+
+Trazo muy sensible y
+variable.
+
+Las tintas eran liquidas, diluidas con
+agua o goma laca. Había que mojar
+la pluma varias veces por cada
+línea. Los tinteros eran incómodos
+y solían volcarse.
+
+Eran como una pluma con un
+deposito de tinta recargable.
+
+Trazo ligeramente
+variable.
+
+Similares a las de pluma, pero no
+podían tener goma laca. Aunque
+cada carga duraba bastante, solían
+secarse y atascarse.
+
+La bolita gira, se carga con tinta,
+que deja luego sobre el papel.
+
+Trazo constante.
+
+Espesas, no solubles en agua.
+Duran mucho tiempo en los
+tanques sin secarse, aunque seca
+instantáneamente al escribir. Difícil
+de    lavar o remover.
+
+Antes de comenzar a analizar en detalle diferentes procesos de producción, es importante
+considerar que estos se encuentran inmersos en un contexto determinado. El mismo incluye
+las condiciones ambientales, políticas y económicas, así como también los valores y la cultura
+de la época y el lugar, las otras organizaciones productivas, los competidores, los proveedores
+y los clientes. Todos ellos influyen sobre las decisiones y las acciones llevadas a cabo dentro
+de los procesos de producción. Del mismo modo, las propias organizaciones productivas
+influyen sobre todas y cada una de las diferentes variables contextuales mencionadas más
+arriba. Las técnicas forman una parte indispensable del modo de producción, constituyendo
+un conjunto de procedimientos, reglas, normas o protocolos que tiene como objetivo obtener
+un resultado determinado en una actividad dada.
+
+Veremos un ejemplo de un proceso de producción que se realiza en la actualidad, de la
+misma manera que hace décadas atrás.
+
+Proceso Artesanal para realizar la producción de pan de molde. (Sistema persona-producto)
+
+1. Dosificado     Esta operación consiste en dosificar con
+
+exactitud la cantidad de los insumos que
+
+
+http://periciacaligrafica.blogspot.com/2009/08/evolucion-de-los-medios-de-escritura-es.html
+
+Durante esta unidad nos propondremos estudiar los procesos técnicos de producción
+en la actualidad; para ello deberemos considerar el contexto en el que se desarrollan, la
+trama en la que se insertan y también el sistema técnico o las técnicas que los preceden
+y que constituyen la base sobre la que se construyen. El modelo de análisis que les
+propondremos para abordar el estudio de los procesos de producción, les permitirá
+adquirir una nueva mirada para comprender los sucesivos cambios tecnológicos.
+
+Autos, televisores, teléfonos celulares, ropa, alimentos, bebidas, semillas, energía
+eléctrica, computadoras, muebles, lápices, heladeras, envases, linternas, películas, anuncios
+publicitarios, música; son solo algunos de los innumerables productos que se elaboran
+mediante la tecnología.
+
+A lo largo de esta unidad analizaremos una variedad de procesos de producción,
+empleando estrategias para reconocer características generales que trascienden las
+particularidades de cada uno. Aprenderemos una serie de conocimientos sobre los
+procesos que existen «detrás» de los productos, que perduran más allá de los cambios y
+las innovaciones tecnológicas.
+
+Las primeras fábricas de automóviles         Moderna fábrica de automóviles
+
+intervienen en la receta; así el rendimiento de
+la producción y la calidad serán estables y se
+podrá establecer un control de costos.
+
+2. Mezclado      Integración de todos los insumos en una masa.
+
+3. Amasado      Tiene por objeto lograr una distribución
+
+uniforme de todos los ingredientes, además de
+formar y desarrollar adecuadamente el gluten.
+
+4. División de la masa Esta etapa se realiza para obtener piezas de
+
+masa de igual peso. El tamaño de cada pieza
+dependerá del tipo de pan que se va elaborar.
+
+
+https://www.flickr.com/photos/
+mytravelphotos/2155970334
+
+https://upload.wikimedia.org/wikipedia/
+commons/5/55/Geely_assembly_line_in_
+
+5. Moldeado      Los materiales blandos presentan
+características que los hacen adecuados para
+ser modelados o moldeados. En este caso, se
+desean obtener muchos productos iguales; por
+lo cual se elige la operación de moldeado.
+
+
+. 16 .
+
+Beilun,_Ningbo.JPG
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 17 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+6. Leudado      Comienza desde el momento de la
+incorporación de la levadura en la masa,
+prolongándose hasta el instante en que se inicia
+la  cocción de los panes. Esta operación es más
+eficiente a temperatura templada.
+
+Antes de continuar con la lectura, les sugerimos que responda de manera escrita a las
+preguntas antes formuladas, volveremos sobre ellas más adelante.
+
+
+7. Barnizado o pintado Operación que consiste en dar la presentación
+
+final al pan; para este fin se emplean insumos
+adicionales como huevo, ajonjolí, semillas de
+amapola, etc.
+
+8. Horneado del pan  Las temperaturas de horneado oscilan entre
+
+200 – 250 °C y el tiempo entre 10-20 minutos,
+dependiendo del tipo de pan.
+
+9. Desmoldado    Consiste en retirar el pan del molde. Se
+
+comprueba que los materiales blandos se
+adaptan a la forma del recipiente.
+
+Algunas definiciones
+
+Proceso técnico: es el sistema a través del cual se transforman ciertos insumos en un
+producto final a partir de una secuencia organizada de pasos u operaciones técnicas.
+
+INSUMO      PROCESO        PRODUCTO
+
+Insumos: son los materiales, la energía y la información que se utilizan en determinado
+proceso de producción, sobre los que se realizan las operaciones técnicas con el fin de
+transformarlos, conformarlos, transportarlos, almacenarlos, etc.
+
+ENERGÍA
+
+
+10. Cortado      Consiste en dividir el pan en rebanadas iguales.
+
+MATERIA      OPERACIÓN       MATERIA
+
+
+11. Envasado     El producto se empaqueta para su
+
+preservación, transporte y comercialización;
+de este modo se asegura que llegue en buenas
+condiciones a los consumidores.
+
+Actividad de reflexión
+
+1. ¿Qué insumos creen que son necesarios en este proceso?
+
+2. ¿Qué medios técnicos (herramientas, máquinas, instrumentos de medición)?
+
+3. ¿Qué saberes o conocimientos e información creen que necesita quien realiza
+este proceso?
+
+INFORMACIÓN
+
+Operación técnica: es cada una de las modificaciones o transformaciones que sufre
+cualquier insumo (materiales, energía o información) durante el proceso de producción. Para
+reconocerlas fácilmente, debemos considerar lo que le sucede al insumo al realizar sobre él
+una serie de acciones técnicas. El concepto de operación implica prestar atención y reconocer
+cada uno de los pasos que se siguen ordenadamente para convertir los insumos en productos.
+Podemos analizar procesos sin necesidad de dar cuenta de las tecnologías que se utilizan, ya
+que las operaciones se conservan independientemente de los medios técnicos (lo veremos
+más adelante).
+
+
+4. ¿Cuáles son las operaciones de transformación de la materia durante el proceso
+de producción de pan? ¿Qué acciones realiza la persona en cada operación?
+
+ INSUMOS    OPERACIÓN
+
+1
+
+OPERACIÓN
+
+2
+
+OPERACIÓN
+
+3
+
+PRODUCTO
+
+
+5. ¿Qué tipos de energías creen que se utilizan?
+
+. 18 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 19 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+Medios técnicos: cualquier mediador que prolonga, amplía, facilita o modifica, de alguna
+manera, las acciones motrices realizadas con cualquier parte del cuerpo humano (brazos,
+piernas, boca, dientes, etc.). Los medios técnicos así concebidos permiten incluir las
+herramientas tanto los utensilios, las máquinas, los instrumentos de medición, que se emplean
+en las operaciones técnicas del proceso.
+
+Conocimientos técnicos: son todos aquellos saberes necesarios para llevar a cabo una
+tarea o un proceso. Cuando asistimos al pasaje de un sistema técnico a otro (por ejemplo
+persona producto a persona máquina), la relación entre los componentes de la técnica se
+modifican. Así, el conocimiento necesario para producir en un sistema artesanal es diferente
+que  en un sistema industrial o automatizado (ver triángulo de las técnicas: 2.4 Introducción).
+
+Los ingredientes de cualquier pan son los mismos: harina, agua,
+sal y levadura. En la preparación industrial se añaden aditivos para
+acelerar la formación, mientras que el secreto del pan artesano es
+el tiempo de reposo de la masa. Los expertos insisten en que se
+puede elborar bien o mal un pan por los dos procedimientos.
+
+   Amasado    
+
+1.º Fermentación  
+
+ Amasado 
+
+1.º Fermentación
+y división
+
+
+En primera instancia, nos deberíamos preguntar ¿por qué tener modelos de representación?,
+la respuesta es sencilla, para poder simplificar el estudio de esos procesos que podrán
+ser tanto sencillos como complejos y donde siempre intervienen los mismos elementos:
+insumos, operaciones, soportes.
+
+Podemos representar gráficamente estos elementos por medio de los diferentes diagramas de
+proceso, organizando la secuencia de operaciones necesarias para transformar los insumos en un 
+producto.
+Para poder simplificar y estudiar cómo los productos son producidos, utilizamos un modelo de 
+análisis
+que puede aplicarse a cualquier proceso que se quiera representar.
+
+Diagrama de proceso lineal
+
+División    
+
+2.º Fermentación 
+
+Congelación 
+
+Precocción
+
+2.º Fermentación
+
+
+INSUMOS
+
+Cocción
+
+Distribución
+
+Descongelación 
+
+ y 2.º cocción. 
+
+
+Harina
+Agua
+Sal
+
+Levadura
+
+Dosificar   Mezclar   Amasar
+
+Fraccionar   Moldear
+
+Leudar
+
+Tiempo  total   
+
+ Tiempo total 
+
+
+Actividad4
+
+Pintar    Hornear   Desmoldar   Cortar    Envasar
+
+Pan de
+molde
+
+PRODUCTO
+
+Reflexión. Luego de haber visto las imágenes sobre los diferentes sistemas,
+los invitamos a reconocer las diferencias entre ellos, sin pasar por alto las
+similitudes.
+
+Ahora nos interesa centrar la atención en establecimientos industriales donde
+se fabrican productos en grandes cantidades.
+
+Actividad
+
+
+Miren el siguiente video, completen la tabla:
+
+https://youtu.be/78_ztOw9WkI
+
+Sistema     Herramienta / Máquina       Saberes      Tiempo Cantidad producto
+
+Persona- producto
+
+Persona- máquina
+
+Máquina- producto
+
+Tiempos en los procesos de producción del pan
+
+Elegir uno de los siguientes productos o proponer uno alternativo.
+
+- Alfajores de dulce de leche bañados en chocolate.
+
+- Embotelladora de gaseosas.
+
+- Sillas de caño metálico con asiento y respaldo de madera.
+
+- Lápices.
+
+- Pinzas para ropa de madera.
+
+- Otro.
+
+Para el producto elegido, respondan las siguientes preguntas:
+
+a) ¿Cuáles son los insumos materiales que se utilizan para elaborar el producto?
+
+4 Actividad sugerida para el alumno presencial, con material que anexará el docente en las 
+cMoinnisstuelrtioordíae pErdeusceanccióinal.del Gobierno de la Ciudabd )de¿BTuoednoassAliaress 
+partes se elaboran en la fábrica? Justificar.
+
+
+. 20 .
+
+02-08-2024
+
+. 21 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+c) ¿Cuáles son las operaciones que se realizan para elaborar el producto?
+
+d) Elijan dos operaciones del proceso y describan la técnica empleada para llevarlas a
+cabo. Incluyan: el tipo de máquina o herramienta utilizada, el rol de las personas, el tipo
+de transformación que se realiza sobre el material.
+
+e) ¿Cuánto tiempo estiman que lleva elaborar un producto? ¿Y cien?
+
+f) ¿Haciendo algún cambio, puede elaborarse en la misma fábrica otro producto diferente?
+Mencionen un ejemplo.
+
+g) Representen, mediante un diagrama, la secuencia de operaciones del proceso. Utilicen
+algún un recurso informático: herramientas de graficación de un procesador de textos o
+un programa de dibujo.
+
+En los siguientes enlaces encontrarán una herramienta en línea para realizar
+diferentes tipos de gráficos.5
+
+https://www.gliffy.com/
+https://cacoo.com/lang/es/
+https://www.lucidchart.com/
+http://www.wisemapping.com/
+http://flowchart.com/
+
+2. De los insumos a los productos
+
+En la elaboración de cualquier producto pueden reconocerse una serie de etapas que se
+suceden unas a otras. A través de ellas se transforman los materiales que «ingresan» como
+insumos y «salen» como productos. En cada una de las etapas se realiza una determinada
+operación. Al conjunto ordenado de operaciones se lo conoce con el nombre de proceso. A
+los procesos de producción, entonces, se los puede entender como el conjunto organizado de
+operaciones necesarias para completar un ciclo determinado de transformación de insumos
+en productos. Concebido como un sistema, un proceso de producción puede graficarse de la
+siguiente manera.
+
+INSUMO        PROCESO        PRODUCTO
+RESIDUOS
+
+Reflexión: Los desechos suelen generar problemas ecológicos y económicos. Estos
+
+pueden ser sólidos, líquidos o gaseosos. Las limaduras de hierro que se generan
+durante el procesamiento de los metales y las virutas de las maderas no pueden
+ser consideradas desechos, ya que son utilizados como insumos para la fabricación
+de otros productos. La reutilización al reingresarlos al propio proceso (o sirviendo
+de insumos para otras industrias) permite disminuir la contaminación y se ahorra
+dinero en insumos. Los restos de pintura, las piezas defectuosas, las aguas residuales
+con desechos sanitarios e industriales, son solo algunos de los residuos que suelen
+constituirse en un problema ambiental y social. Las pérdidas económicas que
+ocasionan los desperdicios, junto con las normativas y reglamentaciones impulsadas
+por  los gobiernos para sancionar la contaminación, contribuyen al desarrollo de
+técnicas que minimizan los residuos, disminuyendo sus efectos contaminantes.
+
+Actividad
+
+Actualmente existe una creciente tendencia a que, en el diseño de los productos, se tomen
+en cuenta criterios que minimicen el impacto de los residuos y los desechos. Para esto se
+incluyen, en la etapa de diseño, decisiones que tengan en cuenta el modo en que se van a
+fabricar los productos (minimizando los residuos en las operaciones del proceso) y, también,
+incluyendo materiales que faciliten su reciclado o tratamiento, una vez que el producto es
+descartado. Así, por ejemplo, es posible seleccionar un material u otro a partir de estudiar
+si provienen de fuentes renovables o no, o decidir en función del tipo de desechos que se
+generan durante la producción de los mismos.
+
+Les proponemos profundizar en esta temática investigando en Internet los dos siguientes
+interrogantes:
+
+a) ¿En qué consiste el Análisis del Ciclo de Vida de un producto?
+
+b) ¿A qué se refieren las Normas de Calidad ISO 14040 y 14044?
+
+Fuente: 
+http://blog.pucp.edu.pe/blog/redperuanaciclodevida/2010/03/01/canon-y-el-analisis-de-ciclo-de-vida/
+
+3. Las operaciones en los procesos
+
+Hemos mencionado que los insumos materiales que ingresan al sistema, circulan como
+flujos y van siendo transformados a través de cada una de las operaciones. Estas pueden ser
+tanto físicas como químicas, incluyendo una amplia variedad que abarca desde el moldeado,
+el torneado o el estampado, pasando por la mezcla y el ensamblado, e incluyendo también,
+entre otras, al horneado, la refrigeración o el envasado.
+
+Diagrama en proceso en paralelo. En el diagrama se representa un proceso formado por 8
+(ocho) operaciones.
+
+6
+
+
+5 El alumno presencial puede realizar los distintos diagramas con papel y lápiz.
+
+. 22 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 23 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+En este caso, puede verse la existencia de flujos paralelos que confluyen en alguna
+operación (la operación 6). Se trata de la representación de un proceso en el cual se elabora
+un producto formado por dos partes, las cuales se procesan de manera independiente; luego
+se ensamblan y finalmente el proceso continúa sobre el nuevo conjunto que se ha formado.
+
+Actividad 6
+
+Observen atentamente el video que reproduce el siguiente proceso de producción. Luego
+respondan las preguntas incluidas a continuación:
+
+Producción de broches: https://www.youtube.com/watch?v=5cP3OOSQKHo
+
+a) ¿Cuáles son los insumos materiales que ingresan al proceso?
+
+b) Diferencien productos y residuos.
+
+c) Enumeren las operaciones de transformación de materiales que forman el proceso.
+
+d) Realicen un diagrama de la estructura del proceso (utilicen flechas para los flujos de
+materiales y «óvalos» para las operaciones).
+
+e) Identifiquen si existen flujos y operaciones paralelos o simultáneos.
+
+f) Seleccionen dos operaciones e identifiquen la técnica empleada en cada una,
+enumerando medios técnicos (herramientas y/o máquinas), procedimientos y roles de
+las personas.
+
+Es posible reconocer la existencia de ciertas operaciones que realizan las personas o las
+máquinas que no pueden entenderse estrictamente como operaciones de transformación
+de materiales:
+
+• Transportar los materiales desde una máquina a otra, o desde o hacia un depósito.
+
+• Almacenar materiales, productos semielaborados o productos terminados.
+
+• Controlar ciertas características del proceso o de los materiales que van siendo elaborados: 
+revisar
+si existen manchas en una superficie, pesar un producto, leer una temperatura, contar la cantidad,
+medir el tamaño, etc.
+
+• Demorar temporariamente los materiales en proceso debido a, por ejemplo, la necesidad de
+esperar a que termine una operación para realizar el ensamble entre dos partes elaboradas por líneas
+del proceso paralelas, estacionamiento de quesos, fermentación de vinos, cervezas, maduración de
+productos (café, cacao); secado de pinturas, secado de pegamentos etc.
+
+Actividad
+
+Identificar, en el video del proceso analizado anteriormente, y dar ejemplos de algunas de las
+operaciones mencionadas.
+
+4. Técnicas de transformación de materiales
+
+Existen diferentes técnicas para trabajar los materiales. Entre ellas se encuentran aquellas
+destinadas a modificar su forma; en los videos de los procesos presentados anteriormente
+veíamos una gran variedad: algunas trabajan con el material previamente calentado; otras, en
+cambio, se realizan con el material en frío. La elección de la técnica a emplear depende de las
+propiedades del material a transformar y de las características de los productos a obtener.
+
+Existen diferentes criterios para clasificar a las técnicas de conformación de los materiales.
+Entre ellos podemos mencionar las siguientes categorías:
+
+                                 Técnicas por moldeo                 
+
+Aplicables a materiales que pueden calentarse en estado
+líquido y solidificarse al enfriarse (metales y plásticos
+termoplásticos, por ejemplo).
+
+Puede moldearse por gravedad: el material fundido se
+vierte sobre un molde que tiene la forma deseada y, una
+vez enfriado se lo extrae sólido del molde. También puede
+moldearse por presión: en este caso el material fundido es
+colocado a presión dentro de un molde.
+
+La inyección, la extrusión y el soplado son ejemplos de
+este tipo de técnicas de moldeo.
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Unidad_
+de_inyeccion_de_inyectora.png/320px-Unidad_de_inyeccion_de_
+inyectora.png
+
+                               Técnicas por deformación                
+
+Aplicables a materiales que pueden deformarse en estado
+sólido (ya sea sin necesidad de calor o calentándolos,
+pero sin llegar a fundirlos). Se aplican a los metales y los
+plásticos.
+
+Entre estas técnicas se encuentran: la forja, el estampado,
+el embutido, el plegado, el laminado, el trefilado y el
+termoformado.
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/
+Laminage_schema_gene.svg/220px-Laminage_schema_gene.s
+
+Laminado
+
+                            Técnicas por corte o separación               
+
+Se basan en modificar la forma del material mediante el
+empleo de algún elemento cortante. Pueden aplicarse
+tanto a los plásticos y metales como a las maderas, mármol,
+granito y otros minerales rígidos.
+
+Entre otras, pueden mencionarse a las siguientes técnicas:
+
+aserrado, calado, troquelado, taladrado, limado, torneado
+y fresado.
+
+https://upload.wikimedia.org/wikipedia/commons/1/15/Fresado_en_
+concordancia_2.JPG
+
+Fresadora
+
+                                 Técnicas por adición                 
+
+Se basan en sumar, agregar o combinar materiales.
+
+En esta categoría se incluyen, entre otras, las operaciones
+de mezcla, ensamble, unión, envasado y empaque. Las
+modernas técnicas de impresión 3D, también se encuadran
+en esta categoría.
+
+http://www.solutekcolombia.com/ensamble_computadores.htm
+
+6  Actividad  sugerida  para  el  alumno  presencial,  con  material  que  anexará  el  docente  en 
+ las  cMoinnisstuelrtioordíae pErdeusceanccióinal.del  Gobierno  de  la  Ciudad  de  Buenos  Aires  
+                                  
+
+
+. 24 .
+
+02-08-2024
+
+. 25 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+Actividad
+
+Elegir tres operaciones de transformación de materiales del proceso de producción analizado
+en el video anterior, e identificar a cuál de las cuatro categorías de técnicas corresponde cada
+una de ellas. ¿Existen en el proceso algunas operaciones que no pueden encuadrarse en
+ninguna de las categorías anteriores? ¿Cuáles?
+
+Dentro del proceso, la energía puede circular a través de cables y cañerías y en determinado
+momento se transforma en otro tipo de energía:
+
+ENERGÍA      PROCESO        ENERGÍA
+
+
+Reflexión
+
+Insumo            Se transforma en otro tipo de energía
+Nuclear            Calor (Reactores)
+
+En calor o frío (calefacción, refrigeración)
+
+
+Hemos mencionado, más arriba, que las tecnologías de impresión 3D están
+comenzando a modificar los procesos de diseño, así como también las técnicas de
+
+Eléctrica
+
+En movimiento (motores eléctricos)
+En luz (lámparas)
+
+
+fabricación y los modos de planificar y organizar la producción. Les proponemos
+reflexionar sobre esta temática observando el siguiente video y leyendo el
+siguiente artículo periodístico; en ellos se describen algunas de las características
+e impactos de esta tecnología «disruptiva».
+
+Material complementario.7
+
+http://www.lanacion.com.ar/1600714-dale-print-impresos-3d-con-aires-de-
+revolucion
+
+En calor (cocina solar, calefón solar)
+
+En electricidad
+
+En calor (estufas de gas o kerosén)
+
+En movimiento (motores de combustión interna)
+
+Eólica           En movimiento (molino, bomba para elevar el agua)
+
+Hidráulica         En movimiento (rueda hidráulica)
+
+Leña            En calor (horno a leña, salamandra, hogar)
+
+Carbón mineral (coque)   En calor (altos hornos, fraguas)
+
+En electricidad
+
+
+http://vimeo.com/12768578
+
+Química (pilas-baterías)
+
+En calor
+
+En luz (bengalas, fósforo)
+
+
+5. La energía en los procesos de producción
+
+Al analizar un proceso de producción podemos reconocer que, además de los insumos
+materiales, es necesaria una cierta cantidad de energía para realizar las diferentes operaciones;
+mezclar, cortar, transportar o enfriar son solo algunas de las operaciones en las que la energía
+puede ser provista, en algunos casos por los operarios que utilizan su fuerza corporal (y se
+ayudan con herramientas) y, en otros casos, por las máquinas.
+
+La energía como insumo: al igual que los materiales, la energía es considerada como un
+insumo que ingresa al proceso. Esta puede provenir de diferentes fuentes:
+
+• Red de distribución de electricidad.
+
+Tracción a sangre     En movimiento (carros, arados)
+
+Sin energía no hay transformación posible: para realizar un proceso es necesaria la
+intervención de energía, es por ello que en toda operación interviene algún tipo de energía.
+
+Actividad
+
+En el siguiente diagrama completen el tipo de energía que se utiliza para realizar cada operación.
+
+INSUMOS
+
+
+• Red de provisión de gas.
+
+• No conectados a una red.
+
+» Combustibles fósiles (gas natural envasado, nafta, gasoil, etc.).
+
+» Solar.
+
+» Eólica (molinos de viento).
+
+» Hidráulica (molinos de agua).
+
+Harina
+Agua
+Sal
+
+Levadura
+
+Mezclar
+
+Energía muscular
+Energía eléctrica
+
+Amasar        Fraccionar        Moldear
+
+Energía:        Energía:        Energía:
+
+
+» Leña, carbón.
+
+» Pilas.
+
+» Tracción a sangre (mulas, bueyes, caballos, perros, etc.).
+
+Hornear         Cortar         Envasar
+
+Energía:        Energía:        Energía:
+
+Pan de
+molde
+
+PRODUCTO
+
+7 Actividad sugerida para el alumno presencial, con material que anexará el docente en las 
+cMoinnisstuelrtioordíae pErdeusceanccióinal.del Gobierno de la Ciudad de Buenos Aires
+
+
+. 26 .
+
+02-08-2024
+
+. 27 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+5.1. El proceso de producción (transformación) de energía
+
+Los procesos analizados hasta el momento se caracterizan por poseer un flujo principal de
+materia, el cual va siendo transformado con ayuda de la energía. Si bien, la energía, constituye
+un insumo de todo proceso productivo, también puede ser considerada como un producto
+cuando analizamos su propio proceso de producción. Así, podemos representar una central
+de generación de energía eléctrica como un proceso al que ingresan insumos (la fuerza del
+agua o del viento, el calor del sol, ciertos materiales combustibles, etc.) que luego de una
+serie de operaciones permiten obtener la electricidad como producto. Por lo dicho hasta aquí
+sostenemos que la energía se transforma por medio de un proceso, en otro tipo de energía
+que pueda ser utilizada.
+
+El siguiente diagrama esquematiza parte de un proceso genérico de producción de energía
+eléctrica. Podemos notar que los insumos energéticos de entrada (energía hidráulica, eólica,
+calórica, etc.), se transforman mediante una turbina en energía mecánica la cual ingresa a un
+
+«bloque» en el que se produce la generación de electricidad a partir de la transformación de
+energía mecánica en energía eléctrica.
+
+Actividad
+
+Observar atentamente las infografías e identificar aspectos en común entre ambos procesos
+de producción de energía eléctrica. Puede ser útil recurrir a la estrategia de diagramación de
+los procesos, reconociendo los insumos que entran, las operaciones de transformación y el
+producto resultante.
+
+6. Los procesos y la información
+
+Para llevar adelante un proceso de producción, además de materiales y energía, es necesaria
+la información.
+
+• ¿Cuáles son las preferencias de los consumidores?
+
+• ¿Cuáles son los costos de los materiales?
+
+• ¿Cuál es el tiempo necesario para fundir un material?
+
+• ¿A qué temperatura debe calentarse?
+
+• ¿Cuáles son las cantidades necesarias de insumos?
+
+
+Energía hidráulica
+
+Turbina
+
+Energía mecánica
+
+Transformación
+
+Generador
+
+Energía eléctrica
+
+La información constituye un insumo clave para la toma de decisión previa a la realización
+de un proceso:
+
+» ¿Qué producir?
+
+» ¿Cuánto producir?
+
+» ¿Cómo producir?
+
+» ¿Con qué producir?
+
+» ¿Dónde producir?
+
+
+En los siguientes videos se muestran los procesos analizados8:
+https://www.youtube.com/watch?v=ddsQfMNWnP4
+https://www.youtube.com/watch?v=Apg_aEwvzGM
+https://www.youtube.com/watch?v=v942oiMZLk8
+
+https://www.youtube.com/watch?v=dsZl_8pQXLI&list=PLT9YsKBUSinG9sNU-
+065KHoEZ6lonhxCO&index=15
+
+https://www.youtube.com/watch?v=wN  e2FZX6Y&index=21&list=PLT9YsKBU
+SinG9sNU-065KHoEZ6lonhxCO
+https://www.youtube.com/watch?v=6hp7cdZthho&list=PLT9YsKBUSinG9sNU-
+
+065KHoEZ6lonhxCO&index=17
+
+En los siguientes enlaces podrán acceder a infografías animadas que muestran
+el funcionamiento de dos centrales generadoras de energía eléctrica. Es posible
+reconocer analogías entre ambos procesos de producción mediante una mirada
+centrada en las operaciones que se realizan sobre el flujo principal de energía.
+
+http://www.consumer.es/web/es/medio_ambiente/energia_y_
+ciencia/2004/07/05/140148.php
+http://www.consumer.es/web/es/medio_ambiente/energia_y_
+
+ciencia/2004/08/09/140155.php
+
+» ¿Para quién producir?
+
+Pero también la información es fundamental durante los procesos de producción,
+especialmente en las operaciones de control:
+
+• Inspección.
+
+• Verificación.
+
+• Control.
+
+Estas operaciones se realizan en base a los flujos de información que se obtienen de cada
+una de las operaciones del proceso:
+
+• Verificar la consistencia de una mezcla.
+
+• Detectar los productos fallados.
+
+• Contar la cantidad almacenada en depósito.
+
+• Mantener la temperatura de un horno.
+
+Las anteriores son solo algunas de las operaciones que se realizan sobre la información. En
+algunos casos mediante la intervención humana y en otros, de manera automática; de ello
+nos ocuparemos en la siguiente unidad.
+
+7. La información como insumo de un proceso
+
+Podemos entender a la información como un insumo (en la unidad 3 retomaremos el tema
+con más profundidad); por ahora solo nos basta con decir que, sobre un determinado insumo
+llamado información, podemos aplicar diferentes operaciones de creación, transformación,
+
+8 Actividad sugerida para el alumno presencial, con material que anexará el docente en las 
+cMoinnisstuelrtioordíae pErdeusceanccióinal.del Gobierno de 
+laaClimudaadcdeenBaujeen,otsraAniressporte y hasta de destrucción.
+
+
+. 28 .
+
+02-08-2024
+
+. 29 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+Pensemos en el siguiente relato:
+
+«La abuela Tota, tiene la información almacenada en su memoria sobre la producción
+artesanal de scones. Como la abuela ya no confía en su memoria, traslada la información
+a   un papel, de manera que esa información se registra ahora en un soporte material donde
+queda almacenada para recuperarla cada vez que quiere realizar nuevamente los scones. La
+nieta, Nina, le pidió la receta a su abuela, quien le envía la información mediante una carta
+escrita en papel. Nina recibió la carta y apresuradamente se puso a realizar estos scones que
+le recordaban las tardecitas de verano en la casa de su abuela.»
+
+«Nina seleccionó los insumos necesarios y luego de limpiar la mesada de su cocina, los
+colocó junto a la receta, mientras Tomás, su gato, paseaba por la cocina. Repentinamente
+Tomás saltó sobre la mesada y volcó la leche, que con mucho desatino, mojó el papel donde
+la abuela había escrito la receta con la vieja pluma del nono, es así que Nina no pudo realizar
+estos deliciosos scones ya que la información que había en la receta resultó dañada.»
+
+Actividad
+
+Realicen un diagrama de proceso que incluya todas las operaciones que sufre la información
+en este relato.
+
+Piensen en la información que se haya perdido y que por diferentes motivos
+no hayas podido recuperar.
+
+¿Cuáles operaciones podrías realizar para salvaguardar la información?
+
+«Y el padre Justino esta pasando
+todos nuestros libros a discos de
+computadora CD-ROM.»
+
+Actividad de autoevaluación
+
+1. Lean atentamente cada una de las siguientes expresiones e indiquen si son verdaderas o
+falsas:
+
+a) En un proceso de producción el flujo principal es siempre un flujo de materiales.
+
+b) La energía en un proceso puede ser tanto insumo como producto.
+
+c) La información es un insumo para la toma de decisiones.
+
+2. Completen los espacios en blanco de las siguientes frases:
+
+• Las técnicas por         se basan en calentar el material líquido y dejarlo enfriar
+hasta que solidifique.
+
+• Las técnicas por          parten del material en estado sólido y lo transforman
+(con calor o sin él) sin necesidad de fundirlos.
+
+• Las técnicas por         se aplican a materiales tales como maderas o metales.
+
+3. En base a esta afirmación, cuál de las siguientes frases son correctas:
+
+«Una central generadora de energía eléctrica, puede ser analizada como un proceso de
+producción».
+
+a) porque toma determinados insumos como ser: agua+carbón, uranio+agua, agua y los
+transforma en un producto, energía eléctrica.
+
+b) no puede ser analizada como un proceso de producción.
+
+c) porque son instalaciones modernas en las que la información forma parte importante
+en el proceso.
+
+4. En la siguiente imagen deberán asignar las operaciones correctas.
+
+Operaciones de transporte.
+Operaciones de almacenamiento.
+Operaciones de control.
+
+
+Fuente:  https://static1.squarespace.com/
+static/59f275abbce17661f700d444/t/5a0293
+c2c83025c413e99ba3/1510118345779/mnich.
+png?format=500w
+
+Fuente: https://mundobiblio.wordpress.
+com/2012/07/18/vinetas-humoristicas/
+
+Fuente: https://www.promedianj.com/
+infrastructure/cloud-services-private-
+public-hybrid/offsite-cloud-backup
+
+Fuente: https://cdn.pixabay.
+com/photo/2015/02/24/00/24/
+loading-646934_960_720.jpg
+
+5. ¿Cuál es el rol que cumple la información dentro de un proceso productivo? Marquen con
+una cruz donde corresponda.
+
+La información sirve únicamente para toma de decisiones.
+
+Una de las funciones de la información en un proceso es la de asegurar los resultados.
+La información es un insumo material fundamental en un proceso productivo.
+
+La información deja de ser relevante en un proceso de producción.
+
+La información es un insumo sobre el que se pueden aplicar operaciones.
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+
+
+. 30 .
+
+02-08-2024
+
+. 31 .
+
+
+Unidad 2: Procesos y tecnologías de control automático
+
+Propósitos
+
+• Ofrecer variadas oportunidades para que conozcan, seleccionen y utilicen estrategias
+y herramientas informáticas para la búsqueda, organización, modelización,
+procesamiento y publicación de información en formato digital.
+
+• Promover en los alumnos la curiosidad y el interés por hacerse preguntas y anticipar
+respuestas en relación con los procesos y los productos tecnológicos, brindando
+estrategias que les permitan comprenderlos y relacionarlos.
+
+•  Presentar información, situaciones y ejemplos que permitan a los alumnos reconocer
+la diversidad, el cambio y la continuidad que caracteriza a los procesos y productos
+tecnológicos, en función de los diferentes contextos y culturas.
+
+Objetivos específicos
+
+EDUCACIÓN TECNOLÓGICA • A
+
+sobre la información.
+
+• La automatización. Identificación y análisis de sistemas y procesos automáticos.
+Flujos y operaciones. Representación estructural de sistemas y procesos.
+
+•  Tipos de sistemas automáticos: El control a lazo abierto por tiempo y por sensores.
+El control a lazo cerrado. Realimentación.
+
+• Automatización en contextos de trabajo y en la vida cotidiana.
+
+•  Introducción a la Robótica. Surgimiento y aplicaciones. Tipos de robots.
+Características. Formas de programación. La robótica en la vida cotidiana y en los
+contextos laborales. Impactos y efectos.
+
+Introducción
+
+• A lo largo de esta unidad nos aproximaremos a la comprensión de los aspectos
+generales que caracterizan a los sistemas automáticos. Identificaremos las diferencias
+entre los sistemas automáticos y los que no los son. Analizaremos cómo funcionan,
+
+
+• Conocer, seleccionar y utilizar herramientas de representación, modelización y
+comunicación de la información técnica, valorando el rol de la Informática para la
+búsqueda, el registro, la representación, la comunicación, el procesamiento y la
+publicación de información.
+
+• Aplicar estrategias y técnicas de análisis basadas en el uso de las analogías y el
+pensamiento funcional, orientadas a identificar operaciones y tecnologías comunes
+en productos y procesos tecnológicos diferentes.
+
+• Desarrollar capacidades orientadas a identificar la diversidad, la continuidad y
+el cambio en los productos y los procesos tecnológicos, reconociendo el rol que
+cumplen los aspectos contextuales (época, lugar, cultura, medio técnico, entre otros)
+para promover o limitar las innovaciones.
+
+• Analizar comparativamente procesos tecnológicos «de ayer y de hoy», reconociendo
+cambios en las organizaciones, los contextos productivos, la vida cotidiana y las
+subjetividades, en función de las progresivas tecnificaciones caracterizadas por las
+delegaciones de tareas humanas a los artefactos y de sustituciones o integraciones
+entre tecnologías.
+
+• Reconocer que los cambios y las innovaciones tecnológicas generan impactos y
+efectos que suelen combinar resultados deseados y beneficiosos con otros adversos,
+no esperados y perjudiciales para las personas, la sociedad o el ambiente.
+
+•  Identificar procesos y sistemas automáticos, reconociendo el tipo de variable que se
+controla, diferenciando operaciones de sensado, control y actuación y representando
+el modo en que circula la información a través de ellas.
+
+• Diferenciar los aspectos que caracterizan a los sistemas de control automático por
+tiempo y por sensores, comprendiendo las diferencias, ventajas y desventajas de los
+sistemas de control a lazo abierto y a lazo cerrado.
+
+•  Reconocer a la automatización y a la robótica como un proceso de tecnificación
+caracterizado por la delegación en los artefactos de las operaciones sobre la
+información, analizando críticamente los cambios y efectos en contextos de trabajo
+y    de la vida cotidiana. Reconocer a las computadoras como sistemas de adquisición
+y procesamiento de la información en la delegación del control.
+
+Contenidos troncales
+
+Procesos y tecnologías de control automático
+
+•  La automatización como proceso de tecnificación. La delegación de los procesos
+
+cuáles son sus partes principales, qué tipos de sistemas automáticos existen y,
+también, cuáles son sus impactos y efectos en la vida cotidiana y en los contextos
+de trabajo.
+
+• Podemos reconocer la importancia de esta temática, prestando atención a la creciente
+tendencia a la automatización de una gran variedad de actividades pertenecientes
+tanto a los contextos cotidianos (transportes o viviendas, por ejemplo) como a
+los relacionados con la producción (producción de bienes, productos alimenticios,
+agricultura, etc.) o servicios y ventas (expendedoras de boletos, de gaseosas, de
+café, de turnos, cargas virtuales).
+
+Celda de producción automatizada
+Fuente:https://upload.wikimedia.org/wikipedia/
+commons/2/29/C%C3%A9lula_de_Paletizado_
+autom%C3%A1tico_con_robots_tecno.jpg
+
+1. ¿Qué es el control automático?
+
+Reflexión. Para responder a este interrogante los invitamos, en primer lugar, a
+tomarse unos minutos para reconocer qué es lo que conocen o saben sobre
+los sistemas automáticos.
+
+Actividad
+
+A tal fin les proponemos que listen algunos artefactos o sistemas que ustedes consideren que
+son automáticos.
+
+Intenten, también, prestar atención a qué criterios utilizaron para elegir estos ejemplos y
+
+
+. 32 .
+
+Ministerio de Educación del Gobierno de ladCeiusdcadardteaBruoentoros As.ires
+02-08-2024
+
+. 33 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+Sistema/Artefacto   ¿Por qué creen que es automático? ¿Por qué creen que NO es automático?
+
+Es automático porque…
+
+La tarea de lavar a lo largo del tiempo
+
+Tipo de Lavado
+
+
+Fregado Manual
+Arriba Abajo
+
+Fregado Manual
+Izquierda Derecha
+
+Fregado Manual
+Arriba Abajo
+
+Fregado Manual
+Izquierda Derecha
+
+Bicicleta                             No es automático porque…
+
+
+¿Podrían formular su propia definición de «sistema automático»?
+
+http://refrigeracionner.
+com/wp-content/
+uploads/2014/10/lavarropa_
+rio.jpg
+
+• El lavado a mano
+
+http://news.bbcimg.co.uk/
+media/images/73285000/
+jpg/_73285750_10195917_
+haslett_
+maryevans_26189773.jpg
+
+http://www.ataleofonecity.
+portsmouth.gov.uk/wp-
+content/
+
+https://www.
+pinterest.com.mx/
+pin/327073991660002282/
+
+
+A continuación les proponemos comenzar a construir la noción de sistema automático
+a partir de analizar un ejemplo: el lavarropas. Compararemos las diferentes maneras de
+lavar la ropa, partiendo del primitivo lavado «a piedra» hasta llegar al lavado mediante los
+modernos lavarropas «inteligentes». Entre ambos extremos identificaremos las tecnologías
+intermedias, como por ejemplo: los lavarropas manuales a manivela, los eléctricos con motor,
+
+Antiguamente, el lavado de ropa se realizaba en ríos
+o arroyos frotando sobre las piedras; la tarea terminaba
+con un enjuague y un estrujamiento para sacar el agua.
+Se requería gran esfuerzo físico y posturas corporales
+nocivas. Además, era necesario tomar decisiones: ¿está
+la ropa lo suficientemente limpia? ¿Es necesario frotarla
+con más fuerza? ¿Cuánto tiempo debo frotarla? ¿Está la
+ropa bien estrujada? En este sistema las personas, debían
+ejercer mucho control de la tarea.
+
+El reemplazo de las piedras por tablas de madera con
+ranuras y el empleo de jabones permitieron hacer más
+eficiente el lavado.
+
+Lavadora a manivela
+Fuente:  http://evolutionwasher.
+blogspot.com.ar/2012/08/
+historia-y-evolucion-de-la-
+lavadora.html
+
+
+los semiautomáticos y los automáticos. Centrar la mirada sobre el proceso de lavado de ropa
+y cómo y en qué fue cambiando la técnica, nos permitirá identificar la delegación de las
+acciones de las personas en los artefactos y la consecuente complejización artefactual. Este
+tipo de análisis favorece el reconocimiento de las características generales que identifican a
+todo sistema automático y la comparación de diferentes niveles de automatización presentes
+en los sistemas. Luego, estarán en condiciones de reconocer estos conceptos en cualquiera
+de los ejemplos que ustedes se propongan analizar para comprender sistemas y procesos
+
+Las primeras máquinas lavadoras estaban formadas por un tambor rotativo, dentro
+
+del cual se introducía la ropa, el agua y el jabón. Para hacerlas funcionar se debía girar
+una manivela. En algunas de estas máquinas, en lugar de girar el tambor, se hacían
+mover ciertos elementos agitadores ubicados en su interior.
+
+Las primeras innovaciones se orientaron a reducir el esfuerzo físico pero la necesidad
+del control seguía estando presente: ¿cuánto tiempo deberá mantenerse girando el
+tambor? ¿Hay suficiente cantidad de agua en el tambor? ¿Cuánto jabón se necesita?
+
+
+que les resulten de interés o les despierten curiosidad.
+
+. 34 .
+
+Ministerio de Educación del Gobierno de la Ciudad d¿eCBuuáennotsaAriroespa entra en el tambor?
+
+02-08-2024
+
+. 35 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+• El lavado motor
+
+La incorporación de motores permitió eliminar el esfuerzo
+físico necesario para la realización de la tarea. Pero las personas
+
+Diagrama de lavarropas
+
+Diagrama de flujo                                 Diagrama de bloques
+
+
+seguían teniendo que tomar numerosas decisiones:
+
+¿Cuánta agua poner? ¿Cuánto jabón poner? ¿Cuánto tiempo
+mantener encendido? ¿Se cumplió el tiempo estipulado?
+
+¿Está suficientemente vacío? ¿Está bien estrujada?
+
+En los lavarropas eléctricos controlados manualmente, el
+control seguía estando a cargo de las personas.
+
+Primeros lavarropas con motor
+
+Fuente: https://claudiatrujillo1415.files.wordpress.com/2014/10/lavadora.jpg
+
+• El lavado semiautomático
+
+Con la intención de automatizar el funcionamiento de
+los lavarropas se incorporaron dispositivos mecánicos
+para controlar el tiempo de lavado. Se utilizaba una
+perilla giratoria con la que se predeterminaba el tiempo
+de lavado; esta actuaba como una cuerda que, a medida
+que iba girando, mantenía cerrado el circuito eléctrico del
+
+Inicio
+
+Preparar
+ropa
+
+¿Tengo  NO
+jabón?
+
+SÍ
+
+Agregar jabón
+al lavado
+
+Encender
+lavarropa
+
+¿Centrifuga? NO
+SÍ
+
+Lavar
+
+Sacar
+ropa
+
+Fin
+
+Comprar
+jabón
+
+Lavar sin
+centrifugado
+
+Ropa
+sucia
+
+Agua  Cantidad Jabón  Cantidad Tiempo  Cantidad
+
+Llenado    Enjabonado      Agitado
+
+Ropa
+
+Enjuagado    Escurrido
+
+Tiempo  Cantidad Agua  Cantidad
+
+
+motor del lavarropas. Mediante este tipo de mecanismos
+también fue posible controlar el centrifugado. Así, la
+medición del tiempo y la acción de desactivar el motor
+se llevaban a cabo sin intervención de las personas: por
+lo tanto, el sistema poseía un control automático por
+tiempo.
+
+Fuente: http://www.patadaaseguir.es/post/127013066725/gifs-que-
+
+explican-c%C3%B3mo-funciona-el-mundo
+
+Partes de un lavarropas
+
+Funcionamiento de un Lavarropas
+
+Para automatizar de manera completa el lavado de ropa, fue necesario «programar» la
+duración de un ciclo completo que incluyera el llenado, el lavado, el vaciado y el centrifugado.
+En los lavarropas semiautomáticos (descritos anteriormente) el llenado se realizaba
+manualmente: la persona debía abrir el grifo de agua, estar atenta al nivel de llenado del
+tambor y cerrar el grifo cuando el agua alcanzara el nivel deseado. A partir de ese momento,
+programaba el tiempo de lavado. Se necesitaba, entonces, desarrollar una tecnología que
+permitiera controlar la operación de llenado sin necesidad del operador humano.
+
+Motor eléctrico mueve el tambor y permite el lavado
+
+
+Contenedor de jabón
+y/o detergente
+
+Indicador de nivel
+
+Ingreso de agua
+Ingreso de energía
+
+Control: regula temperatura,
+ingreso de agua y tipo de lavado.
+
+Tambor: permite la mezcla de
+jabón, ropa y agua.
+
+
+Tambor
+Panel de Control
+
+Patas ajustables
+
+Manguera de
+salida de agua
+
+Correa: permite el trasladar el
+moviento del motor al tambor.
+
+Cubierta: protege el tambor.
+
+Motor: produce el
+movimiento del tambor
+
+Amortiguadores: sujetan el peso
+del motor y soportan el
+
+movimiento de este.
+
+
+. 36 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 37 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+Reflexión
+
+Piensen por qué la técnica del control por tiempo, utilizada para programar
+el tiempo de lavado, no es la mejor solución para controlar también el llenado
+del tanque. ¿Qué pasaría, en ese caso, si la presión del agua que ingresara a los
+lavarropas no fuese siempre la misma? ¿Cómo podría, entonces, controlarse de
+manera automática el llenado del tanque? ¿Conocen la función que cumple un
+sensor? ¿Podrían utilizarse sensores para resolver el problema?
+
+La presión del agua que ingresa a los lavarropas no siempre se mantiene constante. Si se
+programara un tiempo fijo de llenado podría suceder que, al descender la presión del agua
+entrante, el tambor no alcance a llenarse o, si aumentara, se llenaría más rápido y el tambor
+rebalsaría. La solución, entonces, consistió en utilizar una tecnología que fuese capaz de
+medir la cantidad de agua y cerrar el paso de la misma cuando se alcanzaba el nivel deseado
+(como ocurre en los sistemas de control de nivel utilizados en los depósitos de los inodoros).
+Este tipo de controles automáticos, a diferencia de los llamados controles por tiempo, se
+caracterizan por poseer elementos sensores que cumplen la función de informar el estado del
+sistema. En este caso, el sensor informa si es necesario abrir o cerrar la válvula de entrada de
+agua, sin la necesidad de la intervención de una persona.
+
+• El lavado automático
+
+Para controlar de manera automática
+la operación de llenado del lavarropas se
+incorporó, entonces, un dispositivo sensor,
+capaz de detectar si el nivel de agua en el
+tambor alcanza su nivel máximo y un circuito
+electrónico que permite abrir una válvula
+eléctrica para dejar pasar el agua y cerrarla
+cuando el sensor informa que se alcanzó ese
+nivel.
+
+En el lavarropas automático, entonces, se puede controlar todo un ciclo completo de
+lavado: llenado, lavado, vaciado, centrifugado.
+
+Un estado más avanzado de la automatización se completó cuando, en lugar de
+utilizar dos entradas de agua, una para la fría y otra para la caliente, se incorporó un
+dispositivo para calentar el agua mientras esta va ingresando. Así, se logra mantener
+la temperatura (como ocurre en las planchas o en las heladeras) dentro de un
+margen, de modo que no baje por debajo de un valor mínimo ni suba por encima
+de un valor máximo.
+
+El análisis del modo en que fue modificándose la tecnología para el lavado de ropa nos
+permite entonces aproximarnos a la noción de sistema automático:
+
+1. En los sistemas automáticos ocurren cambios sin la intervención directa de las personas.
+Ciertos mecanismos internos se ocupan de provocar esos cambios.
+
+2. Es posible diferenciar grados de automatización de acuerdo con la cantidad de cambios que
+suceden sin la intervención de las personas. Así, un sistema, puede contener procesos automáticos
+y  no automáticos.
+
+3. La automatización no está asociada solo a las tecnologías modernas tales como la electrónica
+o la informática.
+
+Actividad
+
+Les proponemos, en base al caso analizado y a las definiciones expresadas anteriormente, una
+actividad para diferenciar los sistemas automáticos de los no automáticos. Para determinar si
+un sistema posee algún nivel de automatización, presten atención a si los cambios que ocurren
+en el sistema se deben a acciones directas de las personas o están determinados por ciertos
+mecanismos que posee en su interior. Lean atentamente la siguiente propuesta y completen
+con una X si se trata de un sistema automático o no, justificando en cada caso la elección.
+
+• Escalera mecánica: automático  - no automático  .
+
+Justificación:                                                         
+
+• Ventilador de techo: automático  - no automático  .
+
+Justificación:                                                         
+
+• Semáforo: automático  - no automático  .
+
+Justificación:                                                         
+
+• Ascensor con puerta manual: automático  - no automático  .
+
+Justificación:                                                         
+
+• Heladera: automático  - no automático  .
+
+Justificación:                                                         
+
+• Reloj despertador: automático  - no automático  .
+
+Justificación:                                                         
+
+Reflexión
+
+Les proponemos retomar la actividad introductoria. ¿Modificarían la lista de
+los diez sistemas automáticos? En caso afirmativo, ¿cuáles sacarían de la lista?
+
+¿Por qué?
+
+¿Entre sus diez sistemas automáticos? ¿había algunos basados en tecnologías
+mecánicas o eran todos basados en tecnologías electrónicas o informáticas?
+
+Relean su propia definición sobre sistemas automáticos. ¿Cómo la volverían
+a escribir?
+
+2. ¿Qué tipos de sistemas automáticos existen?
+
+El caso del lavarropas analizado anteriormente nos permite reconocer dos tipos de
+comportamientos automáticos:
+
+• Control automático por tiempo.
+
+• Control automático por sensor.
+
+                                                      Ministerio de Educación del Gobierno de la 
+Ciudad de Buenos Aires
+
+
+. 38 .
+
+02-08-2024
+
+. 39 .
+
+
+Los sensores
+
+Los sensores son dispositivos capaces de reconocer las fluctuaciones de una determinada
+
+EDUCACIÓN TECNOLÓGICA • A
+
+•  Ascensor  con  puerta  manual:  control  por  tiempo        -  control  por  sensor       .
+Justificación:                          
+
+variable y comunicar dicho estado. La información obtenida puede ser representada en algún         
+
+panel indicador para que un observador humano la interprete y pueda actuar en consecuencia.         
+
+
+
+También podemos utilizar la información obtenida por los sensores para activar dispositivos
+actuadores que realicen algún tipo de control o regulación de manera autónoma.
+
+A continuación analizaremos las características, ventajas, desventajas y aplicaciones de
+cada uno de estos dos tipos de sistemas automáticos. Pero antes de avanzar les proponemos
+reflexionar sobre lo trabajado, intentando identificar a cada una de estas dos categorías en los
+ejemplos de sistemas automáticos presentados en la actividad anterior.
+
+• Heladera: control por tiempo  - control por sensor  .
+
+Justificación:                                                
+
+• Reloj despertador: control por tiempo  - control por sensor  .
+
+Justificación:                                                
+
+
+Tipos de Sensores
+
+Ultrasónico: los sensores de ultrasonidos son detectores de proximidad que trabajan libres de roces
+mecánicos y que detectan objetos a distancias de hasta 8m.
+
+PIR Detección de Personas: los detectores PIR (Passive Infrared) o Pasivo Infrarrojo, reaccionan 
+solo
+ante determinadas fuentes de energía tales como el calor del cuerpo humano o animales.
+
+Foto Resistencia: una fotorresistencia es un componente electrónico cuya resistencia disminuye
+con el aumento de energía. Filtra variaciones rápidas de iluminación que podrían hacer inestable a
+otro tipo de sensor.
+
+De toque Switch: el sensor de tacto es un circuito que se activa cuando tocamos una determinada
+zona del mismo con nuestras manos.
+
+Infrarrojo: el sensor infrarrojo es un dispositivo que posee un diodo emisor y otro receptor de luz
+infrarroja. Cuando un objeto se interpone entre ellos, interrumpe el rayo de luz.
+
+Reflexión
+
+Les proponemos completar la siguiente propuesta, incluyendo a los sistemas
+automáticos identificados anteriormente. Para cada uno de ellos, piensen y
+justifiquen si se trata de sistemas que funcionan controlados por tiempo o
+por sensores. Intenten incorporar, también, otros ejemplos no incluidos en el
+listado original.
+
+• Escalera mecánica: control por tiempo  - control por sensor .
+
+Justificación:                                                
+
+•  Ventilador  de  techo:  control  por  tiempo         -  control  por  sensor       .
+Justificación:                          
+
+Para comprender las características de cada una de las dos categorías de sistemas
+automáticos tomaremos como ejemplo el análisis de los sistemas de riego.
+
+• Riego automático por tiempo
+
+Lo sistemas de riego automático, por lo general,
+poseen un dispositivo que permite programar el
+horario en que debe abrirse el paso del agua y,
+además, durante cuánto tiempo debe permanecer
+abierto.
+
+Riego por aspersión
+
+Fuente: http://www.torange-es.com/Objects/summer-
+residence-earth/Riego-autom%C3%A1tico-22286.html
+
+Reflexión. Piensen qué puede ocurrir con las plantaciones si las lluvias no
+coincidieran con las pronosticadas. ¿Y si la presión del agua que sale de las
+cañerías aumenta o disminuye?
+
+En este tipo de sistemas de riego, el terreno puede inundarse o secarse
+debido a que el sistema no puede modificar su programación en función de
+los cambios climáticos.
+
+A este tipo de estructuras se las conoce con el nombre estructuras de control
+a lazo abierto.
+
+Los sistemas de control por tiempo pertenecen a la categoría de sistemas de control a
+lazo abierto. Estos no son capaces de modificar su comportamiento ante cualquier cambio
+en el entorno. El siguiente diagrama de bloques representa la estructura general de un
+sistema de control a lazo abierto por tiempo.
+
+Planto o
+
+
+• Semáforo: control por tiempo  - control por sensor  .
+
+Justificación:                                                
+
+Controlador       Actuador
+
+proceso a
+controlar
+
+Ministerio    de    Educación    del    Gobierno    de    la     Ciudad    de    Buenos    Aires    
+                                
+
+
+. 40 .
+
+02-08-2024
+
+. 41 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+• Riego automático por sensores
+
+Para  poder  modificar  de  manera
+automática la duración del riego, en función
+de la humedad existente en el suelo, el
+sistema recibe la información un sensor
+
+Hemos mencionado que los sistemas a lazo abierto corresponden a sistemas de control
+por tiempo y los de lazo cerrado (realimentados) son sistemas con sensores. Existen,
+también, un conjunto de casos particulares de sistemas en los que, a pesar de poseer
+sensores, se trata de controles a lazo abierto (es decir sin realimentación). El siguiente
+cuadro resume la clasificación presentada.
+
+
+y toma decisiones: si la humedad resulta
+menor que la que se necesita, aumentará el
+tiempo de riego y, si es mayor, lo disminuirá.
+
+Fuente: http://tecnicainternational.com/
+manejodeaguas/planeamiento-de-un-sistema-de-
+
+riego-por-goteo
+
+Mediante la información proveniente de los sensores, el sistema es capaz de modificar
+su comportamiento, abriendo o cerrando el paso del agua, de acuerdo a las necesidades
+
+Sistema
+de control
+automático
+
+Lazo
+abierto
+
+Lazo
+cerrado
+
+(Realimentados)
+
+Con
+temporizadores
+
+Con
+sensores
+
+
+detectadas en el terreno. A este tipo de sistemas se los conoce como sistemas de control con
+sensores a lazo cerrado o sistemas de control realimentados.
+
+Los sistemas de control realimentados pertenecen a la categoría de sistemas de control
+con sensores a lazo cerrado. Estos son capaces de recibir información sobre el efecto que
+provocan sobre el sistema a controlar y, en función de esto, decidir si realizan algún tipo
+de ajuste o corrección, comparando con cierta información almacenada en su memoria.
+El siguiente diagrama de bloques representa la estructura general este tipo de sistemas.
+
+Actividad
+
+A continuación les presentamos tres sistemas de control automático. Analicen detenidamente
+cada uno de ellos y justifiquen la validez de cada una de las afirmaciones:
+
+Sistema de alumbrado público: un sensor detecta si está amaneciendo u oscureciendo. De
+acuerdo a esta información se apaga o enciende la lámpara que alumbra la calle.
+
+
+Controlador       Actuador        Planto o
+proceso
+
+Luz natural
+
+¿día o noche?
+
+Sensor     Controlador     Actuador
+
+(lámpara)
+
+Luz artificial
+
+
+Sensor
+
+Luminosidad del ambiente
+
+(proceso a controlar)
+
+Sistema de alarma: un sensor detecta la presencia de una persona. De acuerdo a esta información
+se emite un aviso sonoro.
+
+
+Actividad
+
+Presencia
+persona
+
+Sensor       Controlador        Sirena
+
+Aviso
+Sonoro
+
+
+A continuación se retoman los sistemas analizados anteriormente y se indica si se trata de
+sistemas de control por tiempo o por sensor. Ustedes pueden verificar sus respuestas. Además,
+les proponemos clasificar cuatro nuevos ejemplos.
+
+• Semáforo: control por tiempo  - control por sensor  .
+
+Sistema de detección de incendios: un sensor detecta la presencia de humo. De acuerdo a
+esta información se activan los rociadores de agua.
+
+Agua
+
+
+• Ascensor con puerta manual: control por tiempo  - control por sensor  .
+
+• Ascensor con puerta automática: control por tiempo  - control por sensor  .
+
+• Heladera: control por tiempo  - control por sensor  .
+
+Nivel de
+Humo
+
+Sensor     Controlador      Rociador
+
+Agua
+
+
+• Reloj despertador: control por tiempo  - control por sensor  .
+
+• Alarma contra incendio: control por tiempo  - control por sensor  .
+
+• Luces de alumbrado público: control por tiempo  - control por sensor  .
+
+• Horno microondas: control por tiempo  - control por sensor  .
+
+En base al análisis de los tres sistemas, justifique cada una de las siguientes afirmaciones:
+
+• El encendido de la lámpara, la activación de la sirena y la apertura de los rociadores de
+agua constituyen, en cada caso, los elementos de salida del sistema que se activan de
+manera automática.
+
+
+• Horno eléctrico: control por tiempo  - control por sensor  .
+
+. 42 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 43 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+• El sensor de luz detecta el día o la noche, el sensor de presencia detecta el ingreso de
+una persona y el sensor del sistema de incendios detecta la presencia de humo.
+
+• Los tres casos son sistemas automáticos con sensores, pero a lazo abierto (sin
+realimentación), debido a que la información que detectan los sensores (luz del sol-
+presencia de una persona-humo) no proviene de las acciones generadas por los
+actuadores (encendido de una luz artificial- activación de una sirena- apertura de una
+salida de agua).
+
+3. ¿Qué impactos tiene la automatización? El caso de los robots
+
+En la introducción a esta unidad mencionábamos acerca de la creciente presencia de la
+automatización, tanto en la vida cotidiana como en los contextos de producción.
+
+Les proponemos analizar el rol de este tipo de sistemas en las industrias. En particular
+centraremos la atención en una de las máquinas automáticas que más se ha ido incorporando
+a los procesos productivos en los últimos tiempos: los robots. Pero… ¿qué es un robot?
+
+Reflexión: Les proponemos pensar una posible definición del término «robot».
+
+Veamos ahora algunas definiciones.
+
+«Por robot industrial de manipulación se entiende a una máquina de manipulación automática,
+reprogramable y multifuncional con tres o más ejes que pueden posicionar y orientar materias,
+piezas, herramientas o dispositivos especiales para la ejecución de trabajos diversos en las 
+diferentes
+etapas de la producción industrial, ya sea en una posición fija o en movimiento». (Federación 
+Internacional
+
+de Robótica).
+
+«…Un robot es una entidad virtual o mecánica artificial. En la práctica, esto es por lo general un 
+sistema
+electromecánico que, por su apariencia o sus movimientos, ofrece la sensación de tener un propósito
+propio…» (Wikipedia).
+
+Partiendo de estas definiciones podemos afirmar que un robot es una máquina automática
+con capacidad de movimiento y de «sentir» su entorno. Además, tienen la posibilidad de
+programarse (y reprogramarse) para realizar múltiples funciones.
+
+En contextos industriales podemos mencionar dos categorías de robots: los brazos
+robóticos y los robots móviles.
+
+Los brazos robóticos pueden realizar, entre
+otras, las siguientes tareas: soldar, pintar, pulir,
+ensamblar, desarmar, cargar y descargar, separar
+piezas defectuosas, etc. Estos robots, que imitan
+el movimiento de un brazo humano, poseen
+articulaciones. La cantidad de articulaciones
+determina los grados de libertad del robot. Cada
+grado de libertad constituye un movimiento
+independiente. Además, poseen sensores que les
+permiten detectar, tanto sus propios movimientos,
+como la información del entorno en el cual tienen
+que funcionar.
+
+Brazos robóticos industriales
+
+Fuente: https://upload.wikimedia.org/wikipedia/commons/9/9f/Float_Glass_Unloading.jpg
+
+Los robots móviles, que se trasladan mediante ruedas u orugas, poseen diferentes tipos
+de sensores: de luz, de sonido, de distancia, de tacto. Estos les permiten tomar información
+del entorno en que deben desplazarse. Se los suele denominar AGV's (vehículos guiados
+de manera autónoma) debido a que se trasladan en base
+
+a un programa que tienen almacenado en la memoria
+de su propio controlador. Normalmente el programa se
+realiza en una computadora y luego es transmitido al
+controlador del robot, de modo que pueda desplazarse
+con   la suficiente autonomía. Entre otras aplicaciones de
+estos robots, podemos mencionar las siguientes (algunas
+de ellas exceden los contextos industriales): transporte
+de materias primas o productos en proceso, exploración,
+
+almacenamiento, inspección, rescate, desactivación de explosivos, limpieza, entre otros.
+
+Robot explorador
+
+Fuente: https://upload.wikimedia.org/wikipedia/commons/4/46/ExoMars_model_at_ILA_2006.jpg
+
+Material complementario9
+
+En el siguiente enlace se incluye una visita a una fábrica de automóviles en la que
+se puede ver el rol de los robots dentro de una línea de producción completa.
+
+Les proponemos mirar el video, reconociendo las diferentes tareas que realizan
+los brazos robóticos. Presten también atención al tipo de tareas que realizan las
+personas en el proceso.
+
+https://www.youtube.com/watch?v=kCI0IX_AiiE&feature=youtu.be
+
+                             Reflexión                             
+
+Les proponemos detenerse a pensar sobre los impactos y efectos de la
+automatización (y en particular de la robótica) sobre los procesos industriales.
+Sabemos que este tema genera posturas encontradas. Por un lado, se suelen
+mencionar las mejoras en la productividad, la eficiencia o la seguridad y también
+en la posibilidad de evitar que los trabajadores realicen tareas insalubres, riesgosas
+o monótonas. Además, gracias a la flexibilidad de los robots, las industrias pueden
+dar respuestas rápidas a los cambios en las demandas de sus productos, tanto en
+la cantidad como en su variabilidad. Pero, por otro lado, reconocemos también
+ciertos impactos sobre los puestos de trabajo; en particular sobre su posible
+disminución, así como también en relación con los cambios en las competencias
+y calificaciones necesarias para los nuevos roles laborales.
+
+Material complementario10
+
+Para enriquecer y solidificar los argumentos en relación a este tema polémico les
+proponemos leer las siguientes notas periodísticas que abordan, desde diferentes
+perspectivas, la problemática del impacto de los robots sobre el trabajo de las personas.
+Los robots no piden paritarias: así será el futuro laboral. En La Nación, 2/3/2014.
+
+Disponible en: http://www.lanacion.com.ar/1668480-los-robots-no-piden-
+paritarias-asi-sera-el-futuro-laboral
+
+Toyota reemplaza a robots por humanos en sus fábricas. En La Nación, 10/4/2014.
+Disponible en: http://www.lanacion.com.ar/1679637-toyota-reemplaza-a-robots-
+por-humanos-en-sus-fabricas
+
+9 Actividad sugerida para el alumno presencial, con material que anexará el docente en las 
+consultoría presencial.
+
+
+. 44 .
+
+Ministerio de Educación del Gobierno de la C1iu0datedmdeaBnuteenrioosr.Aires
+02-08-2024
+
+. 45 .
+
+
+Actividad de autoevaluación
+
+1. Lean atentamente cada una de las siguientes expresiones e indiquen si son verdaderas o
+falsas:
+
+a) Un sistema es automático cuando suceden cambios sin la intervención directa de las
+personas.
+
+b) Todos los sistemas automáticos se basan en tecnologías electrónicas o informáticas.
+
+2. Completen los espacios en blanco de las siguientes frases:
+
+a) Los sistemas de control por tiempo pertenecen a la categoría de sistemas de control
+a lazo         .
+
+b) Los sistemas de control realimentados pertenecen a la categoría de sistemas de control
+a lazo         .
+
+3. Indiquen si es verdadera la siguiente afirmación:
+
+• Existen sistemas con sensores a lazo abierto (sin realimentación).
+
+4. Indique a que sistema corresponde:
+
+EDUCACIÓN TECNOLÓGICA • A
+
+Unidad 3: Procesos y tecnologías de las telecomunicaciones
+
+Propósitos
+
+• Promover en los alumnos la curiosidad y el interés por hacerse preguntas y anticipar
+respuestas en relación con los procesos y los productos tecnológicos, brindando
+estrategias que les permitan comprenderlos y relacionarlos.
+
+• Presentar información, situaciones y ejemplos que permitan a los alumnos reconocer
+la diversidad, el cambio y la continuidad que caracteriza a los procesos y productos
+tecnológicos, en función de los diferentes contextos y culturas.
+
+• Desarrollar miradas críticas y reflexivas que permitan reconocer cómo la práctica
+tecnológica condiciona y a la vez depende, de factores económicos, políticos, sociales y
+culturales, con consecuencias tanto beneficiosas como de riesgo socioambiental.
+
+• Brindar herramientas conceptuales y estrategias procedimentales que permitan a los
+alumnos, a partir de la comprensión de determinados procesos y productos tecnológicos,
+construir generalizaciones y categorizaciones que les permitan trascender los casos
+particulares y arribar a nociones generales aplicables a diferentes procesos y tecnologías.
+
+• Aportar información y experiencias que les permitan a los alumnos analizar y valorar
+crítica y desprejuiciadamente los impactos y efectos del desarrollo de la Informática y
+
+
+Una alarma de puerta es un...
+
+Un lavarropa es un...
+Una heladera es un...
+
+5. ¿Cuáles afirmaciones son verdaderas?
+
+...sistema de control por tiempo.
+
+...sistema de control a lazo cerrado.
+
+...sistema de control a lazo abierto.
+
+las TIC sobre la producción, la vida cotidiana y las subjetividades.
+
+Objetivos específicos
+
+• Conocer las características de las primeras innovaciones tecnológicas desarrolladas
+para transmitir información a distancia, sin necesidad de un soporte material que la
+
+
+a) Los robots son máquinas automáticas con capacidad de movimiento y de sentir su
+entorno.
+
+b) Los robots son siempre entidades artificiales con apariencia humana.
+
+transporte, reconociendo cambios y continuidades en las estrategias y las tecnologías
+desarrolladas para cumplir funciones tales como la emisión, la recepción, la codificación,
+la transmisión y la retransmisión, entre otras.
+
+•  Valorar el rol de los aspectos contextuales de la época y el lugar, para el desarrollo y la
+evolución de los sistemas de transmisión de información a distancia (telecomunicaciones),
+reconociendo los efectos de estas nuevas tecnologías sobre el propio medio contextual
+que las impulsa.
+
+•  -Identificar los aspectos que se conservan y los cambios que se producen al pasar de
+los sistemas telegráficos a los sistemas telefónicos, identificando el rol de las tecnologías
+que permiten transformar señales sonoras en eléctricas y viceversa.
+
+• Comprender la necesidad del origen y las implicancias del desarrollo de las redes de
+telefonía, identificando el rol de las centrales telefónicas y los cambios en los roles y
+perfiles laborales a medida que se van tecnificando las operaciones de conmutación
+en las centrales.
+
+•  Reconocer las confluencias entre los desarrollos de la telefonía y la informática, a partir
+de las posibilidades que ofrecen los procesos de digitalización para transformar variables
+del medio físico en señales binarias.
+
+•  Analizar comparativamente las potencialidades y limitaciones de cada uno de los medios
+empleados para transmitir información a distancia (ondas sonoras, cables conductores
+de electricidad, ondas electromagnéticas, fibras ópticas), reconociendo su integración
+y aplicación a diferentes sistemas de telecomunicaciones.
+
+Contenidos troncales
+
+• La comunicación a distancia basada en códigos.
+
+•  Telegrafía óptica y telegrafía eléctrica. La transmisión de mensajes por cables: circuitos,
+
+
+. 46 .
+
+Ministerio de Educación del Gobierno de la Ciudad cdeóBduigenooss Ayirepsrotocolos La 
+retransmisión.
+
+02-08-2024
+
+. 47 .
+
+
+•  La telefonía. De la telegrafía a la telefonía. Continuidades y cambios. Señales analógicas
+y digitales. Del circuito telefónico a las centrales telefónicas. La telefonía como servicio:
+redes de telefonía.
+
+•  La Informática y las telecomunicaciones. La digitalización de la información. La codificación
+binaria. La integración entre la telefonía y la informática. Internet: la «red de redes».
+
+•  Medios de transmisión. La transmisión a través de cables conductores de electricidad.
+La transmisión inalámbrica. Las fibras ópticas.
+
+• Estructuras de los sistemas de comunicaciones. Sistemas unidireccionales y
+bidireccionales. Sistemas «múltiplex». Sistemas punto a punto y sistemas de difusión.
+Relaciones entre estructuras de comunicaciones y medios de transmisión.
+
+• El desarrollo de las telecomunicaciones y su relación con los aspectos contextuales.
+Impulsos y efectos.
+
+Introducción
+
+A lo largo de esta unidad analizaremos los
+procesos y las tecnologías empleadas en las
+telecomunicaciones. Conoceremos diferentes
+tecnologíasempleadasparatransmitirinformación
+a distancia, desde las primitivas señales de humo
+hasta las más modernas redes de computadoras.
+Haremos hincapié en los aspectos comunes entre
+los diferentes sistemas, reconociendo cambios y
+continuidades en función de los avances de la
+tecnología y de las características particulares de
+cada época y lugar.
+
+A través de las fibras ópticas viaja la información a grandes distancias
+
+Fuente: https://upload.wikimedia.org/wikipedia/commons/3/3d/Fibra_Optica.jpg
+
+                             Reflexión                             
+
+Hoy en día es posible enviar y recibir, casi al instante, cualquier tipo de información
+(texto, voz, foto, música, video) tan lejos como se desee. Pero entre el Emisor y el
+Receptor, ¿cómo viaja la información?
+
+Los invitamos a pensar en este proceso, reflexionando acerca del camino que
+sigue una foto enviada desde un celular hasta una computadora ubicada a gran
+distancia. ¿Qué tecnologías intervienen? ¿antenas, satélites, computadoras? ¿Por
+qué medios viaja? (¿aire, cables subterráneos?) ¿Cómo hace la imagen para
+
+«transportarse»?
+
+Al finalizar esta unidad, seguramente, ustedes podrán volver a revisar sus
+respuestas y comprobar cuánto han aprendido.
+
+1. Los primeros sistemas de telecomunicaciones
+
+Entre las primeras comunicaciones a distancia se encuentran aquellas que se realizaban
+a través de señales ópticas que «viajaban» por medio de la luz, entre los emisores y los
+receptores. Mediante banderas, señales de humo, encendiendo o apagando antorchas, o
+reflejando la luz del sol, las personas lograban enviar y recibir mensajes a distancia.
+
+EDUCACIÓN TECNOLÓGICA • A
+
+Mensaje    Codificar    Transmitir   Decodificar    Mensaje
+
+Si bien los mensajes podían ser recibidos fácilmente mediante el sentido de la vista o del
+oído, utilizar la luz o el aire como medio de transmisión tiene varios inconvenientes como la
+interferencia, la intercepción del mensaje, o la distancia:
+
+• La luz se transmite solamente en línea recta. ¿Qué pasa cuando o bien hay un obstáculo o
+bien se quiere realizar un giro en la dirección?
+
+• La mayoría de los cuerpos no son atravesados por la luz (salvo los transparentes).
+
+• Los mensajes pueden ser detectados por diferentes receptores no deseados (más allá de
+los destinatarios previstos).
+
+•  Dificultad para escuchar los mensajes auditivos en sitios muy ruidosos o lejanos (campos
+de batalla, junglas, etc.)
+
+1.1. La necesidad de retransmitir
+
+Pensemos en una cadena de mensajes donde se utiliza un mensajero. La persona toma
+el mensaje y recorre una determinada distancia hasta llegar al destinatario. ¿Qué ocurre si la
+distancia es demasiado extensa? Una persona a pie comenzaría su viaje a toda carrera pero
+luego de unos km se terminaría agotando, con lo cual su velocidad bajaría notablemente.
+
+¿Cómo podríamos lograr que el mensaje siga viajando a una velocidad constante desde
+el emisor al receptor? ¿Cómo ayudaría a solucionar el problema la incorporación de más
+mensajeros? En las carreras de postas, cada corredor del equipo recorre solamente una
+fracción de la pista y entrega «el testimonio» a su siguiente compañero hasta completar el
+recorrido total.
+
+11  https://upload.wikimedia.org/wikipedia/commons/a/a5/Senales-de-humo.jpeg
+
+12 http://lagarrapataandaluza.blogspot.com.ar/2014/05/es-historia-moros-en-la-costa.html
+
+13 https://rodolfoparbst.blogspot.com.ar/2015/08/el-tambor-de-tacuari.html
+
+14 http://cronicasinmal.blogspot.com.ar/2015/01/la-trutruca-instrumento-musical-mapuche.html
+
+
+. 48 .
+
+Ministerio de Educación del Gobierno de la 
+C1iu5dhatdtpde://Bwuewnwos.yAaiirre.ess/codigos_09_10/banderas_de_senyales-481.htm
+02-08-2024
+
+. 49 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+Distorsión por distancia
+
+Realicemos un ejercicio de memoria y pensemos en aquel juego infantil, donde uno pensaba
+una frase y se la decía a otro al oído. Entonces la frase era transmitida de persona a persona
+de manera oral a lo largo de la fila y el último decía el mensaje en voz alta; muchas veces el
+mensaje no coincidía, ¿qué había pasado? el mensaje se distorsionaba en la transmisión de
+uno a otro.
+
+¿Cómo evitar la distorsión del mensaje original en una distancia muy grande cuando se
+utiliza el sistema de retransmisión?
+
+Material complementario16
+
+En el siguiente video se ilustran las primitivas maneras de transmitir información a
+distancia y se presenta la Telegrafía de Chappe.
+
+https://drive.google.com/file/d/0Bz2rz04Zg--SSUV6MlZnYjg4bnM/view
+
+Durante la Revolución francesa se creó un ingenioso sistema para transmitir a grandes
+distancias las órdenes de Napoleón. El sistema se denominaba telégrafo de Chappe (en honor
+a su inventor) o telégrafo óptico.
+
+El sistema estaba formado por:
+
+¿Cuáles eran las ventajas de la telegrafía de Chappe, respecto a los otros métodos
+utilizados hasta ese momento (mensajeros, antorchas, banderas, etc.)?
+
+¿Cuáles podrían ser las desventajas respecto a un sistema que utilice la
+electricidad para transmitir información a distancia a través de cables?
+
+Este proceso de codificación y decodificación de los mensajes le brindó seguridad al
+sistema, además de velocidad. Pero ¿qué pasaba durante la noche o en aquellos días con
+poca visibilidad por lluvia o niebla?
+
+Con la intención de superar las problemáticas que presentaba la telegrafía óptica, y gracias
+a los avances de la tecnología, se logran desarrollar estrategias para transmitir mensajes a
+distancia empleando la electricidad. Surge así la telegrafía eléctrica.
+
+Material complementario17
+
+Los siguientes videos ilustran la importancia del nacimiento del telégrafo eléctrico.
+https://drive.google.com/file/d/0Bz2rz04Zg--Sa0VSWTFCYVFhZE0/view
+https://drive.google.com/file/d/0Bz2rz04Zg--Sa1RDYlJvd3dlYWs/view
+
+
+• Una serie de torres de gran altura.
+
+• Sobre las torres se ubicaban barras articuladas que se movían manualmente desde
+adentro de las torres gracias a manivelas y sogas.
+
+• Las barras podían tomar 200 posiciones diferentes, cada una de las cuales correspondía
+a una letra, un número o una frase breve.
+
+• Con la ayuda de un telescopio, los mensajes transmitidos podían observarse desde la
+siguiente torre a 10 km de distancia aproximadamente.
+
+Tendido de cable telegráfico
+
+Pulsador
+
+Batería
+
+Zumbador
+
+Electroimán
+
+Modelo Circuito telegráfico
+
+Pulsador
+
+
+Torres de Chappe
+
+Fuente: https://upload.wikimedia.org/wikipedia/commons/e/e7/
+Chappe_semaphore.jpg
+
+Batería
+
+Zumbador
+
+
+Con la intención de aumentar el alcance del Telégrafo de Chappe, se instaló una red de 540
+torres en varias líneas que unían las principales ciudades francesas. Las torres de una línea
+estaban separadas entre sí por una distancia aproximada de 10 km. En cada torre se recibía
+el mensaje de la anterior y se lo retransmitía a la siguiente. Los mensajes no podían ser
+interpretados por cualquier observador, ya que cada símbolo debía ser descifrado mediante
+
+un libro de códigos, el cual solamente utilizaba el jefe de torre. Esta red de telecomunicaciones 
+era capaz
+de transmitir mensajes a casi 400 km. de distancia en unos pocos minutos. De otro modo, mensajeros
+a caballo tenían que utilizar hasta dos días para realizar la misma tarea, y los mensajes podían ser
+interceptados y caer en manos del enemigo.
+
+Alrededor del año 1845, el pintor e inventor norteamericano Samuel Morse, presentó su
+telégrafo eléctrico: el sistema permitía transmitir mensajes mediante señales eléctricas que
+circulaban por un cable. En el transmisor se utilizaba un pulsador; en el receptor el actuador
+podía ser un zumbador que sonaba de modo similar a un timbre. También se utilizó el
+telégrafo escritor. Aquí, una aguja metálica imprimía un punto o una raya sobre un rollo de
+papel, dependiendo del tiempo en que se encontraba presionado el pulsador. Morse creó
+también un código que permitía enviar letras, números y signos ortográficos, combinando
+señales eléctricas de corta duración (representadas por un punto) y señales eléctricas de
+larga duración (representadas por una raya).
+
+16 Actividad sugerida para el alumno presencial, con material que anexará el docente en las 
+cMoinnisstuelrtioordíae pErdeusceanccióinal.del Gobierno de la 
+C1iu7dAadctdiveidBaudensousgAeirreidsa para el alumno presencial, con material que anexará el 
+docente en las consultoría presencial.
+
+
+. 50 .
+
+02-08-2024
+
+. 51 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+Código morse internacional
+
+1. Un guión es igual a tres puntos.
+
+2. El espacio entre partes de la misma letra es igual a un punto.
+
+3. El espacio entre dos letras es igual a tres puntos.
+
+4. El espacio entre dos palabras es igual a cinco puntos.
+
+A · –       B – · · ·       C – · – ·      D – · ·        E ·          F · · – ·
+G – – ·       H · · · ·       I · ·         J · – – –      K – · –      L · – · ·
+M – –       N – ·        O – – –      P · – – ·      Q – – · –     R · – ·
+
+S · · ·        T –        U · · –       V · · · –      W · – –      X – · · –
+
+Y – · – –     Z – – · ·
+
+1 · – – – –     2 · · – – –     3 · · · – –     4 · · · · –     5 · · · · ·      6 – · · · ·
+
+7 – – · · ·      8 – – – · ·     9 – – – – ·     0 – – – – –
+
+Actividad
+
+Observe atentamente la tabla que representa el código Morse e intente responder los siguientes
+interrogantes:
+
+a) ¿Cómo se codificaba en Morse el mensaje S.O.S.?
+
+b) ¿Cómo se indicaba la finalización de una letra? ¿Y la separación entre palabras?
+
+La telegrafía eléctrica tenía grandes ventajas respecto a la telegrafía óptica: los mensajes
+viajaban muy rápido y de manera «secreta», bajo la forma de señales eléctricas que circulaban
+por los cables; las condiciones climáticas y los cambios en la luminosidad ambiente no
+alteraban la posibilidad de recibir los mensajes. De todos modos, seguía habiendo problemas
+para comunicarse a grandes distancias: uno de los problemas es la atenuación de las señales
+
+eléctricas: a medida que la distancia entre el transmisor y receptor aumenta, también lo hacen las 
+pérdidas
+de energía en los conductores, reduciéndose a su vez la señal que llega al receptor.
+
+El siguiente gráfico muestra de qué manera puede disminuir la amplitud de la señal enviada
+a medida que aumenta la distancia entre emisor y receptor.
+
+                             Reflexión                             
+
+Mediante la telegrafía óptica se había logrado desarrollar una ingeniosa estrategia
+para aumentar notablemente la distancia a la que era posible enviar los mensajes:
+la retransmisión. ¿Es posible aplicar esta misma idea a la telegrafía eléctrica?
+
+Para lograr transmitir información a grandes distancias Morse
+tomó las ideas de Chappe. A su telégrafo le incorporó estaciones
+retransmisoras en las que un operador recibía el mensaje y, a través
+de    un nuevo circuito telegráfico, lo reenviaba.
+
+Para optimizar el proceso de retransmisión se incorporaron
+sistemas electromagnéticos denominados relés, que permitían
+realizar la operación de manera automática, sin la necesidad de una
+persona como intermediaria.
+
+El relé (o relay) es dispositivo de control que deja pasar o interrumpe la señal eléctrica
+como lo haría un pulsador, solo que no está comandado por la mano de una persona sino por
+un circuito electromagnético. Cuando el circuito de entrada detecta la corriente proveniente
+de la estación N.° 1, dicha corriente circula por una bobina que genera un campo magnético
+que actúa sobre un núcleo de hierro, produciendo un imán temporal. Ese imán se utiliza para
+que dos contactos de hierro se atraigan entre sí, cerrando otro circuito a la salida del relé. Este
+nuevo circuito se alimenta de una nueva fuente de energía que se encuentra en la estación N.°
+
+2. De este modo, la señal de entrada que llega débil al electroimán, se refuerza en la estación
+N.° 2 para ser enviada hacia adelante por la línea a la estación N.° 3.
+
+El siguiente video les permitirá comprender mejor lo explicado:
+
+https://www.youtube.com/watch?v=QjszJEncew818
+
+2. De la telegrafía a la telefonía
+
+La telegrafía eléctrica surgió como resultado de la búsqueda por optimizar las comunicaciones
+a distancia que se realizaban a través de la telegrafía óptica. Del mismo modo surge la
+telefonía. En este caso, los investigadores de la época se encontraban explorando estrategias
+para poder enviar varios mensajes simultáneos a través de una misma línea telegráfica. En
+ese proceso, casi por casualidad, surge un dispositivo que combinando principios eléctricos y
+magnéticos permitía transmitir la voz humana a través de señales eléctricas que viajaban por
+cables conductores. Nace, entonces, el teléfono.
+
+Los siguientes videos les permitirá comprender mejor lo explicado:19
+https://www.youtube.com/watch?v=ujO2hs9Zjm8
+https://www.youtube.com/results?search_query=telefono+canal+encuentro
+
+Circuito telefónico con micrófono de carbón
+
+Diafragma metálico                                  Diafragma metálico
+
+
+L   Distancia
+
+Granos de carbón
+
+Capsula metálica        Electroimán
+
+
+Transmisor
+
+t                   t
+
+Receptor
+
+
+Mensaje enviado              Mensaje recibido
+
+18 Actividad sugerida para el alumno presencial, con material que anexará el docente en las 
+consultoría presencial.
+
+Ministerio de Educación del Gobierno de la C1iu9dÍatdemdeaBnuteenrioosr.Aires
+
+
+. 52 .
+
+02-08-2024
+
+. 53 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+El primer circuito telefónico se basó en su antecesor, el circuito telegráfico. En el transmisor,
+un micrófono reemplazó al pulsador. En el receptor, un parlante reemplazó al zumbador o
+aguja que marcaba las rayas o puntos. Seguía haciendo falta una fuente para proveer de
+
+En la imagen se muestra una solución diferente. En este caso, de cada uno de los teléfonos
+sale un par de cables hacia cada uno de los otros teléfonos.
+
+
+energía eléctrica al sistema.
+
+Tel 1      Tel 2        Tel 1      Tel 2
+
+Tel 1    Tel 2
+
+
+Tel 3
+
+Tel 4     Tel 3
+
+Tel 5
+
+Tel 3
+
+
+Cada línea de puntos representa un par de cables.
+
+Tel 4
+
+
++
+
+Para que pudiera establecerse una comunicación fue necesario incorporar, un micrófono y
+un parlante adicionales. Así, podían establecerse comunicaciones bidireccionales.
+
+El sistema solucionaba el problema de la privacidad pero tenía un nuevo inconveniente:
+cada vez que se incorporaba un nuevo usuario al sistema, era necesario conectarlo con
+todos y cada uno de los otros usuarios. Para conectar cinco teléfonos eran necesarios
+veinte cables; para seis teléfonos, treinta; para cien, diez mil cables. Además, todos estos
+cables debían atravesar la ciudad ya que interconectaban a todos los usuarios entre sí. El
+sistema no fue viable.
+
+
+Tel 3
+
+Tel 1
+
+Tel 2
+
+
+Tel 6
+
+Tel 4
+
+Tel 5
+
+
+Principio de funcionamiento del teléfono
+
+Las ondas sonoras que surgen de las vibraciones de las cuerdas vocales, pueden viajar por
+el aire. Pero su alcance es limitado.
+
+El micrófono permite transformar esas vibraciones en señales eléctricas.
+
+El parlante hace el proceso inverso: convierte las ondas eléctricas en vibraciones de una
+membrana que produce ondas sonoras capaces de ser captadas por el oído humano. De este
+modo, el sonido se convierte en electricidad para poder viajar a grandes distancias.
+
+Esquema de la comunicación telefónica en serie
+
+Actividad
+
+¿Conocen algún método que permite intercomunicar por cable a una gran cantidad de usuarios
+telefónicos sin necesidad de conectar a todos con todos de manera directa y permanente? La
+siguiente imagen les puede ayudar a encontrar la respuesta.
+
+
+Reflexión
+
+Los primeros teléfonos solo permitían comunicar entre sí a dos personas. En la
+imagen se muestra un circuito formado por tres teléfonos. ¿Permite este sistema
+realizar conversaciones privadas entre dos usuarios? ¿Por qué?
+
+Las telefonistas trabajando en las primeras centrales telefónicas
+
+
+. 54 .
+
+Ministerio de Educación del Gobierno de laFCuiuednatded: 
+ehBttupesn:o/s/uApirleosad.wikimedia.org/wikipedia/commons/3/34/TELEFONISTAS_1910.JPG
+
+02-08-2024
+
+. 55 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+La solución consistió en que los usuarios se interconecten por medio de una central
+telefónica. Las primeras centrales telefónicas eran manuales. En ellas trabajan telefonistas,
+generalmente mujeres, sentadas frente a un tablero; recibían el llamado de un abonado
+quien le solicitaba comunicarse con otro abonado. Entonces, la telefonista llamaba al
+
+destino y conectaba los cables de ambos teléfonos. A este procedimiento se lo conoce con el nombre
+de conmutación manual.
+
+Analice la imagen y complete las siguientes afirmaciones:
+
+a) El número máximo de comunicaciones simultáneas que pueden establecerse entre
+abonados de una misma central es         .
+
+b) El número máximo de comunicaciones simultáneas que pueden establecerse entre
+abonados de diferentes centrales es         .
+
+Expliquen por qué razones puede suceder que la llamada de un abonado de una central a uno
+de otra central emita un tono de ocupado.
+
+Conmutar significa seleccionar una conexión entre los varias posibles. A la central se la        
+llamó conmutador por esa razón.
+
+
+La primera central telefónica fue propiedad de la Compañía Bell, que no vendía sus teléfonos
+a los usuarios sino que se los alquilaba, para comercializar el servicio de la conmutación
+telefónica.
+
+Al panel de cada operadora llegaban las líneas provenientes de una gran cantidad de
+usuarios y también líneas que conectaban con otras centrales. Estas a su vez tenían sus
+propios abonados. Cuando la llamada de un abonado era para un abonado de otra central,
+las operadoras se comunicaban entre sí para establecer la comunicación con el destinatario
+de la llamada. De este modo se establecía una verdadera red de telefonía.
+
+La conmutación manual era lenta y costosa; en la medida que el número de abonados crecía
+fue necesario automatizar este proceso. Se instalaron entonces centrales automáticas
+en las cuales, en lugar de una telefonista, había dispositivos electromagnéticos que
+interconectaban  los  cables  de  los  teléfonos,  de  acuerdo  con  las  señales  eléctricas
+generadas mediante un disco llamador.
+
+La primera central automática fue desarrollada por un usuario que deseaba eliminar
+la intervención humana porque creía que su empresa estaba siendo perjudicada por una
+
+
+Tel 3
+
+Tel 4
+
+Tel 2
+
+Tel 5
+
+Tel 1
+
+Tel 6
+
+Central
+6 - 2
+
+a otras
+centrales
+
+operadora que desviaba sus llamados hacia la competencia.
+
+En un comienzo, gran parte del público se resistía a la innovación y al uso de los discadores
+telefónicos. En nuestro país se terminó de automatizar la comunicación a larga distancia en
+la década de 1990.
+
+Actividad
+
+El sistema de conmutación automático debía cumplir las mismas funciones que cumplía la
+operadora. Se desarrollaron, entonces, cuatro señales automáticas. Analizar la siguiente
+
+
+Actividad
+
+En la imagen puede verse una red de telefonía formada por 3 (tres) centrales. Cada una de ellas
+atiende a 6 (seis) abonados y posee, además, 2 (dos) líneas de conexión para otras centrales.
+
+información y unir con flechas según corresponda:
+
+Señal de tono
+Señal de llamado
+Señal de llamando
+
+Desde la central al destinatario
+Desde el emisor a la central
+Desde la central al emisor.
+Desde la central al emisor
+
+
+1 - 1
+
+1 - 2
+
+2 - 1
+
+2 - 2
+
+Señal de ocupado
+
+
+1 - 3
+
+1 - 4
+
+1 - 5
+
+1 - 6
+
+2 - 5
+
+3 - 1
+
+3 - 5
+
+2 - 6
+
+3 - 2
+
+3 - 6
+
+2 - 3
+
+2 - 4
+
+3 - 3
+
+3 - 4
+
+3. Las comunicaciones digitales
+
+Sabemos que, en la actualidad, a través de los sistemas de telecomunicaciones es posible
+transmitir todo tipo de información. Mediante las líneas telefónicas, por ejemplo, no solo se
+transmite la voz humana; es posible intercambiar también textos, música, fotos, videos y todo
+tipo de datos provenientes, por ejemplo, de las computadoras. Esto se logra gracias a una
+técnica denominada digitalización, que permite expresar todo tipo de información en el
+formato binario de 1(unos) y 0 (ceros).
+
+La posibilidad de expresar información de diferente naturaleza mediante un mismo formato,
+el formato digital, permitió interconectar entre sí a sistemas tan diferentes como la televisión,
+la radio, las computadoras o los teléfonos. Gracias a la digitalización se logra el intercambio
+de todo tipo de información a través de Internet, la red de redes.
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+
+
+. 56 .
+
+02-08-2024
+
+. 57 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+Las computadoras utilizan el código ASCII, que permite representar 256 símbolos
+diferentes mediante combinaciones de ocho bits.
+
+01000001 A
+
+01000010 B
+
+01000011 C
+
+..................
+
+00111100 <
+
+00111101 =
+
+00111110 >
+
+El siguiente video ilustra cómo se construyen los códigos binarios que rigen el
+funcionamiento de las computadoras. 20
+
+https://drive.google.com/folderview?id=0Bz2rz04Zg--
+SZWRsMUNPMkd5VE0&usp=sharing
+
+Fuente: Canal Encuentro
+
+La información que procesan las computadoras se encuentra en formato binario: los
+programas, tales como los procesadores de textos, existen como bits dentro de las
+computadoras. Cuando escribimos la letra «e», en algún lugar de la computadora se
+escribe un conjunto de bits; cuando grabamos un archivo en un disco, lo que se almacena
+es un conjunto de bits. Pero no toda la información que se necesita procesar mediante
+
+las computadoras se encuentra en un formato que permita ser convertido fácilmente a binario. La
+codificación, solo puede aplicarse a la información que contenga un número discreto y limitado de
+valores (en este caso el alfabeto junto con las puntuaciones, los espacios y los números 
+decimales). Un
+sonido, en cambio, no parece fácilmente «codificable» en binario debido a que tanto el volumen como
+el tono pueden ir cambiando continuamente. Se trata de un formato analógico. Lo mismo ocurre con las
+imágenes: en un dibujo las líneas pueden ir por todos lados y los colores pueden variar en un 
+rango. Para
+integrar las computadoras a los sistemas de telecomunicaciones es necesario transformar información
+analógica a digital; esto se logra mediante la digitalización.
+
+La transmisión de imágenes a través del
+fax se basa en la fragmentación de la misma
+en pequeños cuadros denominados pixeles.
+
+Cada pixel es representado por un 1 (uno)
+o un 0 (cero), de acuerdo a si se encuentra
+lleno (negro) o vacío (blanco).
+
+Si hay pixeles que no están ni vacíos ni
+llenos, se asigna un 1 (uno) a los que están
+llenos por la mitad o la superan y un 0 (cero)
+a los que se hallan menos de la mitad llenos.
+
+0  0  1  1
+
+0  1  1  1
+
+0  1  1  1
+
+0  1  1  1
+
+0  0  1  1
+
+0  0  0  0
+
+0  0  0  0
+
+0  0  0  0
+
+Pixel
+
+1  1  0  0
+
+1  1  0  0
+
+1  1  1  0
+
+1  1  0  0
+
+1  1  0  0
+
+0  1  0  0
+
+0  0  1  0
+
+0  0  0  1
+
+
+El siguiente video ilustra el proceso de digitalización de imágenes.21
+
+https://drive.google.com/folderview?id=0Bz2rz04Zg--
+SZWRsMUNPMkd5VE0&usp=gmail
+
+Fuente: Canal Encuentro
+
+Una de las primeras aplicaciones de la digitalización puede encontrarse en los sistemas
+de fax, que se utilizan desde hace muchos años para transmitir imágenes a distancia a
+través del teléfono.
+
+Mediante un sensor óptico se va leyendo
+la imagen y, por el teléfono, se envían
+secuencias de 1 (unos) y 0 (ceros) bajo la
+forma de sonidos de dos tonos diferentes.
+
+En el receptor se van pintando de negro
+los pixeles que corresponden a 1 (unos) y
+se dejan sin pintar los que corresponden a
+0 (ceros). De este modo se reconstruye la
+imagen original.
+
+20 Actividad sugerida para el alumno presencial, con material que anexará el docente en las 
+consultoría presencial.
+
+
+21 Ítem anterior.
+
+. 58 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 59 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+Actividad
+
+Analicen el método descripto para digitalizar y transmitir imágenes y justifiquen la validez o
+no de las siguientes afirmaciones.
+
+• Es posible mejorar la precisión de la imagen, aumentando la cantidad de pixeles.
+
+• Cuándo se busca aumentar la precisión de una imagen, aumenta el tiempo que tarda
+en transmitirse.
+
+La digitalización mediante pixeles se aplica actualmente para almacenar imágenes
+digitales. Cuando se guarda en la memoria de un teléfono celular o de una computadora
+una foto o un dibujo, lo que se almacena es la información acerca del contenido, 1 (unos)
+y 0 (ceros) de cada pixel en que se fragmenta la imagen.
+
+Cables conductores de electricidad
+Fuente:https://upload.wikimedia.org/wikipedia/
+commons/7/74/Stranded_lamp_wire.jpg
+
+Cable coaxil
+Fuente:https://upload.wikimedia.org/wikipedia/
+commons/0/08/Coaxial_cable_cut.jpg
+
+
+Actividad
+
+Una de las especificaciones de las cámaras de fotos digitales es la cantidad de pixeles. Explique
+qué indica esta especificación y cómo influye en la calidad de las imágenes.
+
+¿Puede afirmarse que, cuanto mayor es la cantidad de pixeles de una imagen, mayor es el
+espacio en memoria que ocupa? ¿Por qué?
+
+4. Los medios de transmisión
+
+Toda comunicación a distancia se realiza a través de algún tipo de medio físico que vincula
+al emisor y al receptor. A través de ese medio viajan las señales que transportan los mensajes.
+Existen diferentes tipos de medios que pueden clasificarse en dos grandes categorías:
+
+• Medios de transmisión con continuidad física: abarcan desde los primitivos cables
+telegráficos, pasando por los cables de aéreos, subterráneos o submarinos, que se
+utilizan actualmente para comunicar información a grandes distancias, e incluyen,
+también, a las modernas fibras ópticas.
+
+• Medios de transmisión sin continuidad física: se basan en las comunicaciones que
+se realizan de manera inalámbrica, a través de las ondas electromagnéticas, también
+denominadas ondas de radio. Estas viajan por el aire o el espacio y se aplican tanto
+a la telefonía celular, la radiofonía, la televisión satelital, la televisión abierta y las
+comunicaciones espaciales.
+
+Fuente: https://pixabay.com/static/uploads/photo/2013/07/12/13/15/city-146681_960_720.png
+
+Las comunicaciones por cable: la telegrafía eléctrica fue, durante muchos años, la manera
+más eficiente de enviar información a distancia. Los primeros cables estaban formados por
+conductores de hierro.
+
+Cuando pudo reemplazarse el hierro por el cobre se hicieron más eficientes las comunicaciones
+tanto telegráficas, como telefónicas. Pero los cables de cobre conductores de la electricidad, 
+presentan
+imperfecciones que provocan que las señales no se reciban tal cual fueron enviadas.
+
+Hoy en día hay cables eléctricos, especialmente diseñados para utilizarlos en comunicaciones, que
+permiten optimizar las condiciones de transmisión, ampliando notablemente las posibilidades que
+brindan los cables conductores de cobre. Entre ellos podemos mencionar los cables coaxiles.
+
+Las transmisiones inalámbricas: se realizan a través de ondas electromagnéticas que se
+propagan por el vacío, sin necesidad del aire. A diferencia de las ondas sonoras, las de radio
+pueden transmitirse a miles y millones de kilómetros, sin que el hombre pueda verlas ni oírlas
+por sus propios medios. Su alcance depende de varios factores y entre ellos encontramos:
+la potencia del transmisor, el tipo de modulación, la frecuencia de transmisión, la altura de la
+antena, la zona geográfica, la hora de transmisión, las interferencias, el ancho de banda, etc.
+Con este tipo de medio podemos cubrir distancias que van desde algunos pocos metros
+hasta millones de kilómetros.
+
+                             Reflexión                             
+
+Es interesante reconocer que la comunicación inalámbrica también se utiliza
+en aplicaciones cotidianas en las que se necesitan transmitir información a
+cortas distancias, como por ejemplo en los controles remotos de los televisores
+o los portones, en los que se utiliza luz no visible, denominada infrarroja. El
+wi-fi y el Bluetooth también son ejemplos de comunicaciones inalámbricas
+de cortas distancias, utilizadas para transmitir todo tipo de datos, imágenes,
+videos y sonidos.
+
+Las primeras comunicaciones basadas en ondas electromagnéticas se realizaron a través
+de la telegrafía inalámbrica. Esta permitió seguir utilizando el código Morse, transmitiendo
+mensajes sin necesidad de instalar cables entre emisores y receptores.
+
+Surgió así la radiotelegrafía, que permitió resolver el intercambio de información entre los
+barcos que hasta ese momento no podían comunicarse en caso de una emergencia.
+
+La comunicación inalámbrica permitió el nacimiento de la radiofonía, mediante la cual se lograron
+comenzar a transmitir sonidos desde las estaciones transmisoras y de manera abierta para ser 
+captadas
+desde cualquier recetor.
+
+Como antecedente de la telefonía celular, se desarrollaron radiotransmisores portátiles que
+permitían intercomunicar la voz humana de manera privada, en forma inalámbrica.
+
+                                                      Ministerio de Educación del Gobierno de la 
+Ciudad de Buenos Aires
+
+
+. 60 .
+
+02-08-2024
+
+. 61 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+Al comienzo de esta unidad hablamos acerca de las dificultades que presentan las señales
+luminosas para ser utilizadas como medio de transmisión de información a distancia. Para
+resolver esta problemática se desarrollan las fibras ópticas que se basan en guiar la luz
+a través de unas muy delgadas fibras formadas por núcleos cilíndricos de vidrio flexible
+recubiertos de plástico opaco. El haz de luz se propaga aunque este no siga una línea recta
+
+debido a una serie de reflexiones internas.
+
+Las fibras ópticas tienen la ventaja de que las señales se transportan a través de ellas con
+bajas pérdidas e interferencias.
+
+Además, son muy delgadas y livianas, lo que es importante cuando se tiene que instalar
+una gran cantidad de cables. Por esto se suelen utilizar en los sistemas telefónicos, por la falta
+de espacio para instalar más cables de cobre.
+
+Un aspecto negativo es su costo, por lo cual su uso resulta económicamente viable si se
+utilizan para reemplazar a grandes cantidades de cables eléctricos.
+
+Permiten comunicaciones más veloces, por lo que es posible transmitir gran cantidad de
+información por unidad de tiempo.
+
+Reflexión y refracción de la luz dentro de la fibra óptica
+Fuente: https://upload.wikimedia.org/wikipedia/
+commons/4/40/Refracci%C3%B3n-fibra-optica.gif
+
+                             Reflexión                             
+
+En los sistemas de comunicaciones satelitales, los satélites espaciales reciben
+las señales emitidas por las antenas satelitales y las vuelven a enviar a la Tierra,
+donde son recibidas por antenas receptoras. Así, se logran enlaces que no
+podrían realizarse en forma directa. ¿Podríamos afirmar que los satélites
+cumplen funciones equivalentes a las de las torres repetidoras de Chappe? ¿Y
+a  las de los relés utilizados para extender el alcance de la telegrafía eléctrica?
+
+¿Y a las de las centrales telefónicas?
+
+El satélite actúa como un espejo, recibiendo las señales
+emitidas desde una antena y transmitiéndola a la otra.
+Fuente: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/
+Satellite_Communication_Scetch.svg/2000px-Satellite_Communication_
+Scetch.svg.png
+
+                             Reflexión                             
+
+Les proponemos revisar sus primeras ideas sobre el modo en que viaja la
+información a grandes distancias. A partir de lo leído, ¿podrían enriquecer su
+análisis? Ahora sabemos que en la actualidad, los sistemas de comunicaciones
+combinan diferentes medios para transmitir los mensajes a grandes distancias.
+Así, por ejemplo, un mensaje puede comenzar siendo una onda sonora que es
+captada por un micrófono y transformada en señales eléctricas que ingresan
+de modo digital a una computadora y de allí es transmitida, de manera
+inalámbrica, hasta una central que, a través de fibras ópticas submarinas, la
+transporta a otra central para que finalmente de manera inalámbrica llegue,
+por ejemplo, a un teléfono celular.
+
+5. Las telecomunicaciones como sistemas
+
+A lo largo de esta unidad hemos analizado el modo en que fueron desarrollándose las
+tecnologías empleadas para transmitir información a distancia. Nos proponemos, en el cierre,
+poder reconocer algunos aspectos comunes entre los diferentes sistemas analizados.
+
+En todo proceso de comunicación a distancia, puede reconocerse la presencia de las
+siguientes operaciones:
+
+Ejemplo con el telégrafo de Morse
+
+•  Codificación: en el telégrafo eléctrico es el proceso previo a través del cual se transforma el 
+mensaje
+a transmitir mediante un código de puntos y rayas.
+
+•  Emisión: el mensaje se emite presionando el pulsador.
+
+•  Transducción: es la operación de transformar los movimientos del pulsador del telégrafo en 
+variaciones
+de señales eléctricas.
+
+•  Transmisión: es el proceso a través del cual las variaciones eléctricas se transportan por el 
+cable.
+
+•  Transducción: las señales eléctricas se transforman en el movimiento vibratorio de una aguja que
+marca los puntos y rayas.
+
+•  Recepción: el receptor recibe (impresos o mediante sonido) el mensaje codificado.
+
+•  Decodificación: se traduce el mensaje al lenguaje de las personas.
+
+Actividad
+
+Independientemente del sistema a utilizar ¿Es posible reconocer las mismas operaciones en
+el proceso de transmisión a través de las Torres de Chappe? ¿Y en la telefonía?
+
+
+Satélites orbitando alrededor
+
+de la Tierra
+
+Fuente: https://upload.wikimedia.
+org/wikipedia/commons/b/b4/A-
+
+Train_satellites.jpg
+
+A lo largo de esta unidad, hemos analizado diferentes estrategias para extender el alcance de
+las comunicaciones. Una de ellas consiste en modificar los medios empleados para transmitir
+la información: mejorar los cables, utilizar ondas electromagnéticas, enviar señales luminosas
+dentro de fibras ópticas, por ejemplo. Otra de ellas consiste en utilizar intermediarios que
+
+reciben la información y la reenvían: torres de Chappe, relés, centrales telefónicas, satélites. El 
+concepto
+de retransmisión, idea clave en las telecomunicaciones, ha perdurado a lo largo de la historia 
+aplicándose
+a diferentes sistemas y tecnologías para comunicar información a distancia.
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+
+
+. 62 .
+
+02-08-2024
+
+. 63 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+Existen diferentes criterios para clasificar a los sistemas de telecomunicaciones. Uno de ellos
+se basa en reconocer el sentido en que viaja la información.
+
+2. Completar las siguientes frases, utilizando algunas de las siguientes palabras:
+
+MICRÓFONO - MEDIO - CONMUTACIÓN – BIT - CÓDIGO
+
+a) En todo sistema de comunicaciones existe un          a través del cual se
+transmite la información.
+
+
+Sistemas
+
+unidireccionales
+
+Transmisor                  Receptor
+
+b) Para transmitir un texto a través del telégrafo, es necesario primero transformarlo
+mediante un         .
+
+c) El pulsador del telégrafo cumple una función equivalente a la del          en
+
+
+Sistemas
+bidireccionales
+
+Sistemas
+bidireccionales
+no  simultáneos
+
+Transmisor
+Receptor
+
+Transmisor
+Receptor
+
+Receptor
+Transmisor
+
+Receptor
+Transmisor
+
+un circuito telefónico.
+
+d) En las centrales telefónicas, mediante una operación de         se logra
+interconectar entre sí a los teléfonos, solo durante el tiempo que dura la comunicación.
+
+e) Los códigos binarios están formados por          .
+
+3. Completar el siguientes diagrama de bloques:
+
+Teléfono 1                   Teléfono 2
+
+
+Actividad
+
+Indicar a cuál de las tres categorías anteriores corresponde cada uno de los siguientes sistemas:
+
+a) Teléfono:                 .
+
+b) Radio:                 .
+
+c) Televisión:                .
+
+d) Handy:                 .
+
+e) Telégrafo eléctrico:                .
+
+f) Telégrafo óptico:                 .
+
+Actividad de autoevaluación
+
+1. Marcar con una V las frases que son verdaderas y con una F las que son falsas.
+
+a) El primer sistema de telecomunicaciones fue eléctrico.
+
+b) El sistema de Chappe envía mensajes de una ciudad a otra.
+
+c) El aire era el medio por donde circulaban los mensajes transmitidos por las Torres
+de Chappe.
+
+d) En el circuito telefónico, a través de los cables conductores de la electricidad, circulan
+señales sonoras.
+
+e) El invento de las centrales telefónicas permitió aumentar la cantidad de abonados, sin
+que sea necesario un aumento significativo en el número de cables.
+
+f) No es posible transmitir un dibujo a través de cables conductores de la electricidad.
+
+g) Los códigos binarios solo permiten enviar dos mensajes.
+
+h) No es posible enviar imágenes de manera inalámbrica, a través de ondas
+electromagnéticas.
+
+Teléfono 4                  Teléfono 3
+
+4. Complete la frase:
+
+Los teléfonos necesitan energía eléctrica para funcionar. La fuente de energía se encuentra:
+
+             .
+
+a) Central telefónica.
+
+b) Teléfono.
+
+5. Indiquen la correcta opción.
+
+Las Fibras ópticas constituyen un medio de transmisión:
+
+a) de continuidad física.
+
+b) sin continuidad física.
+
+
+. 64 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 65 .
+
+
+Unidad 4: El proceso de creación de tecnologías. El
+proceso de diseño.
+
+Propósitos
+
+•  Favorecer en los alumnos el reconocimiento y la valoración del rol que cumple el
+proceso de diseño en el desarrollo de sus propias capacidades para analizar y resolver
+problemas tecnológicos.
+
+•  Promover en los alumnos la curiosidad y el interés por hacerse preguntas y anticipar
+respuestas en relación con los procesos y los productos tecnológicos, brindando
+estrategias que les permitan comprenderlos y relacionarlos.
+
+•  Presentar información, situaciones y ejemplos que permitan a los alumnos reconocer
+la diversidad, el cambio y la continuidad que caracteriza a los procesos y productos
+tecnológicos, en función de los diferentes contextos y culturas.
+
+•  Desarrollar miradas críticas y reflexivas que permitan reconocer cómo la práctica
+tecnológica condiciona, y a la vez depende, de factores económicos, políticos, sociales
+y culturales, con consecuencias tanto beneficiosas como de riesgo socioambiental.
+
+Objetivos específicos
+
+• Analizar el surgimiento y desarrollo de sistemas y procesos automáticos, reconociendo
+la presencia de procesos de diseño orientados a delegar funciones humanas de
+percepción, toma de decisiones y actuación sobre el entorno.
+
+•  Conocer los aspectos que caracterizan a los procesos de innovación y diseño que se
+realizan en ámbitos de investigación y producción públicas y privadas, valorando su
+importancia política, económica y social.
+
+Contenidos troncales
+
+•  Procesos de creación de tecnologías: el proceso de diseño. El concepto de diseño y
+su relación con la creación e innovación tecnológica. El diseño como creación de lo
+artificial. El diseño aplicado a la creación de mediadores entre el cuerpo humano y el
+entorno. El diseño aplicado a la mecanización y motorización de las tareas. El diseño
+aplicado a la automatización de las tareas y a la creación de sistemas de información.
+
+•  El diseño a través de la historia de la tecnología. La creación técnica: del mundo
+artesanal y la era preindustrial al proceso de industrialización y el nacimiento del diseño
+
+EDUCACIÓN TECNOLÓGICA • A
+
+como en unidades anteriores nos centramos en analizar el proceso por el cual se crean
+los productos tecnológicos, en esta unidad, nos preguntaremos respecto a los procesos
+de concepción. ¿El artesano ya tenía una preconcepción de la forma totalmente acabada
+de la pieza a conformar o la va creando a medida que la realiza?
+
+•  Si miran alrededor podrán encontrar variados objetos, deténganse a observar algunos y
+traten de responder algunas de las siguientes preguntas: ¿por qué son así? ¿Podrían ser
+de otra manera? ¿Qué función cumplen? ¿En qué contextos habrán sido producidos?
+
+¿Qué problemáticas resolvieron? ¿Qué nuevos problemas originaron?
+
+• Como pueden observar, los objetos que nos rodean fueron pensados y diseñados
+con alguna intencionalidad. Pero como veremos más adelante, no solo los objetos
+son productos del diseño, también los espacios, los procesos, las organizaciones y los
+servicios, son sistemas diseñados.
+
+•  El diseño es un proceso que caracteriza a la práctica tecnológica. Todas y cada una de las
+ramas de la tecnología están atravesadas por el diseño. Se trata de un proceso a través
+del cual se identifican oportunidades de producir cambios tecnológicos, mediante la
+invención de nuevos productos o la innovación de productos ya existentes. A través de
+esta unidad brindamos una visión amplia del diseño, abarcando tanto a la creación de
+productos tangibles como, también a procesos, organizaciones y servicios. Incluimos,
+también, información y ejemplos que permiten comprender las nuevas tendencias en
+diseño, impulsadas por las crecientes posibilidades que brindan las TIC (tecnologías de
+la información y la comunicación).
+
+Figura N.° 1 Diferentes formas de representar la información, según distintas épocas
+
+
+industrial. El diseño como proceso formal: de los procesos de creación «inconscientes»
+a la progresiva búsqueda de la racionalidad técnica. Tendencias actuales en diseño. El
+diseño en la sociedad del conocimiento.
+
+•  La resolución de problemas de diseño Identificación y análisis del problema. La búsqueda
+
+Fuente: https://upload.wikimedia.org/wikipedia/
+commons/0/0c/Esselborn2_dib_018.jpg
+
+1. El diseño como creación de lo artificial
+
+Fuente: https://upload.wikimedia.org/wikipedia/
+commons/b/bf/CityGen.jpg
+
+
+de alternativas. La evaluación y selección de las soluciones técnicas. La informática en el
+proceso de resolución de problemas de diseño.
+
+• El diseño y su importancia política, económica y social.
+
+Introducción
+
+• Si nos detenemos en una plaza podemos ver a diferentes artesanos que se encuentran
+elaborando sus productos. Al ver detenidamente el proceso de producción, podemos
+observar cómo el artesano va pensando la pieza a medida que le va dando forma. Así
+
+Normalmente, el uso tradicional del término diseño está asociado con planos, esquemas,
+maquetas, dibujos y otros tipos de representaciones por lo general vinculadas con la creación
+de objetos, artefactos, construcciones o ambientes.
+
+Si volvemos a la figura N.° 1 evocada del principio, podríamos plantearnos varias preguntas:
+
+¿Existe el diseño? ¿Quién diseña? y ¿Cuándo diseña? ¿Para quién diseña? ¿Con qué diseña?
+
+
+. 66 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 67 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+Cita
+
+«El término diseño deriva etimológicamente del italiano (disegno) o del inglés (design). Según
+Herbert Simon (1979), el diseño es un proceso intelectual destinado a pensar "cómo debieran ser las
+cosas"; es el proceso mediante el cual surge la "artificialidad", entendida como los "artefactos" y 
+los
+"artificios" creados por las personas.»
+
+Al comparar la cita con las dos imágenes anteriores, intenten relacionar las palabras clave
+con cada una de ellas. ¿Por qué hablamos de un proceso intelectual? ¿Qué entendemos
+por «artificialidad»?
+
+
+Fuente: https://en.m.wikipedia.org/wiki/
+File:VMS_Layout.GIF
+
+Fuente: https://www.inti.gob.ar/tecnologia_gestion/pdf/
+manual_desarrollo_modulo_02.pdf
+
+
+Fuente: https://c2.staticflickr.
+com/2/1402/5115221713_415c32cb7b_b.jpg
+
+Fuente: https://pixabay.com/es/esculpir-
+artesan%C3%ADa-artesanos-hombre-70086/
+
+Los diseños pueden materializarse a través de representaciones gráficas, como las
+ejemplificadas anteriormente y, también, a través de maquetas o modelos en tres dimensiones,
+prototipos, simuladores, modelos matemáticos, fórmulas químicas, etc.
+
+Con una mirada más abarcativa, podemos pensar al diseño como una actividad que
+incluye no solo a productos materiales tangibles. También es posible diseñar estrategias
+y técnicas de acción, formas de organización de la producción, programas informáticos,
+eventos, entre otros.
+
+En las siguientes imágenes se incluyen las representaciones correspondientes al diseño de
+un programa informático, a la planificación de un evento y a la organización de una producción.
+
+
+Diseño arquitectónico
+
+Fuente: https://www.flickr.com/photos/89531544@
+N02/8365140682
+
+Diseño de un circuito electrónico
+
+Fuente: https://pixabay.com/static/uploads/
+photo/2015/09/21/19/48/circuits-950546_960_720.png
+
+Maqueta de un puente
+
+Fuente: https://upload.wikimedia.org/wikipedia/
+commons/4/4c/Maqueta_puente_cadiz.jpg
+
+
+Fuente: http://es.slideshare.net/
+YsraelQuereigua/formatos-para-planificar-
+
+Fuente: http://intergalacticrobot.blogspot.com.
+ar/2014/05/respirar.html
+
+En síntesis, el diseño, excede a los objetos materiales e incluye tanto artefactos como
+procesos, organizaciones, servicios, programas, métodos, espacios y ambientes virtuales,
+entre otros. Todo aquello que nos rodea fue en algún momento diseñado; si pensamos en
+esta afirmación podemos decir que el mundo de la artificialidad es un mundo creado, que, por
+un lado, refleja la idiosincrasia de la cultura que lo ha diseñado y, por el otro, tiene capacidad
+
+
+. 68 .
+
+eventos-especiales-y-banquetes-ys
+
+Ministerio de Educación del Gobierno de latCraiundasdfodermBuaendoos rAairedse esa cultura.
+
+02-08-2024
+
+. 69 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+Observen las siguientes situaciones ¿En qué aspectos consideran que el diseño responde
+a la idiosincrasia de una cultura? ¿En cuales consideran que el diseño modifica aspectos de
+la cultura?
+
+El diseño vinculado al sistema de alimentación según la cultura y tradición.
+
+Diseño por transferencia de funciones. En las imágenes podemos ver tres artefactos de
+uso hogareño. Los tres se utilizan como herramientas que ayudan en la preparación de
+la comida: pelar papas, cortar huevos y abrir latas. Cada uno de estos constituye una
+innovación a partir de una herramienta existente anteriormente.
+
+¿Cómo surgen estos cambios tecnológicos? Se trata de diseños basados en el análisis de
+tareas y en la búsqueda de delegar o transferir funciones que realizan las personas a los
+nuevos artefactos. Así, por ejemplo, la tarea de cortar huevos con un cuchillo implica para las
+personas una serie de acciones que se reducen y simplifican con la nueva herramienta.
+
+
+Fuente: http://www.all-free-photos.com/show/
+showphoto.php?idph=PI91175&lang=sp
+
+Fuente: http://slideplayer.com/slide/4731106/
+
+Actividad
+
+La delegación de funciones humanas a los artefactos es uno de los motores de la innovación
+tecnológica. En las siguientes imágenes se muestra otro ejemplo.
+
+Analicen cómo se simplifica la tarea de batir a medida que se va modificando la herramienta
+utilizada. Proponga dos imágenes que muestren un artefacto que simplifique aún más la tarea
+de batir.
+
+
+Fuente: https://commons.wikimedia.org/wiki/
+File:Buenos_Aires_-_Carrito_Costanera_-_6943.jpg
+
+Fuente: https://www.flickr.com/photos/
+graphikmexico/15613200026
+
+Diseño por analogía. Las imágenes permiten ilustrar el surgimiento de la birome en base a
+una idea «prestada» de las técnicas de impresión gráfica. Observando el rastro que dejaba
+una bolita al pasar por un charco de agua, Biro combinó ambas ideas y creó la birome. En
+
+
+De acuerdo a las definiciones anteriores, cuando se habla de diseño, se hace mención,
+tanto a las representaciones utilizadas para materializar las ideas (antes de llevarlas a
+cabo), como al propio proceso intelectual consistente en analizar el problema a resolver y
+proponer, evaluar y seleccionar alternativas de solución.
+
+Al diseño se lo suele asociar a la invención y a la innovación como el fruto de la genialidad
+de ciertas personas que, con inspiración y creatividad (y muchas veces por casualidad)
+generan novedosas ideas que resuelven necesidades y problemáticas de la sociedad. Si bien
+en algunas ocasiones estos cambios tecnológicos pueden surgir por casualidad, por lo general
+son el resultado de un proceso formado por una serie de etapas y en el que confluyen un
+conjunto de factores propios del contexto. A continuación se analizan algunos ejemplos de
+inventos e innovaciones, en relación a ciertos criterios que guían el modo en que estos surgen
+
+el siguiente enlace se relata la historia de esta invención.
+
+https://www.fayerwayer.com/2011/06/el-origen-de-el-lapiz-pasta/
+
+    Reflexión.  Piensen otros ejemplos de diseño por analogía.        
+
+El alambre de púas es otro ejemplo de un diseño que
+surge por analogía. En este caso se trata de una imitación
+de la naturaleza, ya que su inventor se basó en las ramas
+que poseían púas y permitían así, proteger los campos y
+las plantaciones.
+
+
+y se difunden.
+
+. 70 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 71 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+Actividad
+
+¿Conocen otros ejemplos de desarrollos tecnológicos basados en la naturaleza?
+
+                             Reflexión                             
+
+Diseño por integración de funciones. En las siguientes imágenes podemos ver
+dos objetos tecnológicos surgidos en épocas muy diferentes. En el año 1970,
+Bernard Sadow combinó ambos objetos, creando una interesante innovación
+tecnológica. ¿Cuál piensa que fue el diseño de este innovador?
+
+Diseño por sustitución de funciones. En la unidad 3 analizamos el modo en que fueron
+cambiando los sistemas de telecomunicaciones a lo largo del tiempo, reconociendo aspectos
+comunes y diferentes entre las tecnologías. Allí dijimos que la telefonía se basaba en la
+telegrafía. En efecto, el diseño del teléfono se logra sustituyendo el pulsador por el micrófono
+y el elemento que generaba los puntos y rayas se reemplazó por el parlante.
+
+Analizando y comparando cada uno de los ejemplos de diseño presentados anteriormente,
+podemos reconocer que, junto con la creatividad y el conocimiento, los inventos y las
+innovaciones se producen por la aplicación de ciertas estrategias de pensamiento entre las
+que podemos mencionar:
+
+• La delegación de acciones realizadas por las personas a los artefactos.
+
+• El reconocimiento de funciones análogas en la naturaleza.
+
+•  Transferencia de tecnología utilizada en un proceso y adaptada al uso en otro proceso.
+
+• La búsqueda de integración de funciones.
+
+• La intencionalidad de sustituir funciones.
+
+
+En el siguiente enlace se cuenta la historia de la creación de Sadow: diseño la
+primera valija con rueditas. 22
+
+http://mexico.cnn.com/salud/2010/10/06/comenzo-en-ny-en-1970-desde-
+entonces-las-maletas-no-han-dejado-de-rodar
+
+Actividad
+
+En la imagen puede verse que el pendrive también puede entenderse como un diseño basado
+en la integración de funciones.
+
+Les proponemos leer el siguiente reportaje, realizado al inventor del pendrive y luego responder
+a las preguntas que se presentan a continuación:
+
+http://www.lanacion.com.ar/1701111-dan-harkabi-creamos-el-pendrive-para-transportar-
+informacion-en-el-bolsillo-facilmente23
+
+a) ¿Cuál es, para Dan Harkabi, la importancia del trabajo en equipo?
+
+b) En la nota se hace mención al concepto de «ciclo de vida» de un producto. Relea este
+concepto presentado en la unidad 1. ¿Qué piensan acerca de lo que se afirma en la nota
+sobre el ciclo de vida del pendrive?
+
+Actividad
+
+Mirar el siguiente video:24
+
+https://www.youtube.com/watch?v=FRckaCgBd8M
+
+a) Reconozcan los pasos del proceso de diseño.
+
+b) ¿Qué criterios consideran que utilizan los diseñadores para desarrollar el proyecto?
+
+2. El proceso de resolución de problemas de diseño
+
+Resolver un problema de diseño implica transitar por un proceso que abarca una serie
+de etapas, la primera de las cuales consiste en identificar claramente cuál es el problema a
+resolver. En la imagen se ilustra un ejemplo de una situación problemática:
+
+Un granjero se ha quedado sin agua para darle de beber a sus animales; para
+evitar que esto vuelva a suceder necesita un dispositivo que le avise cuando se
+está por quedar sin agua.
+
+«Necesito disponer de algo que me permita saber cuánta agua hay en el tanque
+sin necesidad de subirme para mirar dentro de él. Me alcanza con saber si el
+tanque está lleno, por la mitad o vacío.»
+
+Una vez identificado el problema, corresponde reconocer las especificaciones, es decir las
+condiciones que tiene que cumplir la solución.
+
+El primer paso para intentar resolverlo es pensar alternativas. Aquí juegan un rol clave tanto
+los conocimientos como la creatividad. La búsqueda de analogías, el intento por integrar o
+sustituir funciones o la posibilidad de transferir funciones humanas a los artefactos, pueden
+ayudar a encontrar las soluciones. Por lo general, se trata de encontrar más de una solución y,
+luego, analizando las características de cada una, se opta por aquella que mejor cumple con
+las especificaciones. Los costos o la facilidad en la implementación son también variables que
+se deben tener en cuenta a la hora de seleccionar la solución.
+
+Una vez que se optó por la solución más conveniente comienza la etapa de implementación,
+prueba y puesta a punto. Durante esta etapa puede ser necesario realizar ajustes y
+modificaciones tendientes a la optimización del diseño.
+
+22 Actividad sugerida para el alumno presencial, con material que anexará el docente en las 
+consultoría presencial.   
+
+
+23 Ítem anterior
+
+Ministerio de Educación del Gobierno de la C2iu4daAdcdteivBiduaednossugAeirerisda para el alumno 
+presencial, con material que anexará el docente en las consultoría presencial.
+
+
+. 72 .
+
+02-08-2024
+
+. 73 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+El siguiente listado resume las etapas mencionadas:
+
+• Identificación y análisis del problema.
+
+Contexto de
+
+Artesanal          Industrial       Sociedad del Conocimiento
+
+Espacios enriquecidos por el
+
+
+• Búsqueda de alternativas de solución.
+
+producción    Taller           Fábrica
+
+entorno digital (tanto físico como
+virtuales)
+
+
+• Selección de alternativas.
+
+Productos    Variables         Estandarizados      Personalizados
+
+
+• Desarrollo e implementación.
+
+• Evaluación y puesta a punto.
+
+Diseñador/
+Fabricante
+
+El artesano integra ambas
+funciones
+
+Diseñador y fabricante se
+diferencian
+
+Diseñador, fabricante y consumidor
+participan del diseño.
+
+
+                             Reflexión                             
+
+Piensen una posible solución al problema planteado. Las siguientes imágenes
+les ayudarán a pensar su propio diseño. ¿Qué aspectos en común encuentran
+entre las tres soluciones? ¿Cuáles son las diferencias?
+
+Consumidor    Pasivo           Pasivo           Activo
+
+El diseño, como proceso formal, surge a partir de la industrialización. La demanda por
+fabricar piezas estandarizadas e intercambiables generó la necesidad de acordar criterios
+y normas de representación que facilitaran la comunicación técnica. Esto se profundiza
+cuando comienzan a diferenciarse los roles de diseñador y fabricante. Hasta ese momento
+predominaban, en la creación técnica, las exploraciones asistemáticas basadas en el
+
+ensayo y error más que en la planificación. Por otro lado, el artesano que realizaba todo el 
+proceso de
+producción (desde la idea a la realización) transmitía sus conocimientos y habilidades a sus 
+aprendices
+mientras estos trabajaban junto a él.
+
+
+Cuando el nivel de agua sube, la aguja
+indicadora baja.
+
+                             Reflexión                             
+
+La visión tradicional de un diseñador es la de una persona trabajando sola en
+su tablero o en su computadora. ¿Cómo piensan que influyen los avances de
+Internet y las tecnologías de la información y las comunicaciones, en el trabajo
+del diseñador?
+
+La siguiente imagen sobre el trabajo colaborativo
+
+representa las nuevas tendencias en la tarea del diseñador.
+
+Las roldanas transmiten el movimiento del
+flotador a la aguja indicadora.
+
+
+3. El diseño a través de la historia
+
+Cada lampara indica un nivel de agua
+diferente.
+
+Fuente: https://mind42.com/public/523b61a4-7c1e-4e0a-87aa-
+
+a13391f223ab
+
+Los avances en las tecnologías digitales y los usos cada vez más masivos de las redes
+sociales dan origen a lo que se conoce como «diseño abierto» (open design).
+
+Esta nueva forma de diseño consiste en:
+
+• Utilizar los canales de comunicación libres y abiertos para compartir la creación,
+
+
+A continuación se analiza comparativamente el modo en que han ido modificándose los
+procesos de diseño a lo largo del tiempo. Analizamos tres períodos y, luego, centramos la
+atención en el más reciente:
+
+• El diseño en la era artesanal.
+
+• El diseño en la época industrial.
+
+distribución y fabricación de objetos, ideas o sistemas.
+
+•  Los diseños pueden ser reutilizados, reformulados, producidos o distribuidos.
+
+• Surgen mayores posibilidades de innovación y creatividad, nuevos modelos de
+negocios y nuevas prácticas de consumo.
+
+• Se modifica la concepción de lo público y lo privado y se ponen en debate aspectos
+
+
+•  El diseño en la Sociedad del Conocimiento.
+
+. 74 .
+
+Ministerio de Educación del Gobierno de la Ciudad tdaelBeusencoosmAioresla autoría o el 
+patentamiento en relación a la innovación tecnológica.
+
+02-08-2024
+
+. 75 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+                             Reflexión                             
+
+En la unidad 1 se menciona el modo en que la impresión 3D impacta sobre el
+diseño la producción y la comercialización de productos tangibles. Gracias a
+la filosofía del diseño abierto se están creando comunidades de diseñadores
+y usuarios que comparten sus ideas a través de la red, ampliando aún más las
+posibilidades de uso de estas tecnologías.
+
+Los invitamos a recorrer el siguiente enlace (si bien está en inglés) para reconocer
+la presencia de diferentes diseños de objetos aportados por los usuarios. Los mismos se
+encuentran disponibles para ser utilizados libremente.
+
+http://www.thingiverse.com/newest 25
+
+Actividad 26
+
+En el siguiente enlace se accede a una página que permite diseñar, muy fácilmente, moldes para
+la elaboración de galletitas. Los invitamos a visitar la página (el inglés no será un impedimento),
+recorrer los moldes existentes y explorar cómo diseñar y luego volver a compartir su propio
+molde. http://www.cookiecaster.com/
+
+Actividad 27
+
+Existe un movimiento conocido como RepRap, que diseñó un modelo de impresora 3D cuyos
+planos están publicados en Internet y se pueden utilizar y modificar en forma voluntaria. Para
+muchos, se trata de la primera máquina capaz de fabricarse a sí misma. Recorra la página y
+justifique la validez o no de la afirmación anterior.
+
+http://reprap.org/wiki/RepRap/es
+
+Prosumidor: se trata de un concepto que reúne en una misma persona a dos actividades
+que tradicionalmente se encuentran diferenciadas: productor y consumidor.
+
+En la siguiente página, se encuentra ampliado el concepto de Prosumidor: http://coleccion.
+educ.ar/coleccion/CD26/datos/prosumidores.html 28 extrajimos de ella algunas ideas:
+
+En el contexto actual las personas no solo consumen contenidos en la web sino que asumen
+el rol de autoras y productoras de sus propios recursos. De allí surge un nuevo universo, el de
+los «prosumidores» conectados en/por la web.
+
+25 Actividad sugerida para el alumno presencial, con material que anexará el docente en las 
+consultoría presencial.
+
+26 Ítem anterior.
+
+27 Ítem anterior.
+
+Prosumidores en acción
+
+Nuevo universo de «prosumidores» conectados en/por la Web.
+
+El concepto «prosumidor» proviene de la hibridación de los términos: productor + usuario
+
++ consumidor. Para nuevos tiempos, nuevos conceptos.
+
+Prosumidores al asalto: los usuarios se apropian de la red
+
+Las personas -antes meros navegantes u observadores o simples usuarios- asumen en el
+contexto actual el rol de autoras y productoras de sus propios recursos, incrementando la
+capacidad de comunicación con los demás porque se sienten parte de un gran colectivo,
+
+Hasta hace poco, la publicación, edición o revisión de contenidos en internet era tarea
+reservada a muy pocos (los geeks o los webmasters). Ahora, potencialmente cualquier usuario
+sin amplios conocimientos informáticos ni tampoco dominio de estrategias de marketing,
+puede convertirse en autor/editor de sus contenidos y, potencialmente, generar debate e
+influir con sus opiniones, materiales o informaciones en otras personas.
+
+Durante el proceso de socialización de la red ya se han manifestado una serie de formatos
+y herramientas que facilitan la publicación de contenidos. Uno de los principales exponentes,
+como ya explicamos, es la posibilidad de producir noticias,
+
+artículos, crónicas y una amplia variedad de recursos por medio
+de los blogs (weblogs o bitácoras) tanto individuales como
+colectivos. Otro es la producción colectiva de contenidos, que
+permite introducir una amplia diversidad de matices, e incluso
+sesgos que los relativizan, a diferencia de las fuentes clásicas que
+imponían la «autoridad». Es el caso de las wikis y su plasmación
+en la enciclopedia Wikipedia.
+
+Estas herramientas permiten que cualquiera de nosotros podamos ser prosumidores: no
+solo consumidores de contenidos sino también productores.
+
+Todo apunta a que la amplificación del componente participativo en internet es parte de
+un fenómeno de socialización económica, cultural, educativa y política que ha transformado y
+continúa transformando la dinámica de las comunicaciones y la construcción del conocimiento.
+
+                             Reflexión                             
+
+¿Consideran que realizan alguna actividad como prosumidor? ¿Cuál/es?
+
+¿Conocen o siguen a alguien que consideren prosumidor activo? ¿Qué tipo de
+contenido produce? ¿Por qué lo siguen?
+
+4. Obsolescencia programada
+
+La creación de artefactos durables trajo aparejado el problema de que los consumidores ya
+no necesitaban volver a comprar ese producto por mucho tiempo. Luego de la década del ´30,
+numerosos fabricantes buscaron la manera de hacer que sus productos se sigan vendiendo.
+Surgen así, diversas estrategias para que los artefactos se vuelvan obsoletos después de un
+tiempo. Básicamente, esto se logró de dos maneras:
+
+1. Haciendo los productos menos resistentes:
+
+Se reducen el diámetro de los cables al mínimo necesario. Las carcasas se diseñan menos
+resistentes al impacto, se agregan o quitan aditivos químicos para que los materiales se
+
+
+28 Ítem anterior.
+
+. 76 .
+
+Ministerio de Educación del Gobierno de la CiuddaedgdreaBdueennosnAaitreusralmente con el paso del 
+tiempo, etc.
+
+02-08-2024
+
+. 77 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+
+2. Diseñando estrategias para que el consumidor desee cambiar el producto aunque siga
+funcionando bien.
+
+Diseñando nuevos modelos que ofrecen colores variados, aditamentos especiales, diseños
+que cambian en cada temporada según las normas de la moda, etc.
+
+A continuación presentamos un video que muestra claramente las dos maneras de diseñar
+productos que incluyan el concepto de obsolescencia programada.
+
+https://www.youtube.com/watch?v=uGAghAZRMyU
+
+Entre los casos analizados en el video, podemos mencionar:
+
+• La lámpara incandescente que se quema más rápido.
+
+• La impresora Epson con el chip que causa un error desconocido luego de una cantidad
+de impresiones.
+
+• Los nuevos modelos de automóviles que Chevrolet creó año a año para competir con el
+tradicional y confiable Modelo T de Ford.
+
+• La batería del Ipod que se diseñó para romperse demasiado rápido.
+
+• Los electrodomésticos de variados colores y modelos.
+
+Actividad
+
+Analizando los ejemplos dados, les proponemos identificar las dos formas diferentes de crear
+obsolescencia programada.
+
+¿En qué consiste la obsolescencia programada? ¿Qué la motiva? ¿Qué consecuencias produce?
+
+Actividad de autoevaluación
+
+1. Analicen la siguiente afirmación, establezcan relaciones con alguna de las frases y completen
+el enunciado:
+
+El diseño es un proceso que caracteriza a la práctica tecnológica…
+
+a) ...en la construcción de planos, maquetas, dibujos, vinculados con la creación de
+objetos, artefactos, construcciones y ambientes.
+
+b)...que incluye no solo a productos materiales tangibles. También es posible diseñar
+estrategias y técnicas de acción, formas de organización de la producción, programas
+informáticos, eventos, entre otros.
+
+c)...referida a la invención y a la innovación como el fruto de la genialidad.
+
+2. Criterios que guían el modo en que estos surgen:
+
+Seleccionen qué criterio consideran que guió la innovación
+que se muestra en la imagen.
+
+a) La delegación de acciones realizadas por las personas a los artefactos.
+
+b) El reconocimiento de funciones análogas en la naturaleza.
+
+c) Transferencia de tecnología utilizada en un proceso y adaptada al uso en otro proceso.
+
+d) La búsqueda por integración de funciones.
+
+e) La intencionalidad de búsqueda por sustituir funciones.
+
+3. Enumeren las siguientes etapas del proceso de diseño, de acuerdo al orden en que suelen
+realizarse.
+
+• Selección de alternativas.
+
+• Búsqueda de alternativas de solución.
+
+• Identificación y análisis del problema.
+
+• Evaluación y puesta a punto.
+
+• Desarrollo e implementación.
+
+4. Lean atentamente cada una de las siguientes expresiones e indiquen si son verdaderas (V)
+o falsas (F).
+
+a) En los inicios de la producción industrial se diseñaban objetos personalizados,
+atendiendo a las demandas y necesidades de cada uno de los clientes.
+
+b) El diseño abierto y colaborativo no es beneficioso ya que favorece la copia y evita la
+creatividad.
+
+c) La obsolescencia programada beneficia a las empresas pero genera más contaminación.
+
+5. Indiquen si estas afirmaciones son verdaderas o falsas en cada caso:
+El diseño como profesión independiente surge...
+
+a) en el sistema artesanal.
+
+b) durante la revolución industrial.
+
+c) en la prehistoria.
+
+
+. 78 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 79 .
+
+
+EDUCACIÓN TECNOLÓGICA • A
+
+Bibliografía de referencia
+
+Barón, M. (2004). Enseñar y aprender tecnología. Buenos Aires: Novedades Educativas.
+Danilevsky, V. (1983). Historia de la técnica (siglos XVIII y XIX). México: Ed. Cartago.
+
+E. Krick, (1980). Ingeniería de métodos. México: Ed. Limusa. En: https://books.google.com.
+ar/books/about/Ingenier%C3%ADa_de_m%C3%A9todos.html?id=b6HPPAAACAAJ&redir_
+esc=y
+
+Jacomy, B. (1990). Historia de las técnicas. Buenos Aires: Losada.
+
+Linietsky, C. (2006). «Enfoque de procesos en Educación tecnológica» en revista Novedades
+Educativas 187. Buenos Aires.
+
+Linietsky, C. (1999). Tecnología para todos. Segunda parte. Buenos Aires: Ed. Plus ultra.
+
+Linietsky, C. y Orta Klein S. (comps) (2010). Educación Tecnológica. Abordaje didáctico en el
+nivel secundario. CePA. CABA.
+
+Mumford, L. (1979). Técnica y Civilización. Madrid: Alianza.
+
+Neffa, J. C. (1990). El proceso de trabajo y la economía de tiempo – Contribución al análisis
+crítico de K. Marx. F.W. Taylor y H. Ford. Buenos Aires: Ed. HVMANITAS.
+
+Petrosino, J. (2008). «¿A quién le sirve conocer la historia de las comunicaciones? Continuidades
+y rupturas en las tecnologías de la información y la comunicación», en Espinosa, S. (comp.).
+Escritos sobre audiovisión. Lenguajes, tecnologías, producciones. Libro 3. Remedios de
+Escalada/Partido de Lanús: Ediciones de la Universidad Nacional de Lanús.
+
+Petrosino, J., Cwi, M. y Orta Klein, S. (2007). Tecnología, cuadernos para el aula. Buenos Aires:
+Ministerio De Educación de la Nación.
+
+Quintanilla, M. A. (1991). Tecnología: un enfoque filosófico. Buenos Aires: EUDEBA.
+
+Reggini, Horacio (2012) 2.° edición. Los caminos de la palabra. Buenos Aires: Ed. Galápagos.
+En:  http://www.horacioreggini.com.ar/wp-content/uploads/2012/09/Caminos-2da-Ed-Imp.
+pdf
+
+Rodriguez de Fraga A. (1996). «La Tecnología, la educación y todo lo demás» en revista
+
+Propuesta Educativa n.° 15. Buenos.
+
+Sarlo, B. (1992). La imaginación técnica, sueños modernos de la cultura argentina. Buenos
+Aires: Nueva Visión.
+
+Taddei M., Zanon E. y otros. (2010) Los robots de Leonardo Da Vinci. Secretos e invenciones
+en los códices Da Vinci. Madrid: Susaeta Ediciones SA.
+
+Thomas, H y Buch, A. (coord.) (2008). Actos, actores y artefactos. Sociología de la tecnología.
+
+Buenos Aires: Universidad Nacional de Quilmes.
+
+Documentos curriculares específicos de referencia
+
+Ministerio de Cultura y Educación de la Ciudad Autónoma de Buenos Aires (2014) Diseño
+Curricular para la Nueva Escuela Secundaria. Educación Tecnológica. Gobierno de la Ciudad
+Autónoma de Buenos Aires.
+
+Ministerio de Educación de la Nación (2011) Núcleos de Aprendizaje Prioritarios, Educación
+Tecnológica, Ciclo Básico Educación Secundaria, Argentina. (http://www.me.gov.ar/consejo/
+resoluciones/res11/141-11_04.pdf)
+
+
+. 80 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 81 .
+
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+Terminá la secundaria
+
+adultos2000@bue.edu.ar                 0800 444 2400
+
+/educacionbMainisterio de Educación del Gobierno de la Ciudabd 
+udeeBnueonsosaAiirreess.gob.ar/educacion
+

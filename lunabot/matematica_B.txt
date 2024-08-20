@@ -1,0 +1,6011 @@
+Más
+
+ESCUELA
+
+MATEMÁTICA
+
+B
+
+Guía de estudio        Educación Adultos 2000
+
+*Material de distribución gratuita
+
+Terminá la secundaria
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+Jefe de Gobierno
+
+Horacio Rodríguez Larreta
+
+Ministra de Educación
+
+María Soledad Acuña
+
+Jefe de Gabinete
+
+Luis Bullrich
+
+Subsecretaria de Coordinación Pedagógica y Equidad Educativa
+
+María Lucía Feced Abal
+
+Subsecretario de Tecnología Educativa y Sustentabilidad
+
+Santiago Andrés
+
+Subsecretario de Carrera Docente
+
+Manuel Vidal
+
+Subsecretario de Gestión Económico Financiera y Administración de Recursos
+
+Sebastián Tomaghelli
+
+Subsecretaria de la Agencia de Aprendizaje a lo Largo de La Vida
+
+Eugenia Cortona
+
+Director General de Planeamiento Educativo
+
+Javier Simón
+
+Director General de Educación de Gestión Estatal
+
+Fabián Capponi
+
+Directora de Educación del Adulto y Adolescente
+
+Sandra Jaquelina Cichero
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+MATEMÁTICA • B
+
+Adultos 2000
+
+Guía de Estudios
+Matemática B
+
+
+Tercera edición marzo 2020
+
+Equipo Docente:
+Prof. Claudio Mayayo
+Prof. Gabriela Otero
+Prof. Cristina Ben
+Prof. Rubén Gallego
+Prof. Blanca Gallardo
+Prof. Andrés Crivaro
+Prof. Matías Bruzzoni
+Prof. Claudia Mazzeo
+Prof. Luis Calvi
+
+
+. 4 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 5 .
+
+
+Índice
+
+MATEMÁTICA • B
+
+Presentación de la materia                   8
+
+Programa                               10
+
+Unidad 1                                 11
+
+Funciones lineales                                     11
+
+Ecuación de una recta. Función lineal                         14
+
+Actividades de autoevaluación                             20
+
+Unidad 2                               22
+
+Sistemas de ecuaciones lineales                            22
+
+Sistema de ecuaciones lineales con dos incógnitas                24
+
+Clasificación de sistemas de ecuaciones lineales con dos incógnitas       26
+
+Actividades de autoevaluación                             28
+
+Unidad 3                               30
+
+Funciones de proporcionalidad directa. Funciones de proporcionalidad inversa  30
+
+Proporcionalidad directa. Funciones de proporcionalidad directa        32
+
+Proporcionalidad inversa. Funciones de proporcionalidad inversa        38
+
+Actividades de autoevaluación                             43
+
+Unidad 4                               45
+
+Funciones Cuadráticas. Funciones exponenciales                 45
+
+Fórmula cuadrática                                    46
+
+Función cuadrática. Parábola                              47
+
+Fórmulas para determinar el eje de simetría y los ceros de una función cuadrática  50
+
+Fórmula de la función exponencial                           57
+
+Logaritmo                                          60
+
+Propiedades del logaritmo                              61
+
+Cálculo de logaritmos con la calculadora                     61
+
+Actividades de autoevaluación                             63
+
+Unidad 5                               65
+
+Estadística                                         65
+
+Población. Muestra. Distribución de frecuencias. Frecuencia absoluta.
+
+Frecuencia relativa                                    70
+
+Frecuencia acumulada                                  72
+
+Medidas de centralización: Media, Mediana y Moda                73
+
+Tipos de variables                                     75
+
+Actividades de autoevaluación                             77
+
+Respuestas a actividades de autoevaluación                     81
+
+
+. 6 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 7 .
+
+
+Presentación de la materia
+
+Usted ya ha estudiado esta materia en otras oportunidades y sus experiencias al respecto
+pueden haber sido muy variadas.
+
+Quienes diseñamos la propuesta de enseñanza de Matemática en Educación Adultos
+2000 partimos de algunas ideas generales sobre cómo estudiar esta materia que queremos
+compartir:
+
+Usted utiliza en su vida diaria una gran cantidad de nociones matemáticas; las usa de
+manera tal que le permiten resolver diferentes situaciones relativas a su vida cotidiana.
+Nosotros consideramos que, partiendo de su «experiencia matemática», es posible avanzar
+hacia la interpretación de los conceptos matemáticos y es por eso que le proponemos no
+dejarla de lado al momento de ponerse a estudiar la materia.
+
+Por otro lado, cada nuevo concepto matemático que se aprende se apoya en otros ya
+adquiridos como si se tratara de hileras de ladrillos que se asientan unas en otras para que la
+pared que se construye sea sólida. Cada adquisición pasa por una serie de etapas que van
+desde lo más concreto y ligado a nuestra experiencia cotidiana, hacia niveles de complejidad
+y abstracción cada vez mayores. Nosotros le proponemos acompañarlo en su tránsito por
+esas etapas de modo que pueda ir aprendiendo satisfactoriamente los temas de la materia.
+
+En síntesis, le proponemos aprender Matemática de una manera semejante a la que el
+hombre ha seguido en la creación de las ideas matemáticas: descubriendo los conceptos a
+partir de problemas que debió resolver en su vida cotidiana (o a través de problemas de otras
+ciencias que requieren de conceptos matemáticos para ser resueltos) y avanzando luego
+hacia la resolución de problemas más complejos. Dado que la Matemática se expresa a través
+de un sistema de símbolos y representaciones que le es propio, también nos proponemos que
+usted pueda comprender el lenguaje con el que se expresa, desde su significado matemático
+y desde su relación con situaciones concretas.
+
+MATEMÁTICA • B
+
+La Guía de estudio constituye la herramienta fundamental para el aprendizaje de los
+contenidos de la materia. Por lo tanto, un uso adecuado de la misma favorecerá su proceso
+de aprendizaje. Para ello tenga en cuenta las siguientes recomendaciones:
+
+Respete el orden de presentación de los temas y las actividades.
+
+Resuelva cada una de las actividades a medida que se van presentando. Anímese a dar
+respuesta aunque no esté seguro si la misma es correcta o no. El error es un elemento más
+de aprendizaje que le permitirá avanzar hacia la construcción de los conceptos con los que
+esté trabajando.
+
+No se anticipe leyendo las Orientaciones. Estas solo tendrán sentido para usted si
+previamente realizó la actividad propuesta.
+
+Consulte todas las dudas que le vayan surgiendo. Puede hacerlo a través de cualquiera de
+los medios que le ofrecemos. Tenga en cuenta que, si usted puede asistir a una consultoría
+presencial, tendrá también la oportunidad de intercambiar y compartir el trabajo con otros
+alumnos. En la Hoja de recursos de la materia encontrará información sobre las formas de
+contactarse con un consultor.
+
+Utilice un cuaderno o carpeta para resolver por escrito las actividades propuestas en la
+Guía, escribir sus dudas y realizar anotaciones vinculadas con el trabajo que está realizando.
+Tenga en cuenta que las actividades propuestas deben ser resueltas por usted mismo y que
+este trabajo será el que le irá indicando qué ha comprendido y cuáles son sus dificultades.
+Tener registro de esto facilitará su tarea y le resultará un material fundamental para hacer
+sus consultas.
+
+Vaya registrando, de algún modo que a usted le resulte útil, toda la simbología matemática
+que la Guía vaya presentando, de modo que pueda tenerla «a mano» cuando la necesite.
+
+Respete su propio ritmo de trabajo. No hay un tiempo ni un ritmo que sea más apropiado que
+otro. Cada persona tiene el ritmo que necesita de acuerdo con sus tiempos y circunstancias
+y no lo ayudará alterarlo.
+
+
+. 8 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 9 .
+
+
+Programa
+
+Unidad 1:
+
+Funciones lineales. Variación constante de una función lineal. Identificación de puntos
+que pertenecen al gráfico de una función. Problemas que se modelizan con funciones
+
+Unidad 1
+
+Funciones lineales
+
+Actividad 1
+
+MATEMÁTICA • B
+
+
+lineales con una variable. Ecuación de la recta.
+
+Unidad 2:
+
+Sistemas de ecuaciones lineales con dos variables. Representación gráfica de
+sistemas de ecuaciones. Sistemas compatibles determinados. Sistemas compatibles
+indeterminados. Sistemas incompatibles.
+
+Unidad 3:
+
+Función de proporcionalidad directa. Constante de proporcionalidad directa. Función
+de proporcionalidad inversa. Constante de proporcionalidad inversa. Representación
+gráfica de funciones de proporcionalidad directa e inversa.
+
+Las siguientes representaciones gráficas corresponden a funciones que expresan la cantidad
+de hectolitros de agua que tuvieron nueve piletas, instante a instante, durante un período de
+cinco horas de observación. Todas las funciones graficadas tienen como dominio al intervalo
+[0 ; 5] de tal manera que para todo instante t entre 0 y 5 existe y es única su imagen. En la
+pileta 1, todo instante t entre 0 y 5 tiene su imagen f (t) y cada punto es la representación
+gráfica del par ordenado (t ; f (t)). Por ejemplo, el punto (3; 6) es la expresión gráfica del par
+ordenado (3; f (3)) e indica que a la hora 3 en la pileta 1 había 6 mil hectolitros de agua.
+
+
+Unidad 4:
+
+Funciones no lineales. Función cuadrática. Función exponencial. Función logarítmica.
+Ecuaciones cuadráticas. Ecuaciones exponenciales. Ecuaciones logarítmicas.
+
+Unidad 5:
+
+Mociones de estadística. Interpretación de información organizada en tablas, gráficos,
+cuadros, diagramas. Población. Muestra. Organización de la información. Tabla de
+frecuencias y porcentajes. Medidas de tendencia central: media, moda y mediana.
+
+y=f(t)
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+t (horas)
+
+y=g(t)
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+t (horas)
+
+y=h(t)
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+t (horas)
+
+
+Medidas de dispersión. Tipos de variables.
+
+0 1  2 3 4 5 6
+
+Pileta nº 1
+
+0 1  2 3 4 5 6
+
+Pileta nº 2
+
+0 1  2 3 4 5 6
+
+Pileta nº 3
+
+
+f: [0; 5]  R/y = f(t)
+
+g: [0; 5]  R/y = g(t)
+
+h: [0; 5]  R/y = h(t)
+
+
+y=j(t)
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+t (horas)
+
+y=k(t)
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+t (horas)
+
+y=m(t)
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+t (horas)
+
+
+0 1  2 3 4 5 6
+
+Pileta nº 4
+
+j: [0; 5]  R/y = j(t)
+
+0 1  2 3 4 5 6
+
+Pileta nº 5
+
+k: [0; 5]  R/y = k(t)
+
+0 1  2 3 4 5 6
+
+Pileta nº 6
+
+m: [0; 5]  R/y = m(t)
+
+
+. 10 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 11 .
+
+
+y=n(t)
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+t (horas)
+
+y=p(t)
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+t (horas)
+
+y=q(t)
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+t (horas)
+
+MATEMÁTICA • B
+
+a) ¿Cuáles de los gráficos muestran que el contenido de la pileta aumentó un valor
+constante por unidad de tiempo? ¿Qué característica tienen estos gráficos?
+
+b) ¿Qué característica observa en los gráficos que corresponden a piletas cuyo contenido
+no aumentó a velocidad constante?
+
+2. Identifique ahora los gráficos de las piletas que se están vaciando durante todo el período
+de trabajo y observe:
+
+a) ¿En cuáles sale del tanque la misma cantidad de hectolitros por hora durante el
+período analizado? Es decir, ¿cuáles tienen velocidad de disminución constante? ¿Qué
+características tienen estos gráficos?
+
+
+1  2  3  4 5  6
+
+Pileta nº 7
+
+n: [0; 5]  R/y = n(t)
+
+1  2  3  4 5  6
+
+Pileta nº 8
+
+p: [0; 5]  R/y = p(t)
+
+1  2  3  4 5  6
+
+Pileta nº 9
+
+q: [0; 5]  R/y = q(t)
+
+b) ¿Qué característica observa en los gráficos que corresponden a piletas cuyo contenido
+no disminuyó a velocidad constante?
+
+
+Le pedimos que observe las dos primeras representaciones gráficas y que a partir de ellas
+responda:
+
+1. Las piletas que representan estos gráficos, ¿se estuvieron llenando o vaciando?
+
+2. ¿Qué cantidad de hectolitros tenía cada una de ellas al inicio de la observación?
+
+3. ¿Qué cantidad de hectolitros tuvo cada una de ellas al finalizar la primera hora de trabajo?
+
+¿Y al finalizar la segunda hora? ¿Y al finalizar la tercera hora?
+
+4. Complete la siguiente tabla:
+
+Tiempo t, en horas       0   1    2   3   4   5
+
+Cantidad y de hectolitros de
+agua en la pileta n.° 1
+
+Cantidad y de hectolitros de
+agua en la pileta n.° 2
+
+5. A partir de la tabla anterior indique: ¿qué cantidad de hectolitros ingresó en cada una
+de las piletas durante la primera hora de trabajo? ¿Y durante la segunda hora? ¿Y durante
+la tercera hora?
+
+6. ¿Qué diferencia observa en la forma en que se llenó o vació la pileta n.° 1 respecto de la
+forma en que se llenó o vació la pileta n.° 2? Describa esa diferencia con sus palabras.
+
+Orientaciones
+
+En la primera pileta ingresó la misma cantidad de hectolitros por hora, es decir, el contenido de la
+pileta aumentó un valor constante por unidad de tiempo o aumentó a una velocidad constante
+de 2hl/h (dos hectolitros por hora).
+
+Actividad 2
+
+1. Considere los gráficos de la actividad 1 correspondientes a las piletas que se estuvieron
+llenando durante todo el período de observación y responda:
+
+Orientaciones
+
+En las piletas n.° 1, n.° 4, n.° 6 y n.° 9, el contenido se modificó en un valor constante por 
+unidad
+de tiempo, es decir, todas ellas variaron su contenido a velocidad constante.
+
+La representación gráfica de la cantidad de hectolitros que contiene cada una en cada instante
+del tiempo de trabajo es un segmento de recta.
+
+Actividad 3
+
+Analicemos los gráficos correspondientes a piletas que variaron su contenido a velocidad
+constante durante todo el período de control. A partir de estos gráficos responda las siguientes
+preguntas:
+
+1. ¿Cuál de ellos muestra que el contenido de la pileta aumentó a razón de 0,5 hectolitro por
+hora? O, dicho de otra forma, ¿en qué caso la velocidad con que varía el contenido de la pileta
+es de 0,5hl por hora?
+
+2. ¿En cuál de las piletas el contenido disminuyó a razón de 2hl por hora?
+
+3. Encuentre otra pileta que se haya llenado a velocidad constante y determine el número que
+indica dicha velocidad.
+
+4. Encuentre otra pileta que se haya vaciado a velocidad constante y determine el número
+que expresa dicha velocidad.
+
+5. Trate de formular, lo más precisamente que pueda, lo que se debe observar y/o calcular
+para poder determinar, en los gráficos que estamos analizando, cuál es el número que indica
+la velocidad a la que está ocurriendo el proceso.
+
+Orientaciones
+
+Podemos observar a través de sus representaciones gráficas que en la pileta n.° 9 el contenido
+aumentó a razón de 0,5hl/h y que en la pileta n.° 6 el contenido del tanque disminuyó a razón de
+2hl/h. Para señalar que la cantidad de hectolitros que contiene la pileta n.° 6 está disminuyendo
+diremos que su velocidad es de –2hl/h.
+
+En la pileta n.° 7, el contenido del tanque se mantuvo constante. Podemos decir que el contenido
+no se modificó, la velocidad es de 0hl/h.
+
+
+. 12 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 13 .
+
+
+Actividad 4
+
+1. Vuelva a mirar el gráfico correspondiente a la pileta n.° 9 y complete la tabla que le damos
+a continuación formulándose previamente las siguientes preguntas:
+
+• ¿Cuál es la velocidad con que varía su contenido?
+
+• ¿Qué cantidad de hectolitros tenía la pileta al inicio de la observación?
+
+•  ¿Qué puede decirse de su contenido una hora después de iniciada la observación? ¿Y
+dos horas después?
+
+Tiempo t, en horas       0   1    2   3   4   5
+
+Cantidad y de hectolitros de
+agua en la pileta n.° 9
+
+2. De acuerdo con los datos que le proporcionan sus respuestas a las preguntas anteriores, y
+teniendo en cuenta la tabla que acaba de completar, escriba una fórmula que permita calcular
+la cantidad y de hectolitros de agua que contiene la pileta n.° 9 en cada instante t. Complete
+la siguiente igualdad: y =
+
+3. Repita lo que analizó para la pileta n.° 9 en el ítem anterior, para las piletas n.° 1, 4 y 6. Es
+decir, encuentre en cada caso una fórmula que le dé la cantidad y de hectolitros de agua que
+tiene cada pileta en cada instante t.
+
+4. En cada una de las fórmulas que usted determinó:
+
+•  ¿Dónde aparece expresado el valor de la velocidad de variación del contenido de la
+pileta? Señálelo en cada una de las fórmulas.
+
+•  ¿Dónde aparece expresada la cantidad de hectolitros que tiene la pileta en el momento
+inicial de las observaciones? Señálelo en cada una de las fórmulas.
+
+5. Si la fórmula que da la cantidad de hectolitros y que contiene «una pileta cualquiera» cuyo
+contenido varía a velocidad constante en cada instante t es y = m · t + b,
+
+• ¿Qué indica m?
+
+• ¿Qué indica b?
+
+Orientaciones
+
+La fórmula que da la cantidad y de hectolitros de agua para cada instante t, por ejemplo en la
+pileta n.° 6, es y = - 2 t + 10.
+
+En esta fórmula aparece expresado el valor de la velocidad de variación del contenido de la
+pileta en el número - 2, ya que esta pileta se estuvo vaciando a razón de 2hl por hora.
+
+El número 10 expresa la cantidad de hectolitros de agua que contiene la pileta en el momento
+inicial, es decir en t = 0.
+
+Ecuación de una recta. Función lineal
+
+Cualquiera de las fórmulas anteriores es de la forma y = m · t + b. Cada una de ellas indica
+la cantidad y de hectolitros de agua en cada instante t, cuando el contenido de cada pileta
+está variando en forma constante o a velocidad constante m, siendo el contenido inicial b
+hectolitros.
+
+MATEMÁTICA • B
+
+Fuera de la situación concreta, una función definida por una ecuación de la forma
+y = m · t + b, admite a cualquier número real en su dominio. En ese caso la función
+definida es de la forma:
+
+f : R → R / y = f (t) = mt + b
+
+y se la llama función lineal. La representación gráfica de una función lineal es una recta y a
+la ecuación y = f (t) = mt + b la llamaremos ecuación de la recta.
+
+y
+
+y=mt+b
+
+b
+
+t
+
+Al número m lo llamaremos pendiente de la recta, y al número b ordenada al origen. En el
+contexto de la situación planteada, m es la cantidad de hectolitros que ingresa o egresa del tanque
+por hora, y b es la cantidad de agua que contiene la pileta al comenzar, en el gráfico es el lugar
+donde corta al eje y que también es la imagen para x = 0.
+
+Las representaciones gráficas de las funciones que expresan la cantidad de hectolitros que contiene
+cada pileta en el período de observación resultan ser segmentos de recta porque el dominio de cada
+una de ellas, en el contexto de la situación concreta presentada, es el intervalo [0 ; 5].
+
+Actividad 5
+
+Determine, analíticamente, si los puntos (3 ; 5) y (2 ; 7) pertenecen a la recta cuya ecuación es
+y = 3 x + 1.
+
+Orientaciones
+
+Para determinar si el punto (3 ; 5) pertenece a la recta indicada debemos reemplazar en la
+ecuación la x por 3 y la y por 5 y constatar si la afirmación resultante es verdadera o falsa.
+
+En este caso: 5 = 3 . 3 + 1 es una afirmación falsa, entonces se concluye que el punto (3 ; 5) no
+pertenece a la recta.
+
+De manera análoga se procede para determinar si (2 ; 7) pertenece a la recta. 7 = 3 · 2 + 1 es una
+afirmación verdadera, entonces se concluye que el punto (2 ; 7) pertenece a la recta indicada.
+
+Actividad 6
+
+Dos recipientes se comienzan a llenar con agua en el mismo instante y durante 10 minutos, a
+razón de 5 litros por minuto. En el instante inicial, uno de los recipientes tiene 3 litros y el 
+otro,
+7 litros.
+
+
+. 14 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 15 .
+
+
+1. Defina para cada uno de los recipientes una función que describa la cantidad de litros de
+agua que contiene en función del tiempo trascurrido en minutos.
+
+2. ¿Cómo son las pendientes de ambas ecuaciones?
+
+3. Grafique ambas funciones en un mismo sistema de coordenadas cartesianas.
+
+4. ¿En algún instante los dos recipientes tendrán la misma cantidad de agua?
+
+5. Trace las rectas que contienen a cada uno de los segmentos graficados. ¿Se cortan en
+algún punto dichas rectas?
+
+Orientaciones
+
+Las rectas trazadas de acuerdo a las indicaciones del ítem 5 no se cortan, son rectas
+paralelas. Las rectas que son la representación gráfica de funciones lineales son paralelas si
+sus pendientes son iguales.
+
+Actividad 7
+
+Determine, analíticamente, la ecuación de la recta paralela a la de ecuación y = 2 x +7 que «pasa»
+por el punto ( 4 ; 3 ).
+
+MATEMÁTICA • B
+
+Escribimos b en función de a , a partir de la primera ecuación:
+
+- 2 - a = b
+
+Y en la segunda ecuación reemplazamos b por la expresión - 2 - a y la resolvemos:
+
+- 8 = a · 3 + (+ 2 - a)
+
+-8 = 3a - 2 - a
+
+-8 + 2 = 3a - a
+
+- 6 = 2a
+
+- 6 : 2 = a
+
+- 3 = a
+
+Por lo tanto la pendiente de la recta «buscada» es -3 y para determinar su ordenada al origen
+reemplazamos en cualquiera de las dos ecuaciones la letra a por -3 y la resolvemos:
+
+- 2 = a · 1 + b
+
+- 2 = - 3 · 1 + b
+
+- 2 = - 3 + b
+
+- 2 + 3 = b
+
+1 = b
+
+Entonces la ecuación de la recta a la que pertenecen los puntos (1 ; -2) y (3 ; -8) es y = -3x + 1
+
+
+Orientaciones
+
+Recordemos que dada una recta y un punto que no pertenece a la misma, existe una única recta
+paralela a la misma y que «pasa» por el punto indicado.
+
+La ecuación de la recta a determinar debe tener pendiente 2 y entonces es una expresión del
+tipo y = 2 x + b. Por otro lado, el punto (4 ; 3) debe pertenecer a la recta y entonces debe ser
+solución de la ecuación y = 2 x + b.
+
+Reemplazamos la x por 4 y la y por 4 y resolvemos la ecuación resultante:
+3 = 2 · 4 + b
+
+3 = 8 + b
+
+3 – 8 = b
+
+-5 = b
+
+Entonces la ecuación de la recta es y = 2 x – 5.
+
+Actividad 9
+
+En un sistema de coordenadas trace la recta que pasa por los puntos (5 ; 1 ) y (5 ; 3).
+
+1. ¿Es la recta trazada la representación de una función?
+
+2. ¿Qué condición cumplen los puntos que pertenecen a la recta trazada?
+
+Orientaciones
+
+6
+
+5
+
+4
+
+3
+
+2
+
+
+Actividad 8
+
+Determine, analíticamente, la ecuación de la recta a la que pertenecen los puntos (1 ; -2) y (3 ; 
+-8).
+
+1
+
+0
+
+-1     0    1     2     3    4
+
+5    6    7
+
+
+Orientaciones
+
+Dado que los puntos (1 ; -2) y (3 ; -8) deben pertenecer a la misma recta, las siguientes 
+afirmaciones
+son verdaderas:
+
+- 2 = a · 1 + b
+
+-8 = a · 3 + b
+
+La recta trazada no es la representación gráfica de una función ya que todos sus puntos
+tienen como primer coordenada al 5, por lo tanto 5 tiene infinitas imágenes y entonces no
+es una función.
+
+La recta trazada es la representación gráfica de la ecuación x = 5 y cualquier recta paralela
+al eje y del sistema de coordenadas será la expresión gráfica de una ecuación del tipo x = a,
+donde a es un número real cualquiera.
+
+
+. 16 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 17 .
+
+
+Actividad 10
+
+Resuelva los siguientes problemas:
+
+1. Don Gregorio es repartidor de plaguicidas líquidos en el campo. Lleva los plaguicidas desde
+la fábrica hasta las granjas, chacras y estancias de sus clientes. Cobra $ 30 por cada litro de
+plaguicida, y por el servicio a domicilio cobra $ 40. Por limitaciones legales en el medio de
+transporte no puede llevar más de 100 litros por viaje.
+
+a) ¿Cuánto le cobra Don Gregorio a un cliente que le compra 17 litros de plaguicida?
+
+b) ¿Cuánto le cobra a un cliente que le pide 65 litros?
+
+c) ¿Y a uno que le pide 30,5 litros?
+
+d) Pasa una vez por mes por el establecimiento de cada cliente. Si un mes, al visitar a un
+cliente, este le dice que no necesita plaguicida, ¿cuánto le cobra?
+
+e) ¿Y si un cliente le pide 100 litros?
+
+f) Si llamamos x a la cantidad de litros de plaguicida que compra un cliente de Don
+Gregorio y llamamos y al importe a pagar por dicha compra, escriba una fórmula que le
+permita calcular y a partir de x.
+
+g) Defina una función f que describa la situación concreta planteada. Es decir, la función
+que relaciona la cantidad de plaguicidas que puede vender Don Gregorio a cada cliente
+con el importe a pagar.
+
+h) Dé el dominio de la función que definió en el ítem g.
+
+i) Si por una compra un cliente le paga $ 460 a Don Gregorio, ¿cuántos litros de
+plaguicida compró?
+
+j) Represente la función f en un sistema de ejes coordenados cartesianos.
+
+k) A partir del gráfico que hizo en el ítem anterior, dé el conjunto imagen de dicha función.
+
+2. Juan alquila un puestito de ventas en una feria a $200 por día en el que solo vende peras
+a $40 el kilogramo.
+
+a) Escriba una fórmula que describa la ganancia diaria de Juan en función de los
+kilogramos de peras vendidos.
+
+b) Determine analíticamente cuántos kilogramos de peras debe vender Juan para no
+perder dinero.
+
+3. En el siguiente gráfico se ha representado la demanda d de un producto en función del
+precio p de venta por unidad de dicho producto.
+
+a) Cuando el precio de venta de cada unidad del producto es
+
+MATEMÁTICA • B
+
+4. Un móvil se desplaza de manera que la posición y (en metros) en función del tiempo t (en
+minutos) está dada por la función r : [ 0 ; 10 ] → R / y = 2t + 5
+
+a) Represente gráficamente la función r.
+
+b) ¿Con qué velocidad se desplaza el móvil?
+
+c) ¿Cuál es su posición inicial? (la posición del móvil en t = 0).
+
+d) Indique la pendiente y la ordenada al origen de la recta cuya ecuación es: y = 2t + 5
+
+e) Escriba la fórmula de un móvil que se desplaza con mayor velocidad y desde la misma
+posición inicial.
+
+f) Escriba la fórmula de un móvil que se desplaza con la misma velocidad pero desde otra
+posición inicial.
+
+5. Armando inicia un viaje en auto a la hora 0 en el kilómetro 200 de la ruta 63. Dos horas
+después Armando se halla en el kilómetro 380 de la misma ruta y seis horas después del inicio
+del viaje en el kilómetro 700. La posición de Armando en la ruta en función de las horas de
+viaje, ¿es lineal?
+
+6. Un tanque de agua que contiene 10 litros se desagota a razón de 4 litros por minuto.
+
+a) Exprese la fórmula que permite calcular la cantidad y de litros que tiene el tanque en
+cada instante t (en minutos).
+
+b) Escriba la función f que describe la situación planteada.
+
+7. Dada la recta de ecuación y =  ³  x - 5
+
+a) Determine si los siguientes puntos pertenecen a la recta:
+
+(-4 ; -8), (0 ; 0), (  ¹  ; – 5), (8 ; 1).
+
+b) Encuentre otros dos puntos que pertenezcan a la recta.
+
+c) Represente gráficamente la recta.
+
+d) Escriba la ecuación de una recta paralela a la recta dada.
+
+8. Escriba, a partir de sus representaciones gráficas, las ecuaciones de cada una de las
+siguientes rectas:
+
+y                  y                  y
+
+6                         6                         6
+
+5                         5                         5
+
+4                         4                         4
+
+3                         3                         3
+
+
+de $ 1, o sea p = 1, ¿qué cantidad d del producto es demandado?
+
+b) Si el precio de venta es de 6 pesos la unidad, ¿cuál es
+la demanda?
+
+c) Si aumenta el precio de venta unitario, ¿qué ocurre con
+la demanda?
+
+d) ¿A qué velocidad disminuye la demanda?
+
+e) Encuentre una fórmula que permita calcular la demanda
+d para cada precio de venta unitario p.
+
+f) Escriba una función que describa la situación concreta
+planteada.
+
+d (Kg)
+
+12
+
+11
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0  1 2 3 4 5 6
+
+p ($)
+
+-5 -4 -3 -2
+
+2
+
+1
+
+0
+
+-1-1  1
+
+-2
+
+-3
+
+-4
+
+x
+
+2 3 4 5
+
+-5 -4 -3 -2
+
+2
+
+1
+
+0
+
+-1-1  1
+
+-2
+
+-3
+
+-4
+
+x
+
+2 3 4 5
+
+-5 -4 -3 -2
+
+2
+
+1
+
+0
+
+-1-1  1
+
+-2
+
+-3
+
+-4
+
+x
+
+2 3 4 5
+
+
+. 18 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 19 .
+
+
+-5 -4 -3 -2
+
+y
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1-1  1
+
+x
+
+2 3 4 5
+
+-5 -4 -3 -2
+
+y
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1-1  1
+
+x
+
+2 3 4 5
+
+-5 -4 -3 -2
+
+y
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1-1  1
+
+x
+
+2 3 4 5
+
+MATEMÁTICA • B
+
+3. Indique cuál de las siguientes ecuaciones corresponde a una recta de pendiente 3 y que
+
+«pasa» por el punto (1 ; 8).
+
+a) y = 3x + 6
+
+b) y = 3x + 5
+
+c) y = x + 8
+
+d) y = 8x + 1
+
+
+-2                         -2                         -2
+
+-3                        -3                        -3
+
+-4                         -4                         -4
+
+9. Determine en cada caso, la ecuación de una recta que verifique las siguientes condiciones:
+
+a) Una recta de pendiente –2 que pase por el punto (0 ; 5).
+
+b) Una recta de pendiente –2 que pase por el punto (1 ; 4)
+
+c) Una recta de ordenada al origen 3 y que pase por el punto (4 ; 11)
+
+d) Una recta paralela a la del ítem c) que corte el eje x en x = 5.
+
+Actividades de autoevaluación
+
+1. Una pileta contiene 2.000 litros de agua y se desagota a razón de 12 litros por minuto. ¿Cuál
+de las siguientes fórmulas permite calcular la cantidad (y) de litros que tiene el tanque en
+cada instante (x, en minutos) desde el inicio del «desagote» hasta el instante en que el tanque
+queda vacío? :
+
+a) y = 12x – 2.000.
+
+b) y = -12x + 2.000.
+
+c) y = 12x.
+
+d) y = 2.000x.
+
+2. Un móvil A se desplaza de tal manera que la posición y (en metros respecto a un
+punto de referencia) en función del tiempo x (en minutos) está dada por la función
+f : [0;12]→R / y = 4x + 11. Tres de las siguientes afirmaciones son verdaderas. Indique
+cuáles son:
+
+a) La fórmula y = 5x + 7 corresponde a otro móvil B que se desplaza en el mismo
+sentido y con una velocidad mayor que la del móvil A.
+
+b) La fórmula y = 3x + 11 corresponde a otro móvil C que se desplaza en el mismo
+sentido, con la misma velocidad y con distinta posición inicial que la del móvil A.
+
+c) La fórmula y = 5x + 8 corresponde a otro móvil D de manera tal que en el minuto
+tres se encuentra en la misma posición que el móvil A.
+
+d) La fórmula y = 4x + 3 corresponde a otro móvil E que se desplaza en el mismo
+sentido, con distinta velocidad y con la misma posición inicial que la del móvil A.
+
+e) La fórmula y = -4x + 7 corresponde a otro móvil F que se desplaza en sentido
+contrario y con distinta posición que la del móvil A.
+
+4. Una de las siguientes es la ecuación de la recta representada. Indique cuál es:
+
+a) y = 2x + 1
+
+b) y = 2x – 1
+
+c) y = - 2x + 1
+
+d) y = - 2x – 1
+
+5. ¿Cuál de las siguientes ecuaciones corresponde a la recta a la que pertenecen los puntos
+( 2 ; 5 ) y ( 4 ; 11 )?
+
+a) y = 3x – 1
+
+b) y = - 3x – 11
+
+c) y = – 1x + 3
+
+d) y = - 3x – 1
+
+
+. 20 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 21 .
+
+
+Unidad 2
+
+Sistemas de ecuaciones lineales
+
+Actividad 1
+
+Luis Alberto consulta en dos agencias acerca de la tarifa correspondiente al alquiler de un
+auto por un día. Los resultados fueron: Agencia A, $150 por el retiro del auto más $3 por
+kilómetro recorrido. Agencia B, $300 por el retiro del auto más $2 por kilómetro recorrido.
+Sean x es la cantidad de kilómetros recorridos en el día y P el precio a pagar por el alquiler
+del auto.
+
+a) Complete la siguiente tabla:
+
+x        PA       PB
+
+0
+
+100
+
+200
+
+1200
+
+b) Escriba dos fórmulas, una para cada agencia, que permita calcular el precio a
+pagar sabiendo la cantidad de kilómetros recorridos (en función de la cantidad de
+kilómetros recorridos).
+
+c) Utilice las fórmulas para determinar el precio a pagar en cada agencia para 760 km
+y 1260 km.
+
+MATEMÁTICA • B
+
+Diremos que (150 ; 600) es la única solución del sistema de ecuaciones indicado y que
+
+S = {(150 ; 600)} es el conjunto solución del sistema de ecuaciones.
+
+Si reemplazamos la letra x por 150 y la letra P por 600 vemos que resultan dos afirmaciones
+verdaderas: 600 = 3 · 150 + 150 y 600 = 2 · 150 + 300
+
+Observemos la representación gráfica del sistema de ecuaciones:
+
+800
+
+700
+
+600
+
+500
+
+400
+
+300
+
+200
+
+
+d) Utilice las fórmulas para determinar, en cada agencia, cuántos kilómetros puedo
+recorrer si dispongo de $720 para el alquiler del auto.
+
+e) ¿Para qué cantidad de kilómetros recorridos es indistinto alquilar el auto en una agencia
+o en la otra?
+
+f) Represente en un mismo sistema de coordenadas ambas funciones. ¿Se cortan en
+algún punto? Halle, analíticamente dicho punto.
+
+g) Indique los «intervalos de conveniencia» de cada agencia.
+
+Orientaciones
+
+Las fórmulas para cada agencia son PA = 3x + 150 y PB = 2x + 300. Para determinar para qué
+cantidad de kilómetros es indistinto alquilar una u otra agencia podemos resolver la ecuación
+PA = PB . Esto es, para qué valor de x se verifica 3x + 150 = 2x + 300. Entonces:
+
+3x - 2x = 300 - 150
+
+x = 150
+
+Y podemos verificar que si recorremos con el auto alquilado 150 kilómetros ambas agencias
+cobran $600.
+
+Acabamos de resolver un sistema de dos ecuaciones con dos incógnitas (letras) que se escribe
+
+100
+
+0
+
+Las escalas elegidas para cada eje del sistema de coordenadas cartesianas son distintas, para
+que la representación gráfica sea adecuada.
+
+El punto (150 ; 600) es el único punto de intersección entre ambas rectas graficadas.
+
+Para valores de x mayores o iguales que 0 y menores que 150, es más económica la agencia A y
+para valores de x mayores a 150 es más económica la agencia B.
+
+Sistema de ecuaciones lineales con dos incógnitas
+
+Una expresión del tipo { y = ax + b  donde a, b, c, d son números reales cualesquiera es
+un sistema de ecuaciones lineales con dos incógnitas. En este caso ambas ecuaciones
+
+corresponden a funciones lineales. Diremos que el punto (s; t) es solución del sistema si al
+
+
+de la siguiente manera:
+
+PA = 3x + 150
+PB = 2x + 300
+
+reemplazar la letra x por el número s y la letra y por el número t, quedan dos afirmaciones
+verdaderas.
+
+
+. 22 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+
+02-08-2024
+
+. 23 .
+
+
+Como ya vimos en la unidad 1, las rectas paralelas al eje y (el vertical) no son la representación
+gráfica de funciones lineales, por lo que también son sistemas de ecuaciones lineales con dos
+incógnitas las expresiones del tipo:
+
+MATEMÁTICA • B
+
+b) En este caso el sistema consiste en dos ecuaciones que tienen la misma pendiente, 5, por lo
+tanto ambas rectas son paralelas y no hay ningún punto de intersección entre ambas rectas y
+que el conjunto solución es vacío: S = Ø.
+
+
+Actividad 2
+
+y = ax + b
+y = c
+
+o  y = a
+
+y = bx + cd
+
+o  y = a
+y = b
+
+Veamos cómo se manifiesta analíticamente esta situación.
+5x + 1 = 5x - 2
+
+5x - 5x = -2 - 1
+
+0 = -3 y esta igualdad es falsa para cualquier valor de x.
+
+
+Determine si el punto (1 ; 5) es solución del siguiente sistema de ecuaciones:
+
+y = 2x + 3
+
+y = x + 8
+
+A continuación, la representación gráfica del sistema de ecuaciones:
+
+2
+
+
+Orientaciones
+
+Reemplazamos la x por 1 y la y por 5 en cada una de las ecuaciones:
+
+5 = 2 · 1 + 3 y resulta que la primera igualdad es verdadera, pero la segunda no.
+
+5 = 1 + 8
+
+Entonces (1 ; 5) no es solución del sistema de ecuaciones.
+
+Actividad 3
+
+Resuelva (halle el conjunto solución) de los siguientes sistemas de ecuaciones lineales:
+
+1
+
+0
+
+-4   -3   -2   -1    0   1
+
+-1
+
+-2
+
+-3
+
+-4
+
+
+a)  y = 3x + 1
+y = x + 5
+
+Orientaciones
+
+y = 5x + 1
+y = 5x - 2
+
+y = 4x + 7
+y = 4x + 7
+
+y = 3x + 1
+x = 3
+
+c) Ahora el sistema consiste en dos ecuaciones iguales, entonces ambas rectas son iguales, de
+tal manera que existen infinitos puntos de intersección entre ambas rectas, que son todos los
+puntos de la recta(que es la misma), y el conjunto solución es el conjunto de todos los puntos
+(x ; y) tales que y = 4x + 7 es decir: S ={(x ; y)/ y = 4x +7}.
+
+
+a) Observemos que el sistema consiste en dos ecuaciones de rectas con pendientes diferentes,
+3 y 1, por lo tanto podemos anticipar que ambas rectas se «cortarán» en un solo punto. En este
+caso el único punto de intersección entre ambas rectas es (2 ; 7) y el conjunto solución es:
+
+S ={(2; 7)} . A continuación, la representación gráfica del sistema de ecuaciones:
+
+Para encontrar una solución basta reemplazar la x por un número cualquiera y haciendo los
+cálculos obtener el valor de y. Por ejemplo si x = 8, y = 4 · 8 + 7 = 39; entonces (8 ; 39) es una
+solución del sistema de ecuaciones.
+
+A continuación, la representación gráfica del sistema de ecuaciones:
+
+7
+
+8
+
+7                                                                                               6
+
+6                                                                                               5
+
+5
+
+4
+
+4
+
+3
+
+3
+
+2
+
+2
+
+
+-4  -3  -2  -1
+
+1
+
+0
+
+0   1   2   3   4
+
+-4   -3   -2   -1
+
+1
+
+0
+
+0   1   2
+
+
+. 24 .
+
+-1
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+-1
+
+. 25 .
+
+
+Clasificación de sistemas de ecuaciones lineales con dos incógnitas
+
+Si el sistema de dos ecuaciones lineales con dos incógnitas tiene una única solución, como
+el del ítem a) de la actividad anterior, diremos que es un sistema compatible determinado.
+En la representación gráfica tendremos dos rectas que se cortan. ¿Cómo son las pendientes
+de esas rectas?
+
+Si el sistema de dos ecuaciones lineales con dos incógnitas no tiene solución, como el del
+ítem b), diremos que es un sistema incompatible. ¿Cómo son las rectas en este caso? ¿Qué
+sucede con las pendientes?
+
+Si el sistema de dos ecuaciones lineales con dos incógnitas tiene infinitas soluciones, como
+el del ítem c), diremos que es un sistema compatible indeterminado.
+
+¿Cómo son las rectas en este caso? ¿Qué sucede con las pendientes?
+
+Actividad 4
+
+En un recital se ofrecieron entradas populares a $50 y plateas a $80. En total se vendieron
+323 entradas y se recaudaron $18.400. ¿Cuántas populares y cuántas plateas se vendieron?
+Exprese la situación planteada mediante un sistema de ecuaciones y luego resuélvalo.
+
+Orientaciones
+
+Llamaremos x a la cantidad de entradas populares vendidas y llamaremos y a la cantidad de
+
+MATEMÁTICA • B
+
+La única solución del sistema es (248; 75) y la respuesta al problema es que se vendieron 248
+populares y 75 plateas.
+
+Con un pequeño esfuerzo se puede verificar si la respuesta es correcta:
+248 + 75 = 323
+
+50 · 248 + 80 · 75 = 18400
+
+Actividad 5
+
+Resuelva los siguientes problemas:
+
+1. Un joven consiguió emplearse como vendedor de teléfonos e inesperadamente la patronal
+le ofrece dos alternativas para su salario y debe optar por una de ellas. Una de las propuestas
+es la siguiente: un salario fijo de $5.000 más una comisión de $100 por teléfono vendido. La
+otra: $3.000 fijos más una comisión de $150 por teléfono vendido.
+
+a) ¿A partir de cuántos teléfonos vendidos es conveniente la segunda propuesta?
+
+b) Si no lo hizo, plantee un sistema de ecuaciones adecuado al problema y resuélvalo
+para responder la pregunta del ítem a.
+
+2. Complete el siguiente cuadro:
+
+Sistema de
+
+
+plateas vendidas. Como cada popular se vendió a $50, cada platea a $80 y la recaudación total
+fue de $18.400, entonces 50x + 80y = 18400.
+
+Se vendieron 323 entradas, entonces x + y = 323.
+El sistema de ecuaciones es:  x + y = 323
+
+50x + 80y = 18400
+
+Vamos a reescribir el sistema con el formato de la actividad 1, {y = ax + b , y luego lo resolvemos.
+Para ello, en ambas ecuaciones escribiremos a la letra y en función de la letra x:
+
+y = 323 - x
+
+18400 - 50x
+
+ecuaciones
+lineales con dos
+incógnitas
+
+Interpretación
+gráfica
+
+4y + 2x = 8
+
+2y + x = 2
+
+1 + 2y = 3x
+
+y -  ³  x = -  ¹ 
+
+6
+
+y = x + 1
+
+3
+
+8
+
+3
+
+2
+
+y =    80                                                                                     1
+
+
+Lo resolvemos:
+
+323 - x = 18400 - 50x
+
+80
+
+(323 - x) · 80 = 18400 - 50x
+
+323 · 80 - x · 80 = 18400 - 50x
+
+25840 - 18400 = -50x + 80x
+
+7440 = 30x
+
+  7440   = x
+
+30
+
+248 = x
+
+Hallamos el valor de x, resta hallar el valor de y. Para ello reemplazamos en cualquiera de las dos
+
+Conjunto
+solución
+
+Tipo de sistema
+de acuerdo a la
+solución
+
+0
+
+ 5   3 y + 2x = 6
+
+Compatible
+indeterminado
+
+
+ecuaciones la x por 248:
+
+y = 323 - x
+
+3. Determine si (3 ; 2) es solución de los siguientes sistemas de ecuaciones:
+
+
+. 26 .
+
+y = 323 - 248
+
+y = 75
+
+a)  3x - 6y = - 3
+
+x + 7y = 17
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+x - y = 1
+
+-2x + y = 4
+
+. 27 .
+
+
+4. Halle el conjunto solución de los siguientes sistemas de ecuaciones:
+
+MATEMÁTICA • B
+
+Indique cuál de las siguientes afirmaciones es verdadera:
+
+
+3x + 2y = 14
+
+5x - y = 19
+
+3x + 4y = 7
+
+6x + 8y = 10
+
+2x + 8y = 4
+
+3x + 12y = 6
+
+2x + 8y = 4
+
+x = 6
+
+a) El sistema es incompatible (no tiene solución).
+
+b) El sistema es compatible determinado y el conjunto solución es {(5 ; 2)}.
+
+c) El sistema es compatible determinado y el conjunto solución es {(2 ; 5)}.
+
+
+5. Resuelva cada uno de los siguientes problemas.
+
+a) Hoy un juego de muebles de dormitorio vale $ 720 y su precio aumenta a
+
+d) El sistema es compatible indeterminado (tiene infinitas soluciones).
+
+2. El siguiente sistema de ecuaciones lineales {2x + 3y = -4 tiene una única solución. Indique
+
+
+razón de $10 por mes. Ignacio tiene posibilidad de ahorrar $ 50 por mes y hoy tiene $ 80.
+
+¿Cuántos meses tendrá que esperar para poder comprar ese juego de muebles? ¿Cuánto
+costarán los muebles entonces?
+
+cuál es:
+
+- x -2y = 3
+
+a) (2 ; 1)        b) (0 ; -4)        c) (4 ; -4)        d) (1 ; -2)
+
+
+b) En un partido de básquet, el equipo Embogol anotó 3 tantos menos del doble de
+lo que anotó el equipo Errogol. En el partido hubo 156 tantos. ¿Cuál fue el resultado
+del partido?
+
+c) En una librería una carpeta cuesta $ 2 y un cuaderno vale $ 3. Por compras al por
+mayor se hace un descuento de $ 10. Los padres de los alumnos de un curso se organizan
+para realizar una compra comunitaria y beneficiarse con el descuento. En total deben
+comprar 60 artículos y recaudaron $ 128. ¿Cuántas carpetas y cuántos cuadernos podrán
+
+3. Indique si es verdadera o falsa la siguiente afirmación: « {2x + 3y = 5
+
+ecuaciones lineales incompatible.»
+
+a) Verdadera.
+
+b) Falsa.
+
+es un sistema de
+
+
+comprar usando exactamente el dinero recaudado?
+
+Actividades de autoevaluación
+
+1. Considere el sistema de ecuaciones lineales representado a continuación:
+
+6
+
+5
+
+4
+
+4. Gladys necesita transportar una mercadería y averiguó los precios de dos empresas de
+
+fletes. La empresa A cobra un costo fijo de $1.000 más $30 por kilómetro recorrido. La
+empresa B cobra $500 fijos más $50 por kilómetro recorrido. Indique cuál de las siguientes
+afirmaciones es verdadera.
+
+a) Siempre es conveniente elegir la empresa A.
+
+b) Siempre es conveniente elegir la empresa B.
+
+c) Para transportar la mercadería a más de 25km, conviene elegir A.
+
+d) Para transportar la mercadería a más de 25km, conviene elegir B.
+
+5. En un teatro, la entrada de adultos tiene un costo de $150 y la de menores de $50. En una
+función a la que concurrieron 76 personas se recaudaron $7.200. ¿Cuántos adultos y cuántos
+menores asistieron a la función? Indique cuál de los siguientes sistemas de ecuaciones lineales
+es adecuado para resolver el problema planteado.
+
+
+x + y = 7.200
+50x - 150y = 76
+
+3
+
+x - y = 76
+
+50x + 150y = 7.200
+
+x + y = 76
+
+50x + 150y = 7.200
+
+x + y = 76
+
+50x - 150y = 7.200
+
+2
+
+1
+
+
+-3   -2   -1
+
+0
+
+0   1    2    3
+
+-1
+
+
+. 28 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 29 .
+
+
+Unidad 3
+
+Funciones de proporcionalidad directa. Funciones de proporcionalidad inversa
+
+Actividad 1
+
+En la feria del barrio hay varios puestos que venden frutas. En algunos de esos puestos se
+hacen ofertas por compras de grandes cantidades. Cada puestero, don Manuel, don José y
+doña Perla, va registrando las compras que hacen sus clientes. Anota la cantidad de mercadería
+que vende en cada oportunidad y el dinero que cobra. Las siguientes tablas muestran lo que
+registró cada uno:
+
+Puesto de don Manuel
+
+x (kg de manzanas)       0,5   1   1,5   2,5   3    4    5   10   15
+
+y ($)                1    2    3    5    6    8   10   20   30
+
+MATEMÁTICA • B
+
+b) Represente en un sistema de ejes coordenados los puntos que expresan el precio y a
+pagar en función de la cantidad x de kilogramos de peras que se compren en el puesto
+de don José.
+
+c) Represente en un sistema de ejes coordenados los puntos que expresan el precio y
+a pagar en función de la cantidad x de kilogramos de duraznos que se compren en el
+puesto de doña Perla.
+
+5. Responda las siguientes consignas a partir de los gráficos realizados en el ítem 4:
+
+a) ¿Qué diferencia observa entre ellos?
+
+b) ¿En qué caso o casos la fórmula que representa a los puntos del gráfico es lineal?
+
+c) En aquellos casos en que la fórmula sea lineal, escriba dicha fórmula.
+
+d) ¿Cómo interpreta la fórmula lineal obtenida en el punto c. relacionándola con la
+situación de las ventas de los puesteros de la feria?
+
+6. ¿Cuánto vale el kilogramo de manzanas en el puesto de don Manuel?
+
+7.
+
+
+Puesto de don José
+
+a) Realice las divisiones entre el precio de la compra y la cantidad de kilogramos
+comprados, es decir, las divisiones y : x, para todos los ejemplos dados de los puestos de
+don Manuel, don José y doña Perla.
+
+
+x (kg de peras)
+
+y ($)
+
+0,5
+
+0,75
+
+1   2
+
+1,5  3
+
+4   8   10
+
+5   10   12
+
+b) ¿En qué caso o casos todas las divisiones dan el mismo resultado?
+
+c) ¿Cuál es ese resultado para los casos en que las divisiones dan siempre lo mismo?
+
+d) ¿Qué significado tiene ese resultado en términos de las ventas de los puesteros en
+
+
+Puesto de doña Perla
+
+x (kg de duraznos)        1    2    4   10   20
+
+y ($)                2,5   4,5   8   18   35
+
+1. Usando la información anterior, responda las siguientes preguntas:
+
+a. Cualquiera sea la cantidad de manzanas vendida en el puesto de don Manuel, ¿se
+venden al mismo precio por kilogramo?
+
+b. Cualquiera sea la cantidad de kilogramos de peras vendida en el puesto de don José,
+
+¿se cobra el mismo precio por kilo?
+
+c. Cada kilogramo de duraznos vendido en el puesto de doña Perla, ¿vale lo mismo?
+
+la feria?
+
+Orientaciones
+
+En el puesto de don Manuel, cualquiera sea la compra que se haga, el cliente debe pagar $2 por
+cada kilogramo de manzanas.
+
+En los otros dos puestos, se hacen ofertas por compras de grandes cantidades.
+Es decir que, si un cliente compra mucha fruta, paga menos por cada kilogramo.
+
+Cuando representamos gráficamente las posibles compras en el puesto de Don Manuel,
+observamos que los puntos quedan alineados entre sí. En cambio, los puntos que representan
+las posibles compras en los otros dos puestos no quedan alineados entre sí.
+
+
+2. Teniendo en cuenta lo respondido en el ítem 1, ¿en cuál o cuáles de los puestos se hacen
+ofertas por la venta de grandes cantidades de frutas?
+
+3.
+
+a) ¿Es posible calcular el precio de venta del kilogramo de fruta para cualquier venta en
+cada puesto?
+
+b) ¿En qué puesto o puestos es posible calcular el precio de venta del kilogramo de fruta
+para cualquier venta? ¿En cuál o cuáles no es posible?
+
+c) Fundamente las respuestas que dio en el ítem b.
+
+4.
+
+a) Represente en un sistema de ejes coordenados los puntos que expresan el precio y
+
+y($)
+
+30
+
+25
+
+20
+
+15
+
+10
+
+8
+
+6
+
+5
+
+3
+
+2
+
+1
+
+y($)
+
+12
+
+10
+
+5
+
+3
+
+2
+
+1
+
+x
+
+35
+
+18
+
+8
+
+5
+
+x   2,5
+
+y($)
+
+x
+
+
+a pagar en función de la cantidad x de kilogramos de manzanas que se compren en el
+puesto de don Manuel.
+
+0  1   3  4 5       10       15
+
+(kg. de manzana)
+
+0  1  2   4      8   10
+
+(kg. de pera)
+
+0 1 2  4     10        20
+
+(kg. de durazno)
+
+
+. 30 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 31 .
+
+
+Cuando realizamos las divisiones y : x para las posibles compras en el puesto de don Manuel,
+los resultados dan todos 2 (que es el precio de 1kg de manzanas). En cambio, al hacer lo mismo
+con las posibles compras en los otros puestos, de don José y de doña Perla, los cocientes dan
+distintos valores, ya que el precio de 1kg de fruta no es siempre el mismo. Si se compran grandes
+cantidades, cada kilogramo vale menos.
+
+La fórmula que permite calcular el precio y a pagar por la compra de x kg de frutas, resulta una
+fórmula lineal solo en el caso del puesto de don Manuel.
+
+La fórmula es y = 2 · x.
+
+En los casos de los otros dos puestos, no hay una fórmula sencilla que permita calcular el precio
+y a pagar por x kilogramos de frutas.
+
+Actividad 2
+
+Las siguientes tablas muestran posibles compras de frutas en otros puestos:
+
+Puesto de doña Rosa
+
+x (kg de naranjas)         2    3    4    5    6
+
+y ($)               2,5  3,75   5   6,25  7,5
+
+MATEMÁTICA • B
+
+Proporcionalidad directa. Funciones de proporcionalidad directa
+
+En los puestos de Don Manuel y Doña Rosa, el precio de cada kilogramo de fruta es el
+mismo cualquiera sea la cantidad que se compre. En estos casos, decimos que el precio y a
+pagar es directamente proporcional al peso x de la fruta comprada.
+
+O también podemos decir que hay proporcionalidad directa entre el precio y el peso.
+
+Como observamos, en estos dos casos, al realizar los cocientes y : x, estos resultan
+constantes. Al valor obtenido en cada caso, que coincide con el precio de 1kg de fruta, lo
+llamamos constante de proporcionalidad.
+
+Por ejemplo, en el puesto de Don Manuel la constante de proporcionalidad es 2 y en el puesto
+de Doña Rosa es 1,25. En general, si identificamos con k a la constante de proporcionalidad,
+resulta y : x = k.
+
+En estos dos casos, las fórmulas que permiten calcular el precio y a partir del peso x de
+fruta comprada son lineales. Son fórmulas del tipo y = k . x, donde k es la constante de
+proporcionalidad. Por lo tanto, en la representación gráfica, los puntos que expresan posibles
+compras, quedan alineados entre sí y con el origen de coordenadas.
+
+La función f : {0,5; 1; 1,5; 2,5; 3; 4; 5; 10; 15} → R / y = 2x modela matemáticamente las
+ventas de manzanas registradas en el puesto de don Manuel.
+
+La función g : {2; 3; 4; 5; 6} → R/ y = 1,25x expresa las ventas de naranjas registradas en el
+puesto de doña Rosa. Ambas son ejemplos de funciones de proporcionalidad directa. Las
+representaciones gráficas de estas funciones son:
+
+
+Puesto de don Carlos
+
+x (kg de naranjas)         2    3    4    5    6
+
+y ($)               3,5  5,25  6,75   8    9
+
+y($)
+
+30
+
+25
+
+20
+
+15
+
+7,5
+
+6,25
+
+5
+
+3,75
+
+y($)
+
+
+Usando la información de estas tablas, responda las siguientes preguntas:
+
+1. ¿En cuál de estos dos puestos se cobra siempre lo mismo por cada kilogramo de frutas?
+
+2. Represente gráficamente los puntos que expresan el precio a pagar en función de las
+cantidades de kilogramos de frutas vendidas en estos dos puestos.
+
+3. Para el puesto en que se cobra siempre lo mismo por cada kilogramo de frutas:
+
+a) ¿Cuánto vale cada cociente y : x?
+
+10
+
+8
+
+6
+
+5
+
+3
+
+2
+
+1
+
+0  1    3  4  5         10         15
+
+(kg. de manzana)
+
+2,5
+
+0  1
+
+x
+
+2  3  4  5  6
+
+(kg. de naranja)
+
+
+b) Desde el punto de vista de la situación planteada de estos dos puestos, ¿con qué valor
+coincide dicho cociente?
+
+c) Escriba la fórmula que le permite calcular el precio y que se debe pagar por comprar
+x kg de fruta en ese puesto.
+
+En general, llamamos función de proporcionalidad directa a una función del tipo:
+
+f : A → R / y = k · x . En ella, el dominio A es un subconjunto de números reales adecuado
+a cada situación y k es la constante de proporcionalidad y es un número real distinto de cero.
+
+
+. 32 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 33 .
+
+
+Actividad 3
+
+En una empresa llenan semanalmente dos tanques con combustible para el uso de sus
+maquinarias.
+
+MATEMÁTICA • B
+
+que entró la misma cantidad de hectolitros de combustible en cada tanque por cada
+hora transcurrida? Por ejemplo, entre las 0,5 hora y las 1,5 horas, ¿entró la misma cantidad
+que entre las 2 horas y las 3 horas? Indique qué cantidad fue la que entró a cada tanque
+en cada una de esas horas. Para responder esta pregunta complete la siguiente tabla:
+
+
+Cada tanque tiene una capacidad de 9 hectolitros (hl).
+
+Para llenar uno de los tanques se usa una bomba denominada HTK y el otro se llena con la
+bomba FPD.
+
+Quieren controlar el funcionamiento de ambas bombas.
+
+A José le encargaron tomar la información de la bomba HTK y a Pedro de la bomba FPD.
+Entre José y Pedro acordaron en llenar simultáneamente los dos tanques, llamar t = 0 hora al
+instante inicial y registrar la cantidad de combustible que contenía el tanque cada media hora.
+
+Entre las 0,5 horas y las 1,5 horas
+Entre las 2 horas y las 3 horas
+
+Tanque llenado por
+la bomba HTK
+
+Tanque llenado por
+la bomba FPD
+
+
+Al terminar, cada uno presentó un informe. Los informes son los siguientes:
+
+Bomba HTK
+
+En la siguiente tabla se describe la cantidad y de hl de combustible que
+tenía en el tanque, en los intasntes t (en horas) en que se observó:
+
+t   0  0,5   1   1,5   2   2,5   3
+
+y   0  0,25  1  2,25  4  6,25  9
+
+A partir de la tabla, se representó gráficamente lo que ocurrió en el
+transcurso de las tres horas en que se llenó el tanque. El gráfico es el
+dado a la derecha.
+
+Bomba FPB
+
+En la siguiente tabla se describe la cantidad y de hl de combustible que
+tenía en el tanque, en los intasntes t (en horas) en que se observó:
+
+t   0  0,5   1   1,5   2   2,5   3
+
+y   0   1,5   3   4,5   6   7,5   9
+
+A partir de la tabla, se representó gráficamente lo que ocurrió en el
+transcurso de las tres horas en que se llenó el tanque. El gráfico es el
+dado a la derecha.
+
+9
+
+6,25
+
+4
+
+2,25
+
+1
+
+0,25
+
+9
+
+7,5
+
+6
+
+4,50
+
+3
+
+1,50
+
+y
+
+0 0,5 1
+
+y
+
+0 0,5 1
+
+1,5
+
+1,5
+
+t
+
+2 2,5 3
+
+t
+
+2 2,5 3
+
+3. A continuación, en el cuadro, hacemos ciertas afirmaciones que usted deberá comprobar
+
+si pueden ser aplicadas o no a cada una de las bombas.
+
+Para responder debe basarse solo en lo que pueda deducir de la situación planteada.
+
+Si alguna expresión le resulta muy desconocida, trate de encontrarle sentido de acuerdo con
+el contexto de la situación. Para contestar, complete el cuadro.
+
+Frase                            ¿Puede ser aplicada a la...
+
+bomba HTK? bomba FPD?
+
+La bomba llenó el tanque, es decir que a medida que
+pasaba el tiempo también aumentaba la cantidad de
+combustible que había en el tanque.
+
+La bomba llenó el tanque en tres horas.
+
+La bomba llenó el tanque de tal forma que: la relación
+entre el tiempo t y la cantidad y de hl que hay en el tanque
+puede expresarse mediante una función.
+
+La bomba llenó el tanque a velocidad constante.
+
+La bomba llenó el tanque a razón de 3 hl por hora.
+
+La bomba llenó el tanque en forma proporcional al
+tiempo. Es decir, por ejemplo: si en 1 hora llenó 3 hl, en 2
+horas llenó 6hl. Porque 3 es a 1 como 6 es a 2 (esto se
+
+
+1. Teniendo en cuenta lo que puede observar en cada tabla y su respectivo gráfico, ¿usted
+
+escribe así:  ³  =  ⁶  ).
+
+
+diría que los tanques se llenaron de la misma «forma»? ¿Por qué? Explíquelo con sus palabras.
+
+2. El jefe de José y Pedro les hizo algunas preguntas respecto de la forma en que se llenaron
+los tanques, o de la forma en que actuaron las bombas para llenarlos.
+
+a) Para cada pregunta responda lo que diría José respecto del llenado del tanque con la
+bomba HTK y lo que diría Pedro respecto de cómo se llenó el tanque con la bomba FPD.
+
+• ¿Qué cantidad de hectolitros de combustible entró en el tanque durante la primera
+media hora de funcionamiento de la bomba?
+
+• ¿Y durante la segunda media hora?
+
+• ¿Y durante la tercera media hora?
+
+b) ¿Podría usted decir que en cada tanque entró la misma cantidad de hectolitros de
+combustible por cada media hora que iba transcurriendo?
+
+c) Para responder la siguiente pregunta observe cada tabla y cada gráfico: ¿Podría decir
+
+La bomba llenó el tanque en forma proporcional al
+tiempo porque, por ejemplo, para cualquier tiempo t, si la
+cantidad de tiempo t se cuadruplica, también se cuadruplica
+la cantidad y de hl que hay en el tanque.
+
+La bomba llenó el tanque de manera que, cualquiera sea
+la cantidad y de hl dividida por el tiempo t correspondiente,
+en la función que describe el llenado, se mantiene constante,
+es decir:  ʸ  = 3 (para t distinto de cero).
+
+La función que vincula la cantidad de hl en el tanque con
+el tiempo es una función de proporcionalidad directa.
+
+La bomba llenó el tanque de manera que la cantidad de
+hl se pude obtener a partir del tiempo t con la formula y =
+3 · t .
+
+
+. 34 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 35 .
+
+
+Orientaciones
+
+En el tanque llenado por la bomba FPD, la cantidad de hectolitros de combustible aumenta a
+velocidad constante. Es decir, en dicho tanque entra la misma cantidad de combustible en una
+hora y esto ocurre en cualquier hora que se considere.
+
+En los gráficos de las dos funciones que describen el llenado de los tanques, observamos que para
+el tanque llenado con la bomba FPD resultan puntos alineados con el origen de coordenadas.
+En cambio, en el gráfico correspondiente al llenado del tanque con la bomba HTK, los puntos no
+quedan alineados.
+
+También se puede observar que, en el tanque llenado con la bomba FPD, resulta que al calcular
+las divisiones y : t los cocientes resultan todos iguales a 3.
+
+Es decir, resulta y : t = 3. Esta constante expresa la cantidad de hectolitros de combustible que
+entran al tanque por hora. Además, la fórmula que permite obtener la cantidad y de hectolitros
+en cada instante t es y = 3 · t.
+
+Por lo tanto, podemos decir que en el llenado del tanque FPD, la cantidad de hectolitros es
+directamente proporcional al tiempo.
+
+En cambio, en el tanque HTK, la cantidad de hectolitros no es directamente proporcional
+al tiempo.
+
+Actividad 4
+
+Martín es empleado en una fábrica de jarabes. En esa fábrica se producen 12 litros de jarabe
+por hora. La producción de jarabe de cada hora se envasa en recipientes de distintos tamaños
+según el uso que se le vaya a dar.
+
+Martín es el encargado de decidir cuántos recipientes se van a usar para el envasado.
+
+1. La producción de la primera hora de trabajo de un día debe envasarse en recipientes de 2
+litros cada uno. ¿Cuántos recipientes se necesitan?
+
+2. La producción de la segunda hora se envasa en recipientes de 1 litro cada uno. ¿Cuántos
+recipientes se necesitan?
+
+3. La producción de la tercera hora va en recipientes de  ¹  litro cada uno. ¿Cuántos recipientes
+hacen falta?
+
+4. Martín confeccionó la siguiente tabla para organizar la información de cuántos recipientes
+necesita para envasar la producción de jarabe de una hora según la capacidad de cada uno
+de ellos. Complétela.
+
+MATEMÁTICA • B
+
+7. El recipiente más chico tiene una capacidad de  ¹  de litro y el más grande de 12 litros.
+Además, suponga que es posible tener recipientes de cualquier capacidad entre las dos
+anteriores. Teniendo en cuenta esta información, defina una función f que describa la
+
+situación planteada.
+
+8. Represente la función f que definió en el ítem anterior en un sistema de ejes coordenados
+cartesianos.
+
+Teniendo en cuenta la tabla que completó en el ítem 4, indique cuáles de las siguientes
+frases son verdaderas:
+
+a) Al duplicar la capacidad de cada recipiente, la cantidad de recipientes necesaria
+es la mitad.
+
+b) Si la capacidad de los recipientes se reduce a la mitad, la cantidad de recipientes
+necesaria se duplica.
+
+c) Al multiplicar la cantidad y de recipientes necesaria por la capacidad x de cada uno de
+ellos, se obtiene siempre el mismo resultado.
+
+d) Si se triplica la capacidad del recipiente, la cantidad de recipientes necesaria se reduce
+a la tercera parte.
+
+e) En cualquier caso se verifica que x · y = 12.
+
+f) Para calcular la cantidad y de recipientes necesaria para envasar los 12 litros de jarabe
+que se producen por hora, en recipientes de x litros se usa la fórmula y =  ¹²  .
+
+Orientaciones
+
+Todas las afirmaciones anteriores son verdaderas. Decimos que la cantidad de recipientes es
+inversamente proporcional a la capacidad de cada uno.
+
+Actividad 5
+
+Por su trabajo, Martín cobra $ 6.000 por mes. En marzo ha logrado organizarse de manera
+que, en los 6 primeros días después de cobrar, gasta $ 200 por día. Teniendo en cuenta la
+información anterior, responda:
+
+1. Complete la siguiente tabla:
+
+x (días después del cobro)    1      2      3      4      5      6
+
+
+x (capacidad de cada
+recipiente en litros
+
+y (cantidad de
+
+2   1  1 
+
+6   12   24
+
+3   4   6  1   1 
+
+12  1 
+
+y ( dinero que le queda)
+
+5.800
+
+5.600
+
+
+recipientes)
+
+5. Para poder prever la cantidad y de recipientes que debe disponer para envasar la producción
+
+2. Entre las siguientes fórmulas, elija la que permite calcular el dinero y que le queda a Martín
+
+x días después de haber cobrado.
+
+  6.000  
+
+
+de una hora si la capacidad de cada uno es de x litros, Martín decidió buscar una fórmula que
+le permita calcular y a partir de conocer x.
+
+a) y = 6.000 + 200x        b) y =    x           c) y = 6.000 - 200x
+
+
+Le pedimos que dé la fórmula hallada por Martín, teniendo en cuenta los cálculos que hizo
+para completar la tabla anterior.
+
+6. Teniendo en cuenta los pares de valores obtenidos en la tabla anterior, represente en un
+sistema de ejes coordenados cartesianos los puntos que expresan la cantidad y de recipientes
+necesaria para envasar x litros de jarabe.
+
+3. Defina una función g que describa lo que ocurre con el dinero de Martín en los 6 primeros
+días después del cobro.
+
+4. Represente la función g que definió en el ítem anterior en un sistema de ejes coordenados
+cartesianos.
+
+
+. 36 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 37 .
+
+
+MATEMÁTICA • B
+
+
+Actividad 6
+
+En el mes de abril gastó el dinero de su sueldo de manera que la cantidad y que le queda
+después de x días del cobro está indicada en la siguiente tabla:
+
+Actividad 7
+
+Usted definió la función f : [  ¹  ; 12] → R / f (x) =  ¹²  para describir lo observado en el 
+envasado
+
+
+x (días después del cobro)    1      2      3      4      5      6
+
+y ( dinero que le queda)   6.000   3.000   2.000   1.500   1.200   1.000
+
+1. Entre las siguientes fórmulas, elija la que permite calcular el dinero y que le queda a Martín
+x días después de haber cobrado.
+
+de jarabes. También representó esa función. Retomaremos, ahora esa actividad.
+
+1. Vamos a imaginar que se pueden tener recipientes todo lo chicos que uno desee. Teniendo
+en cuenta esto, responda las siguientes consignas:
+
+a) Si el recipiente tiene una capacidad de 0,05 litro, ¿cuántos recipientes se necesitan
+para envasar los 12 litros de jarabe?
+
+b) Si en cada recipiente caben 0,01 litro, ¿cuántos recipientes se necesitan?
+
+c) Complete la siguiente tabla en la que se tienen en cuenta recipientes de capacidades
+cada vez más chicas.
+
+
+a) y = 6.000 + 200x       b) y =   6.000  
+
+c) y = 6.000 - 200x
+
+x (capacidad de cada
+recipiente en litros)
+
+0,05   0,01  0,005  0,001  0,0005 0,0001
+
+
+2. Defina una función h que describa lo que ocurre con el dinero de Martín en los 6 primeros
+días después del cobro.
+
+3. Represente la función h que definió en el ítem anterior en un sistema de ejes coordenados
+cartesianos.
+
+Proporcionalidad inversa. Funciones de proporcionalidad inversa
+
+En el caso del envasado de jarabes y en el del dinero que le queda a Martín en abril, las
+magnitudes que intervienen se relacionan de manera que al multiplicar x . y el resultado
+es siempre el mismo, es decir, es constante. Cuando esto ocurre, decimos que las
+magnitudes son inversamente proporcionales entre sí. La constante obtenida se llama
+constante de proporcionalidad.
+
+En el caso del dinero que le queda a Martin en el mes de marzo, si bien con el paso de los días
+disminuye el dinero que le queda, no hay proporcionalidad inversa. En el caso del envasado de
+jarabes, dicha constante es 12 y expresa la cantidad de litros de jarabe producidos por hora.
+
+En el caso de la cantidad de dinero que le queda a Martín en abril, la constante es 6.000 y
+expresa su sueldo mensual.
+
+La función f : [  ¹  ; 12] → R / f (x) =  ¹²  , que describe la situación del envasado de jarabe, y 
+la
+
+y (cantidad de recipientes)
+
+d) Imagine qué pasaría con la cantidad de recipientes necesaria para envasar el jarabe si
+se consiguieran recipientes aún más pequeños. Explique con sus palabras lo que supone
+que ocurriría.
+
+e) Vuelva al gráfico que hizo en el ítem 8 de la Parte A. Complételo, teniendo en cuenta
+los pares de valores que calculó en la tabla del ítem c.
+
+f) Describa, con sus palabras, lo que observa en el gráfico respecto de la curva y el eje y.
+
+2. Vamos a suponer, ahora, que se pueden tener recipientes todo lo grande que uno desee.
+Teniendo en cuenta esto, responda las siguientes consignas:
+
+a) Si el recipiente tiene una capacidad de 24 litros, ¿qué fracción del recipiente se ocupa
+con 12 litros de jarabe?
+
+b) Si en cada recipiente caben 100 litros, ¿qué fracción del recipiente se ocupa?
+
+c) Complete la siguiente tabla en la que se consideran recipientes de capacidades cada
+vez mayores.
+
+x (capacidad de cada
+recipiente en litros)
+
+y (fracción de
+
+
+función h : { 1 ; 2 ; 3 ; 4 ; 5 ; 6 } → R / h(x) = ⁶.⁰⁰⁰ que describe lo que ocurre con el dinero 
+de
+
+recipiente)
+
+
+Martín en los 6 primeros días del mes, son funciones de proporcionalidad inversa.
+
+En general, llamamos función de proporcionalidad inversa a   y
+
+aquella de la forma:                          12
+
+d) Si se consiguieran recipientes aún más grandes para envasar el jarabe, imagine qué
+pasaría con la fracción del recipiente que se ocupa.
+
+e) Vuelva al gráfico que comenzó a completar en el ítem 1.e. de esta Parte de la Actividad
+
+
+f : A → R / f (x) =  ᶜ  (donde el conjunto A es un dominio  10
+
+Complételo, teniendo en cuenta los pares de valores que calculó en la tabla del ítem 2.c.
+
+f) Describa, con sus palabras, lo que observa en el gráfico respecto de la curva y el eje x.
+
+
+a d e c u a d o  a  cada  situación,  c   es  la  9
+
+constante de proporcionalidad y x es un número real distinto  7
+
+de cero).                                6
+
+Si se representa una función de proporcionalidad inversa, se  4
+
+obtienen puntos que están sobre una curva llamada hipérbola.  3
+
+Por ejemplo, la representación gráfica de la función:       2
+
+3.
+
+a) ¿Puede un recipiente tener 0 litro de capacidad?
+
+b) ¿Qué pasa si hace la cuenta 12 : 0 en su calculadora?
+
+4.
+
+a) Defina una función k que describa la nueva situación. Es decir, debe ser una
+
+
+f : [  ¹ 
+
+; 12]
+
+→ R / f (x) =
+
+ ¹²  es la siguiente:
+
+1
+
+0
+
+0  1  2  3  4  5  6  7  8  9 10 11 12
+
+función que tenga en cuenta recipientes de cualquier capacidad.
+
+b) Represente gráficamente la función k que definió en el ítem a.
+
+
+. 38 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 39 .
+
+
+MATEMÁTICA • B
+
+c) Explique qué tiene en cuenta para responder los ítems a y b.
+
+
+Actividad 8
+
+• y = 3 · x + 2      • y =  1  x        • y =  -3 
+
+• y = -4 · x
+
+
+Resuelva los siguientes problemas:
+
+1.
+
+5
+
+• y = x2           • y =  5 
+
+x
+
+• y =  ¹  -2
+
+
+a) Determine en cuáles de las siguientes tablas hay proporcionalidad directa entre x e y.
+
+b) Determine en cuáles de las siguientes tablas hay proporcionalidad inversa entre x e y.
+
+4. Complete el siguiente cuadro teniendo en cuenta que en todos los casos se trata de
+funciones de proporcionalidad directa:
+
+
+c) Explique qué tiene en cuenta para responder los ítems a y b.
+
+Función          Gráfico       Valor
+
+Constante de
+proporcionalidad
+
+Fórmula que
+permite hallar y a
+partir de x
+
+
+x   2   4   5   8
+
+y   6   3   2   1
+
+x   2   4   5
+
+x  3
+
+y  4,5
+
+8
+
+7  12
+
+10,5 18
+
+15
+
+22,5
+
+x
+
+x   5   3   2
+
+y   6  10  15
+
+9   5   3   1
+
+0,5
+
+60
+
+En la que la docena
+de huevos vale $2
+
+f : N → R / f(x) =0,5 · x
+
+y
+
+6
+
+
+y  -4
+
+2.
+
+-8  -12
+
+-16
+
+y   7  3
+
+1  -1
+
+3
+
+
+a) Determine en cuáles de los siguientes gráficos hay proporcionalidad directa entre x e
+
+y.
+
+b) Determine en cuáles de los siguientes gráficos hay proporcionalidad inversa entre x e
+
+y.
+
+c) Explique qué tiene en cuenta para responder los ítems a y b.
+
+0     x
+
+0 1 2
+
+-3
+
+-5
+
+
+y                      y
+
+2                      3
+
+y                                          5. Complete el siguiente cuadro teniendo en cuenta
+
+2                                                                 funciones de proporcionalidad 
+inversa:
+
+1                                            1
+
+y = 1,5 · x
+
+que en todos los casos se trata de
+
+
+x
+
+0      1      2
+
+y
+
+3
+
+2
+
+1
+
+x
+
+0    1    2    3
+
+y
+
+2
+
+x
+
+0      1      2
+
+y
+
+4
+
+3
+
+Función         Gráfico
+
+En la que envasan
+480 litros de
+combustible en
+recipientes de
+distinta capacidad
+
+y
+
+Valor
+de x . y
+
+Constante de
+proporcionalidad
+
+Fórmula que
+permite hallar y a
+partir de x
+
+
+1
+
+x
+
+0    1    2    3
+
+1
+
+-1     0      1   x
+
+2
+
+1
+
+0   1   2
+
+x
+
+3   4   5   6
+
+2
+
+1
+
+0        x
+
+0   1   2
+
+-3
+
+
+3.
+
+a) Determine cuáles de las siguientes fórmulas corresponden a funciones de
+proporcionalidad directa.
+
+b) Determine cuáles de las siguientes fórmulas corresponden a funciones de
+proporcionalidad inversa.
+
+f : N → R / f(x) =  ¹⁵ 
+
+-5
+
+y =  10 
+
+
+. 40 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 41 .
+
+
+6. Responda a las siguientes preguntas:
+
+a) Si por 3kg de manzanas se paga $6, ¿cuánto debe pagarse por 1/4kg de manzanas?
+
+b) Si se venden manzanas a razón de $2 el kg, ¿cuánto debe pagarse por 7kg?
+
+7. Responda:
+
+a) Un móvil que se mueve a velocidad constante recorrió 80 km en 2 horas. ¿Puede usted
+
+MATEMÁTICA • B
+
+IV. En un experimento de laboratorio se midió, por cada minuto x que pasaba, la
+temperatura y que adquiría la sustancia con la que se experimentaba. Los datos se
+indicaron en la siguiente tabla:
+
+Tiempo x (min)      1    2    3    4
+
+
+determinar cuántos kilómetros recorrerá en 5 horas?
+
+b) Un auto se desplaza de un pueblo a otro. La distancia entre los pueblos es de 500
+
+Temperatura y (°C)
+
+ 1   1 
+
+2    4
+
+ 1   1 
+
+8    16
+
+
+kilómetros. Cuando pasaron 3 horas había recorrido 300 km. ¿Puede usted determinar
+cuánto tiempo le falta para llegar?
+
+c) En un pueblo se distribuye el agua potable a través de una cooperativa. Cada casa de
+familia debe pagar una tarifa que consiste en una cuota mensual de $20 más un monto
+proporcional a lo consumido en el mes. Una familia que consumió 100hl en un mes pagó
+a la cooperativa un total de $60. ¿Cuál es la cifra correspondiente a una familia que
+consume 200hl al mes?
+
+d) En una ferretería hay un cartel que dice: «Por cada 100 metros de manguera para riego
+que compre, le regalamos 2 metros».
+
+• ¿Qué cantidad de metros le regalarán si compra 300 metros?
+
+• Si en el cartel dijera: «Le regalamos el 3 % de la cantidad de metros de manguera
+para riego que usted compre». ¿Qué cantidad de metros le regalarían si compra 300
+metros?
+
+e) Al año de vida, un niño tiene una altura de 80cm. ¿Cuánto medirá cuando cumpla
+18 años?
+
+8. Cada una de las situaciones planteadas en la ejercicio 7 puede ser expresada por
+una función.
+
+a) Decida si la situación puede expresarse o no con una función de proporcionalidad
+directa.
+
+b) En los casos en que la situación puede expresarse con una función de
+proporcionalidad directa:
+
+• Indique la constante de proporcionalidad.
+
+• Escriba la fórmula de la función.
+
+• Escriba la función de proporcionalidad que expresa la situación.
+
+9. Resuelva las siguientes situaciones:
+
+I. Un móvil se desplazó por una autopista entre un cierto lugar A y otro B. Lo realizó
+en 6 horas viajando a una velocidad constante de 120 km/hora. Si en otro momento
+realiza el mismo viaje a 100 km/hora, ¿cuánto tiempo tardará en realizarlo?
+
+II. En una fábrica se elabora la misma cantidad de kilogramos de un fertilizante por día.
+Cuando lo elaborado en un día se embala en bolsas de 250 gramos se emplean 170
+bolsas. Si en otra oportunidad se embalaron 85 bolsas, ¿cuántos gramos contendrá
+cada bolsa en dicha oportunidad?
+
+III. El alquiler de un ómnibus para realizar una excursión es de $130. La capacidad del
+mismo es de 40 pasajeros. Si solo van 26 personas a la excursión,
+
+¿Podría indicar la temperatura de la sustancia a los 5 minutos?
+
+10. Cada una de las situaciones planteadas en el ejercicio 9 puede ser expresada por una
+función.
+
+a) Decida si la situación puede expresarse o no con una función de proporcionalidad
+inversa.
+
+b) En los casos en que la situación puede expresarse con una función de proporcionalidad
+inversa:
+
+• Indique la constante de proporcionalidad.
+
+• Escriba la fórmula de la función.
+
+• Escriba la función de proporcionalidad que expresa la situación.
+
+Actividades de autoevaluación
+
+1. Indique si es verdadera o falsa la siguiente afirmación:
+
+x   3   5  10
+
+z  75  125 250
+
+Entre las variables z y x indicadas en la tabla existe una relación de proporcionalidad
+directa.
+
+a) Verdadera.
+
+b) Falsa.
+
+2. ¿Cuál, de las siguientes fórmulas, describe una relación de proporcionalidad directa?
+
+a) y = 5 · x
+
+b) y = 5 : x
+
+c) y = 5 + x
+
+d) y = 5 – x
+
+3. ¿Con qué número se debe completar la tabla para que exista una relación de
+proporcionalidad inversa entre las variables x y z?
+
+
+• ¿Cuánto debe pagar cada uno para cubrir los gastos del alquiler?
+
+• ¿Es posible que se logre que cada pasajero que concurra a la excursión abone $2,6?
+
+• Justifique su respuesta.
+
+x   5  10  25
+
+z  10  5
+
+a) 25                 b) 5
+
+c) 10                 d) 2
+
+
+. 42 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 43 .
+
+
+4. Cuatro compañeros de trabajo ponen, cada uno, $150 para comprar un regalo. A último
+momento y con el regalo ya comprado se suman dos compañeros. ¿Cuánto dinero le
+corresponde poner a cada uno de los compañeros, en estas condiciones?
+
+a) $150         b) $100        c) $200        d) $75
+
+5. En una fábrica de alfajores se produjeron en un día 2.400 unidades. Para la comercialización
+
+Unidad 4
+
+Funciones Cuadráticas. Funciones exponenciales
+
+Actividad 1
+
+MATEMÁTICA • B
+
+
+se utilizan cajas de distinta capacidad. Tres de las siguientes afirmaciones referidas a la
+situación planteada son verdaderas. Indique cuáles son:
+
+a) Si utilizan cajas con capacidad para 6 alfajores son necesarias 400 cajas.
+
+b) Si utilizan cajas con capacidad para 12 alfajores son necesarias 200 cajas.
+
+c) Entre la cantidad de alfajores por caja y la cantidad de cajas utilizadas existe
+una relación de proporcionalidad inversa.
+
+d) Entre la cantidad de alfajores por caja y la cantidad de cajas utilizadas existe
+una relación de proporcionalidad directa
+
+e) Es posible guardar la totalidad de los alfajores producidos en el día en cajas con
+capacidad para 9 alfajores.
+
+En un taller de artesanías, un cliente solicita la decoración de chapas cuadradas de diferentes
+dimensiones.
+
+El trabajo consiste en pintar una cara de cada chapa de lado x (en cm) y colocarle un listón
+de cobre como indica el siguiente dibujo:
+
+X
+
+Listón
+
+Para presupuestar el trabajo, el dueño del taller realiza una serie de cálculos y averiguaciones:
+
+•  El costo de pintar la chapa es de $3 el cm2.
+
+•  El listón de cobre vale $2 el cm.
+
+•  El costo de mano de obra es de $4 por cada chapa.
+
+Como el precio a cobrar por el trabajo depende de la medida x del lado de la chapa, necesita
+organizarse para realizar los cálculos. Para ello decide confeccionar una tabla considerando
+los siguientes rubros:
+
+•  Medida del lado de la chapa.
+
+•  Área de la chapa.
+
+• Gasto en pintura.
+
+• Precio del listón.
+
+•  Costo de mano de obra.
+
+• Tarifa total.
+
+1. Complete en la tabla que sigue, los casilleros que el dueño del taller dejó en blanco:
+
+
+Si la medida (en cm)
+del lado de la chapa
+es:
+
+El área de la
+chapa es:
+
+El gasto en
+pintura es:
+
+El listón
+vale:
+
+El costo
+por mano
+de obra es:
+
+El total a cobrar,
+o tarifa, por esta
+chapa es:
+
+
+2          22
+
+3,22
+
+3,22 + 2 · 2 + 4
+
+5                         2,5
+
+7                                       3,72 + 2 · 7 + 4
+
+
+. 44 .
+
+10
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 45 .
+
+
+2. Escriba una fórmula que exprese la tarifa total y a cobrar por un trabajo realizado en una
+chapa de lado x. Para hacerlo tenga presente las cuentas que realizó en la tabla anterior al
+calcular la tarifa total a partir de las diferentes medidas de los lados de las chapas.
+
+Orientaciones
+
+Luego de completar la tabla le habrá resultado más sencillo escribir la fórmula que expresa la
+tarifa y en función de la medida del lado x de la chapa. La fórmula es: y = 3 · x2 + 2 · x + 4
+
+y
+
+y                    11
+
+t
+
+0                       10
+
+-1    1  2  3  4  5  6  7        9
+
+-2                       8
+
+-3                       7
+
+MATEMÁTICA • B
+
+y
+
+4
+
+2
+
+0           t
+
+
+Observándola, podemos ver que el máximo exponente al que está elevada la variable x es un
+cuadrado. Por esa razón decimos que es una fórmula cuadrática.
+
+Fórmula cuadrática
+
+Llamamos fórmula cuadrática a cualquier fórmula del tipo: y = a · x2 + b · c + c con a, b y
+
+c números reales y a ≠ 0 (a distinto de 0). A los números a, b y c los llamamos coeficientes.
+Por ejemplo, en la fórmula y = 3 · x2 + 2 · x + 4 hallada, los coeficientes son: a = 3, b = 2, c = 
+4.
+
+-4
+
+-5
+
+-6
+
+-7
+
+-8
+
+-9
+
+-10
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0                t
+
+1  2  3  4  5  6  7
+
+-2
+
+-4
+
+-6
+
+-8
+
+-10
+
+-12
+
+2 4 6
+
+
+Actividad 2
+
+Todas las fórmulas que siguen son fórmulas cuadráticas. Identifique, en cada una de ellas, los
+valores de los coeficientes a, b y c:
+
+Para cada uno de los gráficos indique:
+
+a) La temperatura inicial.
+
+
+• y = 5 · x2 - 2 · x - 3       • y = 3 · x2 - x +  2 
+
+• y = -2 · x2 +  ¹ 
+
+· x + 1
+
+b) Los instantes en los que la temperatura es igual a 0 ºC.
+
+c) Los instantes en que las temperaturas fueron mayores que 0 ºC.
+
+
+• y =  ³ 
+
+· x2 - 5 · x        • y = -x2 + 2            • y = 3 · x - 5 + x2
+
+d) Los instantes en que las temperaturas fueron menores que 0 ºC.
+
+
+• y = x2                   • y = 1 - x2
+
+Actividad 3
+
+En un laboratorio se somete una barra metálica a distintas condiciones físicas. En cada caso
+se mide la temperatura de la barra durante los primeros 6 minutos de prueba.
+
+Los gráficos que siguen representan funciones que expresan, para distintos casos, la
+temperatura y (en °C) en función del tiempo t (en minutos) durante los 6 minutos de prueba.
+
+Las fórmulas de las funciones graficadas son cuadráticas y están indicadas debajo de cada
+uno de los gráficos.
+
+e) La temperatura máxima y en qué instante o instantes se alcanzó la misma.
+
+f) La temperatura mínima y en qué instante o instantes se alcanzó la misma.
+
+g) Los instantes en los que la temperatura aumenta.
+
+h) Los instantes en que la temperatura disminuye.
+
+Función cuadrática. Parábola
+
+En todos los casos anteriores, la función que modela cada situación es una función del tipo
+
+f : [0 ; 6] → R / f (t) = at2 + bt + c con a, b y c números reales y a ≠ 0.
+
+El dominio de todas ellas es el conjunto [0 ; 6] ya que las pruebas sobre la barra se realizaron
+durante 6 minutos.
+
+
+y
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+t
+
+0
+
+-1   1  2  3  4  5  6  7
+
+-2
+
+-3
+
+-4
+
+y
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0              t
+
+1  2  3  4  5  6  7
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+-6
+
+-8
+
+-10
+
+-12
+
+y
+
+t
+
+2 4 6
+
+Saliéndonos de la situación concreta de referencia, con cada una de las fórmulas anteriores
+podemos definir una función con dominio en el conjunto de todos los números reales. En ese
+caso estaríamos definiendo una función de la forma:
+
+f : R → R / f (x) = ax2 + bx + c con a, b y c números reales y a =/0.
+
+Llamaremos a estas funciones, funciones cuadráticas. Sus representaciones gráficas son
+curvas llamadas parábolas. Las representaciones gráficas de la actividad anterior son trozos
+de parábolas debido a que las funciones representadas están definidas en un subconjunto
+de números reales [0 ; 6]. Si extendiéramos el dominio de cada una de ellas al conjunto
+R, la representación gráfica de cada una de las funciones sería una parábola completa. Por
+ejemplo, la representación gráfica de la función correspondiente al caso III, considerando al
+conjunto de los números reales como dominio, resulta:
+
+
+. 46 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 47 .
+
+
+6
+
+4
+
+2
+
+0
+
+-2
+
+-4
+
+-6
+
+-8
+
+-10
+
+-12
+
+-14
+
+y
+
+t
+
+2  4  6
+
+MATEMÁTICA • B
+
+a) ¿Son parábolas cóncavas hacia arriba o cóncavas hacia abajo?
+
+b) ¿Cuál es el signo del coeficiente a en la fórmula correspondiente a cada una de ellas?
+
+3. A partir de sus respuestas a las preguntas anteriores, trate de contar con sus palabras cómo
+reconocería a través de la fórmula de una función cuadrática si la parábola que la representa
+es cóncava hacia arriba o cóncava hacia abajo.
+
+Actividad 5
+
+1. Reproduzca en su cuaderno la representación gráfica de la función correspondiente al caso
+I pero considerando al conjunto de los números reales como dominio.
+
+2. Represente, en el sistema utilizado para representar la parábola correspondiente al caso I,
+una parábola diferente a la anterior que tenga sus mismos ceros. Es decir, que corte al eje x
+en x = 1 y x = 5.
+
+3. Represente también en el mismo sistema anterior, otras cuatro parábolas distintas que
+tengan como ceros a x = 1 y x = 5.
+
+4. ¿Cuántas parábolas podría representar que tengan los mismos ceros que las anteriores?
+
+5. Señale el punto correspondiente al vértice en cada una de las parábolas dibujadas e indique
+
+
+Entre las representaciones gráficas anteriores puede observar parábolas con esta forma: ∪
+y parábolas con esta forma: ∩ . A las primeras las llamaremos parábolas cóncavas hacia arriba
+y a 
+las otras, parábolas cóncavas hacia abajo.
+
+Las parábolas cóncavas hacia arriba alcanzan en algún valor x de su dominio, un valor f(x)
+que es el mínimo valor de la función. Análogamente, si la parábola es cóncava hacia abajo,
+alcanza en algún valor x de su dominio, un valor f(x) que es el máximo valor de la función. En
+cualquiera de los dos casos, el punto de la parábola donde la misma alcanza su punto máximo
+o    su punto mínimo se llama vértice. Sus coordenadas son (xv ; yv), siendo f(xv) = yv .
+
+Como la función f toma el mismo valor y para cada par de valores de x que se encuentran
+a igual distancia de la recta vertical que pasa por el vértice, la gráfica de f resulta ser 
+simétrica
+respecto de esta recta. Dicha recta recibe el nombre de eje de simetría de la parábola y su
+ecuación es x = xv .
+
+En el gráfico que precede este párrafo, la parábola es cóncava hacia abajo, el vértice es
+(4;4) y el eje de simetría es x = 4.
+
+gráficamente sus coordenadas.
+
+6. ¿Cuál es la distancia en cada una de las parábolas dibujadas desde el valor xv hasta cada
+uno de los ceros de la parábola?
+
+7. A partir de sus respuestas a las preguntas anteriores, ¿qué podría decir sobre la ubicación
+de xv en relación con la ubicación de los ceros en cada una de las parábolas dibujadas?
+
+Orientaciones
+
+Es posible representar infinitas parábolas que tengan a x = 1 y x = 5 como ceros. Todas
+ellas son simétricas respecto del mismo eje. Como el eje de simetría es la recta vertical que
+pasa por el vértice de la parábola, todas ellas también tienen la misma abscisa del vértice
+
+(xv). Las representaciones gráficas de algunas de las parábolas que verifican las condiciones
+anteriores son:
+
+La distancia desde xv a cualquiera de los dos ceros de
+
+
+5
+
+y
+
+4
+
+Actividad 4                                                     3
+
+En un laboratorio se somete una barra metálica a distintas condiciones físicas. En cada caso        
+   ₂
+
+se mide la temperatura de la barra durante los primeros 6 minutos de prueba.
+
+la parábola es la misma, es decir que la abscisa xv está
+ubicada en el punto medio entre los dos ceros de la
+parábola. Por esta razón, xv se puede calcular como el
+promedio de los valores de los ceros. O sea, en este caso:
+
+
+Responda las siguientes preguntas a partir de las representaciones gráficas de la actividad
+anterior correspondientes a cada uno de los casos:
+
+1. Observe las representaciones gráficas correspondientes a los casos I, II y V, y a partir de
+ellas responda las siguientes preguntas:
+
+a) ¿Son parábolas cóncavas hacia arriba o cóncavas hacia abajo?
+
+b) ¿Cuál es el signo del coeficiente a en la fórmula correspondiente a cada una de ellas?
+
+2. Observe ahora las representaciones gráficas correspondientes a los casos III, IV y VI, y a
+partir de ellas responda las siguientes preguntas:
+
+1
+
+0
+
+-1    1
+
+-1
+
+-2
+
+-3
+
+-4
+
+-5
+
+-6
+
+2  3  4  5  6  7
+
+Eje de simetría
+
+t xv
+
+=  1 + 5
+
+2
+
+= 3.
+
+
+. 48 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 49 .
+
+
+Fórmulas para determinar el eje de simetría y los ceros de una función cuadrática
+
+Dada la ecuación y = ax2 + bx + c de una función cuadrática, podremos determinar la
+
+Actividad 6
+
+MATEMÁTICA • B
+
+
+ecuación del eje de simetría resolviendo el siguiente cálculo, xv
+
+ -b 
+
+2a
+
+Halle, utilizando las fórmulas, los ejes de simetría y los ceros de las funciones indicadas y
+representadas en la actividad 2 (casos I a VI).
+
+
+Dada la ecuación y = ax2 + bx + c de una función cuadrática, podremos determinar los
+posibles ceros o raíces de la función cuadrática resolviendo los siguientes cálculos:
+
+Orientaciones
+
+En el caso V, la función es f(t) = t2 - 6t + 11.
+
+
+-b - √b2 - 4ac
+
+¹     2a
+
+y x₂
+
+-b + √b2 - 4ac
+2a
+
+, que podemos escribir también de la siguiente
+
+Entonces a =1, b = -6 y c = 11.
+
+
+manera: x
+
+= -b ± √b2 - 4ac .
+
+x =  -b  = -(-6) =   6   = 3; entonces la ecuación del eje de simetría es x = 3.
+
+1,2       2a                                                         2a   2 · 1   2
+
+
+Ejemplo:
+
+f(3) = 32 - 6 · 3 + 11 = 2, por lo que el vértice de la parábola es (3 ; 2).
+Determinemos los posibles ceros de la función, utilizando la fórmula:
+
+
+Utilizando las fórmulas indicadas, hallaremos el eje de simetría y los ceros de la función
+
+x = -b ± √b2 - 4ac
+
+= -(-6) ± √(-6)2 - 4 · 1 · 11 = 6 ± √36 - 44 = 6 ± √-8
+
+
+1,2     2a
+
+2 · 1         2      2
+
+
+cuadrática f(x) = y = x2 + 2x -3.
+
+En este caso a = 1, b = 2, c = 3.
+
+La raíz cuadrada de -8 no existe en el conjunto de los números reales, por lo tanto la parábola
+no tiene ceros.
+
+
+Entonces xv =
+
+ -2 
+
+2 · 1
+
+ -2  = -1 es la ecuación del eje de simetría.
+
+Podemos verificar, observando el gráfico de la actividad 2, los resultados obtenidos.
+
+El vértice es el punto de coordenadas (xv ; f(xv)), en este caso (-1 ; f(-1)) = (-1 ; -4).
+
+
+Los ceros de la función son x₁
+
+-2 - √22 - 4 · 1 · (-3)
+
+   2 · 1    
+
+ -2 - 4
+
+2
+
+= -3
+
+Actividad 7
+
+Resuelva los siguientes problemas:
+
+
+y x₂
+
+-2 + √22 - 4 · 1 · (-3)
+
+2 · 1
+
+=  -2 +4  = 1.
+
+1. En este ejercicio se nos han mezclado enunciados, gráficos y fórmulas que se corresponden
+entre sí. Es por eso que le pedimos que los ordene, es decir que encuentre el gráfico y la
+
+
+A continuación la representación gráfica de la función f (x) = y = x2 + 2x - 3, donde podemos
+observar que -3 y 1 son los ceros de la función y (-1 : -4) es el vértice.
+
+5
+
+4
+
+3
+
+2
+
+1
+
+fórmula que corresponden a cada uno de los enunciados.
+
+Enunciados:
+
+Cada uno de los enunciados que siguen corresponden a situaciones concretas que se pueden
+modelar matemáticamente con una función f : A → R de fórmula cuadrática. El conjunto A es
+algún subconjunto de números reales que se pueda utilizar como dominio de la función de
+modo que la situación concreta planteada tenga sentido. Los enunciados son los siguientes:
+
+Situación A: Se observan las posiciones de un submarino respecto del nivel del mar (y
+
+= 0) durante un lapso de 4 horas a partir de la 0 hora de un determinado día, instante
+que consideramos como x = 0. Al comenzar la observación, el submarino estaba a una
+profundidad de 10 hectómetros y además se observó que no se asomó a la superficie
+del mar.
+
+Situación B: Se registró la altura alcanzada por un objeto que fue tirado hacia arriba
+desde una plataforma de 6 metros de altura. Se consideró como tiempo x = 0 (minutos)
+
+
+-5  -4
+
+-3  -2  -1
+
+-1
+
+-2
+
+-3
+
+1  2  3  4  5
+
+al momento de lanzamiento y se observó hasta el instante en que el objeto tocó el suelo.
+También se vio que la altura máxima la alcanzó 1 minuto después de ser tirado.
+
+Situación C: Al comenzar a observar la evolución de la cantidad de agua (en kilolitros)
+en un tanque, se vio que el mismo estaba vacío. A partir de ese instante, que llamaremos
+x = 0 (en horas) el tanque se empezó a llenar y volvió a quedar vacío en algún momento
+después de la tercera hora de observación y antes de la cuarta hora. Las velocidades de
+
+-4                                         llenado y de vaciado no son constantes.
+
+Situación D: Una parte de un informe de un laboratorio dice, respecto del proceso químico
+
+⁻⁵                                  XKL: Tiempo de duración del proceso 5 horas. La temperatura 
+tiende naturalmente a
+
+
+. 50 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 51 .
+
+
+disminuir, por esta razón, después de 2 horas de iniciado el proceso, se colocó un dispositivo
+con el fin de revertir el descenso de la temperatura. El instante en el que se puso en
+funcionamiento el dispositivo se consideró x = 0, y, en dicho instante, la temperatura era
+de 4° C. Aun con el dispositivo la temperatura siguió bajando hasta alcanzar temperaturas
+bajo cero, pero luego aumentó volviendo a obtener valores mayores a cero.
+
+Gráficos:
+
+Cada uno de los enunciados anteriores puede ser representado a través de alguno de los
+siguientes gráficos:
+
+Gráfico 1          Gráfico 2
+
+MATEMÁTICA • B
+
+Gráfico 5       Gráfico 6
+
+y
+
+y                 16
+
+12                       15
+
+11                       14
+
+13
+
+12
+
+9                       11
+
+8                       10
+
+7                        9
+
+8
+
+6                        7
+
+5                        6
+
+4                        5
+
+3                        4
+
+
+y                   y                                   2
+
+8                         9                                              1
+
+7                         8                                           -2  -1  0  1
+
+2  3 4  5  x
+
+3
+
+2
+
+1
+
+0  1 2 3 4 5 6 7 8  x
+
+6                         7                                              -1
+
+6
+
+5                        5
+
+4                                            Gráfico 3          Gráfico4
+
+
+2
+
+1
+
+⁰  1  2  3  4  5  6  x
+
+2
+
+1
+
+0    1   2   3 3,5 4x
+
+y
+
+1
+
+0
+
+-1  1
+
+-2
+
+-3
+
+-4
+
+y
+
+35
+
+x
+
+2 3 4                       30
+
+
+Gráfico 3          Gráfico4
+
+y                      y
+
+10                             10
+
+9                             9
+
+8                             8
+
+7                             7
+
+6                             6
+
+5                             5
+
+4                             4
+
+3                             3
+
+2                             2
+
+1                              1
+
+-5
+
+-6
+
+-7
+
+-8
+
+-9
+
+-10
+
+-11
+
+-12
+
+-13
+
+-14
+
+-15
+
+-16
+
+-17
+
+-18
+
+-3-2 -2
+
+-3
+
+20
+
+14
+
+10
+
+4
+
+23 4 5 6 7 8  x
+
+
+-1 -1 0  1
+
+2  3  4  5 x
+
+0
+
+-1 -1  1
+
+-2
+
+-3
+
+-4
+
+-5
+
+-6
+
+2 3  4 5 x
+
+Fórmulas:
+
+Las fórmulas y = f (x) que pueden corresponder a los gráficos y a los enunciados anteriores
+son:
+
+
+-7                              • y = 3x2 -  ¹⁹ 
+
+-8
+
+· x + 4  • y = -2 (x + 1)(x - 3)  • y = -x + 8x       • y = -x2 + 2x -10
+
+
+. 52 .
+
+-9
+
+-10
+
+• y = (x - 2)(x - 3)    • y =  1  x2 - 3x + 4    • y = x2 + x - 10     • y = -3x2 + 10x
+
+• y = 3 ·(x -  ⁸ )(x -  ¹ )  • y = -2x2 + 4x + 6
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 53 .
+
+
+A partir de la información dada en los gráficos, enunciados y fórmulas anteriores, responda
+las siguientes consignas:
+
+Actividad 8
+
+MATEMÁTICA • B
+
+
+a) Determine cuál es el gráfico y cuál es la fórmula que corresponde a cada una de las
+situaciones enunciadas. Una vez que lo haya hecho, vuelque la información en el cuadro
+que le damos a continuación.
+
+Situación A     Situación B     Situación C     Situación D
+
+Gráfico n.°
+
+Fórmula
+
+b) Para cada una de las funciones que expresan a las situaciones
+anteriores, determine:
+
+•  El Dominio de la función.
+
+•  El conjunto imagen de la función.
+
+• La imagen de cero u ordenada al origen de la función. En símbolos f (0).
+
+•  Los ceros de la función (si existen).
+
+• Los intervalos de positividad y negatividad de la función (si existen).
+
+• Los intervalos de crecimiento y decrecimiento de la función.
+
+•  Los máximos o mínimos de la función.
+
+c) Exprese cada una de sus respuestas a las preguntas del ítem 2 en términos de cada
+una de las situaciones concretas enunciadas. Por ejemplo: el dominio de la situación A
+es el intervalo de tiempo, entre la 0 hora y las 4 horas, durante el que se observan las
+posiciones del submarino.
+
+2. Represente la función f : R → R / f (x) = x2 a partir de los valores que obtenga al completar
+la siguiente tabla:
+
+La fórmula y = -2x2 + 6x + 8 describe la altura (en metros) en la que se encuentra un objeto
+en cada segundo transcurrido desde un instante x = 0 hasta el instante en que alcanza el piso.
+
+Responda a las siguientes preguntas:
+
+a) ¿En qué momento el objeto alcanzó la altura máxima?
+
+b) ¿Cuál fue la altura máxima?
+
+c) ¿Después de cuántos segundos el objeto llegó al piso?
+
+Orientaciones
+
+En la fórmula dada a = -2, b = 6 y c = 8.
+
+Vamos a realizar la representación gráfica de la función cuadrática entre x = 0y el instante
+que el objeto llega al piso.
+
+El eje de simetría es x =  -b  =   -6   = 1,5 .
+El vértice es el punto (1,5 ; f(1,5)) = (1,5 ; 12,5) .
+La ordenada al origen es f(0) = 8.
+
+Los ceros son -1 y 4.
+
+Por lo tanto, la representación gráfica de la función, entre los valores de x indicados, es:
+
+12
+
+11
+
+10
+
+9
+
+
+x   -2   -1  -  1 
+
+f(x)
+
+ 1     1   2
+
+7
+
+6
+
+
+Represente la función g : R → R / g (x) = (x - 1)2.
+Represente la función h : R → R / h (x) = x2 + 1.
+
+3. Dada la función f (x) = 2x2 + 4x - 30.
+
+a. Halle la ecuación del eje de simetría de la parábola.
+
+b. Halle los ceros o raíces.
+
+c. Halle la ordenada al origen ( f (0) ).
+
+d. Halle el vértice de la parábola.
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0  1  2
+
+3  4  5  6  7
+
+8  9  10
+
+
+e. Grafique la función f .
+
+Y las respuestas son que el objeto alcanzó una altura máxima de 12,5 metros al segundo y
+medio y que alcanzó el piso a los cuatro segundos.
+
+
+. 54 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 55 .
+
+
+MATEMÁTICA • B
+
+
+Actividad 9
+
+Parte A
+
+El volumen de un objeto en un instante determinado, que llamaremos x = 0, es de 1 metro
+cúbico y se observa que dicho volumen se duplica cada hora. Nombramos con la letra x al
+tiempo (en horas) transcurrido desde el instante 0 y con la letra y al volumen del objeto.
+
+1. Complete la siguiente tabla:
+
+x (en horas)  0   1     2      3       4      5      6      7
+
+y (en metros  1  1 · 2 = 2 1 · 2 · 2= 4 1 · 2 · 2 · 2 = 8
+
+cúbicos)
+
+2. Escriba una fórmula que permita calcular el volumen del objeto en cada instante.
+
+3. Utilice la fórmula para determinar el volumen del objeto a la hora 10.
+
+4. Utilice la fórmula para completar la siguiente tabla, donde los valores negativos de x indican
+instantes previos al x = 0:
+
+x      -8     -7     -6     -5     -4     -3     -2      -1
+
+Parte B
+
+Si el volumen del objeto en el instante x = 0 hubiera sido de 5 metros cúbicos, ¿cómo se completaría
+la siguiente tabla, cuál sería una fórmula adecuada y cuál su representación gráfica?
+
+Orientaciones
+
+La fórmula adecuada sería y = g(x) = 5 · 2x y su representación gráfica:
+
+11
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+
+y
+
+5. Grafique la función que a cada instante le hace corresponder el volumen del objeto.
+
+Orientaciones
+
+La tabla se puede completar de la siguiente manera:
+
+-10 -9 -8
+
+-7 -6
+
+3
+
+2
+
+1
+
+-5  -4  -3  -2  -1  0   1  2
+
+-1
+
+
+x (en horas)    0      1       2        3      4   5   6   7
+
+Fórmula de la función exponencial
+
+Las fórmulas f(x) = 2x y g(x) = 5 · 2x son ejemplos de fórmulas exponenciales, ya que en
+
+
+y (en metros
+cúbicos)
+
+1 = 1 · 20
+
+1 · 2 = 1 · 21
+
+1 · 2 · 2 = 1 · 22
+
+1 · 2 · 2 · 2 = 1 · 23
+
+1 · 24
+
+1 · 25
+
+1 · 26
+
+1 · 27
+
+ellas, la variable aparece en el exponente.
+
+En general, una función es exponencial si se expresa con una fórmula del tipo h(x) = k · ax,
+
+
+Entonces la fórmula que permite escribir el volumen en función del tiempo es y = 1 · 2x o y = f (x)
+
+= 2x y su representación gráfica es la siguiente:
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+donde la base a debe ser un número real positivo distinto de 1, el coeficiente k debe ser un
+número real distinto de cero y el dominio de h es el conjunto de los números reales.
+
+¿Por qué decimos que la base a debe ser positiva?
+
+Si la base a fuera un número negativo, la potencia no estaría definida para algunos
+exponentes. Por ejemplo: (-4)1/2 y 0-3 no existen en el conjunto de los números reales.
+
+¿Por qué decimos que la base a debe ser distinta de 1?
+
+Si a = 1, para cualquier valor de x resulta que h(x) = k · ax = k · 1x = k y entonces h(x) = k, que
+es una función constante y no se la considera como una función exponencial.
+
+¿Por qué decimos que el coeficiente k debe ser distinto de 0?
+
+Si k = 0, resulta h(x) = 0 · ax = 0 · 1x = 0y entonces h es constante.
+
+
+. 56 .
+
+-5 -4 -3 -2
+
+-1 0
+
+1  2  3  4
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 57 .
+
+
+MATEMÁTICA • B
+
+
+Actividad 10
+
+Luis Alberto deposita $10.000 a principios de enero mediante un plazo fijo en un banco.
+
+El interés mensual ofrecido por el banco es del 2% sobre el dinero depositado. Es decir, que al
+cumplirse un mes del depósito, a este se le agrega una suma equivalente al 2% de la cantidad
+depositada. Si el cliente no retira el dinero, el plazo fijo se renueva automáticamente en las
+mismas condiciones ya indicadas.
+
+Responda las siguientes preguntas:
+
+1. Al mes de haber hecho el depósito,
+
+a) ¿Cuánto dinero se agrega al capital depositado?
+
+b) ¿Cuánto dinero hay en el plazo fijo de Luis Alberto a comienzos de febrero?
+
+2. Luis Alberto deja todo ese dinero depositado durante otro mes. A principios de marzo,
+
+a) ¿Cuánto dinero se agrega a su plazo fijo?
+
+b) ¿Cuánto dinero tiene Luis Alberto en el plazo fijo entonces?
+
+3. Luis Alberto confía en el banco y deja depositado durante otro mes todo el dinero obtenido
+hasta el momento. A principios de abril,
+
+a) ¿Cuánto dinero se agrega a su plazo fijo?
+
+b) ¿Cuánto dinero tiene Luis Alberto en dicho plazo fijo?
+
+4. Escriba una fórmula que permita determinar cuánto dinero tendrá Luis Alberto en su plazo
+fijo a comienzos del mes t.
+
+Orientaciones
+
+Repasemos las cuentas que hizo para contestar las preguntas anteriores para construir una
+fórmula que permita calcular el capital después de una cantidad de meses de efectuado el
+depósito.
+
+Para calcular el interés del primer mes, calculamos el 2% de 10.000 esto es:
+
+  2   · 10.000 = 0,02 · 10.000 = 200
+
+100
+
+Esta suma se agrega a los $10.000. Por lo tanto, a fines de enero tendrá $ 10.200 en su plazo fijo
+
+También podríamos plantear el cálculo de la cantidad de dinero que dispondrá Luis Alberto a
+principios de febrero del siguiente modo: 10.000 + 0,02 · 10.000, que también podemos escribir
+
+10.000 · (1 + 0,02) = 10.000 · 1,02 = 10.200.
+
+Para calcular el interés del segundo mes, calculamos el 2 % de 10.200. Esto es:
+
+0,02 · 10.200 = 204 y a esta suma se le agregan los $10.200 para determinar la cantidad de
+dinero que dispondrá a comienzos de marzo. Esto es:
+
+10.200 + 0,02 · 10.200 = 10.200 · (1 + 0,02) = 10.404.
+
+Pero, como vimos, 10.000 · (1 + 0,02) = 10.200. Por lo tanto podemos escribir la cuenta anterior
+así: 10.000 · (1 + 0,02) · (1 + 0,02) = 10.000 · (1 + 0,02)2 =10.000 · 1,022.
+
+Para calcular el interés del tercer mes, calculamos el 2 % de 10.404. Esto es 0,02 · 10.404 = 208,08
+Esta suma se agrega a los $ 10.404. Esto es:
+
+10.404 + 0,02 · 10.404 = 10.404 · (1 + 0,02) = 10.612,08.
+
+Pero como vimos 10.000 · (1 + 0,02)2 = 10.404. Por lo tanto, podemos escribir la cuenta anterior
+así: 10.000 · (1 + 0,02)2 · (1 + 0,02) = 10.000 · (1 + 0,02)3 = 10.000 · 1,023.
+
+Resumiendo los cálculos anteriores para hallar los capitales obtenidos o montos m, teniendo en
+cuenta el tiempo t (en meses), podemos escribir:
+
+Después de un mes (t = 1), resulta: m(1) = 10.000 · 1,021
+Después de dos meses (t = 2), resulta: m(2) = 10.000 · 1,022
+Después de tres meses (t = 3), resulta: m(3) = 10.000 · 1,023
+
+Así podríamos seguir para los demás meses que dure el depósito.
+
+Después de t meses, resulta m(t) = 10.000 · 1,02t. Esta fórmula exponencial nos permite calcular
+el monto de dinero que Luis Alberto tiene en su plazo fijo al cabo de t meses después de haber
+depositado $10.000 al 2% mensual.
+
+Actividad 11
+
+Un objeto es lanzado hacia arriba de tal manera que la altura en que se encuentra está
+determinada por la fórmula y = f (x) = 16x , donde y es el altura (en metros) en que se encuentra
+el objeto y x es el tiempo (en segundos) transcurrido desde su lanzamiento
+
+Responda las siguientes preguntas:
+
+1. ¿Desde qué altura fue lanzado el objeto?
+
+2. ¿A qué altura estaba el objeto a los dos segundos?
+
+3. ¿Después de cuánto tiempo el objeto está a 65.536 metros de altura?
+
+4. ¿Después de cuánto tiempo el objeto está a 524.288 metros de altura?
+
+5. ¿Después de cuánto tiempo el objeto está a 40.000.000 metros de altura?
+
+Orientaciones
+
+Para determinar la altura del lanzamiento es necesario calcular el valor de la función para
+
+x = 0, esto es f (0) = 160 = 1, entonces podemos afirmar que el objeto fue lanzado desde una
+altura de un metro.
+
+Para responder la segunda pregunta reemplazamos la x por 2 en la fórmula, f (3) = 162 = 256, por
+lo que a los dos segundos de su lanzamiento el objeto está a 256 metros de altura.
+
+Para responder la tercera pregunta, en la fórmula y = f (x) = 16x debemos reemplazar la letra y
+por 65.536 y queda 65.536 = 16x . Al número x al cual hay que elevar a 16 para obtener 65.536 lo
+llamaremos logaritmo en base 16 de 65.536 y lo notaremos de la siguiente manera: log₁₆ 65.536.
+
+Probamos con una calculadora científica:
+
+163 = 4.096
+
+164 = 65.536
+
+Entonces, a los 4 segundos la altura del objeto es de 65.536 metros.
+Escribimos log₁₆ 65.536 = 4 dado que 164 = 65.536.
+
+Procedemos de manera análoga para responder la cuarta pregunta. Reemplazamos la letra y
+
+por 524.288 y queda 524288 = 16x. Por lo expuesto en la respuesta a la pregunta anterior es
+
+x = log₁₆ 524.288.
+
+164 = 65.536
+
+165 = 1.048.576
+
+
+. 58 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 59 .
+
+
+A los 4 segundos el objeto está a 65.536 metros de altura, y a los 5 segundos a 1.048.576 metros
+de altura. Seguimos probando con la calculadora para valores de x entre 4 y 5.
+
+164,25 = 131.072
+
+164,5 = 262.144
+
+Propiedades del logaritmo
+
+1. logₐ 1 = 0 para cualquier base a.
+
+Ejemplo: log₇1 = 0
+
+2. logₐ (x · y) = logₐx + logₐ y
+
+MATEMÁTICA • B
+
+
+164,75 = 524.288
+
+Por lo tanto, a los 4,75 segundos el objeto está a 524.288 metros de altura.
+Escribimos log16 524.288 = 4,75 dado que 164,75 = 524.288.
+
+Debemos determinar, finalmente, para qué valor de x es 40.000.000 = 16x.
+
+165 = 1.048.576
+
+166 = 16.777.216
+
+Si a 16.777.216 lo multiplicamos por 16, claramente el resultado superará a 40.000.000, por lo que
+en lugar de hacer «16 elevado a la 7», probaremos con valores de x entre 6 y 7.
+
+166,1 =˜ 22.137.669
+
+166,2 =˜ 29.210.830
+
+166,3 =˜ 38.543.920
+
+166,4 =˜ 50.859.008
+
+Seguimos probando con valores de x entre 6, 3 y 6,4.
+
+Ejemplo: log₂(4 · 8) = log₂ 32 = 5 y log₂ 4 + log₂ 8 = 2 + 3 = 5
+
+3. logₐ (x : y) = logₐx - logₐy
+
+Ejemplo: log(1000 : 100) = log10 = 1 y log1000 - log100 = 3- 2 = 1
+
+4. logₐ bc = c · logₐb
+
+Ejemplo: log₅252 = log₅625 = 4 y 2 · log₅25 = 2 · 2 = 4
+
+Cálculo de logaritmos con la calculadora
+
+Ejemplo:
+
+¿Cómo hallar el logaritmo en base 7 de 479?
+
+log₇479 = x si y solo si 7x = 479, entonces aplicando el logaritmo decimal a ambos miembros
+de la igualdad nos queda log7x = log479 y por la propiedad de logaritmos xlog7 = log479. La
+solución de la ecuación precedente es x = log479 y usando la calculadora que nos permite
+
+calcular logaritmos en base 10: x =˜ 3,1716.
+
+
+166,31 =˜ 39.627.537
+
+166,32 =˜ 40.741.620
+
+Entonces log₇479 =  log479
+
+y en general logₐb =  loga 
+
+
+166,313 =˜ 39.958.525
+
+166,3133 =˜ 39.991.776
+
+Y podemos seguir buscando mejores aproximaciones.
+
+La respuesta a la quinta pregunta es que el objeto alcanza los 40.000.000 de metros de altura
+a los 6,3133 segundos, aproximadamente y log16 40.000.000 =˜6,3133 dado que 166,3133 es un
+número muy «cercano» a 40.000.000.
+
+Logaritmo
+
+El logaritmo en base a de un número b positivo es el número c al que hay que elevar a para
+obtener como resultado el número c , con a positivo y distinto de 1.
+
+En símbolos loga b = c si y solo si ac = b.
+
+Ejemplos fáciles de calcular:
+
+log₂ 8 = 3 ya que 23 = 8
+
+log₅1 = 0 ya que 50 = 1
+
+log₇737 = 37 ya que 737 = 37
+
+Los logaritmos en base 10 se llaman logaritmos decimales y para ellos se usa la notación
+log, es decir, no se indica la base. Las calculadoras científicas disponen de la tecla log para
+
+Otro ejemplo: log₃12.323 =  log12.323  =˜8,5737
+
+Actividad 12
+
+Grafique la función f (x) = log₂x.
+
+Orientaciones
+
+El logaritmo se calcula solo para valores de x mayores que 0, por lo que podemos completar
+la siguiente tabla para luego graficar:
+
+x   0,25   0,5   0,75    1     2    4    8
+
+f(x)   -2    -1   -0,415   0    1     2    3
+
+5
+
+4
+
+3
+
+2
+
+1
+
+
+calcular logaritmos en base diez.
+
+Ejemplo: log100 = 2 ya que 102 = 100
+
+. 60 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+-1  0
+
+-1
+
+-2
+
+-3
+
+-4
+
+-5
+
+-6
+
+-7
+
+1    2    3    4    5    6    7
+
+8   9   10
+
+. 61 .
+
+
+2. Grafique la función f (x) = 0,5x.
+
+MATEMÁTICA • B
+
+
+Actividad 13
+
+Halle el conjunto solución de las siguientes ecuaciones:
+
+a) 2 · 5x + 7 = 29
+
+b) 4 · log₃x - 7 = 1
+
+Orientaciones
+
+a)
+
+2 · 5x + 7 = 29
+
+2 · 5x = 29 - 7
+
+2 · 5x = 22
+
+5x = 22 : 2
+
+5x =11
+
+x = log₅11
+
+Entonces,log₅11 es la única solución de la ecuación y con el uso de la calculadora:
+log₅11 =  log11  =˜ 1,4899
+
+b)
+
+4 · log₃x - 7 = 1
+
+4 · log₃x = 1 + 7
+
+4 · log₃x = 8
+
+log₃x = 8: 4
+
+log₃x = 2
+
+Entonces x = 32 = 9 es la única solución de la ecuación.
+
+Actividad 14
+
+Resuelva los siguientes problemas:
+
+1. Grafique la función f (x) = 3x.
+
+a) ¿Es f una función estrictamente creciente? ¿Es f una función estrictamente decreciente?
+
+b) Indique, si es posible, un valor a∈R tal que f (a) > 12.000.
+
+c) Indique, si es posible, un valor b∈R tal que f (b) < 0.
+
+d) Halle el conjunto solución de la ecuación f (x) = 3x = 145.207.
+
+e) Halle el conjunto solución de la ecuación f (x) = 3x = -25.
+
+a) ¿Es f una función estrictamente creciente? ¿Es f una función estrictamente decreciente?
+
+b) Indique, si es posible, un valor a∈R tal que f (a) >12.000.
+
+c) Indique, si es posible, un valor b∈R tal que f (b) < 0 .
+
+d) Halle el conjunto solución de la ecuación f (x) = 0,5x = 345.207
+
+e) Halle el conjunto solución de la ecuación f (x) = 0,5x = -25
+
+3. Grafique la función f (x) = -5x .
+
+a) ¿Es f una función estrictamente creciente? ¿Es f una función estrictamente decreciente?
+
+b) Indique, si es posible, un valor a∈R tal que f (a) > 0.
+
+c) Indique, si es posible, un valor b∈R tal que f (b) < -32.000.
+
+d) Halle el conjunto solución de la ecuación f (x) = -5x = 5207
+
+e) Halle el conjunto solución de la ecuación f (x) = -5x = 21
+
+4. La cantidad de habitantes de una ciudad es de 345.000 habitantes. Sabiendo que la
+población de dicha ciudad crece a razón de un 2% anual, encuentre una fórmula que permita
+estimar la cantidad de habitantes que tendrá la ciudad en los próximos años. Utilice la fórmula
+para estimar cuántos habitantes tendrá la ciudad en cinco años y para determinar en cuántos
+años la población se duplicará, si se mantiene estable la tasa de crecimiento.
+
+Actividades de autoevaluación
+
+1. ¿Cuál es la ecuación del eje de simetría de la parábola correspondiente a una función cuya
+fórmula es f (x) = 2x2 + 4x + 1?
+
+a) x = 4
+
+b) x = 3
+
+c) x = -1
+
+d) x = -2
+
+2. ¿Cuál es el vértice de la parábola cuya fórmula es y = -2x2 + 4x - 1?
+
+a) (-1 ; 7)
+
+b) (1 ; 1)
+
+c) (1 ; 7)
+
+d) (-1 ; -1)
+
+3. Una función cuadrática cumple las siguientes condiciones: Uno de sus ceros es 7. La
+ecuación del eje de simetría de la parábola que la representa es x = 3.
+
+Determine si es verdadera o falsa la siguiente afirmación: «El otro cero de la función es –1».
+
+a) Verdadera.
+
+b) Falsa.
+
+
+. 62 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 63 .
+
+
+4. Solo una de las fórmulas indicadas a continuación se corresponde con la siguiente
+representación gráfica:
+
+Unidad 5
+
+MATEMÁTICA • B
+
+y 7                                            Estadística
+
+6
+
+Actividad 1
+
+⁵                                   En el gráfico siguiente se muestra la evolución de la población 
+en números absolutos según
+los censos de población realizados en Argentina desde 1869 hasta 2010.
+
+4
+
+3
+
+2
+
+
+-4   -3   -2   -1
+
+1
+
+0
+
+0   1   2
+
+x
+
+3    4    5    6    7
+
+Indique cuál es:
+
+a) y = 0,25x
+
+b) y = 0,5x
+
+c) y = 2x
+
+d) y = 4x
+
+5. Indique cuál es la única solución de la ecuación exponencial 2 · 4x + 3 = 20.
+
+
+a) 4  17
+
+b) log4 ( 17 )        c) log 7          d) √4 7
+
+Fuente: INDEC. Censos de población de 1869 a 2010.
+
+
+√ 2              2            4
+
+6. Indique cuál es la única solución de la ecuación logarítmica 8log₂(x + 1) = 40 :
+
+a) 31           b) 33           c) log₂5 - 1        d) log₂(40 -1)
+
+a) ¿Cuál fue la población en la Argentina en el último censo del año 2010?
+
+b) ¿Cuál fue el crecimiento de la población, en números absolutos, entre el censo de 1970
+y el de 1980?
+
+c) ¿En qué porcentaje aumentó la población entre los años 1970 y 1980?
+
+Orientaciones
+
+En números absolutos, el crecimiento de la población entre 1970 y 1980 fue de
+
+4.585.049 y en porcentaje fue de 19,62%, dado que (4585049 : 23364431) · 100 = 19,62.
+
+
+. 64 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 65 .
+
+
+MATEMÁTICA • B
+
+
+Actividad 2
+
+Observe el siguiente gráfico:
+
+«Distribución relativa de la población por provincia. Total del país. Año 2010».
+
+Actividad 3
+
+Observe la siguiente tabla:
+
+Fuente: Servicio Meteorológico Nacional (SMN).
+
+a) ¿Cuál fue la temperatura media del mes de mayo de 2014 en Posadas?
+
+b) ¿Cómo se calcula la temperatura media de un mes según la información dada al pie
+de la tabla?
+
+
+Fuente: INDEC. Censo Nacional de Población, Hogares y Vivienda 2010.
+
+a) ¿Cuál es la provincia con mayor población en la Argentina?
+
+b) ¿Qué población fue la de la provincia de Buenos Aires, según el censo de 2010?
+
+c) ¿Qué población fue la de la provincia de Tierra del Fuego e Islas del Atlántico Sur
+según el censo de 2010?
+
+Orientaciones
+
+En el gráfico de la actividad anterior, observamos que la población de la Argentina fue
+de 40.117.096 habitantes en el año 2010. Entonces la población de la provincia de Buenos
+Aires fue de 15.645.667, dado que (39 : 100) · 40.117.096 = 15.645.667. En Tierra del Fuego la
+población fue de 120.351 habitantes.
+
+Actividad 4
+
+El departamento de marketing de la fábrica de chicles «Superglobo» decidió realizar un
+estudio acerca de sus productos en el mercado.
+
+Contrató una consultora que se ocupó del relevamiento de la información y de la elaboración
+de conclusiones a partir de los datos recogidos.
+
+La fábrica estima que existen aproximadamente 15.000 consumidores de chicles marca
+Superglobo en la ciudad de Buenos Aires. La consultora realizó una encuesta a consumidores
+del producto de diferentes edades. Entre otras cuestiones preguntó sobre las preferencias de
+los consumidores en relación con los gustos que se fabrican: menta, mentol, frutilla, naranja y
+uva. Los datos obtenidos a través de la encuesta se volcaron en la siguiente tabla:
+
+Sabor     Cantidad de consumidores que lo prefieren*
+
+Frutilla                 224
+
+Naranja                 25
+
+Mentol                 140
+
+Menta                 441
+
+Uva                  170
+
+*Cada una de las personas encuestadas debía seleccionar sólo una de las opciones.
+
+
+. 66 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 67 .
+
+
+Parte A
+
+A partir de la información anterior, responda las siguientes preguntas:
+
+1. La encuesta de la consultora, ¿se realizó a todos los consumidores de chicles de marca
+Superglobo de la ciudad de Buenos Aires?
+
+2. Si su respuesta a la pregunta anterior es negativa, indique cuál es la cantidad de consumidores
+que fue encuestada.
+
+3. ¿Podría usted estimar qué cantidad de consumidores de chicles de marca Superglobo
+de la ciudad de Buenos Aires prefieren chicles de uva? En caso de que su respuesta sea
+afirmativa, indique de qué modo lo haría y cuál es la cantidad de consumidores obtenida.
+Si considera que no es posible estimar dicha cantidad indique la/s razón/es por la/s cual/
+es no puede hacerlo.
+
+4. ¿Cuál es el sabor más elegido por los consumidores?
+
+Parte B
+
+Responda las siguientes consignas:
+
+1. Exprese cada uno de los valores de la tabla como fracción de la cantidad total de encuestados.
+
+2. Agregue una columna a la tabla anterior y vuelque en ella cada uno de los valores
+determinados en el ítem 1.
+
+MATEMÁTICA • B
+
+Así, la cantidad de 6.615 consumidores de chicles de menta, estimada a partir de la encuesta,
+podría coincidir con la realidad o no. La cantidad real de consumidores de chicles de menta
+podría ser totalmente distinta que la cantidad esperada. Por lo tanto, es posible que haya 800
+o 5.000 o una cantidad cualquiera diferente de consumidores de chicles de menta en la ciudad
+de Buenos Aires.
+
+La Estadística provee otros recursos que permiten estimar con mayor seguridad los resultados
+posibles en el conjunto que se está analizando a partir del estudio de un subconjunto del mismo.
+
+Expresar los datos obtenidos en la encuesta como porcentajes o como fracción del total de
+encuestados nos puede permitir obtener conclusiones adicionales a las que brinda la tabla.
+Nos permite establecer comparaciones con encuestas realizadas a un número diferente de
+encuestados, o en otras ciudades, o realizar algunas estimaciones para el total de consumidores
+de chicles de la ciudad de Buenos Aires. Lo importante es tener en cuenta que cuando
+obtenemos conclusiones sobre el total de consumidores a partir de los resultados obtenidos
+en el grupo encuestado, se trata solo de estimaciones y que la realidad puede comportarse de
+un modo diferente.
+
+Actividad 5
+
+1. Elija cuál o cuáles de las siguientes representaciones gráficas expresa la información
+que proporciona la tabla de los sabores de chicles preferidos por los consumidores de la
+actividad anterior:
+
+
+3. ¿Cuánto vale la suma de todos los valores de esta columna? ¿Por qué?
+
+4. Escriba el porcentaje de consumidores que prefiere cada uno de los sabores que elabora
+la fábrica.
+
+5. A partir de las respuestas a los ítems anteriores, responda las siguientes preguntas:
+
+a) ¿Cuál es la cantidad esperable de consumidores de chicles de menta de marca
+Superglobo en la ciudad de Buenos Aires?
+
+b) ¿Es posible que en la ciudad de Buenos Aires haya 800 consumidores de chicles de
+menta de marca Superglobo? Escriba las razones que le permiten decidir su respuesta.
+
+c) ¿Es posible que haya 5.000 consumidores de esos chicles? Escriba las razones que le
+permiten decidir su respuesta.
+
+Uva
+
+Menta
+
+Mentol
+
+Frutilla
+
+Naranja
+
+Uva
+
+Menta
+
+Frutilla
+
+Naranja
+
+Mentol
+
+
+Orientaciones
+
+La encuesta realizada a un grupo de consumidores de chicles de marca Superglobo en la
+ciudad de Buenos Aires puede darnos información sobre el resto de los consumidores de la
+ciudad. Pero debemos ser cuidadosos con el manejo de esa información. Es importante tener
+en cuenta que cualquier estimación que hagamos sobre el total de consumidores de chicles
+de la ciudad, basándonos en los resultados de la encuesta, puede coincidir o no con los valores
+reales de este grupo.
+
+La encuesta que estamos analizando se realizó a 1.000 consumidores del producto en la ciudad
+de Buenos Aires. De ellos, el 44,1 % respondió que prefiere chicles sabor menta. A partir de
+este valor sería esperable que, de los 15.000 consumidores que supone tener esta fábrica en la
+ciudad de Buenos Aires, 6.615 prefieran chicles de sabor menta. De todos modos, más allá de
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+Frutilla Naranja Mentol Menta
+
+Uva
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+Frutilla Naranja Mentol Menta
+
+Uva
+
+
+lo esperable a partir de los resultados obtenidos con la encuesta, puede ocurrir que el grupo de
+consumidores no encuestados tenga los mismos hábitos de consumo que el grupo encuestado o
+no; o que un sinnúmero de razones influya en el nivel de consumo del resto de los consumidores.
+
+2. Escriba los argumentos a partir de los cuales realizó la selección de los gráficos en el
+
+ítem anterior.
+
+
+. 68 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 69 .
+
+
+Población. Muestra. Distribución de frecuencias. Frecuencia absoluta. Frecuencia relativa
+
+En la situación que estamos analizando, llamamos población al conjunto de todos los
+consumidores de chicles de marca Superglobo en la ciudad de Buenos Aires.
+
+En general, llamamos población al conjunto formado por todos los elementos cuyo estudio
+nos interesa.
+
+Con frecuencia, es imposible, o demasiado costoso, recopilar los datos correspondientes a
+una población completa. Por eso, para analizar las características de la población, se trabaja
+solo con un subconjunto de la misma. En nuestro ejemplo, este subconjunto está formado
+por los consumidores de chicles Superglobo que fueron encuestados. A este subconjunto lo
+llamamos muestra.
+
+Llamamos observación a cada dato obtenido sobre cada elemento de la muestra. Los datos
+obtenidos a través de encuestas, censos u otros medios, son grupos de valores en principio
+
+MATEMÁTICA • B
+
+Para construir un gráfico circular debemos dividir la superficie del círculo en tantos sectores
+como valores tenga la variable en estudio. El área de cada sector debe ser directamente
+proporcional a la frecuencia absoluta registrada para cada uno de esos valores. Para ello
+debemos calcular el ángulo central correspondiente a cada sector teniendo en cuenta la
+siguiente proporción:
+
+•  En ella consideramos que al total de observaciones de la muestra, corresponde el
+área completa del círculo y un ángulo central de 360°. A cada sector a representar le
+corresponde la cantidad de observaciones indicada por su frecuencia absoluta y un
+ángulo central que denominamos α.
+
+El gráfico circular que representa a las preferencias de los consumidores de chicles marca
+Superglobo encuestados es:
+
+
+desorganizados. Para poder obtener, a partir de ellos, conclusiones sobre la población que
+se está investigando, deben previamente ordenarse y organizarse. Una forma de hacerlo es
+construir tablas y gráficos que los representen.
+
+A una tabla como la presentada en la situación que estamos analizando, las llamamos
+tabla de frecuencia o distribución de frecuencias. En ella, la primera columna representa
+a los valores que toma la variable, y la segunda representa a la cantidad de observaciones
+registradas para cada uno de esos valores.
+
+Llamamos frecuencia absoluta a cada una de las cantidades de esta segunda columna.
+Por lo general nombramos a esta columna directamente como frecuencia absoluta. En
+símbolos: f.
+
+Para poder extender los datos proporcionados por una muestra a la población completa, o
+
+Actividad 6
+
+Uva
+
+Menta
+
+Frutilla
+
+Naranja
+
+Mentol
+
+
+establecer comparaciones con resultados obtenidos en otras muestras de la misma población,
+es conveniente expresar el resultado de las observaciones como fracción del total. A cada
+uno de estos valores lo llamamos frecuencia relativa, y la columna de la tabla en la que
+registramos a cada uno de ellos, la identificamos también con ese nombre. En símbolos fr.
+
+En la encuesta realizada por la consultora, se preguntó a los consumidores por las
+cantidades de paquetes de chicles que cada unos de ellos compra semanalmente.
+
+En la siguiente tabla se indican las cantidades señaladas por los consumidores de chicles
+de menta:
+
+
+También es útil expresar las cantidades observadas como porcentajes del total de
+encuestados.
+
+Paquetes de chicles
+comprados semanalmente
+
+Candidad de compradores
+
+
+Para representar gráficamente la información relevada podemos usar gráficos de barras y
+
+gráficos circulares, entre otros tipos de gráficos.
+
+Los gráficos de barras se construyen en un sistema de coordenadas cartesianas. Si el gráfico
+es de barras verticales, en el eje horizontal se registran los valores de la variable y en el eje
+vertical se registran las frecuencias correspondientes a cada uno de los valores de la variable.
+Si  el gráfico es de barras horizontales, se registran los valores de la variable en el eje 
+vertical y
+las frecuencias en el eje horizontal.
+
+El gráfico de barras que representa a las preferencias de los consumidores de chicles marca
+
+1                 8
+
+2                 32
+
+3                 78
+
+4                142
+
+5                120
+
+6                 56
+
+7                 5
+
+
+Superglobo encuestados es:
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+Frutilla Naranja Mentol Menta
+
+Uva
+
+1. ¿De qué manera nombra la Estadística a la segunda columna de la tabla?
+
+2. Represente la información proporcionada por la tabla en un gráfico de barras.
+
+3. Represente la información proporcionada por la tabla en un gráfico circular.
+
+4. Agregue a la tabla una nueva columna y vuelque en ella los valores correspondientes a las
+frecuencias relativas.
+
+5. Calcule el porcentaje de consumidores de chicles de menta que compra cada una de las
+cantidades de paquetes de chicles indicadas en la tabla.
+
+6. ¿Cuántos de los consumidores encuestados compran semanalmente menos de 4
+paquetes de chicles?
+
+
+. 70 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 71 .
+
+
+7. ¿Cuántos de los consumidores encuestados compran semanalmente hasta 4 paquetes
+de chicles?
+
+Orientaciones
+
+Para responder las dos últimas preguntas, resulta útil agregar a la distribución de frecuencias una
+columna en la que se registren en forma acumulada la cantidad de observaciones registradas
+hasta cada valor de la variable.
+
+MATEMÁTICA • B
+
+Medidas de centralización: Media, Mediana y Moda
+
+Hemos observado que el sabor menta es el más elegido por los consumidores. A este valor
+lo llamamos moda.
+
+En general, llamamos modo o moda al valor de la variable que se observa mayor cantidad
+de veces.
+
+En la distribución de la cantidad de paquetes de chicles de menta que compran los
+consumidores semanalmente, la moda es 4 paquetes. Lo escribimos simbólicamente: Mo = 4.
+
+
+Paquetes de chicles
+comprados semanalmente
+
+Candidad de compradores  Cantidad acumulada de
+
+Para la distribución de la cantidad de paquetes de chicles de menta que compran los
+consumidores semanalmente, observamos el valor de la variable correspondiente a la
+
+
+1                 8
+
+2                32
+
+3                78
+
+4                142
+
+5                120
+
+6                56
+
+7                 5
+
+8
+
+8 + 32 = 40
+
+40 + 78 = 118
+
+118 + 142 = 260
+
+260 + 120 = 380
+
+380 + 56 = 436
+
+436 + 5 = 441
+
+observación central.
+
+¿Cómo determinamos este valor?
+
+Para hacerlo tenemos en cuenta la cantidad total de observaciones. En el caso que estamos
+analizando son 441 observaciones, porque son 441 los consumidores que prefieren chicles de
+menta. Al tratarse de una cantidad impar, el valor central se ubica en la observación número
+221, que deja 220 observaciones antes y 220 después. El valor de la variable correspondiente
+a la observación número 221 es 4 paquetes. A este valor lo llamamos mediana.
+
+
+En la columna agregada es más sencillo leer la información necesaria para responder.
+
+Allí vemos que son 118 los consumidores encuestados que compran menos de 4 paquetes de
+chicles semanales y que son 260 los que compran hasta 4 paquetes semanalmente.
+
+Frecuencia acumulada
+
+A la columna agregada a la distribución anterior la llamamos frecuencia acumulada y la
+simbolizaremos Fa o Fac.
+
+Actividad 7
+
+1. ¿Cuál es la cantidad de paquetes de chicles de menta que los consumidores compran más
+frecuentemente?
+
+2. ¿Cuántos paquetes de chicles de menta compran en total los consumidores encuestados
+por semana? Escriba las cuentas que realiza para calcular este valor.
+
+3. ¿Cuál es la cantidad de consumidores que compran semanalmente la cantidad de paquetes
+de chicles que calculó en el ítem 2?
+
+4. ¿Qué cantidad promedio de paquetes de chicles de menta compra semanalmente cada
+consumidor encuestado?
+
+5. Si usted fuera el dueño de la fábrica Superglobo, ¿qué cantidad de paquetes de chicles de
+menta debería fabricar semanalmente para cubrir la demanda en la ciudad de Buenos Aires?
+Para responder, tenga en cuenta la estimación que hizo en la actividad 4 sobre la cantidad de
+
+En general, llamamos mediana al valor central de un conjunto de valores ordenados.
+
+Simbólicamente: Me = 4.
+
+Si la cantidad de observaciones hubiera sido par, no habría un valor que divida al total de
+observaciones de la muestra en la mitad. En este caso tomamos a las dos observaciones
+centrales, es decir al par de observaciones que divide a la muestra en dos conjuntos de igual
+cantidad de observaciones.
+
+La mediana es el promedio de este par de observaciones.
+
+La columna de frecuencias acumuladas resulta útil para calcular el valor de la mediana,
+porque en ella podemos ver rápidamente cuál es la fila de la tabla en la que se encuentra la
+observación que divide a la muestra en la mitad.
+
+Otro de los valores calculados es la cantidad promedio de paquetes de chicles de menta
+comprados semanalmente por los consumidores de chicles encuestados. A este valor lo
+llamaremos media aritmética o, simplemente, media o promedio.
+
+Seguramente usted ha calculado promedios en muchas ocasiones en su vida cotidiana. No
+pierda de vista todas esas cuestiones que usted maneja eficientemente todos los días.
+
+Para calcular la media de esta muestra deberíamos sumar la cantidad de paquetes de
+chicles que compraron los 441 consumidores encuestados y luego dividir al resultado de esa
+suma por 441.
+
+Como multiplicar es equivalente a sumar repetidamente, y cada uno de los valores de la
+muestra se observa varias veces, en lugar de sumar 8 veces 1, 32 veces 2 y así con el resto de
+los valores de la tabla, podemos sumar los productos 1 · 8, 2 · 32, etc. Es decir:
+
+
+consumidores de chicles de menta de la ciudad de Buenos Aires.
+
+6. ¿Podría ocurrir que la cantidad calculada en el ítem 5 fuera excesiva o insuficiente?
+
+¿Por qué?
+
+ 1 · 8 + 2 · 32 + 3 · 78 + 4 · 142 + 5 · 120 + 6 · 56 + 7 · 5 =
+
+441
+
+8 + 64 + 234 + 568 + 600 + 336 + 35 = 4,1837
+
+
+7. Determine el valor de la variable correspondiente a la observación central, es decir a
+la observación que divide al total de observaciones en dos conjuntos de igual cantidad
+de elementos.
+
+En términos de la situación que estamos trabajando, la cantidad media de paquetes de
+chicles comprada semanalmente por los consumidores encuestados sería de 4 paquetes,
+ya que no tiene sentido pensar en una cantidad no entera de paquetes de chicles. De todos
+modos, para cálculos estadísticos vinculados a la media de la distribución usaremos el valor
+4,1837 calculado.
+
+
+. 72 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 73 .
+
+
+En general, la media de una población o muestra es el promedio de todas las
+
+Tipos de variables
+
+MATEMÁTICA • B
+
+
+observaciones realizadas.
+
+En el caso de la media de una muestra la simbolizamos x.
+
+Actividad 8
+
+Las edades de los estudiantes de un curso son: 22; 20; 22; 21; 23; 20, 24; 22; 23; 21; 22; 20; 23; 
+21.
+
+Organice la información en una tabla de frecuencias absolutas.
+
+Orientaciones
+
+Organizamos la información en una tabla de dos columnas, en la de la izquierda irán las
+distintas edades ordenadas de menor a mayor, y en la columna de la derecha sus respectivas
+frecuencias absolutas.
+
+Edad   Frecuencia
+
+20       3
+
+21       3
+
+22       4
+
+23       3
+
+24       1
+
+Desde el comienzo de esta unidad usted trabajó con diferentes tipos de variables.
+
+Los valores que toma la variable en el caso de los sabores de chicles preferidos por los
+consumidores, son los diferentes sabores de chicles que se fabrican. En este caso la variable
+se refiere a características no medibles en términos numéricos.
+
+A este tipo de variable la llamamos variable cualitativa.
+
+En otra de las situaciones trabajadas, la variable interviniente se refiere a características
+medibles en términos numéricos, por ejemplo, las edades y las alturas de los estudiantes. A
+este tipo de variable la llamamos variable cuantitativa.
+
+La altura de los estudiantes es una variable cuantitativa continua, ya que entre dos valores
+cualesquiera siempre es posible encontrar otro valor. Por ejemplo, entre 1,50 y 1,51 está el
+1,503, y así con cualquier otro par de valores.
+
+La edad de los estudiantes es variable cuantitativa discreta, no es continua. Por ejemplo,
+entre 20 y 21 no es posible encontrar otra edad.
+
+Actividad 10
+
+Las siguientes tablas describen la distribución de las notas de un mismo examen de
+matemáticas en dos cursos distintos, A y B.
+
+Curso A                       Curso B
+
+
+Actividad 9
+
+Nota   Frecuencia
+
+examen   Absoluta
+
+Nota   Frecuencia
+
+examen   Absoluta
+
+
+Las alturas (en metros) de los estudiantes de un curso de quinto año son las siguientes:
+
+1,65; 1,52; 1,78; 1,85; 1,75; 1,65; 1,55; 1,64; 1,74; 1,80; 1,79; 1,59; 1,53; 1,66; 1,54; 1,62; 
+1,76; 1,83; 1,85; 1,65.
+
+2       15
+
+10       15
+
+6       30
+
+
+Organice la información en una tabla de frecuencias absolutas.
+
+1. Halle la media en ambos cursos.
+
+2. ¿Se puede afirmar que el rendimiento de los estudiantes fue similar en ambos cursos?
+
+
+Orientaciones
+
+Teniendo en cuenta la gran diversidad de datos, vamos a clasificar los mismos en intervalos. Por
+ejemplo, las alturas mayores o iguales a 1,50 y menores que 1,60 estarán dentro del intervalo
+[1,50 ; 1,60).
+
+Frecuencia
+
+Orientaciones
+
+En ambos cursos la media es 6, pero es claro que los rendimientos en ambos cursos no fueron
+similares. Por ello existe la necesidad de presentar una medida cuantitativa que distinga ambas
+situaciones, una medida de dispersión, un número que indique qué tan lejos están los datos
+
+
+Altura
+
+absoluta
+
+de la media. Cuanto mayor sea ese número mayor será la dispersión de los datos, y cuanto
+menor lo sea mayor será la homogeneidad de los mismos. Una de las medidas de dispersión es
+
+
+[1,50 ; 1,60)        5
+
+[1,60 ; 1,70)        6
+
+[1,70 ; 1,80)        5
+
+[1,80 ; 1,90)        4
+
+la desviación estándar o típica que notaremos con la letra griega σ, y que es la raíz cuadrada
+del promedio del cuadrado de todas las distancias entre los datos y la media.
+
+Calculemos σ para los cursos A y B:
+
+Notaremos d(a ; b) a la distancia entre los números a y b.
+
+
+σ =  15 · [d(2 ; 6)]2 + 15 · [d(10 ; 6)]2 =  15 · 42 + 15 · 42
+
+= √16 = 4
+
+
+A  √         30
+
+√    30
+
+
+σ =  30 · [d(6 ; 6)]2
+
+=   30 · 0
+
+= √0 = 0
+
+
+B  √    30
+
+√  30
+
+
+. 74 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 75 .
+
+
+Actividad 11
+
+Resuelva:
+
+1. Responda cada uno de los siguientes ítems:
+
+a) Se presentó una lista con 40 notas correspondientes al examen de Matemática B del
+turno de marzo:
+
+• Describa una situación en la que estas 40 notas representen a las observaciones sobre
+una población.
+
+•  Describa una situación en la que estas 40 notas representen a las observaciones sobre
+una muestra.
+
+• Si se presenta la lista sin ninguna otra información que la dada en el enunciado del
+ejercicio, ¿es posible determinar si esas 40 notas representan a observaciones de una
+población o de una muestra de la misma?
+
+b) En el Departamento de Control de Calidad de la fábrica de lamparitas «Masluz»,
+
+MATEMÁTICA • B
+
+b) Agregue a la tabla la columna de las frecuencias relativas y complete cada uno de
+estos valores.
+
+c) ¿Qué porcentaje del total de jugadores calza 31?
+
+d) Agregue a la tabla la columna de las frecuencias acumuladas y complétela.
+
+e) ¿Qué cantidad de jugadores calza menos de 32?
+
+f) ¿Qué cantidad de jugadores calza más de 33?
+
+g) Represente la distribución anterior utilizando un diagrama de barras.
+
+h) Calcule la media de la distribución.
+
+4. Escriba las notas de un examen de matemática en el que participaron 15 alumnos, de tal
+manera que la moda sea 6 y la media 7.
+
+5. Sin realizar cálculos, observe las siguientes distribuciones representadas en gráficos de
+barras y decida en cuál de ellas es mayor la dispersión. Luego calcule la desviación típica y
+verifique si su decisión fue correcta.
+
+
+seleccionan para su control una de cada 200 lamparitas fabricadas. El conjunto de
+lamparitas controladas, ¿representa a la población o a una muestra de la misma?
+
+c) En un grupo de autoayuda para bajar de peso, se pesa a todos los participantes el
+día de comienzo del tratamiento. El conjunto de personas pesadas, ¿representa a la
+población o a una muestra de la misma?
+
+d) En una fábrica de productos lácteos están probando la eficacia de un nuevo conservante.
+Para ello necesitan medir el tiempo de duración de cada uno de sus productos. ¿Deberían
+hacer el análisis sobre una muestra o sobre la población? ¿Por qué?
+
+a) 5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+1      2      3      4
+
+b) 5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+1      2      3      4
+
+
+2. Determine qué tipo de variable es la involucrada en cada una de las siguientes situaciones:
+
+•  Edad de los aspirantes a un trabajo.
+
+•  Tiempo de demora del servicio de subterráneos durante el mes de Abril.
+
+•  Asignaturas preferidas por los estudiantes de una escuela.
+
+Actividades de autoevaluación
+
+1. El siguiente diagrama de barras describe la distribución de las edades de los estudiantes
+de un curso.
+
+¿Cuál es la media de dicha distribución?
+
+
+•  Pesos de los bebés nacidos en el hospital Ramos Mejía.
+
+•  Talla de los bebés nacidos en el hospital Ramos Mejía.
+
+• Notas de los exámenes de Matemática del turno de marzo.
+
+• Cantidad de goles de una fecha del campeonato de fútbol.
+
+3. En el club de fútbol infantil necesitan comprar botines para los 30 jugadores. Se tomó nota
+del número de calzado de cada uno de los chicos y se confeccionó la siguiente tabla:
+
+Número de calzado Cantidad de chicos
+
+29            1
+
+30            2
+
+31           12
+
+32            8
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+20 21  22  23
+
+a) 20,24
+
+b) 21,19
+
+c) 19,44
+
+d) 22,55
+
+2. Dada la siguiente tabla de frecuencias absolutas:
+x  Frecuencia absoluta
+
+10      5
+
+11      4
+
+12
+
+
+33            1
+
+34            1
+
+35            1
+
+¿Con cuál de los siguientes números se puede completar la tabla para que la moda sea 10?
+
+a) 10           b) 7           c) 6           d) 4
+
+
+a) ¿Qué tipo de variable es la utilizada en la distribución anterior?
+
+. 76 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 77 .
+
+
+3.                                                               Solo una de las siguientes 
+afirmaciones es verdadera:
+
+MATEMÁTICA • B
+
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+1           2          3          4
+
+a) Puedo completar la tabla con cualquier número.
+
+b) Puedo completar la tabla con cualquier número mayor que 21.
+
+c) Puedo completar la tabla con cualquier número entero mayor que 21.
+
+d) Puedo completar la tabla con ∞.
+
+A partir de la observación del diagrama de barras y sin realizar cálculos, determine si es
+verdadera o falsa la siguiente afirmación: «La media es 3,9».
+
+a) Verdadera.
+
+b) Falsa.
+
+4. La siguiente representación gráfica describe la distribución de las notas de un examen de
+los estudiantes de un curso universitario.
+
+100
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+1    2    3    4    5    6    7    8    9    10
+
+Notas
+
+Indique cuál de las siguientes afirmaciones es verdadera:
+
+a) 550 estudiantes se presentaron a rendir examen.
+
+b) La moda es 4.
+
+c) 38 estudiantes obtuvieron un 2.
+
+d) La media es 8,32.
+
+5. La siguiente tabla está incompleta pero se sabe que la única moda es 5.
+
+x      Frecuencia absoluta
+
+2             7
+
+3             21
+
+4             18
+
+5
+
+
+. 78 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 79 .
+
+
+MATEMÁTICA • B
+
+Respuestas a actividades de la autoevaluación
+
+
+Unidad 1
+
+1. b.
+
+2. a, c, e.
+
+3. b.
+
+4. c.
+
+5. a.
+
+Unidad 2
+
+1. c.
+
+2. d.
+
+3. a.
+
+4. c.
+
+5. c.
+
+Unidad 3
+
+1. a.
+
+2. a.
+
+3. d.
+
+4. b.
+
+5. a, b, c.
+
+Unidad 4
+
+1. c.
+
+2. b.
+
+3. a.
+
+4. b.
+
+5. b.
+
+6. a.
+
+Unidad 5
+
+1. b.
+
+2. d.
+
+3. b.
+
+4. b.
+
+5. c.
+
+
+. 80 .
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+. 81 .
+
+
+Ministerio de Educación del Gobierno de la Ciudad de Buenos Aires
+02-08-2024
+
+
+Terminá la secundaria
+
+adultos2000@bue.edu.ar                 0800 444 2400
+
+/educacionbMainisterio de Educación del Gobierno de la Ciudabd 
+udeeBnueonsosaAiirreess.gob.ar/educacion
+
