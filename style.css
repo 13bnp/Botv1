@@ -27,9 +27,12 @@ background-color: black;
 }
 
 .menu{
+
     display: flex;
-    justify-content: space-between;
-    font-size: larger;
+     font-size: larger; 
+        gap: 0.5rem;
+        flex-direction: column;
+        text-align: center;
 }
 
 .infobot {
@@ -178,11 +181,5 @@ h1{
         width: 50%;
     }
 
-    .menu{
-        display: flex;
-            font-size: larger;
-            justify-content: center;
-            gap: 6rem;
-        }
 }
 
