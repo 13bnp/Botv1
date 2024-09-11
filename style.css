@@ -1,12 +1,13 @@
 body {
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: auto 1fr 1fr auto;
+    grid-template-rows: auto auto auto auto auto;
 background-color: black;
     grid-template-areas: 
     "aside"
-    "lunabot"
     "infobot"
+    "lunabot"
+    "adultos2000"
     "footer";
     
 }
@@ -206,22 +207,56 @@ h1{
     color: #ffb703;
 }
 
+.adultos2000 {
+    margin: 1rem 0;
+    padding: 1rem 2rem;
+    border: 1px solid #023047;
+    background-color: #111827;
+    /* Color de fondo */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2),
+        0 6px 20px rgba(0, 0, 0, 0.19);
+    /* Sombras para el efecto 3D */
+    border-radius: 10px;
+    /* Bordes redondeados */
+    color: white;
+    text-align: center;
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Estilo para el botón Descargar */
+.descargar-btn {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #111827;
+    color: #ffb703;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+}
+
+.descargar-btn:hover {
+    background-color: #111827;
+}
+
+
+
 
 /* Media query para pantallas de escritorio */
 @media (min-width: 800px) {
     body {
         display: grid;
-        grid-template-columns: 1fr 1fr;
-        grid-template-rows: auto 1fr 1fr auto;
+        grid-template-columns: auto auto auto; /* Tres columnas para escritorio */
+        grid-template-rows: auto auto auto;
         grid-template-areas: 
-        "aside aside"
-        "infobot lunabot"
-        "infobot lunabot"
-        "footer footer";
+        "aside aside aside"
+        "infobot lunabot adultos2000"
+        "footer footer footer";
     }
 
-    .aside {
-        grid-area: aside;
+    .infobot {
+        grid-area: infobot;
         margin: 1rem;
     }
 
@@ -230,8 +265,14 @@ h1{
         margin: 1rem;
     }
 
-    .infobot {
-        grid-area: infobot;
+    .adultos2000 {
+        display: grid;
+        grid-area: adultos2000;
+        margin: 1rem;
+    }
+
+    .aside {
+        grid-area: aside;
         margin: 1rem;
     }
 
@@ -241,8 +282,8 @@ h1{
     }
 
     .bot-image {
-        height: 10rem;
-        width: 10rem;
+        height: 8rem;
+        width: 8rem;
     }
 
     .popup-content {
@@ -254,5 +295,10 @@ h1{
         width: 50%;
         max-width: 600px; /* Máximo ancho para pantallas grandes */
     }
-}
 
+    /* Ajustes para los bots para hacerlos más pequeños */
+.infobot, .lunabot {
+    padding: 0.5rem 1rem;
+
+}
+}

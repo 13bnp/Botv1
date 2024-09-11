@@ -52,8 +52,23 @@ function openPopup(event, url) {
 
 function openSmallWindow(event, url) {
     event.preventDefault();
-    window.open(url, '_blank', 'width=400,height=600');
+    
+    // Obtén el ancho y alto de la ventana del navegador
+    const screenWidth = window.screen.width;
+    const screenHeight = window.screen.height;
+    
+    // Define las dimensiones del popup
+    const popupWidth = 400;
+    const popupHeight = 600;
+    
+    // Calcula la posición 'left' y 'top' para centrar el popup
+    const left = (screenWidth - popupWidth) / 2;
+    const top = (screenHeight - popupHeight) / 2;
+    
+    // Abre el popup centrado
+    window.open(url, '_blank', `width=${popupWidth},height=${popupHeight},left=${left},top=${top}`);
 }
+
 
 
 // Añadir event listener para abrir el popup de suscripción
